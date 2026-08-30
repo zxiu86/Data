@@ -4,6 +4,12 @@
   "views": "1.2M",
   "chapters": [
     {
+      "number": 320,
+      "title": "شرور 320",
+      "release_date": "اليوم",
+      "is_new": true
+    },
+    {
       "number": 319,
       "title": "شرور 319",
       "release_date": "اليوم",
