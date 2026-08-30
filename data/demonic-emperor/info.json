@@ -4,6 +4,12 @@
   "views": "1.2M",
   "chapters": [
     {
+      "number": 400,
+      "title": "400",
+      "release_date": "اليوم",
+      "is_new": true
+    },
+    {
       "number": 399,
       "title": "399",
       "release_date": "اليوم",
