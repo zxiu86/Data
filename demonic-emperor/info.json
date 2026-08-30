@@ -1,0 +1,19 @@
+{
+  "status": "مستمر",
+  "rating": 4.9,
+  "views": "1.2M",
+  "chapters": [
+    {
+      "number": 2,
+      "title": "الفصل رقم 2",
+      "release_date": "اليوم",
+      "is_new": true
+    },
+    {
+      "number": 1,
+      "title": "الفصل رقم 1",
+      "release_date": "اليوم",
+      "is_new": true
+    }
+  ]
+}
