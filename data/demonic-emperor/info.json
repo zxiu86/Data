@@ -4,6 +4,12 @@
   "views": "1.2M",
   "chapters": [
     {
+      "number": 111,
+      "title": "الفصل رقم 111",
+      "release_date": "اليوم",
+      "is_new": true
+    },
+    {
       "number": 110,
       "title": "الفصل رقم 110",
       "release_date": "اليوم",
