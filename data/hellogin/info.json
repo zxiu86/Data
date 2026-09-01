@@ -8,42 +8,48 @@
       "title": "Hellogin",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": true
+      "is_closed": true,
+      "published_at": "2026-09-02 00:46:44"
     },
     {
       "number": 5,
       "title": "سباق السرعة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:44"
     },
     {
       "number": 4,
       "title": "لعبة المصنفين",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:44"
     },
     {
       "number": 3,
       "title": "خطة بديلة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:44"
     },
     {
       "number": 2,
       "title": "الغاية تبرر الوسيلة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:44"
     },
     {
       "number": 1,
       "title": "بحاجة للمساعدة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:44"
     }
   ]
 }

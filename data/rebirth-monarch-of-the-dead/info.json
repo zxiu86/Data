@@ -8,147 +8,168 @@
       "title": "Rebirth: Monarch of the Dead",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": true
+      "is_closed": true,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 28,
       "title": "المزاد",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 19,
       "title": "السفاح ريني",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 18,
       "title": "موتى؟ هذا تخصصي!",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 17,
       "title": "دفاع صلب",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 16,
       "title": "المتنمر",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": true
+      "is_closed": true,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 15,
       "title": "السيد الشاب كايا",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 14,
       "title": "شيطان الضريح",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 13,
       "title": "صدى ذاكرة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 12,
       "title": "لا مثيل له",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 11,
       "title": "التباهي",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 10,
       "title": "روح شريرة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 9,
       "title": "اللعب مع الكبار",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 8,
       "title": "مجرد رقصة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 7,
       "title": "مطاردة الجمال",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 6,
       "title": "علاقات قديمة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 5,
       "title": "لعنة روح الشيطان",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 4,
       "title": "مستخدم النصل السحري الأسطوري",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 3,
       "title": "غشاش",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 2,
       "title": "لنرى كيف ستفعلها!",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 1,
       "title": "عودة حاكم الموتى",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     }
   ]
 }

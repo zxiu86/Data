@@ -8,252 +8,288 @@
       "title": "The Rebel of the Tyrant Noble Family",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": true
+      "is_closed": true,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 35,
       "title": "ستموت!",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 34,
       "title": "إرث الذكريات",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 33,
       "title": "ضغينة الروح العظمى",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 32,
       "title": "اصداء الذاكرة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 31,
       "title": "صدى الأجنحة وروح الكتاب",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 30,
       "title": "المُنتظر",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 29,
       "title": "التحالف والسلطة العليا",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 28,
       "title": "كبرياء إلمهيم والوقت الثمين",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 27,
       "title": "هيجان الأجنحة السبعة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 26,
       "title": "غضب متأجج",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 25,
       "title": "نصل المانا وتضحية الأخت",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 24,
       "title": "لورقة الرابحة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 23,
       "title": "رهان الموت تحت قيد الحديد",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 22,
       "title": "الحديد الذي يسلب الروح",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 21,
       "title": "المواجهة الغادرة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 20,
       "title": "حفلة الترحيب",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 19,
       "title": "النصر",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 18,
       "title": "مقامرة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 17,
       "title": "اعلان حرب",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 16,
       "title": "لقد فزت",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 15,
       "title": "ابن العم",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 14,
       "title": "عودة المتمرد ومحنة برج السهام",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 13,
       "title": "قلب موازين القوة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 12,
       "title": "قوة الأجنحة السبعة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 11,
       "title": "الاختبار",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 10,
       "title": "الحياة أو الموت",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 9,
       "title": "استدعاء",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 8,
       "title": "لا مزيد من التراجع",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 7,
       "title": "غرام، نصل الإمكانات",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 6,
       "title": "نصل مزدرد السحر",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 5,
       "title": "سيف الطاغية وكبرياء المتمرد",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 4,
       "title": "نيران الغرور وعاصفه الأن",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 3,
       "title": "دماء العنب على ثياب الغرور",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 2,
       "title": "عوده الأجنحه السبعه",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     },
     {
       "number": 1,
       "title": "عديم الأجنحة",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:49"
     }
   ]
 }

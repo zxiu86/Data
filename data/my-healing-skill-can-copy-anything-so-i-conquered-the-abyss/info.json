@@ -8,21 +8,24 @@
       "title": "مواجهة ملك الزومبي",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 2,
       "title": "سأستعيد ما يخصني بيدي",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     },
     {
       "number": 1,
       "title": "عاهل العلاج !",
       "release_date": "اليوم",
       "is_new": true,
-      "is_closed": false
+      "is_closed": false,
+      "published_at": "2026-09-02 00:46:47"
     }
   ]
 }
