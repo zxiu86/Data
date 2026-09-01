@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 231,
-  "title": "الفصل 231",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "شيء ما غريب…!!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/231/61489160e445a90e44b2e95783d25f71.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/f211772718b674fd4d5689fe59ba6696.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/6991e66a3d1f11a049acfea8faf8675f.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/003a940b522df7c2cd78adacc70fc9a4.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/3928240117b3f254266db0560d2c2fd0.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/086f17fc7f88d0134cd275877101733c.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/439b30432ff81c1bf48b620c60bb15a6.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/b04b36717888b037de7a82280a52fba3.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/34ddc95240984f9a5b20fcfbee5360ae.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/231/6fa30707b13663a71da07dc9cf0fa59a.10.jpg"
+  ]
 }

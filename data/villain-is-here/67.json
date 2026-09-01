@@ -1,8 +1,14 @@
 {
   "series": "villain-is-here",
   "chapter": 67,
-  "title": "الفصل 67",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "في حاجة غلط !",
+  "is_closed": false,
+  "total_images": 5,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/67/e38bd4978f3d8362bcc4b03f4f66af21.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/67/13ffc9e1ac5c6ab0e04a9a5e2f238615.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/67/6e1a7e2b8930d7307609c4a26c519038.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/67/9d4a53cf827f3f7ca427519fe2517cec.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/67/6f7e833386ce4e1b86724237e7d0b65c.05.jpg"
+  ]
 }

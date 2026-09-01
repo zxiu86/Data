@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 300,
-  "title": "الفصل 300",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "نتقاسمه بالتساوي؟!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/300/322f4cbba0b7edecf40e106c14acb4f8.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/1e55a8d7139ef35f59e7cc2032932238.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/b1c2a6bbaba7a7cd9b009f7d20d6b137.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/3230317fd831eb17949d52e65815b98a.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/ebd637e0ec79ed6b801dfdde8d857e09.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/53827e49de43ba8e8dd85ce910d5b656.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/9e75895cb24bcfdf54c90af4e3547d9a.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/9834fb4ff4d362fd90f8bc50190c1359.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/1e810b17022b63c40c55394afd7ba111.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/300/78e0ec237f6b8fd29d790ec7e529d4e0.10.jpg"
+  ]
 }

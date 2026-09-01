@@ -2,7 +2,14 @@
   "series": "villain-is-here",
   "chapter": 44,
   "title": "الفصل 44",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/44/2b02491eb1cfde19d1ff02f4d38edf81.01.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/44/e313507eaf6118beaf52db958db8d137.02.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/44/f0e3539cff53a40af33464f0b26cbe9f.03.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/44/5fd13ef564e978a888be20c6e9df3971.04.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/44/cfb94b23fb0219956c1be91fea0acc8a.05.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/44/80db2ce59758ab1cd165ffb57f7685ef.06.webp"
+  ]
 }

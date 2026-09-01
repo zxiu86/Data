@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 187,
-  "title": "الفصل 187",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "مأدبة ترحيب إمبراطورة عالم الشياطين!!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/187/10fb8fd613b5fc9623f96c8f31ae1d45.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/d1a50474c32edf68638475e100e5d820.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/b4db3360d1bcef89df5ca3d06d06cec0.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/5b427aa79c1e3bf6cb8e30bbe83e1e19.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/baff9e94f3ae52beadcc007181b3f674.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/8f649b2120e5abd42622c21c29e50002.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/ee9b467b8ed820ee2de89ea49b230c8e.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/df0901ef5b28d661c5a92c8e6948f2e5.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/4156a7f689d68f901c161cbdfaa2ac9e.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/187/98694feaa82a5f486d5c0d987fbe43b5.10.jpg"
+  ]
 }

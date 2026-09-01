@@ -2,7 +2,17 @@
   "series": "villain-is-here",
   "chapter": 37,
   "title": "الفصل 37",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 9,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/37/868ecf178cc28d0b439061fbcea92b67.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/44f92b223885a3487519053eb2291704.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/b01b63836702cc939c86e59b4c939c11.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/ce3ff2c9d3e5bd95617d53b641c3973f.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/c0d297d52d8ae699c5dbdc4c1174a56a.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/f4c391ebd583c1f02be16ccf9576afea.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/5eb5d0b497743bb778e0d5ab2f6af846.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/3fd72c5bd8edb1c061625caf6b56b741.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/37/d5a469f1f4d87253068bc896dc619dc8.webp"
+  ]
 }

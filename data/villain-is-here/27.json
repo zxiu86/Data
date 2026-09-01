@@ -1,8 +1,13 @@
 {
   "series": "villain-is-here",
   "chapter": 27,
-  "title": "الفصل 27",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 27",
+  "is_closed": false,
+  "total_images": 4,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/27/01.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/27/02.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/27/03.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/27/04.webp"
+  ]
 }

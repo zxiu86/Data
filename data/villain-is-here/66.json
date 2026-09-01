@@ -1,8 +1,14 @@
 {
   "series": "villain-is-here",
   "chapter": 66,
-  "title": "الفصل 66",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "ما بعد الكارثة !!",
+  "is_closed": false,
+  "total_images": 5,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/66/2e9b099357972bfca4aed9d492fee0f0.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/66/5496119e376292d05b39fffcf042da2c.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/66/1482e22c999e273549f835d3bf04bdd1.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/66/0b877a14f97005e76ad35d78f2f65ee0.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/66/341e2e933d5bce8c6b85ae5a57a148fc.05.jpg"
+  ]
 }

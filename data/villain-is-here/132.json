@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 132,
-  "title": "الفصل 132",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "جاك الموت يا تارك الصلاة.",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/132/f26edc8d1cff7cb789f63bcdcaf160dc.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/6ee1fee3c5d4290b682c245b15b90d4c.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/cf026450b17b109b6a20224d8636aa7b.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/6c62a41c4fa38f51fba61ab199a301d8.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/06be28d57aad437e6cd7ac6c14b9ab40.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/8de92ea4bf9ddf9cc9e0a63c7fd21bac.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/7b5b2eadaa2c47fdc5efe9ed874bb268.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/132/0952cc6db447182d9d39ca6099b7c73b.08.jpg"
+  ]
 }

@@ -1,8 +1,13 @@
 {
   "series": "villain-is-here",
   "chapter": 4,
-  "title": "الفصل 4",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 4",
+  "is_closed": false,
+  "total_images": 4,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/4/002.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/4/003.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/4/004.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/4/005.webp"
+  ]
 }

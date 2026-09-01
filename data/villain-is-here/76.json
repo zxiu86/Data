@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 76,
-  "title": "الفصل 76",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "لعبة الشيطان !!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/76/12094f23a66c8a312afd0e900f10e57d.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/6b7a61c198c507fce6f48fe701f0fbe4.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/7c9e20656e316ba0ce149f0d291d5ef0.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/b56f5692c3f8434bf9921cb0debf335b.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/a3040a4677c6447c08a6953942e02b87.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/a9698ad5b30e766122fda68ff826b1d5.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/aba7a82d93678f61b54c892e2485b0ef.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/76/c618af7660c903509b1cc95b22aad8d1.08.jpg"
+  ]
 }

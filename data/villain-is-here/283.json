@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 283,
-  "title": "الفصل 283",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "وجدتك!!",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/283/6dc204307b88942fb5c6837b260105ca.01.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/283/ffdf475236d516fd5cd9c15637577efe.02.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/283/61347505b8194b3e0fcf9579f05b0abe.03.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/283/87e7a8644149037a67869533a4062663.04.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/283/e3f622d44872f4a468931af7743ae2c4.05.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/283/47b6fd54edc5a33082624a6d68a4e71c.08.webp"
+  ]
 }

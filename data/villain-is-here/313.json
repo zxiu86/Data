@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 313,
-  "title": "الفصل 313",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "عزيمة تشينغ جي!!",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/313/c7f0e4e8469bce8141a6d6a71de11fac.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/313/9807f3a46835d0c39dd1125f1330d4c2.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/313/b7a0e16fd22f8655b81ac25a3b8c716a.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/313/20b76a2a95e1c0bdfef794390b358b62.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/313/1130a4e182a358ff0fdf4d76f7702a93.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/313/ba643ade861b7338ce13dfb06bf49f4c.06.jpg"
+  ]
 }

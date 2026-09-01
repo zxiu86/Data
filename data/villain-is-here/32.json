@@ -1,8 +1,13 @@
 {
   "series": "villain-is-here",
   "chapter": 32,
-  "title": "الفصل 32",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الشرير 32",
+  "is_closed": false,
+  "total_images": 4,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/32/4a8ca79eaab23b1cdf7d088f1b0beebb.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/32/fa39f856760049ecc8bf780f32af6bd9.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/32/cdbd55ca51580be994ff76cee059ffa5.03.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/32/2d2e2dd84522c6f06656ee2a03415f01.04.webp"
+  ]
 }

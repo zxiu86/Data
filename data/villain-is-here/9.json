@@ -1,8 +1,14 @@
 {
   "series": "villain-is-here",
   "chapter": 9,
-  "title": "الفصل 9",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 9",
+  "is_closed": false,
+  "total_images": 5,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/9/001.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/9/002.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/9/003.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/9/004.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/9/005.webp"
+  ]
 }

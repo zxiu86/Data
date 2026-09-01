@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 42,
-  "title": "الفصل 42",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "شرير42",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/42/6264ec1a8690ae365804f6f0916f6e0a.1.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/ab453e0ab53b9a18c2b62dd7c21310db.2.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/099609cab683728806de69d3b794ed2e.5.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/10d75a0fc8d654b688a93db142528291.6.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/3aee767900dc82c607d22fb0eada8260.7.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/a60c9be50333f2287698002d0d14792e.8.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/c1552fa70b26910f64c1281f451937b6.11.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/42/cc3668981c3b4e9699078eea64793c91.12.webp"
+  ]
 }

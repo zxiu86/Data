@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 65,
-  "title": "الفصل 65",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "دم التنين الحقيقي !!",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/65/9a3ab31deefca7fd5412ec60f8e2418a.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/65/69cf28affdff4fe38a4118c2ff3d6d12.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/65/f8f405849d1a853c29e710365c3d4ed3.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/65/285429003e6b090b9b5cc42afcd4b3f6.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/65/27b3411bbb3aa815ee8998a703f46634.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/65/82dc8a3541ae672bc45cbdeb372be65b.06.jpg"
+  ]
 }

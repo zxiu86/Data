@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 90,
-  "title": "الفصل 90",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "السلف البشري !",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/90/a1de024d29009d5784905c24ac8833a3.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/9b0fe6c4506e3dfa6f9273fbe9d16d46.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/6e4c89b5c6f9c6bf0450dca6797181a5.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/35776242cce7f8df8804cf775c11dff8.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/843409c002f0756e3b9312ba52f6bbf3.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/23797a17e3409af66e3338cd76260ef9.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/ce9ac89e1a14a4b913711b6cd2f9f763.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/5e5f003e45c4bf859a2a07d3bf08e283.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/2dc1f63f415723b3954ec6c38110af56.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/90/723e2808a65f6a3bf057885d4b689969.10.jpg"
+  ]
 }

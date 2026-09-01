@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 111,
-  "title": "الفصل 111",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "مسرحية موته للمرة المليار !!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/111/999de948c1ae1a47fdb2969a618bc317.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/07a4d75880beaf3f39b33dcc05c5df4a.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/c1c79280f6a2f4384109aeb15dd0a648.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/94dede85352e4eb58f734f234d850d7f.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/05d1d78aa36c6d5625363b3ab4e1086a.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/a27ab85bc3412feea4973b3a251a576d.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/1604d2b54b76267a8d8110eae9b7998c.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/2414ae243d708d2024d79b5a5b0e59f6.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/b755474b6b202c31d6868629c99724f9.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/111/09159677db59cb2854b2444eedf1d81a.10.jpg"
+  ]
 }

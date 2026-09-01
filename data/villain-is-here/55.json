@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 55,
-  "title": "الفصل 55",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الدخول للقارة القديمة الخالدة!!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/55/d1349420876dd840f469779a9c0c2757.1.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/223b45d6ba65bd7e1c94c142372f5e9f.2.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/3b48a83702406ffd129520b22e1c3a8d.3.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/395fdcdea7e873e1f315b2905d9f168b.4.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/c4457f79059cb407cbbf3e811a27f6e7.5.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/7c72899dccbc75b375b8bc761f6a2ef9.6.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/95b5754cf35db70e4c16b0cac59b1155.7.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/55/7c3a64ae52d94225b60b195fa07eb834.8.jpg"
+  ]
 }

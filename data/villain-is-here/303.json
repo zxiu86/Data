@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 303,
-  "title": "الفصل 303",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "ليس وكأنني… سأسلبكم أرواحكم!!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/303/d476cff6730ee3cb0359bf6ce7e3d46c.01.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/bb6a0940f95ae9649a63ac16b9f9bf3d.02.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/01bec0dec2fcd67e2648d8f1f767727c.03.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/287d80d78a94b2db016262e63641a618.04.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/f523263898ad0c8ed6cace73e36d4df5.05.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/400cbef6326c60acaeb833b890972c66.06.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/6cd6dbc50deee4e3486866193a865092.07.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/eb9642b5c67429d0b4a4e515a3ae25f8.08.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/dedc012f439f6514c85753c441a19a3b.09.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/303/9bca4d1aae8023c458e8d3f331c100ca.10.webp"
+  ]
 }

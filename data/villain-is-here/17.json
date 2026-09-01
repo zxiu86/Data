@@ -1,8 +1,14 @@
 {
   "series": "villain-is-here",
   "chapter": 17,
-  "title": "الفصل 17",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 17",
+  "is_closed": false,
+  "total_images": 5,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/17/09.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/17/10.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/17/13.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/17/14.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/17/16.webp"
+  ]
 }

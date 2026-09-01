@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 216,
-  "title": "الفصل 216",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "لا أستطيع يا تلميذتي الطيّبة!!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/216/c1cc971c8883dd9205f86294b617d939.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/3f1c870c78119a1c82e2d526622dc8fc.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/9c0be5ddd1ba71c1464a20f4789c2d8f.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/60d975eb9e521d7e5d4bc74b3c5a4c80.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/7a38edce5270fc97d8582667a9d3e403.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/071d45b8c647397f9d9880db9c5d964a.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/312da20ab9136e4833a3863c5e3fbc37.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/d6f8d7755bf21796aa6bd5ca72c0a4ed.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/de26bcc4e6366cdd917cb0703768c45d.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/216/d391e60ac5a0ad94547785219c0a5525.10.jpg"
+  ]
 }

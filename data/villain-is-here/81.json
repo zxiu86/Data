@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 81,
-  "title": "الفصل 81",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الإبادة!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/81/7518e97c905b47e2d7631fe45072a42f.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/9aae23c5f5e748cefc4b51bb628c50db.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/f0b0c66639aa96e9ffa243e5586f6a98.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/4e6c2de90ede98d85953c409f1d093d3.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/290029084ced801b06f70684b1f6165a.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/f219b9d04d446cbdfba89f4091b497c2.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/515f319805ac8abc419a351cec28a548.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/a120ccb2110889053dac81b880a24387.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/663a1524e376f4cd6fadec32aca568dc.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/81/3edc02c6de7763c0db3c5dac10a4d556.10.jpg"
+  ]
 }

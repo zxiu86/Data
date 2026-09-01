@@ -1,8 +1,16 @@
 {
   "series": "villain-is-here",
   "chapter": 49,
-  "title": "الفصل 49",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 49",
+  "is_closed": false,
+  "total_images": 7,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/49/cc761a2756b41f9d3b901bdc8fc0b638.01_result.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/49/b92f5b3a74696f94dcb48e6d8d0899b6.02_result.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/49/e456a4ba51de474389bae35a2dccb50e.03_result.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/49/81fb069b35d596e7a71faf69de5748c0.04_result.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/49/c312750a9749520d163f73e5d921510e.05_result.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/49/bb83fc4f6ea3bda0f2c3e81d190a4651.06_result.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/49/f421490e62b581cae491ad593bce7d32.9999 تابع عملك.jpg"
+  ]
 }

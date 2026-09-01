@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 258,
-  "title": "الفصل 258",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "عائلة جي المُنعزلة!!",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/258/20c64e8f707d06dce9a33df1e289d05c.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/258/39dd9b9e9d129bcd10e7d360ac0990b1.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/258/dd8fae521fb1988e748c7be83e1787cc.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/258/2506dd53a5035f9ef15cf96c15f90034.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/258/3e3d43b279ab3a5b33b9d5e816a721e6.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/258/ec0d1cade68675c74cd13f0be9403310.06.jpg"
+  ]
 }

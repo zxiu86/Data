@@ -1,8 +1,19 @@
 {
   "series": "villain-is-here",
   "chapter": 165,
-  "title": "الفصل 165",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "لا أطيق الإنتظار!!",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/165/de3c9357436fd75145a8159a68daef6e.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/9209e244f794643e9bdf2472022e23a7.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/d51562f1d498a0feaf180a365f1ce192.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/37f867e51a7b3e0f5706244e6a5e8335.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/541ae18f4d9b6bdfe6c090ce0b4ee380.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/c80afaef3430dbdf78858428bae91434.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/004daefa35568ca747269381f1f22e01.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/cf57cebdd2cb8acf96d1cc25ecc41552.08.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/923edf2fc27bf39c693a6645b2275492.09.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/165/e1bdf139d4f16d5ef6492b5c8091d5fb.10.jpg"
+  ]
 }

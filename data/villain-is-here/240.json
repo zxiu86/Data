@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 240,
-  "title": "الفصل 240",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "خالد خفي!!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/240/27b230f335cc9b5dc7284e697063ecd8.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/70d68f533d6629dcce3f9a58644273b1.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/419f929dce4bcc786752f6ddfbbf5b99.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/e80676b5dc3695a6e03287ccb42ca1b5.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/1709886d6ec248b16ac627b2bcb713ef.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/bc33168940778b6fd8ca32f592bb1968.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/94a4d41192fff693e6cd4a6262a2654d.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/240/037d83d607cbc0e540948cd6713732d5.08.jpg"
+  ]
 }

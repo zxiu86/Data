@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 150,
-  "title": "الفصل 150",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "جوهر الين المطلق!!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/150/dbd886b633073c3b3becf475a8b877c2.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/cc9d5694bfd1dc8862a2a228c990f3ea.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/1dfed274ed3ad52dd0cf91af7b9d18a6.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/e0f4007dca2140d2a6859c8e808f54c9.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/031c343e4873c7c5ffff0adb42edf7c5.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/05681590b438b74384eb997aea7a245c.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/c89c2776c5918e6cac11c8cf37f026bc.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/150/b7061c1458a2f6a550f42defe69ec8a7.08.jpg"
+  ]
 }

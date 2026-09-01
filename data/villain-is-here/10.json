@@ -1,8 +1,13 @@
 {
   "series": "villain-is-here",
   "chapter": 10,
-  "title": "الفصل 10",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 10",
+  "is_closed": false,
+  "total_images": 4,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/10/001.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/10/002.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/10/003.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/10/004.webp"
+  ]
 }

@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 74,
-  "title": "الفصل 74",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "حقا !!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/74/f060ef294622bd7a07b07458827156ff.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/5354ef94fa5dff17cc6fc3b04152fb2b.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/7c98e4789e851c832d5b4a5a1536348f.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/c3c9d56dedad880339ea25580c423082.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/1c47469cb31e8da80fdcde6651b2147f.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/ec7ec806f3ef4216b652be9b658a201f.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/764dfc4b420b01b4b0a324b98450307c.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/74/3b1f13f2cdbc1279eeb79b3e62478158.08.jpg"
+  ]
 }

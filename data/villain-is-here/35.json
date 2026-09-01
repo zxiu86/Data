@@ -2,7 +2,15 @@
   "series": "villain-is-here",
   "chapter": 35,
   "title": "الفصل 35",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 7,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/35/8f0b50adb9a5fb2e79544e601da0f3cc.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/35/4670f037e176d6f7bbef4d5dd99e9230.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/35/b304d7f444774e6c7846b2b7bf324296.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/35/6f734c32c8e31545d586519e204af592.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/35/f2c87532a4eb3456556d58d759859675.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/35/78a83364682acf268d475ca70c8df71b.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/35/28b53f1df54ffd27104eee3236861c74.webp"
+  ]
 }

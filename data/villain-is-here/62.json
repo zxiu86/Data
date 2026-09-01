@@ -1,8 +1,13 @@
 {
   "series": "villain-is-here",
   "chapter": 62,
-  "title": "الفصل 62",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "تعال إلي هنا !!",
+  "is_closed": false,
+  "total_images": 4,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/62/6a15ad8db8b6866e2665c3a9df4954d6.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/62/2154092f3af70347a4635a2c72d36c45.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/62/c7687606cb298e1a8f5729262196e2e5.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/62/8eadeb3b85d3fc8a4b6ce95a904064a2.05.jpg"
+  ]
 }

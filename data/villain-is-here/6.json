@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 6,
-  "title": "الفصل 6",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "الفصل رقم 6",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/6/001.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/6/002.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/6/003.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/6/004.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/6/005.webp",
+    "https://olympustaff.com/uploads/manga_c81e7/6/006.webp"
+  ]
 }

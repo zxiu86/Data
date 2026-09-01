@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 200,
-  "title": "الفصل 200",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "صديق العائلة !!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/200/c64fcbe82b01a619baa7c31a2d39a260.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/6ecc43cb7af58acaae5fe3a34271a0bb.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/72a3f55c2cdb85912fdc6a8334031275.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/035a2d300bb9d85094672e26bf6cb076.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/82fbc753b046e20fc3694615299cfa24.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/93e7327364948e926c2f86fa59b1c938.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/b0f22a16d0433f3a95e3c64fdf059150.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/200/db7e962d556f4831a0a6b381e3a8e678.08.jpg"
+  ]
 }

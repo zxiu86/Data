@@ -1,8 +1,17 @@
 {
   "series": "villain-is-here",
   "chapter": 101,
-  "title": "الفصل 101",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "آرك السلف البشري!!",
+  "is_closed": false,
+  "total_images": 8,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/101/0efd98fd1cb084a028ffd4457792cad1.01.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/17f3ede123aacfda562083ac42011beb.02.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/3e9333c887d9bfc3b1ba397e862544ae.03.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/5f5c56132c06d91589d89908624b79f8.04.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/ef45f5df5c0e1b12d90505a073e810d3.05.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/d66119c2c3d770e4b0aab95f63fdbfe5.06.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/7b0d9dcbabfc964248c18d7e47403271.07.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/101/7d3d384fe24ee2fb648b232d67c0974b.08.jpg"
+  ]
 }
