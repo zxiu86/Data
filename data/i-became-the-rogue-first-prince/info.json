@@ -1,0 +1,294 @@
+{
+  "status": "مستمر",
+  "rating": 4.9,
+  "views": "1.2M",
+  "chapters": [
+    {
+      "number": 51,
+      "title": "طليعة النجاة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 50,
+      "title": "كارثة من صنع البشر",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 49,
+      "title": "وجه الكارثة الحقيقي",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 48,
+      "title": "ثأْر الأمير",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 47,
+      "title": "سقوط قلعة الشتاء",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 46,
+      "title": "هدية الفارس الأخيرة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 45,
+      "title": "قتال اليأس",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 44,
+      "title": "وصية الفجر الأخير",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 43,
+      "title": "جحيمُ قلعةِ الشتاء",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 42,
+      "title": "أنشودة الأسوار",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 41,
+      "title": "هدوءٌ ما قبل العاصفة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 40,
+      "title": "نيران لا تنطفئ",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 39,
+      "title": "أنشودةُ الدم",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 38,
+      "title": "ثمن الأنشودة الحقيقية",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 37,
+      "title": "الهيبة الطاغية",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 36,
+      "title": "الرمح القادم من الجبال",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 35,
+      "title": "لقاء الغرباء",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 34,
+      "title": "ولاءُ فالارهارد وخذلانُ العرش",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 33,
+      "title": "ولادة قصيدة الحرب",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 32,
+      "title": "استيقاظ الغرائز",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 31,
+      "title": "بَرِيقُ الرثاء",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 30,
+      "title": "ذابح الفرسان",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 29,
+      "title": "سيد الحرب",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 28,
+      "title": "قُدَّاس الأرواح",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 27,
+      "title": "لنتقاتل",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 26,
+      "title": "طائر ليس عادي؟",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 25,
+      "title": "من الأنتقام الى الطمأنينة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 24,
+      "title": "ستنجرفون في طريقي",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 23,
+      "title": "اهلا بك في قلعة الشتاء؟",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 22,
+      "title": "طبقا نادرا؟؟",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 21,
+      "title": "الفصل 21",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 20,
+      "title": "الامير المتوج",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 19,
+      "title": "نصرٌ بعد عذاب",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 18,
+      "title": "فرسان الأسد الحديدي",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 17,
+      "title": "سيف الغسق",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 16,
+      "title": "النيران تضج",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 15,
+      "title": "سقمٌ أجوف",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 14,
+      "title": "نضال",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 13,
+      "title": "شق حراشف التنين",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 12,
+      "title": "قصيدة المبارز",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 1,
+      "title": "سيف العظماء",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    }
+  ]
+}
