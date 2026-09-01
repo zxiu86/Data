@@ -275,5 +275,22 @@
       "إثارة",
       "بقاء"
     ]
+  },
+  "murim-psychopath": {
+    "slug": "murim-psychopath",
+    "title": "Murim Psychopath",
+    "cover": "https://olympustaff.com/images/manga/2b273fcf3fe927d1c4faf091c60a8d8f.png",
+    "summary": "Murim Psychopath",
+    "type": "مانهوا كورية",
+    "author": "غير محدد",
+    "artist": "Song Beomgyu",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "دراما",
+      "غموض",
+      "فنون قتال",
+      "بقاء"
+    ]
   }
 }
