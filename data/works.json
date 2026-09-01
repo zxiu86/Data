@@ -205,5 +205,18 @@
       "وحوش",
       "طبي"
     ]
+  },
+  "god-of-martial-arts": {
+    "slug": "god-of-martial-arts",
+    "title": "God Of Martial Arts",
+    "cover": "https://olympustaff.com/images/manga/05393d67b2f39df9a27d4b5391aef92d.png",
+    "summary": "God Of Martial Arts",
+    "type": "مانها صيني",
+    "author": "غير محدد",
+    "artist": "Yun Duan Manhua",
+    "genres": [
+      "أكشن",
+      "فنون قتال"
+    ]
   }
 }
