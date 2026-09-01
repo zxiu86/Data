@@ -48,5 +48,26 @@
       "وحوش",
       "شياطين"
     ]
+  },
+  "hellogin": {
+    "slug": "hellogin",
+    "title": "Hellogin",
+    "cover": "https://olympustaff.com/images/manga/27ea86c017c127dda0e20bc11f24ff07.png",
+    "summary": "Hellogin",
+    "type": "مانهوا كورية",
+    "author": "غير محدد",
+    "artist": "غير معروف",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "غموض",
+      "إثارة",
+      "شونين",
+      "إيسيكاي",
+      "نظام",
+      "سحر",
+      "وحوش"
+    ]
   }
 }

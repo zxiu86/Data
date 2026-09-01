@@ -1,0 +1,49 @@
+{
+  "status": "مستمر",
+  "rating": 4.9,
+  "views": "1.2M",
+  "chapters": [
+    {
+      "number": 8,
+      "title": "Hellogin",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": true
+    },
+    {
+      "number": 5,
+      "title": "سباق السرعة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 4,
+      "title": "لعبة المصنفين",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 3,
+      "title": "خطة بديلة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 2,
+      "title": "الغاية تبرر الوسيلة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    },
+    {
+      "number": 1,
+      "title": "بحاجة للمساعدة",
+      "release_date": "اليوم",
+      "is_new": true,
+      "is_closed": false
+    }
+  ]
+}
