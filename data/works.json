@@ -158,5 +158,29 @@
       "بقاء",
       "شياطين"
     ]
+  },
+  "apotheosis": {
+    "slug": "apotheosis",
+    "title": "Apotheosis",
+    "cover": "https://olympustaff.com/images/manga/e1662a9f2da4d648a2f0de12dd5b3c39.jpg",
+    "summary": "Apotheosis",
+    "type": "مانها صيني",
+    "author": "غير محدد",
+    "artist": "غير معروف",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "دراما",
+      "رعب",
+      "غموض",
+      "إثارة",
+      "فنون قتال",
+      "نظام",
+      "قوة خارقة",
+      "خارق للطبيعة",
+      "وحوش",
+      "طبي"
+    ]
   }
 }
