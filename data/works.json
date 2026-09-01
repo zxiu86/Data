@@ -238,5 +238,26 @@
       "قوة خارقة",
       "تناسخ"
     ]
+  },
+  "against-the-gods": {
+    "slug": "against-the-gods",
+    "title": "Against The Gods",
+    "cover": "https://olympustaff.com/images/manga/aba9a61d37bbb82c4d2ee4ece9b8d731.png",
+    "summary": "Against The Gods",
+    "type": "مانها صيني",
+    "author": "غير محدد",
+    "artist": "غير معروف",
+    "genres": [
+      "أكشن",
+      "رعب",
+      "غموض",
+      "إثارة",
+      "فنون قتال",
+      "إيسيكاي",
+      "قوة خارقة",
+      "خارق للطبيعة",
+      "وحوش",
+      "طبي"
+    ]
   }
 }
