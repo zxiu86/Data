@@ -259,5 +259,21 @@
       "وحوش",
       "طبي"
     ]
+  },
+  "surviving-the-apocalypse": {
+    "slug": "surviving-the-apocalypse",
+    "title": "Surviving The Apocalypse",
+    "cover": "https://olympustaff.com/images/manga/93c8341ba9e3dd3e24fc15fd0af5a78d.png",
+    "summary": "Surviving The Apocalypse",
+    "type": "مانهوا كورية",
+    "author": "غير محدد",
+    "artist": "غير معروف",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "دراما",
+      "إثارة",
+      "بقاء"
+    ]
   }
 }
