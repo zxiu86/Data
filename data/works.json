@@ -137,5 +137,26 @@
       "سحر",
       "تناسخ"
     ]
+  },
+  "martial-peak": {
+    "slug": "martial-peak",
+    "title": "Martial Peak",
+    "cover": "https://olympustaff.com/images/manga/599433861601580190.jpg",
+    "summary": "Martial Peak",
+    "type": "مانها صيني",
+    "author": "غير محدد",
+    "artist": "PIKAPI",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "إثارة",
+      "فنون قتال",
+      "سحر",
+      "قوة خارقة",
+      "وحوش",
+      "بقاء",
+      "شياطين"
+    ]
   }
 }
