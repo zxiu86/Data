@@ -218,5 +218,25 @@
       "أكشن",
       "فنون قتال"
     ]
+  },
+  "villain-is-here": {
+    "slug": "villain-is-here",
+    "title": "Villain Is Here",
+    "cover": "https://olympustaff.com/images/manga/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+    "summary": "Villain Is Here",
+    "type": "مانها صيني",
+    "author": "غير محدد",
+    "artist": "غير معروف",
+    "genres": [
+      "أكشن",
+      "خيال",
+      "غموض",
+      "إثارة",
+      "فنون قتال",
+      "إيسيكاي",
+      "نظام",
+      "قوة خارقة",
+      "تناسخ"
+    ]
   }
 }
