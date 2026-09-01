@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 342,
-  "title": "الفصل 342",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "طريق الخالدين!!",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/342/eaf311bf4eb20389a36837d6b6b2d94b.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/342/c1dbc0873c3f9b084af7daf6b53daaef.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/342/40131d1fc0bf1f824fc8bd7df5ff2898.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/342/dcb124066f739eb664347c214553bcd5.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/342/d7d4eb8ed0c69a950eb68e27a1f1ccdc.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/342/8702b4aa5e8c216d42983336617ab6c0.jpg"
+  ]
 }

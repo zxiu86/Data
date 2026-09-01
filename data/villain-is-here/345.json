@@ -1,8 +1,15 @@
 {
   "series": "villain-is-here",
   "chapter": 345,
-  "title": "الفصل 345",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "قفص الموت!!",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_c81e7/345/2bec550bae4e56a3067e2bd5114d8585.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/345/118733350e0c8df688dd6a3c5bc811bf.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/345/aca56946d411e71ebc93c910a055e133.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/345/a258c57dbe33278dddab12447e30f374.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/345/ab56b84aa8450b312720fef30697df8f.jpg",
+    "https://olympustaff.com/uploads/manga_c81e7/345/6fcd9b40e8bbbee6a97eea99fef9e005.jpg"
+  ]
 }
