@@ -1,0 +1,53 @@
+{
+  "slug": "urban-dragon-war",
+  "title": "Urban Dragon War",
+  "cover": "https://olympustaff.com/images/manga/d12293940bb9d77b5830226606abb7cf.jpg",
+  "summary": "مانجا Urban Dragon War مترجمةUrban Dragon War تروي الرواية حكاية شويه تيان يي، أعظم قادة الجند في العالم السماوي، الذي دبّر له الإمبراطور السماوي مكيدةً حين علا شأنه واشتد نفوذه. فمُحيت صفته الخالدة ونُف...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "تناسخ"
+  ],
+  "page_title": "Urban Dragon War",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الصحوة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 2,
+      "title": "الحسناء الصامته",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 3,
+      "title": "سطو الفندق",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 4,
+      "title": "قلب المحيط",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 5,
+      "title": "كارثة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 6,
+      "title": "سطو مسلح",
+      "is_closed": false,
+      "total_images": 8
+    }
+  ]
+}
