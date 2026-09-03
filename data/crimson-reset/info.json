@@ -1,0 +1,377 @@
+{
+  "slug": "crimson-reset",
+  "title": "Crimson Reset",
+  "cover": "https://olympustaff.com/images/manga/6f39c0edeaa6774b3ef5b083fcb4eebd.jpg",
+  "summary": "مانجا Crimson Reset مترجمةCrimson Reset [من إنتاج استوديو \"Redice\" العريق، الذي قدم لكم تُحف مثل <Solo Leveling> و<Revenge of the Iron-Blooded Sword Hound> وغيرها الكثير، ومن يراعِ المؤلف الفذ لـ<D...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "غموض",
+    "إثارة",
+    "شونين",
+    "إيسيكاي",
+    "سحر",
+    "قوة خارقة",
+    "وحوش"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "\"البداية - سأنتزع الدماء و النصر انتزاعًا\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 2,
+      "title": "\"سأبيد المرتزقة عن بكرة أبيهم\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 3,
+      "title": "\"ابن غير شرعي\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 4,
+      "title": "\"تغليف الكذب بالحقيقة\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 5,
+      "title": "\"تعلم الكتابة\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 6,
+      "title": "\"مدى رعبِ الفرسان\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 7,
+      "title": "صفقةٌ غيرُ متوقعة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 8,
+      "title": "الانضمام للفرقة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 9,
+      "title": "مبارزة!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 10,
+      "title": "\"طريقةٌ  واحدةٌ للنجاة\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 11,
+      "title": "لمحة من المجد",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 12,
+      "title": "\"الدرجةُ العليا لعنكبوتِ الكهوفِ العملاق \"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 13,
+      "title": "سقيان",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 14,
+      "title": "تابع أعمى",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 15,
+      "title": "\"عمدة مارين\"",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 16,
+      "title": "استخدام المرتزقة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 17,
+      "title": "\"محاكمةٍ بالنزال\"",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 18,
+      "title": "دراكولا الدجال",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 19,
+      "title": "\"المتاهة\"",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 20,
+      "title": "القربان الأخير",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 21,
+      "title": "عين الحاكم",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 22,
+      "title": "\"تدمير المسرحية\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 23,
+      "title": "\"الانتقام\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 24,
+      "title": "\"درع جديد\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 25,
+      "title": "\"التنانين المجنحة\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 26,
+      "title": "\"مصاص دماء آخر\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 27,
+      "title": "\" فرقة التطهير الثالثة\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 28,
+      "title": "\"بدء التطهير\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "\"كمين!\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 30,
+      "title": "قتال التنين المجنح",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 31,
+      "title": "\"الارتقاء لرتبة سيد\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 32,
+      "title": "\"السيطرة على المنجم\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 33,
+      "title": "\"ترسيخ الجذور\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 34,
+      "title": "الحقيقة والزيف",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 35,
+      "title": "\"مهمة انتحارية\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 36,
+      "title": "\"وحش عالي الرتبة!\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 37,
+      "title": "\"أقوى وحشٍ على وجه الأرض\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 38,
+      "title": "\"الساحر\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 39,
+      "title": "\"الغزو\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 40,
+      "title": "\"التحول\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 41,
+      "title": "\"الوجه الحقيقي للعالم\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 42,
+      "title": "\"علمه أصول الشريعة\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 43,
+      "title": "\"السيف ذابح الذئاب\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 44,
+      "title": "\"الولاء\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 45,
+      "title": "\"كافر متغطرس\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 46,
+      "title": "أخرج الفدية",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 47,
+      "title": "الظلام الدامس قد كشر عن أنيابه",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 48,
+      "title": "\"قلب الكمين\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 49,
+      "title": "\"جشع البشر لا ينضب، وأخطاؤهم تتكرر \"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 50,
+      "title": "\"الترقية\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 51,
+      "title": "\"قلب الموازين\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 52,
+      "title": "\"غزو برانتيا\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 53,
+      "title": "\"الكشف عن الهوية\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 54,
+      "title": "\"نقطة الضعف المميتة\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 55,
+      "title": "\"قتال داخل الأمعاء\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 56,
+      "title": "\"احضرو الأقوى\"",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 57,
+      "title": "\"خيوط الذكريات\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 58,
+      "title": "\"الخفاش المتشرد\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 59,
+      "title": "\"حرب طاحنة\"",
+      "is_closed": false,
+      "total_images": 13
+    }
+  ]
+}
