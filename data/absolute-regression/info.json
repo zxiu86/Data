@@ -1,0 +1,725 @@
+{
+  "slug": "absolute-regression",
+  "title": "Absolute Regression",
+  "cover": "https://olympustaff.com/images/manga/9471582891668301132.jpg",
+  "summary": "مانجا Absolute Regression مترجمةAbsolute Regression \"من فضلك أعدني إلى الماضي.\"  إذا لم يتمكن من قتل ذلك الشخص في هذا العصر، فهو يحتاج فقط إلى العودة إلى الماضي. استخدم الرجل \"تقنية الانحدار العظيم\" لعبور الزم...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "غموض",
+    "إثارة",
+    "شونين",
+    "فنون قتال",
+    "قوة خارقة",
+    "وحوش"
+  ],
+  "page_title": "Absolute Regression",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "1",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 2,
+      "title": "2",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 3,
+      "title": "3",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 4,
+      "title": "4",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 5,
+      "title": "5",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 6,
+      "title": "6",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 7,
+      "title": "الشيطان السماوي او الأب الشيطاني",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 8,
+      "title": "الدائرة القرمزية",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 9,
+      "title": "وهم الحياة والموت",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 10,
+      "title": "الجيش الشيطاني",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 11,
+      "title": "عندما يتحدث الرجل بغطرسة، عليه أن يُبرهن بأفعاله…",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 12,
+      "title": "سيد الجيش الشيطاني",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 13,
+      "title": "من تحسب نفسك لتقتل منتسبي طائفتنا كما تشاء؟",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 14,
+      "title": "عقبة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 15,
+      "title": "فلنجعله موتًا نبيلًا لأجل الآخرين",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 16,
+      "title": "نصل الشيطان الأسود",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 17,
+      "title": "نقمة في باطنها نعمة",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 18,
+      "title": "خطوات سامي الريح الأربعة.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 19,
+      "title": "تقنية حماية الجسد للشيطان السماوي.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 20,
+      "title": "فيلق الظلال",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 21,
+      "title": "احتراق السماء",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 22,
+      "title": "الفتى النصاب",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 23,
+      "title": "شيطان السيوف المئة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 24,
+      "title": "أ-أرجوك سامحني.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 25,
+      "title": "25",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 26,
+      "title": "شيطان السيوف المئة يانغ تاي.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 27,
+      "title": "27",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 28,
+      "title": "أمستعد لاحتساء مشروبي الآن؟",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "29",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 30,
+      "title": "30",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 31,
+      "title": "زهرة السيف الأسمى.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 32,
+      "title": "حبكة الإقناع.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 33,
+      "title": "الثقة.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 34,
+      "title": "يوم الفصل بيننا آتٍ لا محالة.",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 35,
+      "title": "مدارِك العُمر",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 36,
+      "title": "طِباع البشر",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 37,
+      "title": "فن السيف المحلق",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 38,
+      "title": "عيد ميلادي…",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 39,
+      "title": "حانة الرياح المتدفقة الليلة.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 40,
+      "title": "فصيحي اللسان، فارغي الفِعل والبيان.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 41,
+      "title": "سيف الشيطان الأسود.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 42,
+      "title": "الثالثة ثابتة.",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 43,
+      "title": "كَم من نَبعٍ أغدق سقيًا فازداد جَريًا.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 44,
+      "title": "مُنتزع الأرواح.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 45,
+      "title": "إن رفضت، ستهلك.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 46,
+      "title": "من ذا الذي سيعلمني…؟",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 47,
+      "title": "رجلٌ بين الرجال شامخٌ ولامرأة قلبي وحدها قد هوى.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 48,
+      "title": "أيها الجرذ البغيض…",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 49,
+      "title": "طقوس حاكم الدم.",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 50,
+      "title": "أصبو لأن أكون أبًا.",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 51,
+      "title": "ماء تنقية عين الدم.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 52,
+      "title": "جبان رعديد!",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 53,
+      "title": "لَعَمْرُك إنه لطمعٌ بيِّن.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 54,
+      "title": "فنون الظلام الشيطانية.",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 55,
+      "title": "ينبوع العالم السفلي.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 56,
+      "title": "ما باحت الشفاه، ولكن دلّ بالأعين الوميض…ففي الجفون، حديثٌ لا يستفيض.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 57,
+      "title": "زعيم طائفة الرياح العاتية.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 58,
+      "title": "تقنية العين الجديدة.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 59,
+      "title": "انظر صوب الشمس.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 60,
+      "title": "نيونغ باسو.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 61,
+      "title": "على المعروف أن يكون حقيقيًّا.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 62,
+      "title": "الزمكان",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 63,
+      "title": "التوغل في السهول الوسطى.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 64,
+      "title": "العطاء.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 65,
+      "title": "ارتكاب الفظائع.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 66,
+      "title": "حبة الدم المقدسة.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 67,
+      "title": "فثق بي واتبعني.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 68,
+      "title": "الأدب.",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 69,
+      "title": "الجشع.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 70,
+      "title": "اشتقتُ إليكِ.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 71,
+      "title": "دقة التدبير.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 72,
+      "title": "خيط دودة القز.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 73,
+      "title": "الطريق إلى العرش.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 74,
+      "title": "صداقة متينة.",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 75,
+      "title": "المستشار.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 76,
+      "title": "انتصار مشترك.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 77,
+      "title": "الثقة.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 78,
+      "title": "لقد كسبت قلبه.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 79,
+      "title": "قلبي.",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 80,
+      "title": "كم أرجو أن يطولَ مُكثُ هذهِ النعمةِ في رِحابي.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 81,
+      "title": "الأغلال.",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 82,
+      "title": "لستُ الوحيد الذي عاش مقيدًا بالأغلال.",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 83,
+      "title": "قمر العزلة.",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 84,
+      "title": "إنقاذ حياة الزعيم.",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 85,
+      "title": "عاصفة الدماء.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 86,
+      "title": "فلنسر معًا.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 87,
+      "title": "المحاكاه!",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 88,
+      "title": "رفقة الشيطان السماوي",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 89,
+      "title": "إذا ما استبان للمرء دربٌ أرشد وجب عليه سلكه بلا تردد.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 90,
+      "title": "وحوش الماضي.",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 91,
+      "title": "الشيطان الأسود.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 92,
+      "title": "جدران الشياطين التسعة العتيدة.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 93,
+      "title": "الشيطانِ الضَّاحك خبيث القلب.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 94,
+      "title": "سيد الأسياد.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 95,
+      "title": "أنا لا أثق بك.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 96,
+      "title": "ولائي للسيد الشاب التاني إلى آخر الرمق.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 97,
+      "title": "باب القلب.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 98,
+      "title": "بذور الشك.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 99,
+      "title": "قلوب دامية.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 100,
+      "title": "الفضيلة والرذيلة.",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 101,
+      "title": "قلب الخبث الضاحك",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 102,
+      "title": "ما وراء الستر",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 103,
+      "title": "القناع الخبيث",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 104,
+      "title": "مقياس المودة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 105,
+      "title": "وجهٌ بلا ستار",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 106,
+      "title": "نزهة مع الموت",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 107,
+      "title": "ميثاق الرحيل",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 108,
+      "title": "خلف أقنعة الزيف",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 109,
+      "title": "المبادئ المئة",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 110,
+      "title": "مفاوضات الموت",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 111,
+      "title": "قوة الملاحظة",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 112,
+      "title": "رهان كشف المستور",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 113,
+      "title": "الهجوم المباغت",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 114,
+      "title": "مكيدةٌ في الظلام",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 115,
+      "title": "مجنون القمار الغافي",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 116,
+      "title": "بحر الدماء",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 117,
+      "title": "دين في ساحة المعركة",
+      "is_closed": false,
+      "total_images": 13
+    }
+  ]
+}
