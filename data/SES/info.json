@@ -1,0 +1,833 @@
+{
+  "slug": "SES",
+  "title": "Star-Embracing Swordmaster",
+  "cover": "https://olympustaff.com/images/manga/c62e5b8eaf22eb4affa06110fcb352c9.jpg",
+  "summary": "مانجا Star-Embracing Swordmaster مترجمةStar-Embracing Swordmaster كان فلاد طفلاً متشردًا من الأحياء الفقيرة وكان دائمًا معجبًا بالفرسان.  بعد الحادث الذي ضربه فيه البرق الأسود، بدأ يسمع صوتًا.  ظهر في أحد الأيام فارس من ضوء...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "شونين"
+  ],
+  "page_title": "Star-Embracing Swordmaster",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الفصل رقم 1",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 2,
+      "title": "الفصل رقم 2",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 3,
+      "title": "3",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 4,
+      "title": "الفصل رقم 4",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 5,
+      "title": "الفصل رقم 5",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 6,
+      "title": "6",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 7,
+      "title": "7",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 8,
+      "title": "الفصل رقم 8",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 9,
+      "title": "الفصل رقم 9",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 10,
+      "title": "الفصل 10",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 11,
+      "title": "الفصل رقم 11",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 12,
+      "title": "الفصل رقم 12",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 13,
+      "title": "الفصل رقم 13",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 14,
+      "title": "الفصل رقم 14",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 15,
+      "title": "الفصل رقم 15",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 16,
+      "title": "الفصل رقم 16",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 17,
+      "title": "الفصل رقم 17",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 18,
+      "title": "الفصل رقم 18",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 20,
+      "title": "الفصل رقم 20",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 21,
+      "title": "الفصل رقم 21",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 22,
+      "title": "الفصل رقم 22",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 23,
+      "title": "الفصل رقم 23",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 24,
+      "title": "الفصل رقم 24",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 25,
+      "title": "الفصل رقم 25",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 26,
+      "title": "الفصل رقم 26",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 27,
+      "title": "الفصل رقم 27",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 28,
+      "title": "الفصل رقم 28",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 29,
+      "title": "الفصل رقم 29",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 30,
+      "title": "الفصل رقم 30",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 31,
+      "title": "31",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 32,
+      "title": "الفصل رقم 32",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 33,
+      "title": "الفصل رقم 33",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 34,
+      "title": "الفصل رقم 34",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 35,
+      "title": "الفصل رقم 35",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 36,
+      "title": "بداية المجزرة!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 37,
+      "title": "الفصل رقم 37",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 38,
+      "title": "الفصل رقم 38",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 39,
+      "title": "الفصل رقم 39",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 40,
+      "title": "النجوم البراقة!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 41,
+      "title": "استبدال الاعشاب الضاره",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 42,
+      "title": "زيارة المعبد",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 43,
+      "title": "اصلاح السيف!!",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 44,
+      "title": "عمدة سوارا",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 45,
+      "title": "منافسة العائلة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 46,
+      "title": "اقليم البارون عثمان (1)",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 47,
+      "title": "اقليم البارون عثمان (2)",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 48,
+      "title": "لعنة!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 49,
+      "title": "الظلام الحالك",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 50,
+      "title": "قانون المبارزين الثاني!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 51,
+      "title": "دولاهان!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 52,
+      "title": "لأجل واجبي!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 53,
+      "title": "لاماتشو!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 54,
+      "title": "هذه رشوة!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 55,
+      "title": "تكوّين نيراني الخاصة!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 56,
+      "title": "56",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 57,
+      "title": "الخوف من الرحيل!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 58,
+      "title": "لقد نجحت!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 59,
+      "title": "البرابرة!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 60,
+      "title": "ابن المراعي !!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 61,
+      "title": "سحر...!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 62,
+      "title": "الأسقف  بيّري!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 63,
+      "title": "رجلٍ  متحضرٍ!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 64,
+      "title": "شظايا التنين!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 65,
+      "title": "سوارا تحدقُ بكليهما!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 66,
+      "title": "ثِقـَلِ اسم بايزيد!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 67,
+      "title": "67",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 68,
+      "title": "الليندورم!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 69,
+      "title": "فرسانُ قاتل التنين!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 70,
+      "title": "قفازُ الحديد!!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 71,
+      "title": "المعركة بين العاصمة و الشمال!!",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 72,
+      "title": "تعويذة تكبيل!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 73,
+      "title": "قوة الفارس المتقاعد!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 74,
+      "title": "آخر مرة!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 75,
+      "title": "75",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 76,
+      "title": "76",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 77,
+      "title": "شريعة سادة السيف!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 78,
+      "title": "تنينٌ صغير!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 79,
+      "title": "المنتصرُ يأخذ كل شيء!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 80,
+      "title": "بريق من يحملُ امرأتين في قلبه!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 81,
+      "title": "مبارزة!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 82,
+      "title": "نتيجةُ كفاحي!!",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 83,
+      "title": "مكافأة عادلة!!",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 84,
+      "title": "كهرمان الجان!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 85,
+      "title": "فتح أبواب القلعة!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 86,
+      "title": "توظيف!!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 87,
+      "title": "استعادة هيبة الشمال!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 88,
+      "title": "النجم الذي تدلى مُتطلعًا إلى السماء!!",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 89,
+      "title": "مبرر!!",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 90,
+      "title": "الغفران…",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 91,
+      "title": "\"التوازن الدقيق بين النبلاء والكنيسة\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 92,
+      "title": "\"مرآة القديس مارسيلو\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 93,
+      "title": "\"امضِ قُدمًا شامخ الرأس\"",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 94,
+      "title": "\"نفي\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 95,
+      "title": "95",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 96,
+      "title": "نهاية الموسم الأول",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 97,
+      "title": "\"عودة الموسم الثاني\"",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 98,
+      "title": "\"غول الأرض\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 99,
+      "title": "الخُلد المضيء",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 100,
+      "title": "\"قوة الأرواح\"",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 101,
+      "title": "ضياء دوبريتشتي",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 102,
+      "title": "طيفُ حلم",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 103,
+      "title": "\"في رحاب المنطقة الوسطى\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 104,
+      "title": "\"البرقية\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 105,
+      "title": "غابة الجان",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 106,
+      "title": "عالمُ الأصوات",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 107,
+      "title": "\"قبول الجان\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 108,
+      "title": "\"فضولٌ مزدوج\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 109,
+      "title": "\"خداع الشمال\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 110,
+      "title": "\"جوهر الضربة القاضية\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 111,
+      "title": "زيارة غير متوقعة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 112,
+      "title": "\"شجرة العالم\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 113,
+      "title": "\"تميمة شجرة العالم\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 114,
+      "title": "\"ندوبٌ تدلُ على الفخر\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 115,
+      "title": "\"حماية الإمكانات المزهرة\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 116,
+      "title": "عين الحقيقة وطعنة المصير",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 117,
+      "title": "\"نجدة الفارس\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 118,
+      "title": "\"سياف النجوم\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 119,
+      "title": "\"ذريعة الشاي\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 120,
+      "title": "\"سيفٌ يأبى الرحيل\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 121,
+      "title": "\"ضياءٌ يفوق النجوم\"",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 122,
+      "title": "\"منطق الجان\"",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 123,
+      "title": "\"غريزةٌ موروثة\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 124,
+      "title": "ووجوهٌ مألوفة",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 125,
+      "title": "\"سطوة فارس\"",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 126,
+      "title": "\"نيرانٌ في الميدان\"",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 127,
+      "title": "\"مقياس القوة\"",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 128,
+      "title": "\"نذر العاصفة\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 129,
+      "title": "\"فارس السيدة\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 130,
+      "title": "\"سنن الغرب\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 131,
+      "title": "\"عهدٌ جديد\"",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 132,
+      "title": "\"فرض السيادة\"",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 133,
+      "title": "\"ميناء الغرب\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 134,
+      "title": "\"سليل رافنوما الأخير\"",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 135,
+      "title": "\"شراك الغرب\"",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 136,
+      "title": "\"غبار المطاردة\"",
+      "is_closed": false,
+      "total_images": 15
+    }
+  ]
+}
