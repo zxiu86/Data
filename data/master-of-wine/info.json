@@ -1,0 +1,83 @@
+{
+  "slug": "master-of-wine",
+  "title": "Master of Wine",
+  "cover": "https://olympustaff.com/images/manga/7da215767e57bcbe5f0700bde793bf16.png",
+  "summary": "مانجا Master of Wine مترجمةMaster of Wine كان وو-سوك تشوي عالمًا زراعيًا لامعًا، لكنه خسر كل شيء، ولم يبقَ له سوى فراغ حياةٍ تحطمت أركانها.\r\nثم منحه القدر فرصةً ثانية.\r\nيستيقظ هذه المرة في سنوات دراس...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "دراما",
+    "شونين",
+    "شريحة من الحياة"
+  ],
+  "page_title": "Master of Wine",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "مزرعة العنب",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 2,
+      "title": "إنقاذ الأرض!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 3,
+      "title": "العنب المهمل",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 4,
+      "title": "خل العنب",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 5,
+      "title": "زراعة الأرز",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 6,
+      "title": "خفايا الحفل وأسرار التخمير",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 7,
+      "title": "دليل الخل والكرز",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 8,
+      "title": "أول عملية تخمير",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 9,
+      "title": "صناعة الفحم الحيوي",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 10,
+      "title": "Master of Wine",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 11,
+      "title": "Master of Wine",
+      "is_closed": true,
+      "total_images": 0
+    }
+  ]
+}
