@@ -1,0 +1,82 @@
+{
+  "slug": "goblin-corporation",
+  "title": "Goblin Inc",
+  "cover": "https://olympustaff.com/images/manga/9d41f9d39099505be2dc113be4650760.jpg",
+  "summary": "مانجا Goblin Inc مترجمةGoblin Inc في طريقه المعتاد إلى العمل، يجد الموظف العادي أوه نفسه وقد انتقل فجأة إلى عالم الشياطين. وعندما يستعيد وعيه، يكتشف أنه أصبح سيد الغوبلن الذي تقف مملكته على ش...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "دراما"
+  ],
+  "page_title": "Goblin Inc",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "البداية",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 2,
+      "title": "بداية العمل الإضافي في عالم الشياطين",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 3,
+      "title": "النصر الأول واستغلال الموارد",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 4,
+      "title": "الاستكشاف ومواجهة وحش الغابة",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 5,
+      "title": "شعلة الأمل وتسمية البطل",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 6,
+      "title": "شعلة الحماية ومواجهة العناكب",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 7,
+      "title": "جرو الذئب والعضو الجديد",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 8,
+      "title": "مشروع جديد",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 9,
+      "title": "اسم رائع",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 10,
+      "title": "Goblin Inc",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 11,
+      "title": "Goblin Inc",
+      "is_closed": false,
+      "total_images": 2
+    }
+  ]
+}
