@@ -22,661 +22,881 @@
       "number": 1,
       "title": "01",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفصل رقم 2",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "03",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "4",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "5",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "06",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "7",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "رقم الفصل 8",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "09",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "11",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "رقم الفصل 12",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "13",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "14",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الفصل 15",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "رقم الفصل 16",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "17",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "رقم الفصل 18",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "19",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "حفل اليقظة.",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "لقيط عشيرة السيف 21",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "لقيط عشيرة السيف 22",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "لقيط عشيرة السيف 23",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "لقيط عشيرة السيف 24",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "لقيط عشيرة السيف 25",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "لقيط عشيرة السيف 26",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "لقيط عشيرة السيف 27",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "لقيط عشيرة السيف 28",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "لقيط عشيرة السيف 29",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "لقيط عشيرة السيف 30",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "لقيط عشيرة السيف 31",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "لقيط عشيرة السيف 32",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "لقيط عشيرة السيف 33",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "لقيط عشيرة السيف 34",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "لقيط عشيرة السيف 35",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "لقيط عشيرة السيف 36",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "لقيط عشيرة السيف 37",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "لقيط عشيرة السيف 38",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "لقيط عشيرة السيف 39",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "لقيط عشيرة السيف 40",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "لقيط عشيرة السيف 41",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "لقيط عشيرة السيف 42",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "لقيط عشيرة السيف 43",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "لقيط عشيرة السيف 44",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "لقيط عشيرة السيف 45",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "لقيط عشيرة السيف 46",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "لقيط عشيرة السيف 47",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "لقيط عشيرة السيف 48",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "لقيط عشيرة السيف 49",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "لقيط عشيرة السيف 50",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "لقيط عشيرة السيف 51",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "لقيط عشيرة السيف 52",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "لقيط عشيرة السيف 53",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "لقيط عشيرة السيف 54",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "لقيط عشيرة السيف 55",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "لقيط عشيرة السيف 56",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "لقيط عشيرة السيف 57",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "لقيط عشيرة السيف 58",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "نهاية الموسم الأول",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "بداية الموسم الثاني",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "لقيط عشيرة السيف 61",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "لقيط عشيرة السيف 62",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "لقيط عشيرة السيف 63",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "لقيط عشيرة السيف 64",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "لقيط عشيرة السيف 65",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "لقيط عشيرة السيف 66",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "لقيط عشيرة السيف 67",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "لقيط عشيرة السيف 68",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "لقيط عشيرة السيف 69",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 70,
       "title": "لقيط عشيرة السيف 70",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 71,
       "title": "لقيط عشيرة السيف 71",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "لقيط عشيرة السيف 72",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "لقيط عشيرة السيف 73",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 74,
       "title": "لقيط عشيرة السيف 74",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 75,
       "title": "لقيط عشيرة السيف 75",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 76,
       "title": "لقيط عشيرة السيف 76",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 77,
       "title": "لقيط عشيرة السيف 77",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 78,
       "title": "لقيط عشيرة السيف 78",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 79,
       "title": "لقيط عشيرة السيف 79",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 80,
       "title": "لقيط عشيرة السيف 80",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 81,
       "title": "الصدمات النفسية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 82,
       "title": "الاختبار",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 83,
       "title": "مجمع الحكام",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "توقعت هذا",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 85,
       "title": "قربان",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 86,
       "title": "قوة تحول التنين",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 87,
       "title": "تهمة الخيانة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 88,
       "title": "سليل التنانين",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 89,
       "title": "اتخاذ القرار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "مسؤولية راغنا",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "تعال معي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "أغلال العودة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "عرض هيلدا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 94,
       "title": "جشع المتراجعين",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 95,
       "title": "مغير المستقبل",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 96,
       "title": "انتشار الجنون",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 97,
       "title": "زائر غير متوقع",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 98,
       "title": "دخول المقبرة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 99,
       "title": "ميراث البطل الأول",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 100,
       "title": "النهاية والبداية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 101,
       "title": "سليل راغنا الأصلي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 102,
       "title": "كمين أسقف الدم",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 103,
       "title": "سحر الزمن الأسمى",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 104,
       "title": "الفرصة الأخير",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 105,
       "title": "السيد المنسي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 106,
       "title": "الانهيار",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 107,
       "title": "مكافأة غير متوقعة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 108,
       "title": "السيف العظيم لراغنا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "بداية النهاية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "العالم المجنون",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:57",
+      "release_date": "اليوم"
     }
   ]
 }

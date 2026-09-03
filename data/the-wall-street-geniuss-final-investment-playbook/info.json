@@ -16,13 +16,17 @@
       "number": 1,
       "title": "حتى المال السهل له طرق مختلفة في وول ستريت.",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "المعجزات تحدث لسبب.",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     }
   ]
 }

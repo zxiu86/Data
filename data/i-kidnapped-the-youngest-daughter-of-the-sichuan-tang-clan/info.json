@@ -17,103 +17,137 @@
       "number": 1,
       "title": "عشرون عامًا إلى الوراء",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "اليوم المنشود",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "حبال الأفضال والضغائن",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أنياب الذئب المسعور",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "نصلٌ يحمل مئة عام من الضغائن",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "عرض الخطوبة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "خطيب السيدة الشابة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "خطة الاختطاف الثانية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "غضبُ مَلِكِ السُُّمُومِ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "مَسَارُ النَّصْلِ الدَّقِيق",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الخطة العظيمة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "قيدٌ على اللسان",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "إدمانٌ عذبٌ بلا مقاومة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "جسد اليين الخالص",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "صفقة بالدم",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "I Kidnapped the Youngest Daughter of the Sichuan Tang Clan",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "I Kidnapped the Youngest Daughter of the Sichuan Tang Clan",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     }
   ]
 }

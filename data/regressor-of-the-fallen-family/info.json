@@ -24,895 +24,1193 @@
       "number": 1,
       "title": "البداية!",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفصل رقم 2",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الفصل رقم 3",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الفصل رقم 4",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الفصل رقم 5",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الفصل رقم 6",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "7",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "8",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "9",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "11",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "12",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "13",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "14",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "15",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "16",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "17",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "18",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الفصل رقم 19",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الفصل رقم 20",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "الفصل رقم 21",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الفصل رقم 22",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "الفصل رقم 23",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "الفصل رقم 24",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الفصل رقم 25",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "الفصل رقم 26",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "الفصل رقم 27",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الفصل رقم 28",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الفصل رقم 29",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "الفصل رقم 30",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "الفصل رقم 31",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "32",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "33",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "الفصل رقم 34",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "الفصل رقم 35",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "36",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "37",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "38",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "الفصل رقم 39",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "الفصل رقم 40",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "41",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "الفصل رقم 42",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "الفصل رقم 43",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "44",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "الفصل رقم 45",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "46",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "47",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "48",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "49",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "50",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "51",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "52",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "53",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "الفصل رقم 54",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "55",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "56",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "سنتحرك للحرب.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "58",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "المصيدة",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "الفصل رقم 60",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "إياك والظن  أن عبثك لــــن يُــــرد.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "فارس السرعة ذاك",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "بداية الجولة الثانية",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "جيش الفيكونت يُهاجمنا!",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "يتراجعون؟!",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "أكبر مساهمة في هذه الحرب, وما بعد الحرب",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "تحرك فصائل الأمراء",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "اليوم الأول للجنازة",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "التحكم فى مجريات النزاع",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 70,
       "title": "بداية الصراع",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 71,
       "title": "أرض الأجداد",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "إعلان الحياد، وتوزيع المكافآت",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "بدأ الإستعدادات للحرب الأهلية",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 74,
       "title": "عبقري التشفير و ذاك الرجل",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 75,
       "title": "تشيرن كرو!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 76,
       "title": "مختبر سيد القطع الأثرية.",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 77,
       "title": "المستجدين و أشياء كروين",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 78,
       "title": "الشروع فى عملية الإغتيال",
       "is_closed": false,
-      "total_images": 42
+      "total_images": 42,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 79,
       "title": "تابعات عملية الإغتيال",
       "is_closed": false,
-      "total_images": 69
+      "total_images": 69,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 80,
       "title": "أخر المستجدات",
       "is_closed": false,
-      "total_images": 59
+      "total_images": 59,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 81,
       "title": "81",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 82,
       "title": "82",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 83,
       "title": "83",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "84",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 85,
       "title": "85",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 86,
       "title": "86",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 87,
       "title": "87",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 88,
       "title": "88",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 89,
       "title": "89",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "ليبراتوا",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "الأنسحاب",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "سيف 'بيروس' التوأم!",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "رهان الأرواح",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 94,
       "title": "جيش سيف العاصمة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 95,
       "title": "معركة الأبطال الخارقين",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 96,
       "title": "انسحاب ما بعد العاصفة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 97,
       "title": "الخداع",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 98,
       "title": "ملك بلا تاج",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 99,
       "title": "حرب أبدية",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 100,
       "title": "بداية الحرب.",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 101,
       "title": "عودة عائلة ساقطة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 102,
       "title": "بين التاج والولاء",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 103,
       "title": "سليل العائلة الساقطة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 104,
       "title": "مؤامرة لوجان",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 105,
       "title": "صرخات السقوط",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 106,
       "title": "عهد ماكلين",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 107,
       "title": "هروب جوردان",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 108,
       "title": "معركة لا تنتهي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "اللهب السماوي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "عهد لوجان",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 111,
       "title": "تصفيه الدم الملكي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 112,
       "title": "تتويج فارس الدم",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 113,
       "title": "بداية العهد",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 114,
       "title": "بين السيف والمشاعر",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 115,
       "title": "الراحة القسرية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 116,
       "title": "اختيار القائد",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 117,
       "title": "مجلس الماركيز",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 118,
       "title": "الترقية الأخيرة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 119,
       "title": "الفصل رقم 119",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 120,
       "title": "سقوط بلا رجعة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 121,
       "title": "نقابة ماكلين",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 122,
       "title": "طريق المحارب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 123,
       "title": "حجر المانا",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 124,
       "title": "بذور الشك",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 125,
       "title": "خيوط المؤامرة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 126,
       "title": "عقدة النقص",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 127,
       "title": "الأستعداد للعاصفة",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 128,
       "title": "تنبؤات المستقبل",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 129,
       "title": "الهالة المصطنعة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 130,
       "title": "ما وراء البعثة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 131,
       "title": "كلاب الإمبراطورية",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 132,
       "title": "هيبة العرش",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 133,
       "title": "صدام القوى",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 134,
       "title": "الموهبة الناقصة",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 135,
       "title": "سيف القارة المنحني",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 136,
       "title": "الطائر الحبيس",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 137,
       "title": "نصل الروح",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 138,
       "title": "كبرياء فارس",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 139,
       "title": "البطل",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 140,
       "title": "قناع الامير",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 141,
       "title": "العاصفة المقتربة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 142,
       "title": "التسامح الأخير",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 143,
       "title": "سقوط المتمردين",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 144,
       "title": "نجم غرانديا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 145,
       "title": "بين القانون والرحمه",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 146,
       "title": "قوة الكلمة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 147,
       "title": "غرس بذور المستقبل",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 148,
       "title": "مكيدة الشعلة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     },
     {
       "number": 149,
       "title": "خيانة العرش",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:58",
+      "release_date": "اليوم"
     }
   ]
 }

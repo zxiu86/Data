@@ -18,103 +18,137 @@
       "number": 1,
       "title": "الكارثة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "انتصار",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "تشوانغ جيان يو",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "منافسة اختيار القائد",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "تغلغل الطاقة",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "صيد الألفا",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "النقاط",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "القائد الحقيقي",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "ذئبٌ هائج",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "دوجو القتال المحموم",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "ترقية",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الثانية",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "أقر بهزيمتي",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "عتاد القوة",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "اختبار التقييم",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "Calamity Hunter: I Have an EXP System",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "Calamity Hunter: I Have an EXP System",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:20:45",
+      "release_date": "اليوم"
     }
   ]
 }

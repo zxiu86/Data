@@ -23,127 +23,169 @@
       "number": 1,
       "title": "ميلاد وسقوط الامم",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "أراهن بجسمي.",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "افتتاحية الخصم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "كسر الاحتكار.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "رحلة.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "رسالة.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "ثنائي الاب والابن الاسخف على الاطلاق",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "المبارزة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الضربة القاضية.",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "استقرار مؤقت.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "شرفك امام ولائنا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "وحش البحيرة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "عملية صيد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "تهمة الخيانة العظمى",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "The Jinx's Strategy for Domination",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:04",
+      "release_date": "اليوم"
     }
   ]
 }

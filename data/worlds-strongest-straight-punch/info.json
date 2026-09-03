@@ -20,55 +20,73 @@
       "number": 1,
       "title": "ولادة اللكمة المطلقة",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "تجارة العبيد",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "\"مقامرة\"",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "إعصار السم الزعاف!",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الملوك السماويون الأربعة...",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "مدمن العقاقير.",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "دار موكهيانغ",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "مفتاح الزعيم",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "السمات",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     }
   ]
 }

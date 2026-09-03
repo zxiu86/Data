@@ -18,415 +18,553 @@
       "number": 1,
       "title": "الفصل 1: جزيرة الكوابيس",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفصل 2: شيطان الكوابيس الأبيض",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الفصل 3: وحش الأشواك",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الفصل 4: وحش ذو طفرة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الفصل 5: ميثاق الروح",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الفصل 6: ثعلب ضوء القمر",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الفصل 7: الحريش",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الفصل 8: الكابوس قد وصل",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الفصل 9: طموحات (تشو تشينغ مو)",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "الفصل 10: مهارات الروح - الفتن",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الفصل 11: تنكر (مو شيه)",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الفصل 12: غضب (تشاو يي)",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الفصل 13: هجوم مفاجئ",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "الفصل 14: العرض النهائي",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الفصل 15: الحية ذات الحراشف",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الفصل 16: حادثة قتل (تشو مو)",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الفصل 17: مغادرة جزيرة الكابوس الأزرق",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الفصل 18: جزيرة الكابوس الأزرق السماوي الرئيسية",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الفصل 19: مؤامرة (تشاو يي)",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الفصل 20: بدأت مسابقة الفرق",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "الفصل 21: مو شيه، الطور الثاني المستوي الرابع",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الفصل 22: الاستيلاء على الظل وإصلاح الروح",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "الفصل 23: واحد ضد عشرة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "الفصل 24: ذبح الساحة كلها",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الفصل 25: غضب تشو مو",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "الفصل 26: خياران",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "الفصل 27: دخول جزيرة السجن",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الفصل 28:  اليرقة الغاضبة!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الفصل 29: شرنقة اليرقة الصغيرة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "الفصل 30: الكهف الجليدي",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "الفصل 31: التقاط الروح الجديدة!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "الفصل 32: الضغينة القديمة!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "الفصل 33: عندما يلتقي الأعداء، تشتد المعارك",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "الفصل 34: طفرة مو شيه العرقية",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "الفصل 35: الجينسنغ ذو الحبوب الباردة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "الفصل 36:  النمر الشيطاني",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "الفصل 37: زئيرٌ من وراء القبر",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "الفصل 38: نهايةُ الأضحوكة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "نهايةُ الأضحوكة (2)",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "استدعاء الوحش المتعطش للدماء",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "كمين جزيرة السجن",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "رقصة الجليد القاتلة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "النجاة بأي ثمن",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "44",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "45",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "46",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "47",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "48",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "الفصل 49",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "الفصل 50",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "الفصل 51",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "كابوس هينغهاي",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "لقاءٌ جديد مع تينغ يو",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "معركة الموت: خمسة ضد واحد، وظهور خصم جديد!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "كابوس بحر هين",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "وحشًا روحيًا ثالثًا",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "الهجوم المميت",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "الدرع الروحي",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "الهجوم على القافلة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "عودة تشو مو",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "شيطان الأفعى رباعي الأجنحة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "الدرع الجليدي",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "مطاردة يانغ جيه",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "جرف العنقاء الساقطة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "زهرة الأوركيد الشيطانية السماوية",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "الوحش الصغير",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "السيد الشيطاني لهنغهاي",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "The Charm of Soul Pets",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "The Charm of Soul Pets",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 01:21:02",
+      "release_date": "اليوم"
     }
   ]
 }

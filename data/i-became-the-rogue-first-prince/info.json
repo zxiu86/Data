@@ -24,307 +24,409 @@
       "number": 1,
       "title": "سيف العظماء",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ماذا؟؟؟!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الكونت بالرهارد",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "فن قاتل التنين!",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "جميع الثمار ملكي",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الخصم الأخير!",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "اريدك!",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "قسم الفارس",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "سلالة بايرن",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "عبدة!",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "إنها خاصتي!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "قصيدة المبارز",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "شق حراشف التنين",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "نضال",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "سقمٌ أجوف",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "النيران تضج",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "سيف الغسق",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "فرسان الأسد الحديدي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "نصرٌ بعد عذاب",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الامير المتوج",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "الفصل 21",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "طبقا نادرا؟؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "اهلا بك في قلعة الشتاء؟",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "ستنجرفون في طريقي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "من الأنتقام الى الطمأنينة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "طائر ليس عادي؟",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "لنتقاتل",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "قُدَّاس الأرواح",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "سيد الحرب",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "ذابح الفرسان",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "بَرِيقُ الرثاء",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "استيقاظ الغرائز",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "ولادة قصيدة الحرب",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "ولاءُ فالارهارد وخذلانُ العرش",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "لقاء الغرباء",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "الرمح القادم من الجبال",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "الهيبة الطاغية",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "ثمن الأنشودة الحقيقية",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "أنشودةُ الدم",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "نيران لا تنطفئ",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "هدوءٌ ما قبل العاصفة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "أنشودة الأسوار",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "جحيمُ قلعةِ الشتاء",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "وصية الفجر الأخير",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "قتال اليأس",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "هدية الفارس الأخيرة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "سقوط قلعة الشتاء",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "ثأْر الأمير",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "وجه الكارثة الحقيقي",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "كارثة من صنع البشر",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "طليعة النجاة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:50",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -22,229 +22,305 @@
       "number": 1,
       "title": "عودة الإمبراطور!",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "أمنية رين الأخيرة.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "زلزال المراتب.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "رقم .25",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "خضوع الوحش.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الجوع.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "كلنا سواسية.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "المبارزة المنتظرة.",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "طقوس سلالة الدم.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "أنا مميز قليلًا.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "مواجهة المستذئب.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "كنز مخفي.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "قوة سيد السيف.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "مبارزة الكبار.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "أسرار السلالة الملعونة.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "هجوم فرسان الظل.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "قوة سيد السيف.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "انقاذ الرهائن.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "قتله الهوس.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "معارك البحار.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "مغامر رسمي.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الفريق.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "النزال.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "يوم المبارزة.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "حقيقة أكوامارين",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "بريق المجد القديم.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "رعب الصدوع.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "كارثة.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "كفريق واحد.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "قوة الصدع.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "غرابة الصدع",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "تمت المهمة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "عضوة حرجة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "هجوم ماكر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "بالنار",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "المختار",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "The Sword Emperor Who Surpasses His Previous Life",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "The Sword Emperor Who Surpasses His Previous Life",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-09-04 01:21:07",
+      "release_date": "اليوم"
     }
   ]
 }

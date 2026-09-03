@@ -19,199 +19,265 @@
       "number": 1,
       "title": "خروف أسود",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مخالب مشعوذة في قاع الهاوية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "فرخ مهجور في قصر موحش",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "وميض العيون السحرية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ذكرى لا تختفي",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ذراعان دافئتان",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "أثرٌ لا يُمحى",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "طعامٌ بارد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "لن أثداس بعد اليوم",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "من فريسة الى مفترسة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "خبايا القصر المظلمه",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "عروس تحت المجهر",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الفرصة الأخيرة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "وجه جميل… وسمعة قبيحة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "أميرة بلا سُلطة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "سكون يوارِي الضَّغينة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "حب على حافة الانهيار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "العب بالنار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "حين لانَ الحجر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "حلمٌ لم يكتمل",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "لحظة متأخرة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "رائحة مدنسة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "بين وداعين",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "ذكرى مميزة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "رائحة حلوة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "وحش محاصر",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "الأسرار المدفونة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "سرّ مصون",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "صعبة الانكسار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "أميرة الامبراطورية",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "مصيرٌ قاتم",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "لن تفهم أبدًا",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "The Forgotten Field",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:21:03",
+      "release_date": "اليوم"
     }
   ]
 }

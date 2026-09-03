@@ -21,115 +21,153 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الوحش الذي تحدّى الموت",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "نهاية سبات طويل",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "لا مكان يضاهي المنزل",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ضيفٌ غير متوقع",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "عائلة إيفان.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "سيرك البدر",
       "is_closed": false,
-      "total_images": 50
+      "total_images": 50,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "العودة للتيار (1)",
       "is_closed": false,
-      "total_images": 45
+      "total_images": 45,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "العودة للتيار (2)",
       "is_closed": false,
-      "total_images": 42
+      "total_images": 42,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "خادمة الدم",
       "is_closed": false,
-      "total_images": 50
+      "total_images": 50,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "فرسان آشر",
       "is_closed": false,
-      "total_images": 42
+      "total_images": 42,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "كلٌّ في وادٍ",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "يميائيةُ التنجيم: شارلوت",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "أول تسوق",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الفراغ الأحمر (1)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "Vampire's alchemy",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الفراغ الأحمر (2)",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الفراغ الأحمر (3)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الفراغ الأحمر (4)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:42",
+      "release_date": "اليوم"
     }
   ]
 }

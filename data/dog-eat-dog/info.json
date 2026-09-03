@@ -16,13 +16,17 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 55
+      "total_images": 55,
+      "published_at": "2026-09-04 01:20:48",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "كبش الفداء",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:20:48",
+      "release_date": "اليوم"
     }
   ]
 }

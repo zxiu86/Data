@@ -16,49 +16,65 @@
       "number": 1,
       "title": "سأقتل زوجتي",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "شيطان الانتقام",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "عودة المنتقم",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "سقوط القناع",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الانتقام",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "لعبة المطاردة والانتقام.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "The Old Man Swears Vengeance Against His Demonic Wife",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "The Old Man Swears Vengeance Against His Demonic Wife",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:21:05",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -16,247 +16,329 @@
       "number": 1,
       "title": "جحيم آخر",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مهارة فريدة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "لهب المفارقة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "خيانة؟!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "منطقة التآكل ألفا",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "06",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "07",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "08",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "09",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "ثمن الحقيقة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "خصم لا يستهان به",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "شقوق التآكل",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "قربان غريب",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "أطيافُ الذاكرةِ في ساحةِ الفناء",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "سكين بحكم سيف",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "خلفَ الحدود: ملامحُ الفوضى القادمة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "مسار الذئاب",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "19",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "سقوط المفترس",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "حين ينهار المستحيل",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "سجِل حارِق المفاهِيم",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "مفاوضات القوة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "ظلال دانغون في أوروبا",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "مكيدةٌ تحت سماءٍ مسمومة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "هبٌ يُخرسُ الصخب",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "تقلد الزمام.. وتحدي المقام الأول",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الثمن الذي تخلّيتُ عنه",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الكيان المجهول",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "لا وجود لفرصة ثانية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "كل شيء أو لا شيء",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "الاثنان كواحد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "ستون ساعة من الصمود",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "لن أدع العالم يفنى مرة أخرى",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "قوة لا تُشترى",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "المتقدم الأخير",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "اختبار النوايا",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "التحدي العلني",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "نزال على الملأ",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "World-Saving is a Skill",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "World-Saving is a Skill",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-09-04 01:21:12",
+      "release_date": "اليوم"
     }
   ]
 }

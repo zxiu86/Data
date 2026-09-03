@@ -17,25 +17,33 @@
       "number": 1,
       "title": "عاهل العلاج !",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "سأستعيد ما يخصني بيدي",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مواجهة ملك الزومبي",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "شيطان على هيئة حمل",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:20:56",
+      "release_date": "اليوم"
     }
   ]
 }

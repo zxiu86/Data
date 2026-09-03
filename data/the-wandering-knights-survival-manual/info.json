@@ -16,343 +16,457 @@
       "number": 1,
       "title": "نهاية الطفولة (1)",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "02",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "03",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "04",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "05",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "06",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "07",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "نهاية الطفولة (8)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "نهاية الطفولة (9)",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "11",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "12",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "13",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "14",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "15",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "16",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "17",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "18",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "19",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "20",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "21",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "نخبٌ في حضرة الثعالب.",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "أنياب الإمبراطورية",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "بصيرة تخترق الظلال",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "صليلُ الحديدِ وقرونُ",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "قاهر المستحيل وأسير المعارك",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "نبلُ الفرسانِ وثمنُ النجاة",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "رمحُ الخلاص في عتمة المستنقع",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "خيَانة بلون الذَّهب",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "الموت غريم",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "الأيادي المجردة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "حينما يطرقُ الشبحُ أبوابَ الخونة",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "سقوطُ مارسيل، حينَ يرتدُّ النصرُ نصلًا مسمومًا",
       "is_closed": false,
-      "total_images": 44
+      "total_images": 44,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "حينَ تُزهرُ الدماء ذهبًا",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "بين سكرة النّصر و صحوة الرماد",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "صحوة بين الرماد",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "بريقٌ خلفهُ نيران",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "حقيقةٌ خلف الثّناء",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "خيار يوهان",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "قائدٌ رهينَ الدَّهاء",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "بين الضِّيافة والعداء",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "حصاد الغنائم وخفايا النبلاء",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "مكيدة السُّم وعهد الفروسية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "لقاءٌ تحتَ جنحِ الفجر",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "ثمنُ الشرف",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "مخطط خبيث",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "ثمن الفروسية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "حق الجباية",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "معجزة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "فخ العفاريت",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "القربان الجديد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "معبد أثري",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "اكتمال الطقس",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "نار إينا",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "لا أجر لك عندي!",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "The Wandering Knight’s Survival Manual",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "The Wandering Knight’s Survival Manual",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     }
   ]
 }

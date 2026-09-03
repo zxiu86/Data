@@ -20,223 +20,297 @@
       "number": 1,
       "title": "الحب المتشابك",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "قوانين الكوميديا الرومانسية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "كل ما أردته حياةً عادية",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أراكَ غدًا يا كيم-كون",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "بداية رحلة البحث عن نادٍ",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ركلة واحدة ومرمى خاو",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "عاصفة الملاعب ومباراة النقطة الحاسمة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "صدام صالة التدريب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "بين شائعات الاكتساح واستشارات الحب",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "ليلة وضحاها",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "كل في مواقعهم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "موعدٌ ملغّم",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "حين مُسَّت حدودي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "قانون الدفاع عن النفس",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الحب الأول",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "ابنة الأسطورة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "خلف القناع",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "تبدين غاية في الجمال",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "مواجهات في صالة الألعاب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "اللقاء المنتظر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "ماضٍ مظلم",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "ورطة مدفوعة الأجر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "الياكشا الأسود",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "أسطورة الياكشا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "خطر المانجا",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "استيقاظٌ بالنار",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "نهاية أسطورة إيفان رومانوف",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "المجموعة الدراسية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "صهر مرشح",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "التلميذ المزعج",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "الشرط الأخير",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "الماضي يلاحقني",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "ظهور الاسطورة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "عرضٌ غير متوقع",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "اختفاء أياسي",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "أمنية الناجية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "I Was Thrown Into an Unknown Manga",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 01:20:51",
+      "release_date": "اليوم"
     }
   ]
 }

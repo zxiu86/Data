@@ -17,67 +17,89 @@
       "number": 1,
       "title": "مزرعة العنب",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "إنقاذ الأرض!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "العنب المهمل",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "خل العنب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "زراعة الأرز",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "خفايا الحفل وأسرار التخمير",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "دليل الخل والكرز",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "أول عملية تخمير",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "صناعة الفحم الحيوي",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "Master of Wine",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "Master of Wine",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:20:54",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -17,97 +17,129 @@
       "number": 1,
       "title": "لا نهتم بالقيم المستقبلية",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الخسارة تبدأ بانتصار صغير",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "بداية الدين",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أخسّ من الوحوش",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "صفاء الذهن",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "وقت السداد",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "فاتورة الدماء والذهب",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "لا خيار سوى الهزيمة",
       "is_closed": false,
-      "total_images": 34
+      "total_images": 34,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "زميلٌ أقدم",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "الخيط الأول",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "رياح غريبة",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "حيطةٌ مفرطة",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "ذكرى ممحية",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "محارب حقيقي",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "Murim’s Debt King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "Murim’s Debt King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -19,25 +19,33 @@
       "number": 1,
       "title": "مراسم الإيقاظ",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "لا تهمني الرتبة SSS",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "جيش الهياكل العظمية",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "عبقرية أم غش؟",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:20:55",
+      "release_date": "اليوم"
     }
   ]
 }

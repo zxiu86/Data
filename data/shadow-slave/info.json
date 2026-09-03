@@ -23,43 +23,57 @@
       "number": 1,
       "title": "أنا المُصاب",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "أين أنا؟",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "خيوط القدر",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "اليرقات",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "بطل؟",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "خطة النجاة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "Shadow Slave",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 01:21:00",
+      "release_date": "اليوم"
     }
   ]
 }

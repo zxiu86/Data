@@ -23,31 +23,41 @@
       "number": 1,
       "title": "قدرة جديدة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:11",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "إنعدام وقت الانتظار",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:11",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "غريب الأطوار",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:11",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الوضيع",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 01:21:11",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "المستوى الخامس",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 01:21:11",
+      "release_date": "اليوم"
     }
   ]
 }

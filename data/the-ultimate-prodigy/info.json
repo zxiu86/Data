@@ -25,61 +25,81 @@
       "number": 1,
       "title": "«العودة من قاع اليأس»",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "«بداية طريق الانتقام»",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "انفجار المانا",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "في 15 دقيقة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الجاني",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "لا سلطة أمام القوة المطلقة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "اللهب السماوي",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الحقيقة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "The ultimate prodigy",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "The ultimate prodigy",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 01:21:08",
+      "release_date": "اليوم"
     }
   ]
 }

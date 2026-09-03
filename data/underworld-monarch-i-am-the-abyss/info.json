@@ -23,25 +23,33 @@
       "number": 1,
       "title": "سيد العالم السفلي",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "حصاد الأرواح",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "فرقة الأرواح",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "صعود غو تشينغ",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 01:21:09",
+      "release_date": "اليوم"
     }
   ]
 }
