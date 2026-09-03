@@ -1,0 +1,16 @@
+{
+  "series": "SK",
+  "chapter": 1,
+  "title": "الفصل رقم 1",
+  "is_closed": false,
+  "total_images": 7,
+  "images": [
+    "https://olympustaff.com/uploads/manga_ac627/01/01.webp",
+    "https://olympustaff.com/uploads/manga_ac627/01/02.webp",
+    "https://olympustaff.com/uploads/manga_ac627/01/03.webp",
+    "https://olympustaff.com/uploads/manga_ac627/01/04.webp",
+    "https://olympustaff.com/uploads/manga_ac627/01/05.webp",
+    "https://olympustaff.com/uploads/manga_ac627/01/06.webp",
+    "https://olympustaff.com/uploads/manga_ac627/01/07.webp"
+  ]
+}
