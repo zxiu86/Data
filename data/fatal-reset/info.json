@@ -1,0 +1,94 @@
+{
+  "slug": "fatal-reset",
+  "title": "Fatal Reset",
+  "cover": "https://olympustaff.com/images/manga/0d5046ba41a480eb341b326891041b06.png",
+  "summary": "مانجا Fatal Reset مترجمةFatal Reset يوهان سيلانغ في مهمة انتقامية لتدمير أمراء الشياطين الذين ارتكبوا مجزرة في قريته. لتحقيق أهدافه، يجب عليه أن يصعد في الرتب ليصبح أقوى \"باحث\" في الأرض. ولكن،...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "سحر"
+  ],
+  "page_title": "Fatal Reset",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "فن الموت",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 2,
+      "title": "إبطال السحر وبداية الرحلة نحو الأكاديمية.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 3,
+      "title": "تمائم مفقودة وتحالف مريب",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 4,
+      "title": "أكاديمية الباحثين",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 5,
+      "title": "مانغسيرا الأعمى",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 6,
+      "title": "لقد اجتزتّ الاختبار",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 7,
+      "title": "صف تيماوا",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 8,
+      "title": "تطوير الهبة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 9,
+      "title": "جولة مسائية",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 10,
+      "title": "نزال طائش",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 11,
+      "title": "نهاية مأساوية",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 12,
+      "title": "Fatal Reset",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 13,
+      "title": "Fatal Reset",
+      "is_closed": true,
+      "total_images": 0
+    }
+  ]
+}
