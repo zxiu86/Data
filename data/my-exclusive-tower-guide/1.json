@@ -1,0 +1,29 @@
+{
+  "series": "my-exclusive-tower-guide",
+  "chapter": 1,
+  "title": "1",
+  "is_closed": false,
+  "total_images": 20,
+  "images": [
+    "https://olympustaff.com/uploads/manga_17c27/1/196f1fb7614f3bbf839afc40f2c3b9a7.01.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/b0ab3ae8394e6c1d6f51a3587e770c62.02.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/75ec5aedd03a847de199c7e7e5e92999.03.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/718f34d6833c68af50de7ef864f89212.04.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/24ee74c40598f9090c2753d5904c6e74.05.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/d90130abaa5c7cb5e2a30d6a85a60839.06.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/7cc2f70fc6607604219e93ea170eaeab.07.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/3aebbf828ae430566eac7e6a9dc54ef6.08.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/15d31e6ccb03405bf99ab36676ca2671.09.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/356cb9932da7f5be0ae4ef7b474d7717.10.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/153d63d122b8d07375ba3971505c182d.11.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/178c56c6bcf06acedd2884611b8969a9.12.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/1927fb94e5462ed27508feaa902ec858.13.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/9b95cf989cbd0eaf263bfbb637109583.14.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/7b03292eb7da972568769d2260ea2ff7.15.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/a0b49f4176fdc31c6c81b01d2cab0667.16.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/fc064a6b7187fae05174535e878d22c2.17.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/023270a8410818206eb09e814ea97fd2.18.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/c7b84c4b3b2a0443d31e35b3288d9810.19.jpg",
+    "https://olympustaff.com/uploads/manga_17c27/1/172fa9e77acde5c5c038ecc472fb2a56.20.jpg"
+  ]
+}
