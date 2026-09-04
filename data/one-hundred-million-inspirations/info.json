@@ -1,0 +1,34 @@
+{
+  "slug": "one-hundred-million-inspirations",
+  "title": "One Hundred Million Inspirations",
+  "cover": "https://olympustaff.com/images/manga/2a64e6df13d9a9c962bece9494a11496.webp",
+  "summary": "مانجا One Hundred Million Inspirations مترجمةOne Hundred Million Inspirations مع مئة مليون إلهام بين أطراف أصابعي، هذا هو العالم الذي أبدعتُه.",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "إثارة"
+  ],
+  "page_title": "One Hundred Million Inspirations",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "البداية",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 2,
+      "title": "قمة الإحراج",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 3,
+      "title": "جاذبة المصائب",
+      "is_closed": false,
+      "total_images": 2
+    }
+  ]
+}
