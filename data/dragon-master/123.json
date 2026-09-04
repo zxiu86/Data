@@ -1,0 +1,16 @@
+{
+  "series": "dragon-master",
+  "chapter": 123,
+  "title": "الفصل 123",
+  "is_closed": false,
+  "total_images": 7,
+  "images": [
+    "https://olympustaff.com/uploads/manga_d709f/123/0358ca70abd5d32682b6b94f0641fa9d.jpg",
+    "https://olympustaff.com/uploads/manga_d709f/123/90362645192fd387d33a09718d4a0e13.webp",
+    "https://olympustaff.com/uploads/manga_d709f/123/44d8f6bd07977ac058b92eccb59fc2bd.webp",
+    "https://olympustaff.com/uploads/manga_d709f/123/bb77ffd1c26ad6fe5bc39845f588f417.webp",
+    "https://olympustaff.com/uploads/manga_d709f/123/77bedbfc00f5e1c59b88b1c9230f1dbf.jpg",
+    "https://olympustaff.com/uploads/manga_d709f/123/8606c6568d6aee8933ea103fce6d68d6.webp",
+    "https://olympustaff.com/uploads/manga_d709f/123/bca9287b05c56e481cc90f97405388ee.jpg"
+  ]
+}
