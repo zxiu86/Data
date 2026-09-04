@@ -1,0 +1,15 @@
+{
+  "series": "a-comic-artists-survival-guide",
+  "chapter": 5,
+  "title": "الفصل رقم 5",
+  "is_closed": false,
+  "total_images": 6,
+  "images": [
+    "https://olympustaff.com/uploads/manga_cd006/5/1.webp",
+    "https://olympustaff.com/uploads/manga_cd006/5/2.webp",
+    "https://olympustaff.com/uploads/manga_cd006/5/3.webp",
+    "https://olympustaff.com/uploads/manga_cd006/5/4.webp",
+    "https://olympustaff.com/uploads/manga_cd006/5/5.webp",
+    "https://olympustaff.com/uploads/manga_cd006/5/6.webp"
+  ]
+}
