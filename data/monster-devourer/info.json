@@ -1,0 +1,74 @@
+{
+  "slug": "monster-devourer",
+  "title": "Monster Devourer",
+  "cover": "https://olympustaff.com/images/manga/2080186121721834899.jpg",
+  "summary": "مانجا Monster Devourer مترجمةMonster Devourer \"ميوك جي-سا\" هو الصائد  الذي يأكل الوحوش لحماية العالم البشري. بعد إطلاق سراح شيطان الجحيم، فقد قوته. تمكن من البقاء على قيد الحياة والتقى بـ جويونغ ، وهو شا...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "خيال",
+    "رعب",
+    "غموض",
+    "إثارة",
+    "سحر",
+    "وحوش"
+  ],
+  "page_title": "Monster Devourer",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "01",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 2,
+      "title": "02",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 3,
+      "title": "03",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 4,
+      "title": "04",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 5,
+      "title": "05",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 6,
+      "title": "06",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 7,
+      "title": "07",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 8,
+      "title": "08",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 9,
+      "title": "09",
+      "is_closed": false,
+      "total_images": 10
+    }
+  ]
+}
