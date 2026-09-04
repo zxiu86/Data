@@ -1,0 +1,54 @@
+{
+  "slug": "judgment",
+  "title": "Judgment",
+  "cover": "https://olympustaff.com/images/manga/10dddacacdfafc299895488e65ba9ee0.jpg",
+  "summary": "مانجا Judgment مترجمةJudgment في مجتمعٍ خارقٍ للطبيعة، حيث تحدد القوة القانون والنظام على حدٍّ سواء، أمضى سو يول حياته كلها واحدًا من الضعفاء. ولم يعرف طوال حياته سوى الفرار. لكن حين يقتل...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "نظام",
+    "قوة خارقة"
+  ],
+  "page_title": "Judgment",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "البطل",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 2,
+      "title": "خيانة شريفة",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 3,
+      "title": "نادي قتال",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 4,
+      "title": "تدريب قاسي",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 5,
+      "title": "لهذا يجب ان نعيش",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 6,
+      "title": "Judgment",
+      "is_closed": false,
+      "total_images": 5
+    }
+  ]
+}
