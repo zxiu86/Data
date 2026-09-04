@@ -1,0 +1,460 @@
+{
+  "slug": "the-mad-dog-of-the-dukes-estate",
+  "title": "The Mad Dog of the Duke’s Estate",
+  "cover": "https://olympustaff.com/images/manga/e80dade5937ec1dbb73a8575f6fac8a0.jpg",
+  "summary": "مانجا The Mad Dog of the Duke’s Estate مترجمةThe Mad Dog of the Duke’s Estate عشت حياتي كلها عبدا، مقيدا بزمام. لكن كان هناك أمر واحد قدرت على اختياره بنفسي، ألا وهو مكان مماتي.\r\n\r\n…هل من كلمات أخيرة؟\r\n\r\nسألني صديقي الوحيد بصوت هادئ، ف...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "إثارة",
+    "شونين",
+    "إيسيكاي",
+    "نظام",
+    "سحر"
+  ],
+  "page_title": "The Mad Dog of the Duke’s Estate",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "بداية الرحلة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 2,
+      "title": "دهاء كبير",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 3,
+      "title": "ساعة الحقيقة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 4,
+      "title": "المقصلة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 5,
+      "title": "أول خطوات السمو",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 6,
+      "title": "الوريث الشاب",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 7,
+      "title": "سابينا",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 8,
+      "title": "الفصل رقم 8",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 9,
+      "title": "الفصل رقم 9",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 10,
+      "title": "الفصل رقم 10",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 11,
+      "title": "الفصل رقم 11",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 12,
+      "title": "الفصل رقم 12",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 13,
+      "title": "الفصل رقم 13",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 14,
+      "title": "الفصل رقم 14",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 15,
+      "title": "الفصل رقم 15",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 16,
+      "title": "الفصل رقم 16",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 17,
+      "title": "السيف الواعي",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 18,
+      "title": "الملك الشيطاني",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 20,
+      "title": "20",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 21,
+      "title": "الكلب الجاثم في قصر الدوق",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 22,
+      "title": "سُكرآ",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 23,
+      "title": "الظهور الذي لا ينسى",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 24,
+      "title": "الوصول إلى العاصمة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 25,
+      "title": "وتعود الروابط لتسطع",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 26,
+      "title": "حسامُ زائر",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 27,
+      "title": "كلب العاصمة المسعور",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 28,
+      "title": "رفقًا",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 29,
+      "title": "كارون الساقط",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 30,
+      "title": "سحر أسود..!",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 31,
+      "title": "لا رجعة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 32,
+      "title": "من الشيطان الحقيقي؟",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 33,
+      "title": "33",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 34,
+      "title": "بزوغ",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 35,
+      "title": "الوغد في خطر",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 36,
+      "title": "لقطة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 37,
+      "title": "ما بين السطور",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 38,
+      "title": "سمرقد",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 39,
+      "title": "رئيس العائلة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 40,
+      "title": "منطلق",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 41,
+      "title": "العودة للأضواء",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 42,
+      "title": "مبادئ",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 43,
+      "title": "صدمة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 44,
+      "title": "شرارة في سوق العبيد",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 45,
+      "title": "المناورة الأخيرة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 46,
+      "title": "هدية غير متوقعة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 47,
+      "title": "أبطال أم متمردون؟",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 48,
+      "title": "بداية سقوط الماركيز",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 49,
+      "title": "سيل",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 50,
+      "title": "هيمنة الحفيد الأصغر",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 51,
+      "title": "اعتراف",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 52,
+      "title": "القضاء على الخائن",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 53,
+      "title": "فريسة كارون",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 54,
+      "title": "الطاغي",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 55,
+      "title": "الحرية",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 56,
+      "title": "شعلة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 57,
+      "title": "ميناتور",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 58,
+      "title": "لم الشمل",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 59,
+      "title": "فرسان المملكة المقدسة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 60,
+      "title": "ملك الأرواح",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 61,
+      "title": "أوريون",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 62,
+      "title": "مواجهة الساحر الأسود",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 63,
+      "title": "خطة كارون",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 64,
+      "title": "ملوك الشياطين الأربعة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 65,
+      "title": "عشرين دقيقة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 66,
+      "title": "خمس دقائق من الجحيم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 67,
+      "title": "وتستمر المعركة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 68,
+      "title": "الثقة في الحلفاء",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 69,
+      "title": "تعاون البشر والجان",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 70,
+      "title": "كشف أمري اذاً",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 71,
+      "title": "لأطهرن آثامك",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 72,
+      "title": "لتندمنً أشد الندم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 73,
+      "title": "ما بعد المعركة",
+      "is_closed": false,
+      "total_images": 10
+    }
+  ]
+}
