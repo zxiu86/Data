@@ -1,0 +1,19 @@
+{
+  "series": "TCF",
+  "chapter": 123,
+  "title": "123",
+  "is_closed": false,
+  "total_images": 10,
+  "images": [
+    "https://olympustaff.com/uploads/manga_3def1/123/302adf727ec275aba94a1435fa37c9c9.01.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/65bb501a8948e6ab7fe2b1431ec72699.02.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/245e6f709ea56fcfcda7cc81ba9ebdab.03.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/0c03389cd44cb1d2efad6c516624bcc2.04.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/b71ca2ef39cb5b3d7d9d6f11a98f7cc7.05.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/340f3be1c2552854eed3510f93051a11.06.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/6515f10d51a74bbc728fda1253622ab1.07.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/1341edddfe8c2d1099f674af9a3b8387.08.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/90e09ac17950407b9b64e1ed0cc44c43.09.jpg",
+    "https://olympustaff.com/uploads/manga_3def1/123/431b9166c857c90f3cf5a6ec8bc87b8f.10.jpg"
+  ]
+}
