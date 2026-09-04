@@ -1,0 +1,1211 @@
+{
+  "slug": "ancient-teacher",
+  "title": "Ancient Teacher",
+  "cover": "https://olympustaff.com/images/manga/1843261555.jpg",
+  "summary": "مانجا Ancient Teacher مترجمةAncient Teacher اخيراً إستيقظت! كم مر من السنين؟ مليون؟ عشرات الملايين من السنين؟ لقد فاتني الكثير... فاتتني ملايين السنين من التخطيط ، ملايين السنين من تحدي القدر، ملايين ا...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "خيال",
+    "رعب",
+    "إثارة",
+    "شونين",
+    "فنون قتال",
+    "نظام",
+    "خارق للطبيعة",
+    "وحوش"
+  ],
+  "page_title": "Ancient Teacher",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الفصل رقم 1",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 2,
+      "title": "الفصل رقم 2",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 3,
+      "title": "الفصل رقم 3",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 4,
+      "title": "الفصل رقم 4",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 5,
+      "title": "الفصل رقم 5",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 6,
+      "title": "الفصل رقم 6",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 7,
+      "title": "الفصل رقم 7",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 8,
+      "title": "الفصل رقم 8",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 9,
+      "title": "الفصل رقم 9",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 10,
+      "title": "الفصل رقم 10",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 11,
+      "title": "الفصل رقم 11",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 12,
+      "title": "الفصل رقم 12",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 13,
+      "title": "الفصل رقم 13",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 14,
+      "title": "الفصل رقم 14",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 15,
+      "title": "الفصل رقم 15",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 16,
+      "title": "الفصل رقم 16",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 17,
+      "title": "الفصل رقم 17",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 18,
+      "title": "الفصل رقم 18",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 20,
+      "title": "الفصل رقم 20",
+      "is_closed": false,
+      "total_images": 31
+    },
+    {
+      "number": 21,
+      "title": "الفصل رقم 21",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 22,
+      "title": "الفصل رقم 22",
+      "is_closed": false,
+      "total_images": 31
+    },
+    {
+      "number": 23,
+      "title": "الفصل رقم 23",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 24,
+      "title": "الفصل رقم 24",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 25,
+      "title": "الفصل رقم 25",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 26,
+      "title": "الفصل رقم 26",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 27,
+      "title": "الفصل رقم 27",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 28,
+      "title": "الفصل رقم 28",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 29,
+      "title": "الفصل رقم 29",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 30,
+      "title": "الفصل رقم 30",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 31,
+      "title": "الفصل رقم 31",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 32,
+      "title": "الفصل رقم 32",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 33,
+      "title": "الفصل رقم 33",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 34,
+      "title": "الفصل رقم 34",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 35,
+      "title": "الفصل رقم 35",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 36,
+      "title": "الفصل رقم 36",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 37,
+      "title": "الفصل رقم 37",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 38,
+      "title": "الفصل رقم 38",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 39,
+      "title": "الفصل رقم 39",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 40,
+      "title": "الفصل رقم 40",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 41,
+      "title": "الفصل رقم 41",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 42,
+      "title": "الفصل رقم 42",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 43,
+      "title": "الفصل رقم 43",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 44,
+      "title": "الفصل رقم 44",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 45,
+      "title": "الفصل رقم 45",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 46,
+      "title": "الفصل رقم 46",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 47,
+      "title": "الفصل رقم 47",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 48,
+      "title": "الفصل رقم 48",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 49,
+      "title": "الفصل رقم 49",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 50,
+      "title": "الفصل رقم 50",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 51,
+      "title": "الفصل رقم 51",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 52,
+      "title": "الفصل رقم 52",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 53,
+      "title": "الفصل رقم 53",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 54,
+      "title": "الفصل رقم 54",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 55,
+      "title": "الفصل رقم 55",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 56,
+      "title": "الفصل رقم 56",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 57,
+      "title": "الفصل رقم 57",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 58,
+      "title": "الفصل رقم 58",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 59,
+      "title": "الفصل رقم 59",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 60,
+      "title": "الفصل رقم 60",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 61,
+      "title": "الفصل رقم 61",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 62,
+      "title": "الفصل رقم 62",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 63,
+      "title": "الفصل رقم 63",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 64,
+      "title": "الفصل رقم 64",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 65,
+      "title": "الفصل رقم 65",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 66,
+      "title": "الفصل رقم 66",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 67,
+      "title": "الفصل رقم 67",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 68,
+      "title": "الفصل رقم 68",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 69,
+      "title": "الفصل رقم 69",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 70,
+      "title": "الفصل رقم 70",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 71,
+      "title": "الفصل رقم 71",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 72,
+      "title": "الفصل رقم 72",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 73,
+      "title": "الفصل رقم 73",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 74,
+      "title": "الفصل رقم 74",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 75,
+      "title": "الفصل رقم 75",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 76,
+      "title": "الفصل رقم 76",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 77,
+      "title": "الفصل رقم 77",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 78,
+      "title": "الفصل رقم 78",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 79,
+      "title": "الفصل رقم 79",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 80,
+      "title": "الفصل رقم 80",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 81,
+      "title": "الفصل رقم 81",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 82,
+      "title": "الفصل رقم 82",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 83,
+      "title": "الفصل رقم 83",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 84,
+      "title": "الفصل رقم 84",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 85,
+      "title": "الفصل رقم 85",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 86,
+      "title": "الفصل رقم 86",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 87,
+      "title": "الفصل رقم 87",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 88,
+      "title": "الفصل رقم 88",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 89,
+      "title": "الفصل رقم 89",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 90,
+      "title": "الفصل رقم 90",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 91,
+      "title": "الفصل رقم 91",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 92,
+      "title": "الفصل رقم 92",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 93,
+      "title": "الفصل رقم 93",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 94,
+      "title": "الفصل رقم 94",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 95,
+      "title": "الفصل رقم 95",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 96,
+      "title": "الفصل رقم 96",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 97,
+      "title": "الفصل رقم 97",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 98,
+      "title": "الفصل رقم 98",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 99,
+      "title": "الفصل رقم 99",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 100,
+      "title": "الفصل رقم 100",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 101,
+      "title": "الفصل رقم 101",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 102,
+      "title": "الفصل رقم 102",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 103,
+      "title": "الفصل رقم 103",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 104,
+      "title": "الفصل رقم 104",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 105,
+      "title": "الفصل رقم 105",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 106,
+      "title": "الفصل رقم 106",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 107,
+      "title": "الفصل رقم 107",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 108,
+      "title": "الفصل رقم 108",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 109,
+      "title": "الفصل رقم 109",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 110,
+      "title": "الفصل رقم 110",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 111,
+      "title": "الفصل رقم 111",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 112,
+      "title": "الفصل رقم 112",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 113,
+      "title": "الفصل رقم 113",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 114,
+      "title": "الفصل رقم 114",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 115,
+      "title": "الفصل رقم 115",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 116,
+      "title": "الفصل رقم 116",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 117,
+      "title": "الفصل رقم 117",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 118,
+      "title": "الفصل رقم 118",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 119,
+      "title": "الفصل رقم 119",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 120,
+      "title": "AT 120",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 121,
+      "title": "الفصل 121",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 122,
+      "title": "الفصل 122",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 123,
+      "title": "الفصل 123",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 124,
+      "title": "الفصل 124",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 125,
+      "title": "الفصل 125",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 126,
+      "title": "الفصل 126",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 127,
+      "title": "الفصل 127",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 128,
+      "title": "AT 128",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 129,
+      "title": "سيف تشين شينغيان الساقط يتحدى القائد",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 130,
+      "title": "بالسيف القانون لا يقهر",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 131,
+      "title": "فرع لصد السيف العظيم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 132,
+      "title": "تشكيل الفضاء، نقل فوري",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 133,
+      "title": "كنز غريب من السماء والأرض، تذبذب قوى الروح",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 134,
+      "title": "الشجرة تتحول إلى شيطان، خطوة واحدة فقط",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 135,
+      "title": "هذا الصاقل الشيطاني، من أين جاء؟",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 136,
+      "title": "امرأة جميلة ورقيقة، ضربة واحدة لتدمير العدو.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 137,
+      "title": "السرعة الإلهية، الشفاء على مستوى القديس",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 138,
+      "title": "أجب على سؤالي، وسأبقي على حياتك",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 139,
+      "title": "جرأة واضحة، رمي الحجر على الوحش الشيطاني",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 140,
+      "title": "راكباً على ثعبان شيطاني، يحلق عبر السحب والضباب",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 141,
+      "title": "دعنا نرى من يخاف من الآخر",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 142,
+      "title": "بمجرد أن يظهر، يهزّ جميع العوالم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 143,
+      "title": "هذا الزخم يشبه مواجهة الهاوية",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 144,
+      "title": "أفسدت أشيائي الكبيرة، كنت جريئاً",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 145,
+      "title": "إنه حظ سعيد لك",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 146,
+      "title": "تأثير استثنائي، أصل غير عادي",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 147,
+      "title": "أساليب غير عادية، اختراق جماعي",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 148,
+      "title": "اختراق ناجح، عالم الطغيان",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 149,
+      "title": "جذب الرعد من السماء وتفجير قمة الجبل",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 150,
+      "title": "مدى صعوبة الدخول في الأمور غير العادية",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 151,
+      "title": "استمع إلى القائد، فقط قم بتدميرهم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 152,
+      "title": "سيف الأسلاف، العشب المتغير",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 153,
+      "title": "أصبح اتجاه الكيمياء أكثر وأكثر ازدهاراً",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 154,
+      "title": "الظهور من جديد مسألة وقت فقط",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 155,
+      "title": "لقد فات الأوان، لقد صعدت على متن سفينة القراصنة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 156,
+      "title": "من يجرؤ على مهاجمة قاعة الشيطان",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 157,
+      "title": "اليوم نسوي ضغائننا",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 158,
+      "title": "هذه الأطباق الجانبية ليست شهية بدرجة كافية",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 159,
+      "title": "طاقة صقلك ليست عالية، إلا أنها تمثل عائقاً كبيراً",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 160,
+      "title": "إذا دمرت صقلك، فسوف أدمرك أيضاً",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 161,
+      "title": "الفصل رقم 161",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 162,
+      "title": "الفصل رقم 162",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 163,
+      "title": "الفصل رقم 163",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 164,
+      "title": "164",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 165,
+      "title": "165",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 166,
+      "title": "166",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 167,
+      "title": "167",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 168,
+      "title": "الفصل رقم 168",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 169,
+      "title": "169",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 170,
+      "title": "170",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 171,
+      "title": "المهرج، يقفز لأعلى ولأسفل",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 172,
+      "title": "السعي وراء السلطة والاستيلاء على العرش، أمر سخيف",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 173,
+      "title": "محاولة قلب نظام الأمة، جريمة لا تُغتفر",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 174,
+      "title": "تلاميذ يمتدون عبر عوالم لا حصر لها",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 175,
+      "title": "حماية زعيم الطائفة، تدمير هذا الشرير",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 176,
+      "title": "هالة مرعبة من نية القتل",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 177,
+      "title": "ثقوا بالزعيم، اذبح الخالد",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 178,
+      "title": "دفاع جماعي، لا يقهر",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 179,
+      "title": "كبيرُ عائلةِ تشين الساقط",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 180,
+      "title": "وداعُ النهرِ الروحي",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 181,
+      "title": "أطلالُ الإمبراطورِ الأبيض",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 182,
+      "title": "عشبةُ الطاغيةِ",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 183,
+      "title": "اقتَلعي الأعشاب",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 184,
+      "title": "عائلة باي",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 185,
+      "title": "مدينة اللؤلؤ السماوي",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 186,
+      "title": "رنينُ الأجراس الأثني عشر",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 187,
+      "title": "أصولُ العبيدِ والأسياد",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 188,
+      "title": "شَرخٌ في وصيّةِ عائلةِ باي",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 189,
+      "title": "خنوعُ العمِّ الثّاني",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 190,
+      "title": "سوءُ فهمٍ في وضحِ النهار",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 191,
+      "title": "الخطأ في تحديد السلف، وجلبت على نفسها كارثة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 192,
+      "title": "اغتيال",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 193,
+      "title": "وفاة العم يانغ",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 194,
+      "title": "تغيير الأقدار",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 195,
+      "title": "سلف عائلة باي",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 196,
+      "title": "لن استسلم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 197,
+      "title": "نحت التمثال للسلف",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 198,
+      "title": "Ancient Teacher",
+      "is_closed": false,
+      "total_images": 15
+    }
+  ]
+}
