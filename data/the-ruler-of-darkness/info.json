@@ -19,175 +19,233 @@
       "number": 1,
       "title": "البعث",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "يقظة الظلام",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الجوع",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الوليمة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الطقوس",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ولاء أم جنون؟",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "سلطة الختم",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "القناع الأعمى",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "القصاص",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "صمود في الظلال",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الفضيحة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "المصير",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "وليمة الظلام",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "حمام الدم",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "نجم الموت السماوي",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الحاكم المبجل للسماء المظلمة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "قتل الشر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "هجوم منظم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "قوة الخبراء",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الحاصد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "الإبادة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الظلام",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "التنكيل",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "التيه",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "The Ruler Of Darkness",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "The Ruler Of Darkness",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "The Ruler Of Darkness",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "The Ruler Of Darkness",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الولاء",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:37",
+      "release_date": "اليوم"
     }
   ]
 }

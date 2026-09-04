@@ -19,235 +19,313 @@
       "number": 1,
       "title": "قصر دوبلين",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "النبيلة المدللة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "ستموتين لا محالة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "تجسيد المانا",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "العامّي والمعجزة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "تلميذة المرتزق",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "قتال خسيس؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "سأرسم لوحة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "عامي لكنه معلم ابنتنا!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "خطة المعلم",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "لا يوجود ربيع دائم!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "عد الى الديار",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "دمية تدريب !!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "كنت انظر اليك بدوينة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الفوز مهما كان",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الغد؟",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "كوني على يقين؟",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الخطوة الاولى",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "انا من سينتصر!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "بداية المواجهة الحقيقية",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "بصيص المانا",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "ديريك.. الملاذ الأخير.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "المعلم الذي تتسابق عليه النبيلات.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "المدرب المفقود",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "فخُّ الإغواء",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "تكتيك الاستعطاف، عندما تتحول النبيلة لخادمة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "خلف بريق السحر",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "ليس مجرد سحر",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "جحيم التدريب",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "عندما يقرأ مدربك روايتك السرية!",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "غيرة غير متوقعة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "يوم الحرية اليتيم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "خلف كواليس النبلاء",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "تأثير المعلم الأول",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "حقيقة الرغبة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "ابتسامة انتصار حقيقية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "نبوءة خلف الكواليس",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "خطوة نحو التغيير",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "همسات في الظلام",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     }
   ]
 }

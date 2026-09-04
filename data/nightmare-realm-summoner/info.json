@@ -18,49 +18,65 @@
       "number": 1,
       "title": "نهاية العالم",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "خطر",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "كالحشرة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "حليف",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "أمل",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "من أجل النجاة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "طاقتك",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "داخل عقلك",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 16:42:12",
+      "release_date": "اليوم"
     }
   ]
 }

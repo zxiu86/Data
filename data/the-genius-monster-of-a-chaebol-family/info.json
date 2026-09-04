@@ -19,91 +19,121 @@
       "number": 1,
       "title": "حتماً سأنتقم!",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "شخص آخر في جسدي؟",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مشاعر؟",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "لنجمع ثروة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "رد المعروف",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "زرع بذرة الشك",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "انهيار",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "هدية",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "احذر!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "The Genius Monster of a Chaebol Family",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "مبلغ تافه....",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الحقد والحسد",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "رحلة بالطائرة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "اهذا أنت؟؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "The Genius Monster of a Chaebol Family",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 16:42:26",
+      "release_date": "اليوم"
     }
   ]
 }

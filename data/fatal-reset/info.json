@@ -16,79 +16,105 @@
       "number": 1,
       "title": "فن الموت",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "إبطال السحر وبداية الرحلة نحو الأكاديمية.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "تمائم مفقودة وتحالف مريب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أكاديمية الباحثين",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "مانغسيرا الأعمى",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "لقد اجتزتّ الاختبار",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "صف تيماوا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "تطوير الهبة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "جولة مسائية",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "نزال طائش",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "نهاية مأساوية",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "Fatal Reset",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "Fatal Reset",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     }
   ]
 }

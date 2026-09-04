@@ -17,61 +17,81 @@
       "number": 1,
       "title": "رأيت شبحاً",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "استحواذ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "صفقة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "نزال ودي",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الشر بالشر.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "نادي مدرسي لطيف.",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "ساموراي خلف الشاشة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "لنرى من الزعيم هنا.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "The Possessed Grappler",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "The Possessed Grappler",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:35",
+      "release_date": "اليوم"
     }
   ]
 }

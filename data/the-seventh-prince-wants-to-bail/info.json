@@ -20,109 +20,145 @@
       "number": 1,
       "title": "لن أعيش في جلباب الرواية",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "بداية الكارثة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "سقوط هيبة الوريث",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الغابة الإمبراطورية",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "لقاء فيدوس",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "سقوط الولاء",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "بعد رحيل البطل",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "مناورة في الغابة الإمبراطورية",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "9",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الكهف المقدس",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "محو الأثر وإرث ألف عام",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "تحالفٌ تحت مظلة المعبد",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "المختار المنتظر",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "دعمٌ مشروط",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "خياران لا ثالث لهما",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "The Seventh Prince Wants to Bail",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "The Seventh Prince Wants to Bail",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 16:42:38",
+      "release_date": "اليوم"
     }
   ]
 }

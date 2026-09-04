@@ -17,25 +17,33 @@
       "number": 1,
       "title": "مجرد حمامة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:33",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "سأُقتل",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:33",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "موظف صغير",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:33",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "تابع لتابع",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:33",
+      "release_date": "اليوم"
     }
   ]
 }

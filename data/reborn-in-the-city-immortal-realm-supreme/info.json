@@ -16,49 +16,65 @@
       "number": 1,
       "title": "عودة الإمبراطور المقدّس",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "فسخ الخطوبة وتغيير المصير",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "صدمة القوة وبداية التحالف",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "المواجهة في الكازينو",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "نيل الاحترام",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "تصفية الحسابات والتهديد القادم",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الشفاء والمهرجان الرياضي",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "عائد من الجحيم",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:42:14",
+      "release_date": "اليوم"
     }
   ]
 }

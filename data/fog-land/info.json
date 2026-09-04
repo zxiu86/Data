@@ -16,313 +16,417 @@
       "number": 1,
       "title": "سجين",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مرحبا في أرض الضباب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "المعلم الأحمق",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "التلميذ الاحمق",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الشخص العادي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الضباب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "هذه هي الخطة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "مخبأ",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "ملك العالم السفلي",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "ملك العالم السفلي 2",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "سقوط(1)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "12",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "13",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "14",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "15",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "16: صنع الضباب",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "قريةُ الزلابيــــة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "مركز نوح الطبـــي.",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "معلم التربية البدنيــــة.",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "النــاجي الوحيد!!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "دكتور هايرين.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "دكتور هايرين ( 2 ).",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "(1)الجد زلابية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "الجد زلابية (2)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الجد زلابية (3)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "النمر المتعدد.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "تحرر.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "أردت المساعدة وحسب.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "صديق.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "ماذا لو؟",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "اطفال ارض الضباب.",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "طُعم",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "معركة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "صندوق الإمدادات",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "صندوق الإمدادات ( 2 )",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "صندوق الإمدادات (3)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "صندوق الإمدادات ( 4 )",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "راحة لجسدك وروحك",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "صديق ( 1 )",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "صديق ( 2 )",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "صديق ( 3 )",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "صديق ( 4 )",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "صديق ( 5 )",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "صديق(6)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "الصديق. (7)",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "صديق (7).",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "صديق(8)",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "الصديق (9).",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "صديق (11).",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "الصديق",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "الصديق (13)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "Fog land",
       "is_closed": false,
-      "total_images": 40
+      "total_images": 40,
+      "published_at": "2026-09-04 16:41:56",
+      "release_date": "اليوم"
     }
   ]
 }

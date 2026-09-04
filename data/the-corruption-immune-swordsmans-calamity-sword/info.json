@@ -17,61 +17,81 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "وهم الدماء",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الرحمة للبشر فقط",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "صفقة البرغر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ثمن القوة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "نداء الأدوات الملعونة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "لذة السيطرة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "العلاج القسري",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "The Corruption-Immune Swordsman’s Calamity Sword",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "The Corruption-Immune Swordsman’s Calamity Sword",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:42:24",
+      "release_date": "اليوم"
     }
   ]
 }

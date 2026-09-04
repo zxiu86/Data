@@ -23,391 +23,521 @@
       "number": 1,
       "title": "انا الشرير!!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "عدو والدي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مفسر التعاويذ العبقري",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "مخرج آمن",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "كرامة النبلاء.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "سحر النبيل!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "شفقة.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "تجنب الموت!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "البحث!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "أستاذ العباقرة!",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "المزاد!",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "تغير!",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "مفاجأة!",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "عدو الشياطين!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "إذلال!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "استثمار.",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "مختلة!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "مشاعر صادقة.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "مشاعر صادقة².",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "عداوة!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "كمين!",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "انتقام!",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "قتال!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "النصر!",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الاجتماع!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "نقاش!!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "انقاذ!",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "انتهاء الاجتماع!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "شك!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "استثمار!!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "31",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "نظرية!!!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "تحدي!!!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "اريد قتالك!!!",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "35",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "36",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "الفصل رقم 37",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "سرقة أدبية!!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "طلب المساعدة!!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "وادي كرباس...!!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "ديانانت...!!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "النجاة أم الموت...!!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "نهاية الموسم الأول..",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "بداية الموسم الثانى",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "الاختيار الذي لم يكن في الحسبان",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "زهرة الجليد",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "الوعد الذي دمّر كل شيء!!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "اختفاء لوينا!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "متغير الموت",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "منصب البروفيسور",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "51",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "أرض الرماد!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "بارون الرماد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "قصة لوهاكان",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "مركز الحاجز السحري",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "بارون الرماد...",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "بوادر الانتقام",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "حصارٌ داخل برج السحر",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "الطقس السحري",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "مصدر الطاقة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "خاصية الإمبراطورة السرية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "تحريرُ الطاقة السحرية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "مذكرات ديكولين",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "عداوة الماضي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "The Villain Wants to Live",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-04 16:42:42",
+      "release_date": "اليوم"
     }
   ]
 }

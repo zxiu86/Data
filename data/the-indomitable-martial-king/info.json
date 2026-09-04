@@ -23,895 +23,1193 @@
       "number": 1,
       "title": "01",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفصل 2",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الفصل3-تدريب جحيمي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الفصل 4",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "5",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "6",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الفصل 7",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "8",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الفصل رقم 9",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "11",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "12",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "١٣",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "14",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "15",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "16",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الفصل 17",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "جديرٌ بالعقوبة (3)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "19",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "صوت التوضيح (1)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "21",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "22",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "23",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "24",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "25",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "26",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "27",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "28",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "29",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "30",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "31",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "32",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "33",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "34",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "35",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "36",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "37",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "38",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "39",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "40",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "41",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "42",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "43",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "44",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "45",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "46",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "47",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "48",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "49",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "50",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "51",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "52",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "53",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "54",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "55",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "56",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "57",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "58",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "59",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "60",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "61",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "62",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "63",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "64",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "65",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "66",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "67",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "68",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "69",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 70,
       "title": "70",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 71,
       "title": "71",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "72",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "73",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 74,
       "title": "74",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 75,
       "title": "75",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 76,
       "title": "76",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 77,
       "title": "77",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 78,
       "title": "78",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 79,
       "title": "79",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 80,
       "title": "80",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 81,
       "title": "81",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 82,
       "title": "82",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 83,
       "title": "83",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "84",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 85,
       "title": "85",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 86,
       "title": "86",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 87,
       "title": "87",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 88,
       "title": "88",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 89,
       "title": "حارسة الفضة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "المنافس",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "الشجرة عميقة الجذور يجب أن تُذبل من جذورها",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "الشجرة عميقة الجذور يجب أن تُذبل من جذورها (2)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "إشارة الحرية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 94,
       "title": "شعلة الحرية (2)",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 95,
       "title": "شعلة الحرية (3)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 96,
       "title": "الهجوم المضاد للإمارة (1)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 97,
       "title": "هجوم الإمارة المضاد (2)",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 98,
       "title": "الهجوم المضاد للإمارة (3)",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 99,
       "title": "لهجوم المضاد للإمارة (4)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 100,
       "title": "هجوم الإمارة المضاد (5)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 101,
       "title": "معركة الملك القتالي العظيمة (1)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 102,
       "title": "بطولة ملك القتال الكبرى (2)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 103,
       "title": "معركة ملك القتال الكبرى",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 104,
       "title": "معركة ملك القتال الكبرى (4)",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 105,
       "title": "معركة ملك القتال الكبرى (5)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 106,
       "title": "المنتصر والمهزوم",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 107,
       "title": "الفائز والخاسر (2)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 108,
       "title": "الفائز والخاسر (3)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "109",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "الخروج (2)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 111,
       "title": "الخروج (3)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 112,
       "title": "هدنة مضطربة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 113,
       "title": "أوضاع الدول (2)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 114,
       "title": "الأزمة المقتربة (1)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 115,
       "title": "الأزمة المقتربة (2)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 116,
       "title": "الأزمة المقتربة (3)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 117,
       "title": "الفصل رقم 117",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 118,
       "title": "عداء قديم (1)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 119,
       "title": "عداء قديم (2)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 120,
       "title": "عداء قديم (3)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 121,
       "title": "نزاع شخصي وصراع حتى الموت (1)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 122,
       "title": "نزاع شخصي وقتال حتى الموت (2)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 123,
       "title": "نزاع شخصي وقتال حتى الموت (3)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 124,
       "title": "نزاع شخصي وقتال حتى الموت (4)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 125,
       "title": "نزاع شخصي وقتال حتى الموت (5)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 126,
       "title": "أرانان غراد (1)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 127,
       "title": "أرانان غراد (2)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 128,
       "title": "أرنان غراد (3)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 129,
       "title": "المستنقع المنصهر (1)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 130,
       "title": "المستنقع المنصهر (2)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 131,
       "title": "آثار الحكام الحاميين الأربعة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 132,
       "title": "آثار الحكام الحاميين الأربعة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 133,
       "title": "آثار الحكام الحاميين الأربعة (4)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 134,
       "title": "41 آثار الحكام الحاميين الأربعة (4)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 135,
       "title": "آثار الحكام الحاميين الأربعة (5)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 136,
       "title": "\"الدوق أنتاريس: طقوس القوة\"",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 137,
       "title": "دوقية أنتاريس (2)",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 138,
       "title": "الجميع سواسية (1)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 139,
       "title": "الجميع سواسية (2)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 140,
       "title": "الجميع سواسية (3)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 141,
       "title": "الصليبيون (1)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 142,
       "title": "الصليبيون (1)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 143,
       "title": "الجبهة الغربية لكروفانس (1)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 144,
       "title": "الجبهة الغربية لكروفانس (2)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 145,
       "title": "الفصل رقم 145",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 146,
       "title": "العالَمُ فسيح، والعباقرة كُثر! (1)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 147,
       "title": "العالَمُ فسيح، والعباقرة كُثر!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 148,
       "title": "جبهة أنتاريس الجنوبية (1)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     },
     {
       "number": 149,
       "title": "جبهة أنتاريس الجنوبية (2)",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:27",
+      "release_date": "اليوم"
     }
   ]
 }

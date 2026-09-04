@@ -22,25 +22,33 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:41",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "قانون الغابة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:41",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "عقد",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:41",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "عقد غير مكتمل",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:41",
+      "release_date": "اليوم"
     }
   ]
 }

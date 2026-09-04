@@ -20,31 +20,41 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:20",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "نظام الالتهام 2",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:42:20",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "نظام الالتهام 3",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:42:20",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "نظام الالتهام 4",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:20",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "نظام الالتهام 5",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 16:42:20",
+      "release_date": "اليوم"
     }
   ]
 }

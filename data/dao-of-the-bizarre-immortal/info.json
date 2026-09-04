@@ -21,559 +21,745 @@
       "number": 1,
       "title": "اتبع السيد",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "تلاميذ طيبون",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "لي هو وانغ",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "مدقة وحلوى",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "قلادة يشم",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "شوان يانغ",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "حبوب",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "قيمة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "غرفة الكيمياء",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "المضي قدمًا",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "التاي سوي الأسود",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "نانا",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "المورد الطبي",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "قتله!",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "جرو",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "تشينغ كون",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "فتاة المزهرية",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الاستجواب",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "افتراء",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "طريقة تدريب الخلود",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "خرافات",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الأشباح المتجولة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "كعك",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "الارتقاء للخلود",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "عودوا للمنزل",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "باي لينغ مياو",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "أخذ ما يمكن أخذه",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الجنية الغريبة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "لقاء على طريق ضيق",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "السفر معًا",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "عرض أشباح",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "رنين الجرس",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "العمل الجيد يستحق مكافأة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "خوف",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "قتال",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "الترحيب",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "خجل",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "محو الأمية",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "سأنتظرك",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "تشون شياومان",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "قطاع الطرق",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "طائفة الفضيلة الصالحة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "سيد الطائفة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "نص",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "\"منح الأبناء\"",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "تمثال",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "المظهر الحقيقي",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "لا ارتباك",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "قلب",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "الرحمة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "يا فتى",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "فجوة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "لي تشي",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "رقصة الشامان",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "ممسوس بالأرواح الشريرة",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "الخالدون",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "أوهامُ الحمايةِ وأشباحُ الموت",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "مكائدُ الظلال",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "ترانيمُ الدجى وسقوطُ القناع",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "مكرُ الأطياف ولعبةُ الأبدال",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "صدى الأوهام واختراق الحُجب",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "الرمقُ الأخيرُ وأسرارُ الجوهر",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "تقبّليني!",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "لصوص المياه!",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "دع الباقي لي!",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "كفاك سفكًا للدماء!",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "عودة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "ما هذا الشيء",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "الخيرزان",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 70,
       "title": "سجل الألف العظيم وهمسات الجنون",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 71,
       "title": "- لغز دير آنسي وخطى نحو المجهول",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "ضحكات الجنون وقوى دير آنسي ا...",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "لقاء رئيسة الدير وسر الشينسو",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 74,
       "title": "زيف الواقع وسر الشينسو الدفين",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 75,
       "title": "صفقة الدير ومهمة لايوي شيبا",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 76,
       "title": "هواجس الأتباع وعدة الخلاص",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 77,
       "title": "هلاوس غابة الخيزران",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 78,
       "title": "قرية وو",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 79,
       "title": "تفتيش منزل الزعيم",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 80,
       "title": "حقيقة القوانين وظهور الكيان",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 81,
       "title": "ابنة سيد الموقد وانقشاع الوهم",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 82,
       "title": "صدع الأوهام ونداء الجنون",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 83,
       "title": "شتات العقل",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "استرداد الهوية",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 85,
       "title": "تداخل العوالم والجنون المطبق",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 86,
       "title": "مطاردة اللون الأحمر",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 87,
       "title": "صرخة الأم ورصاصة الواقع",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 88,
       "title": "نزيف الأحشاء",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 89,
       "title": "خلاص مؤلم ورحمة الموت",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "صدى الأوهام",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "تشريح العبث",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "انقشاع الوهم وحصاد المعركة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "لغز القلادتين وكابوس العوالم",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-04 16:41:51",
+      "release_date": "اليوم"
     }
   ]
 }

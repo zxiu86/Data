@@ -16,37 +16,49 @@
       "number": 1,
       "title": "الفصل الاول",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-09-04 16:41:49",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الجنون.",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-09-04 16:41:49",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "كارثة يجب تخلص منها.",
       "is_closed": false,
-      "total_images": 38
+      "total_images": 38,
+      "published_at": "2026-09-04 16:41:49",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "إجمع الكل",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-09-04 16:41:49",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "عملية توظيف محترمة",
       "is_closed": false,
-      "total_images": 43
+      "total_images": 43,
+      "published_at": "2026-09-04 16:41:49",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "Boss beating",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:41:49",
+      "release_date": "اليوم"
     }
   ]
 }

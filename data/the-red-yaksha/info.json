@@ -22,85 +22,113 @@
       "number": 1,
       "title": "ولو بعد حين.",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "منافسة الأشرار",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مبعوث رسميًا",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "جنون",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "كيانات شرسة.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "نيران الغضب.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الأهوال.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "لقاء الأعداء.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "العنف.",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "لن تهرب.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "من أجل روحك",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "مشاركة الألم.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "العين بالعين",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "The Red Yaksha",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:42:36",
+      "release_date": "اليوم"
     }
   ]
 }

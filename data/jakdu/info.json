@@ -17,241 +17,321 @@
       "number": 1,
       "title": "الفصل 1",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "2",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "3",
       "is_closed": false,
-      "total_images": 38
+      "total_images": 38,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "4",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "5",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "6",
       "is_closed": false,
-      "total_images": 29
+      "total_images": 29,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "7",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "8",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "وِزرُ العقوقِ وفخُّ الضريح",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "انقلابُ الموازينِ وحقيقةُ الأم",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "أطفالُ الأرواحِ وجرَّةُ الشؤم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "تجلِّي الحاكم وغطرسةُ الضغينة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "تعويذةُ الأُمِّ وتضحيةُ الروح",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "المسخُ والتهامُ اللعنة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "التهام المسخ وماضي الكاهنة المُدنَّس",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "غضب الكاهنة وخاتمة الصقيع",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الخطيئة الكبرى وقصاص الحاكم",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "حقيقة القوة واعتراف السلف",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "مستشعر الارواح وتجسد الكارثة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "صائد الأشباح ولغز التمثال الراكض",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "جسدٌ ممسوس ورجاءٌ أخير",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "جسدٌ ممسوس ورجاءٌ أخير",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "الانجراف نحو المتاعب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "حقيقة الذراع والتنين الأسود",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "متجر التحف المسكون (1)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "متجر التحف المسكون (2)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "لعنة القمار وسباق الزمن",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "حكم سطحي ومبررات واهية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الصفقة المظلمة وانهيار الآمال",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "في مأزق",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "اليد أسرع من العين",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "روح القمار (1)",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "روح القمار",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "تهديد",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "شين ويو",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "النقطة الفريدة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "تدابير مؤقتة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "ليلة آرق",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "ظهور جديد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "معسكر مدرسي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:42:03",
+      "release_date": "اليوم"
     }
   ]
 }

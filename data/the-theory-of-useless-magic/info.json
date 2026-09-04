@@ -17,25 +17,33 @@
       "number": 1,
       "title": "عزيز قوم ذل",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:40",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مفترق طرق",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-04 16:42:40",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "انسى امجاد الماضي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:42:40",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "سر في طريقك",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:42:40",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -20,151 +20,201 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ساحة القتال",
       "is_closed": false,
-      "total_images": 43
+      "total_images": 43,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "أنا لن أنسحب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أريد أن أصبح أقوى",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "مدرسة البوابات الستة",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "واحد أثنان",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "غيرتني الملاكمة",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الأمور تغيرت",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "نهاية التدريب",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "استغلال البيئة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "هيوك جين",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "قابلني في ساحة القتال",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "التدريب الأخير",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "كشف الخدعة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "تحدّى الأقوى",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الزعيم السابق",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": ".",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "18",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "مكيدة",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "BAEKSAN",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "21",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "22",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "23",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "24",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الفصل 25",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-04 16:42:04",
+      "release_date": "اليوم"
     }
   ]
 }

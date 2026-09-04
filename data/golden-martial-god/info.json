@@ -18,175 +18,233 @@
       "number": 1,
       "title": "التاجر المخضرم",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "تجارة ناجحة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "نزال",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "خطة منتصف الليل",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "جوهر طائفة وودانغ",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "سجين وودانغ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "على حافة الهلاك",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "اخوة اشقياء",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "صدام داخلي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "درس قاسٍ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "شراء النجاة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "لكل سعرٍ سبب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "طفلٌ في البئر",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "سلاح التاجر",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "ثمنٌ خفي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "معاملة خاصة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "حرب بالوكالة",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "تلميذٌ دنيوي مسجَّل",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "اختبار أخير",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "موهبة متأخرة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "قوة نمر",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "السرعة القصوى",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "هديةٌ متواضعة",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "بطيء التعلم",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "صِلة خاصة بي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "من تظن نفسك؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "رد الإهانة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "Golden Martial God",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "Golden Martial God",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-04 16:41:58",
+      "release_date": "اليوم"
     }
   ]
 }
