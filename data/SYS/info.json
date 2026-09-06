@@ -1688,6 +1688,12 @@
       "total_images": 7,
       "published_at": "2026-09-04 16:41:39",
       "release_date": "أمس"
+    },
+    {
+      "number": 210,
+      "title": "تدابير سولدريت",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }
