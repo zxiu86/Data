@@ -20328,7 +20328,79 @@
       "خارق للطبيعة",
       "وحوش"
     ],
-    "page_title": "Global Job Change: Starting With the Hidden Class Necromancer Lord"
+    "page_title": "Global Job Change: Starting With the Hidden Class Necromancer Lord",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "اسطورة بجانبك",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 2,
+        "title": "عرض لا يمكن رفضه",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 3,
+        "title": "بدأ الأختبـــار",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 4,
+        "title": "أنا الملك",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 5,
+        "title": "الزعيم الأخير",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 6,
+        "title": "مستوى الكابوس",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 7,
+        "title": "رغبة في الأنتقام",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 8,
+        "title": "Global Job Change: Starting With the Hidden Class Necromancer Lord",
+        "is_closed": false,
+        "total_images": 2,
+        "published_at": "2026-09-04 16:41:57",
+        "release_date": "أمس"
+      },
+      {
+        "number": 9,
+        "title": "Global Job Change: Starting With the Hidden Class Necromancer Lord",
+        "is_closed": true,
+        "total_images": 0
+      }
+    ]
   },
   "wfjsra": {
     "slug": "wfjsra",
