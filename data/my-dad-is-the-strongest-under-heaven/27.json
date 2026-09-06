@@ -2,7 +2,20 @@
   "series": "my-dad-is-the-strongest-under-heaven",
   "chapter": 27,
   "title": "My Dad Is the Strongest Under Heaven",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 12,
+  "images": [
+    "https://olympustaff.com/images/chapter/8673d1726f681ac79b9c4c1fc8098ca4.png",
+    "https://olympustaff.com/images/chapter/7029d3bdda896678d3fb891b316cf6a3.png",
+    "https://olympustaff.com/images/chapter/e3aef84b52b9aafa0c11da9243c5c9b1.png",
+    "https://olympustaff.com/images/chapter/c31c8280c8df1b6316280d8e615a11f1.webp",
+    "https://olympustaff.com/images/chapter/898f82897359f165aac8dd5f091bb0f8.png",
+    "https://olympustaff.com/images/chapter/5fa1d33c965885933f8783db2c476178.webp",
+    "https://olympustaff.com/images/chapter/e10c22f313e2533f34016bf0ddb0261b.webp",
+    "https://olympustaff.com/images/chapter/7248280fbe8063037907c6dbb46d34ea.png",
+    "https://olympustaff.com/images/chapter/cd2d5a78998ac6fa10a78019922ffffc.webp",
+    "https://olympustaff.com/images/chapter/7358c9fcff3a514e1f8327fe05c0b48a.webp",
+    "https://olympustaff.com/images/chapter/669ad7c943bb3a5377c90f50120b65a9.png",
+    "https://olympustaff.com/images/chapter/4a0bc71d6c4ee82371967b05316095fc.png"
+  ]
 }
