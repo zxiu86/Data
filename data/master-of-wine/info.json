@@ -100,6 +100,12 @@
       "total_images": 0,
       "published_at": "2026-09-04 01:20:54",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 12,
+      "title": "Master of Wine",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
