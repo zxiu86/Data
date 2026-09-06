@@ -143,6 +143,30 @@
       "total_images": 6,
       "published_at": "2026-09-04 01:20:50",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 17,
+      "title": "طفيلي؟",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 18,
+      "title": "المستوى اللامحدود",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 19,
+      "title": "خيانة عائلة تشو",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 20,
+      "title": "متجر حدادة الروح الحديدية",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }
