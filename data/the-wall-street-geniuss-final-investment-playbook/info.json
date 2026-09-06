@@ -27,6 +27,30 @@
       "total_images": 17,
       "published_at": "2026-09-04 01:21:08",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 3,
+      "title": "الإعدام العلني.",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 4,
+      "title": "التسلسل الهرمي في وول ستريت",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 5,
+      "title": "The Wall Street Genius’s Final Investment Playbook",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 6,
+      "title": "The Wall Street Genius’s Final Investment Playbook",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }
