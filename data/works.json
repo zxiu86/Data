@@ -28231,7 +28231,221 @@
       "مغامرات",
       "شونين"
     ],
-    "page_title": "Devely’s Healing Time"
+    "page_title": "Devely’s Healing Time",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "الدرويد",
+        "is_closed": false,
+        "total_images": 19,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 2,
+        "title": "بداية",
+        "is_closed": false,
+        "total_images": 19,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 3,
+        "title": "صدي البرية",
+        "is_closed": false,
+        "total_images": 18,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 4,
+        "title": "عمدة القرية",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 5,
+        "title": "المتابعون.",
+        "is_closed": false,
+        "total_images": 19,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 6,
+        "title": "زيارة مفاجئة",
+        "is_closed": false,
+        "total_images": 14,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 7,
+        "title": "اجتماع القرية",
+        "is_closed": false,
+        "total_images": 18,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 8,
+        "title": "تخطي المرحلة الثالثة",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 9,
+        "title": "إعادة الإعمار والجائزة الكبرى",
+        "is_closed": false,
+        "total_images": 19,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 10,
+        "title": "الفصل ال10",
+        "is_closed": false,
+        "total_images": 18,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 11,
+        "title": "جبل مسكون",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 12,
+        "title": "مخطط",
+        "is_closed": false,
+        "total_images": 18,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 13,
+        "title": "أحوالٌ جوية",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 14,
+        "title": "أخ",
+        "is_closed": false,
+        "total_images": 14,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 15,
+        "title": "ارتباط مؤثر",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 16,
+        "title": "ذاكرة أليمة",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 17,
+        "title": "زيارة الفرقة",
+        "is_closed": false,
+        "total_images": 14,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 18,
+        "title": "بين السكينة والفوضى",
+        "is_closed": false,
+        "total_images": 15,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 19,
+        "title": "ثقة مبنية على حدس",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 20,
+        "title": "فخاخ في الغابة",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 21,
+        "title": "علاقة مريبة",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 22,
+        "title": "وجبة خفيفة",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 23,
+        "title": "الحرية",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 24,
+        "title": "Devely’s Healing Time",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 25,
+        "title": "Devely’s Healing Time",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:53",
+        "release_date": "أمس"
+      },
+      {
+        "number": 26,
+        "title": "Devely’s Healing Time",
+        "is_closed": false,
+        "total_images": 7
+      },
+      {
+        "number": 27,
+        "title": "Devely’s Healing Time",
+        "is_closed": false,
+        "total_images": 2
+      }
+    ]
   },
   "one-hundred-million-inspirations": {
     "slug": "one-hundred-million-inspirations",
