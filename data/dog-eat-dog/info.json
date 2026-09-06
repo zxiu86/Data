@@ -16,25 +16,19 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 55,
-      "published_at": "2026-09-04 01:20:48",
-      "release_date": "قبل يومين"
+      "total_images": 55
     },
     {
       "number": 2,
       "title": "كبش الفداء",
       "is_closed": false,
-      "total_images": 7,
-      "published_at": "2026-09-04 01:20:48",
-      "release_date": "قبل يومين"
+      "total_images": 7
     },
     {
       "number": 3,
       "title": "صفقة الدم",
       "is_closed": false,
-      "total_images": 10,
-      "published_at": "2026-09-06 05:20:18",
-      "release_date": "اليوم"
+      "total_images": 10
     }
   ]
 }
