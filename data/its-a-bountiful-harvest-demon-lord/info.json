@@ -675,6 +675,12 @@
       "total_images": 12,
       "published_at": "2026-09-04 16:42:02",
       "release_date": "أمس"
+    },
+    {
+      "number": 83,
+      "title": "لم نرَ شيئًا",
+      "is_closed": false,
+      "total_images": 18
     }
   ]
 }
