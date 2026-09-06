@@ -2,7 +2,17 @@
   "series": "two-realms-i-possess-a-martial-arts-world",
   "chapter": 8,
   "title": "Two Realms: I Possess a Martial Arts World",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 9,
+  "images": [
+    "https://olympustaff.com/images/manga/116ee3d519ca71d77e4806cf9b9b2471.jpg",
+    "https://olympustaff.com/images/chapter/d1d059f2f91e65eefa8e5433f7b63a51.png",
+    "https://olympustaff.com/images/chapter/b31d983cc8d5ab4fb729563a79453a42.png",
+    "https://olympustaff.com/images/chapter/b9cb85e137f5c5592c54c601c6bebfa6.png",
+    "https://olympustaff.com/images/chapter/ffb93707fe54cffc1fbed89f5c768025.png",
+    "https://olympustaff.com/images/chapter/00af00f11fb6e677a0cf9a92d9df6800.png",
+    "https://olympustaff.com/images/chapter/e1f6553e477b61ff3970429aa061eb5a.png",
+    "https://olympustaff.com/images/chapter/28e44ba376f9c2a374077f6ee68d8337.jpg",
+    "https://olympustaff.com/images/chapter/120f05ef2794552b382c142d2f5ef5c1.jpg"
+  ]
 }
