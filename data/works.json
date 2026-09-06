@@ -22020,7 +22020,1351 @@
       "قوة خارقة",
       "وحوش"
     ],
-    "page_title": "Dungeon Odyssey"
+    "page_title": "Dungeon Odyssey",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "الفصل رقم 1",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 2,
+        "title": "الفصل رقم 2",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 3,
+        "title": "الفصل رقم 3",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 4,
+        "title": "الفصل رقم 4",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 5,
+        "title": "الفصل رقم 5",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 6,
+        "title": "الفصل رقم 6",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 7,
+        "title": "الفصل رقم 7",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 8,
+        "title": "الفصل رقم 8",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 9,
+        "title": "الفصل رقم 9",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 10,
+        "title": "الفصل رقم 10",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 11,
+        "title": "الفصل رقم 11",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 12,
+        "title": "الفصل رقم 12",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 13,
+        "title": "الفصل رقم 13",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 14,
+        "title": "الفصل رقم 14",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 15,
+        "title": "الفصل رقم 15",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 16,
+        "title": "الفصل رقم 16",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 17,
+        "title": "الفصل رقم 17",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 18,
+        "title": "الفصل رقم 18",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 19,
+        "title": "الفصل رقم 19",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 20,
+        "title": "20",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 21,
+        "title": "21",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 22,
+        "title": "22",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 23,
+        "title": "23",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 24,
+        "title": "24",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 25,
+        "title": "الفصل 25: محارب الناغا البطل",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 26,
+        "title": "الفصل رقم 26",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 27,
+        "title": "الفصل 27: اختيار جانب",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 28,
+        "title": "28",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 29,
+        "title": "الفصل رقم 29",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 30,
+        "title": "الفصل رقم 30",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 31,
+        "title": "الفصل رقم 31",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 32,
+        "title": "الفصل رقم 32",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 33,
+        "title": "الفصل رقم 33",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 34,
+        "title": "الفصل رقم 34",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 35,
+        "title": "الفصل رقم 35",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 36,
+        "title": "الفصل رقم 36",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 37,
+        "title": "الفصل رقم 37",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 38,
+        "title": "الفصل رقم 38",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 39,
+        "title": "الفصل رقم 39",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 40,
+        "title": "الفصل رقم 40",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 41,
+        "title": "الفصل رقم 41",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 42,
+        "title": "الفصل رقم 42",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 43,
+        "title": "الفصل رقم 43",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 44,
+        "title": "الفصل رقم 44",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 45,
+        "title": "الفصل رقم 45",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 46,
+        "title": "46",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 47,
+        "title": "47",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 48,
+        "title": "48",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 49,
+        "title": "الفصل رقم 49",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 50,
+        "title": "الفصل رقم 50",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 51,
+        "title": "الفصل رقم 51",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 52,
+        "title": "الفصل رقم 52",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 53,
+        "title": "الفصل رقم 53",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 54,
+        "title": "الفصل رقم 54",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 55,
+        "title": "55",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 56,
+        "title": "56",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 57,
+        "title": "57",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 58,
+        "title": "58",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 59,
+        "title": "59",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 60,
+        "title": "60",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 61,
+        "title": "61",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 62,
+        "title": "62",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 63,
+        "title": "63",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 64,
+        "title": "64",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 65,
+        "title": "65",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 66,
+        "title": "الفصل رقم 66",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 67,
+        "title": "الفصل رقم 67",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 68,
+        "title": "الفصل رقم 68",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 69,
+        "title": "الفصل رقم 69",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 70,
+        "title": "الفصل رقم 70",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 71,
+        "title": "الفصل رقم 71",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 72,
+        "title": "الفصل 72: دمار المتاهة",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 73,
+        "title": "الفصل 73: قصة الدورهان",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 74,
+        "title": "74",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 75,
+        "title": "75",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 76,
+        "title": "الفصل 76: المنبوذين من الحرب",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 77,
+        "title": "الفصل 77: سطح الأرض",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 78,
+        "title": "الفصل 78: السحر",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 79,
+        "title": "الفصل 79: مسارات المانا",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 80,
+        "title": "الفصل 80: مزرعة البشر",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 81,
+        "title": "الفصل 81: أطفال الدهاليز",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 82,
+        "title": "الفصل 82: ملاحظات الرسام",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 83,
+        "title": "الفصل 83: قصة جانبية #2",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 84,
+        "title": "الفصل 84: تناول اللحم",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 85,
+        "title": "85",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 86,
+        "title": "الفصل 86: بدأت الحرب والفوضى!",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 87,
+        "title": "87",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 88,
+        "title": "88",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 89,
+        "title": "89",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 90,
+        "title": "الفصل رقم 90: مطاردة",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 91,
+        "title": "الفصل 91: كن مفيدًا أو طعمًا",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 92,
+        "title": "92",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 93,
+        "title": "93",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 94,
+        "title": "94",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 95,
+        "title": "95",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 96,
+        "title": "96",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 97,
+        "title": "97",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 98,
+        "title": "98",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 99,
+        "title": "الفصل 99: قدرة الطفيلي الجديدة!",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 100,
+        "title": "الفصل 100: نعمة من هم تحت الأرض",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 101,
+        "title": "الفصل 101: هوراس المحروق",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 102,
+        "title": "102",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 103,
+        "title": "103",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 104,
+        "title": "104",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 105,
+        "title": "105",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 106,
+        "title": "106",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 107,
+        "title": "107",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 108,
+        "title": "108",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 109,
+        "title": "109",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 110,
+        "title": "110",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 111,
+        "title": "111",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 112,
+        "title": "112",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 113,
+        "title": "113",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 114,
+        "title": "114",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 115,
+        "title": "115",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 116,
+        "title": "116",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 117,
+        "title": "117",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 118,
+        "title": "118",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 119,
+        "title": "119",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 120,
+        "title": "120",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 121,
+        "title": "121",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 122,
+        "title": "122",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 123,
+        "title": "123",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 124,
+        "title": "124",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 125,
+        "title": "الفصل 125: بداية الحرب",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 126,
+        "title": "الفصل 126: استعدادات الحرب",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 127,
+        "title": "الفصل 127: تغير غير متوقع",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 128,
+        "title": "الفصل 128: مطرقة الحرب",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 129,
+        "title": "الفصل 129: قلب المستنقع",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 130,
+        "title": "الفصل 130: خيانة",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 131,
+        "title": "الفصل 131: مجدٌ جديد",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 132,
+        "title": "الفصل 132: الموجة الرئيسية",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 133,
+        "title": "الفصل 133: وضع جبهات غابة الأحلام",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 134,
+        "title": "الفصل 134: فرق المكانة",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 135,
+        "title": "الفصل 135: أرض الصيد الماحقة للحياة",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 136,
+        "title": "الفصل 136: هزيمة نكراء",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 137,
+        "title": "الفصل 137: توسع الظلال",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 138,
+        "title": "الفصل 138: النفق تحت الأرضي",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 139,
+        "title": "الفصل 139: مصاصي الدماء",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 140,
+        "title": "الفصل 140: أخبار جبهات القتال",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 141,
+        "title": "الفصل 141: الأولوية",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 142,
+        "title": "الفصل 142: هوراس المحروق",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 143,
+        "title": "الفصل 143: طفل <الليل>",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 144,
+        "title": "الفصل 144: الشمس",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 145,
+        "title": "الفصل 145: مهارة <التظليل>",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 146,
+        "title": "الفصل 146: اختراق عش الجرذان",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 147,
+        "title": "الفصل 147: إخلاء الناغا العمال",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 148,
+        "title": "الفصل 148: إنجيلُ الفوضى",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 149,
+        "title": "الفصل 149: ابنةُ العم",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 150,
+        "title": "الفصل 150: نطاقُ الثلاثةِ أمتار",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 151,
+        "title": "الفصل 151: البطولةُ السلبية",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 152,
+        "title": "الفصل 152: حفَّارُ قبائرِ الناغا",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 153,
+        "title": "الفصل 153: صفقةُ التاجرِ الأسود",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 154,
+        "title": "الفصل 154: كابوسُ المَطْهَر",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 155,
+        "title": "الفصل 155: لسنا إلا مجرد فئران",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 156,
+        "title": "الفصل 156: الجوادُ الروحيُّ",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 157,
+        "title": "الفصل 157: قُداسُ الدّمِ",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 158,
+        "title": "الفصل 158: تقريرُ الجبهةِ الجنوبية",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 159,
+        "title": "الفصل 159: اعتذارٌ بعدَ مئاتِ السنين",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 160,
+        "title": "الفصل 160: وحدة الحصار الرئيسية",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 161,
+        "title": "الفصل 161: سقوطُ وحشِ الحصار",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 162,
+        "title": "طموحٌ يعلو عرشَ الكونت",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 163,
+        "title": "شرطُ العشرِ ضربات",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 164,
+        "title": "النسخِ المنقسمة",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 165,
+        "title": "الكرةُ الأخيرة",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 166,
+        "title": "فيضانُ السلايمِ القديم",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 167,
+        "title": "أصلُ الشَّرَه الأسود",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-04 16:41:32",
+        "release_date": "أمس"
+      },
+      {
+        "number": 168,
+        "title": "وعاءُ الكونت",
+        "is_closed": false,
+        "total_images": 11
+      }
+    ]
   },
   "i-was-immediately-mistaken-for-a-monster-genius-actor": {
     "slug": "i-was-immediately-mistaken-for-a-monster-genius-actor",
