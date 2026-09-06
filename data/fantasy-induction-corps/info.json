@@ -289,6 +289,12 @@
       "total_images": 16,
       "published_at": "2026-09-04 16:41:55",
       "release_date": "أمس"
+    },
+    {
+      "number": 35,
+      "title": "Fantasy Induction Corps",
+      "is_closed": false,
+      "total_images": 36
     }
   ]
 }
