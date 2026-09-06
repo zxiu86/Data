@@ -24342,7 +24342,47 @@
       "إثارة",
       "سحر"
     ],
-    "page_title": "The Theory of Useless Magic"
+    "page_title": "The Theory of Useless Magic",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "عزيز قوم ذل",
+        "is_closed": false,
+        "total_images": 19,
+        "published_at": "2026-09-04 16:42:40",
+        "release_date": "أمس"
+      },
+      {
+        "number": 2,
+        "title": "مفترق طرق",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 16:42:40",
+        "release_date": "أمس"
+      },
+      {
+        "number": 3,
+        "title": "انسى امجاد الماضي",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:42:40",
+        "release_date": "أمس"
+      },
+      {
+        "number": 4,
+        "title": "سر في طريقك",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-04 16:42:40",
+        "release_date": "أمس"
+      },
+      {
+        "number": 5,
+        "title": "السوق السوداء",
+        "is_closed": false,
+        "total_images": 10
+      }
+    ]
   },
   "the-villain-wants-to-live": {
     "slug": "the-villain-wants-to-live",
