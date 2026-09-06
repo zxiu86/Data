@@ -3984,7 +3984,31 @@
       "أكشن",
       "إثارة"
     ],
-    "page_title": "Dog Eat Dog"
+    "page_title": "Dog Eat Dog",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "البداية",
+        "is_closed": false,
+        "total_images": 55,
+        "published_at": "2026-09-04 01:20:48",
+        "release_date": "قبل يومين"
+      },
+      {
+        "number": 2,
+        "title": "كبش الفداء",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-04 01:20:48",
+        "release_date": "قبل يومين"
+      },
+      {
+        "number": 3,
+        "title": "صفقة الدم",
+        "is_closed": false,
+        "total_images": 10
+      }
+    ]
   },
   "RCH": {
     "slug": "RCH",
