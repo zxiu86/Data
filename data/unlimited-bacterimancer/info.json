@@ -23,19 +23,25 @@
       "number": 1,
       "title": "ضربة حظ.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-06 23:56:54",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "حاكم العالم المجهري",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:56:54",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الصياد زيفيروس.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-06 23:56:54",
+      "release_date": "اليوم"
     }
   ]
 }

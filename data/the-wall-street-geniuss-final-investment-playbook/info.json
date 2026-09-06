@@ -16,37 +16,49 @@
       "number": 1,
       "title": "حتى المال السهل له طرق مختلفة في وول ستريت.",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:56:51",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "المعجزات تحدث لسبب.",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-06 23:56:51",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الإعدام العلني.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:56:51",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "التسلسل الهرمي في وول ستريت",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:56:51",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "The Wall Street Genius’s Final Investment Playbook",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-06 23:56:51",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "The Wall Street Genius’s Final Investment Playbook",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-06 23:56:51",
+      "release_date": "اليوم"
     }
   ]
 }

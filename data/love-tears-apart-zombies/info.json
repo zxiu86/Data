@@ -17,37 +17,49 @@
       "number": 1,
       "title": "الخاطب",
       "is_closed": false,
-      "total_images": 38
+      "total_images": 38,
+      "published_at": "2026-09-06 23:55:51",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الناجية الأخيرة",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-06 23:55:51",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "قدري",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:51",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "حب مشروط",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-06 23:55:51",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "Love Tears Apart Zombies",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-06 23:55:51",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "Love Tears Apart Zombies",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-06 23:55:51",
+      "release_date": "اليوم"
     }
   ]
 }

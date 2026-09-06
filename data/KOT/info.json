@@ -25,757 +25,1009 @@
       "number": 1,
       "title": "الفصل رقم 1",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفصل رقم 2",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الفصل رقم 3",
       "is_closed": false,
-      "total_images": 42
+      "total_images": 42,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الفصل رقم 4",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الفصل رقم 5",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الفصل رقم 6",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الفصل رقم 7",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الفصل رقم 8",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الفصل رقم 9",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "الفصل رقم 10",
       "is_closed": false,
-      "total_images": 42
+      "total_images": 42,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الفصل رقم 11",
       "is_closed": false,
-      "total_images": 48
+      "total_images": 48,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الفصل رقم 12",
       "is_closed": false,
-      "total_images": 42
+      "total_images": 42,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الفصل رقم 13",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "الفصل رقم 14",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الفصل رقم 15",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الفصل رقم 16",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الفصل رقم 17",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الفصل رقم 18",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الفصل رقم 19",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الفصل رقم 20",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "الفصل رقم 21",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الفصل رقم 22",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "الفصل رقم 23",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "الفصل رقم 24",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الفصل رقم 25",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "الفصل رقم 26",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "الفصل رقم 27",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الفصل رقم 28",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الفصل رقم 29",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "30",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "31",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "32",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "33",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "34",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "35",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "36",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "37",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "38",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "39",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "40",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "41",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "42",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "43",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "44",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "45",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "46",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "47",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "48",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "49",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "50",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "51 I'm not that kind of talent الفصل",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "I'm not that kind of talent 52",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "الفصل 53 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "I'm not that kind of talent 54",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "55 I'm not that kind of talent",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "I’m Not That Kind of Talent 56",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "I’m Not That Kind of Talent 57",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "I’m Not That Kind of Talent 58",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "I’m Not That Kind of Talent 59",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "I’m Not That Kind of Talent 60",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "I’m Not That Kind of Talent 61",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "I’m Not That Kind of Talent 62",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "I’m Not That Kind of Talent 63",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "I’m Not That Kind of Talent 64",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "I’m Not That Kind of Talent 65",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "I’m Not That Kind of Talent 66",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "I’m Not That Kind of Talent 67",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "الفصل 68 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "الفصل 69 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 70,
       "title": "الفصل 70 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 71,
       "title": "الفصل 71 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "الفصل 72 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "الفصل 73 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 74,
       "title": "الفصل 74 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 75,
       "title": "الفصل 75",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 76,
       "title": "الفصل 76",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 77,
       "title": "الفصل 77 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 78,
       "title": "الفصل 78 من I'm Not that kind of talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 79,
       "title": "الفصل 79 من I'm Not That kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 80,
       "title": "الفصل 80 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 81,
       "title": "الفصل 81 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 82,
       "title": "الفصل 82 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 83,
       "title": "الفصل 83 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "الفصل 84 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 85,
       "title": "الفصل 85 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 86,
       "title": "الفصل 86 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 87,
       "title": "الفصل 87 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 88,
       "title": "الفصل 88 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 89,
       "title": "الفصل 89 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "الفصل 90 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "الفصل 91 من I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "الفصل 92 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "الفصل 93 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 94,
       "title": "الفصل 94 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 95,
       "title": "الفصل 95 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 96,
       "title": "الفصل 96 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 97,
       "title": "الفصل 97 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 98,
       "title": "الفصل 98 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 99,
       "title": "الفصل 99 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 100,
       "title": "الفصل 100 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 101,
       "title": "الفصل 101 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 102,
       "title": "الفصل 102 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 103,
       "title": "الفصل 103 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 104,
       "title": "الفصل 104 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 105,
       "title": "الفصل 105 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 106,
       "title": "الفصل 106 من I'm Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 107,
       "title": "ثقل فوق الخيال",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 108,
       "title": "سنهاجم الإمبراطورية",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "الخيانة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "مت",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 111,
       "title": "عدو مجهول",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 112,
       "title": "اقترب من الحقيقة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 113,
       "title": "ملك الشياطين",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 114,
       "title": "شكوك يليها شكوك",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 115,
       "title": "جمع البيادق",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 116,
       "title": "تضحية نبيلة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 117,
       "title": "حان وقت إنهاء الحرب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 118,
       "title": "دفع البشر نحو الهاوية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 119,
       "title": "انطفاء الجمرة الأخيرة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 120,
       "title": "خيوط الخيانة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 121,
       "title": "انقسام الفيالق",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 122,
       "title": "نهاية بطل",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 123,
       "title": "لأجل غايتي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 124,
       "title": "غريمي الازلي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 125,
       "title": "المحارب.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     },
     {
       "number": 126,
       "title": "I’m Not That Kind of Talent",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-06 23:55:06",
+      "release_date": "اليوم"
     }
   ]
 }
