@@ -29363,7 +29363,71 @@
       "خارق للطبيعة",
       "وحوش"
     ],
-    "page_title": "Two Realms: I Possess a Martial Arts World"
+    "page_title": "Two Realms: I Possess a Martial Arts World",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "عالم القتال القديم",
+        "is_closed": false,
+        "total_images": 24,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 2,
+        "title": "مستوى التأمل",
+        "is_closed": false,
+        "total_images": 15,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 3,
+        "title": "النصر المحقق",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 4,
+        "title": "مواجهة خبير",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 5,
+        "title": "قبضة العناصر الخمسة",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 6,
+        "title": "هدية العم",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 7,
+        "title": "دخيل معبد ضفدع الثلج",
+        "is_closed": false,
+        "total_images": 14,
+        "published_at": "2026-09-04 16:42:43",
+        "release_date": "أمس"
+      },
+      {
+        "number": 8,
+        "title": "Two Realms: I Possess a Martial Arts World",
+        "is_closed": true,
+        "total_images": 0
+      }
+    ]
   },
   "nightmare-realm-summoner": {
     "slug": "nightmare-realm-summoner",
