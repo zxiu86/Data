@@ -17,41 +17,31 @@
       "number": 1,
       "title": "عزيز قوم ذل",
       "is_closed": false,
-      "total_images": 19,
-      "published_at": "2026-09-04 16:42:40",
-      "release_date": "أمس"
+      "total_images": 19
     },
     {
       "number": 2,
       "title": "مفترق طرق",
       "is_closed": false,
-      "total_images": 7,
-      "published_at": "2026-09-04 16:42:40",
-      "release_date": "أمس"
+      "total_images": 7
     },
     {
       "number": 3,
       "title": "انسى امجاد الماضي",
       "is_closed": false,
-      "total_images": 9,
-      "published_at": "2026-09-04 16:42:40",
-      "release_date": "أمس"
+      "total_images": 9
     },
     {
       "number": 4,
       "title": "سر في طريقك",
       "is_closed": false,
-      "total_images": 8,
-      "published_at": "2026-09-04 16:42:40",
-      "release_date": "أمس"
+      "total_images": 8
     },
     {
       "number": 5,
       "title": "السوق السوداء",
       "is_closed": false,
-      "total_images": 10,
-      "published_at": "2026-09-06 05:20:59",
-      "release_date": "اليوم"
+      "total_images": 10
     }
   ]
 }
