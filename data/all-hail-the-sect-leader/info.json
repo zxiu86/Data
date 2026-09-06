@@ -4403,13 +4403,17 @@
       "number": 549,
       "title": "سر معمودية الإمبراطور",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-06 05:20:09",
+      "release_date": "اليوم"
     },
     {
       "number": 550,
       "title": "دماء على أسوار أيرون مايت",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-06 05:20:09",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -527,7 +527,9 @@
       "number": 64,
       "title": "تيار السماء بلا هيئة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-06 05:20:47",
+      "release_date": "اليوم"
     }
   ]
 }

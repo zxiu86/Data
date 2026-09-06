@@ -32,7 +32,9 @@
       "number": 3,
       "title": "صفقة الدم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-06 05:20:18",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -148,25 +148,33 @@
       "number": 17,
       "title": "طفيلي؟",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-06 05:20:24",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "المستوى اللامحدود",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-06 05:20:24",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "خيانة عائلة تشو",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-06 05:20:24",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "متجر حدادة الروح الحديدية",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-06 05:20:24",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -680,7 +680,9 @@
       "number": 83,
       "title": "لم نرَ شيئًا",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-06 05:20:27",
+      "release_date": "اليوم"
     }
   ]
 }
