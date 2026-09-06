@@ -1,0 +1,781 @@
+{
+  "slug": "KOT",
+  "title": "I’m Not That Kind of Talent",
+  "cover": "https://olympustaff.com/images/manga/a4ab1f5b085a1fbb2621bdc7182693b1.png",
+  "summary": "مانجا I’m Not That Kind of Talent مترجمةI’m Not That Kind of Talent لم اكن هذا النوع من الاشخاص.\r\n أنا ديون هارت، أنا شخص مريض يتقيأ دما كلما شعرت بالتوتر.\r\n ومع ذلك، في الوقت نفسه، أنا الكونت هارت، الذي أسيء فهمه بطريقة ما و...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "دراما",
+    "غموض",
+    "إثارة",
+    "شونين",
+    "فنون قتال",
+    "إيسيكاي",
+    "سحر",
+    "وحوش"
+  ],
+  "page_title": "I’m Not That Kind of Talent",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الفصل رقم 1",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 2,
+      "title": "الفصل رقم 2",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 3,
+      "title": "الفصل رقم 3",
+      "is_closed": false,
+      "total_images": 42
+    },
+    {
+      "number": 4,
+      "title": "الفصل رقم 4",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 5,
+      "title": "الفصل رقم 5",
+      "is_closed": false,
+      "total_images": 36
+    },
+    {
+      "number": 6,
+      "title": "الفصل رقم 6",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 7,
+      "title": "الفصل رقم 7",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 8,
+      "title": "الفصل رقم 8",
+      "is_closed": false,
+      "total_images": 39
+    },
+    {
+      "number": 9,
+      "title": "الفصل رقم 9",
+      "is_closed": false,
+      "total_images": 39
+    },
+    {
+      "number": 10,
+      "title": "الفصل رقم 10",
+      "is_closed": false,
+      "total_images": 42
+    },
+    {
+      "number": 11,
+      "title": "الفصل رقم 11",
+      "is_closed": false,
+      "total_images": 48
+    },
+    {
+      "number": 12,
+      "title": "الفصل رقم 12",
+      "is_closed": false,
+      "total_images": 42
+    },
+    {
+      "number": 13,
+      "title": "الفصل رقم 13",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 14,
+      "title": "الفصل رقم 14",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 15,
+      "title": "الفصل رقم 15",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 16,
+      "title": "الفصل رقم 16",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 17,
+      "title": "الفصل رقم 17",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 18,
+      "title": "الفصل رقم 18",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 20,
+      "title": "الفصل رقم 20",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 21,
+      "title": "الفصل رقم 21",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 22,
+      "title": "الفصل رقم 22",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 23,
+      "title": "الفصل رقم 23",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 24,
+      "title": "الفصل رقم 24",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 25,
+      "title": "الفصل رقم 25",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 26,
+      "title": "الفصل رقم 26",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 27,
+      "title": "الفصل رقم 27",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 28,
+      "title": "الفصل رقم 28",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "الفصل رقم 29",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 30,
+      "title": "30",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 31,
+      "title": "31",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 32,
+      "title": "32",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 33,
+      "title": "33",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 34,
+      "title": "34",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 35,
+      "title": "35",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 36,
+      "title": "36",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 37,
+      "title": "37",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 38,
+      "title": "38",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 39,
+      "title": "39",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 40,
+      "title": "40",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 41,
+      "title": "41",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 42,
+      "title": "42",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 43,
+      "title": "43",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 44,
+      "title": "44",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 45,
+      "title": "45",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 46,
+      "title": "46",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 47,
+      "title": "47",
+      "is_closed": false,
+      "total_images": 35
+    },
+    {
+      "number": 48,
+      "title": "48",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 49,
+      "title": "49",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 50,
+      "title": "50",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 51,
+      "title": "51 I'm not that kind of talent الفصل",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 52,
+      "title": "I'm not that kind of talent 52",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 53,
+      "title": "الفصل 53 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 54,
+      "title": "I'm not that kind of talent 54",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 55,
+      "title": "55 I'm not that kind of talent",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 56,
+      "title": "I’m Not That Kind of Talent 56",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 57,
+      "title": "I’m Not That Kind of Talent 57",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 58,
+      "title": "I’m Not That Kind of Talent 58",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 59,
+      "title": "I’m Not That Kind of Talent 59",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 60,
+      "title": "I’m Not That Kind of Talent 60",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 61,
+      "title": "I’m Not That Kind of Talent 61",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 62,
+      "title": "I’m Not That Kind of Talent 62",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 63,
+      "title": "I’m Not That Kind of Talent 63",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 64,
+      "title": "I’m Not That Kind of Talent 64",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 65,
+      "title": "I’m Not That Kind of Talent 65",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 66,
+      "title": "I’m Not That Kind of Talent 66",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 67,
+      "title": "I’m Not That Kind of Talent 67",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 68,
+      "title": "الفصل 68 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 69,
+      "title": "الفصل 69 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 70,
+      "title": "الفصل 70 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 71,
+      "title": "الفصل 71 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 72,
+      "title": "الفصل 72 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 73,
+      "title": "الفصل 73 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 74,
+      "title": "الفصل 74 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 75,
+      "title": "الفصل 75",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 76,
+      "title": "الفصل 76",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 77,
+      "title": "الفصل 77 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 78,
+      "title": "الفصل 78 من I'm Not that kind of talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 79,
+      "title": "الفصل 79 من I'm Not That kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 80,
+      "title": "الفصل 80 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 81,
+      "title": "الفصل 81 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 82,
+      "title": "الفصل 82 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 83,
+      "title": "الفصل 83 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 84,
+      "title": "الفصل 84 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 85,
+      "title": "الفصل 85 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 86,
+      "title": "الفصل 86 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 87,
+      "title": "الفصل 87 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 88,
+      "title": "الفصل 88 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 89,
+      "title": "الفصل 89 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 90,
+      "title": "الفصل 90 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 91,
+      "title": "الفصل 91 من I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 92,
+      "title": "الفصل 92 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 93,
+      "title": "الفصل 93 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 94,
+      "title": "الفصل 94 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 95,
+      "title": "الفصل 95 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 96,
+      "title": "الفصل 96 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 97,
+      "title": "الفصل 97 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 98,
+      "title": "الفصل 98 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 99,
+      "title": "الفصل 99 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 100,
+      "title": "الفصل 100 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 101,
+      "title": "الفصل 101 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 102,
+      "title": "الفصل 102 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 103,
+      "title": "الفصل 103 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 104,
+      "title": "الفصل 104 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 105,
+      "title": "الفصل 105 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 106,
+      "title": "الفصل 106 من I'm Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 107,
+      "title": "ثقل فوق الخيال",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 108,
+      "title": "سنهاجم الإمبراطورية",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 109,
+      "title": "الخيانة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 110,
+      "title": "مت",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 111,
+      "title": "عدو مجهول",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 112,
+      "title": "اقترب من الحقيقة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 113,
+      "title": "ملك الشياطين",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 114,
+      "title": "شكوك يليها شكوك",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 115,
+      "title": "جمع البيادق",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 116,
+      "title": "تضحية نبيلة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 117,
+      "title": "حان وقت إنهاء الحرب",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 118,
+      "title": "دفع البشر نحو الهاوية",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 119,
+      "title": "انطفاء الجمرة الأخيرة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 120,
+      "title": "خيوط الخيانة",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 121,
+      "title": "انقسام الفيالق",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 122,
+      "title": "نهاية بطل",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 123,
+      "title": "لأجل غايتي",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 124,
+      "title": "غريمي الازلي",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 125,
+      "title": "المحارب.",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 126,
+      "title": "I’m Not That Kind of Talent",
+      "is_closed": false,
+      "total_images": 3
+    }
+  ]
+}
