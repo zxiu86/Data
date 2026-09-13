@@ -1,8 +1,16 @@
 {
   "series": "shadow-slave",
   "chapter": 7,
-  "title": "Shadow Slave",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "لا شيء على الإطلاق",
+  "is_closed": false,
+  "total_images": 7,
+  "images": [
+    "https://olympustaff.com/uploads/manga_b618c/7/4774b1c00136daf62eafa2641a5176eb.jpg",
+    "https://olympustaff.com/uploads/manga_b618c/7/ae55d3587a3abcd44f3636f334ceb17d.jpg",
+    "https://olympustaff.com/uploads/manga_b618c/7/8b8c008094e46ade142464ec16595b89.jpg",
+    "https://olympustaff.com/uploads/manga_b618c/7/220c1a2aa3950337117c223cc4f73b19.jpg",
+    "https://olympustaff.com/uploads/manga_b618c/7/f7b81661671292d49d4dc5a0ed7b462e.jpg",
+    "https://olympustaff.com/uploads/manga_b618c/7/d3082da62345e9ad357a6777978e7db8.jpg",
+    "https://olympustaff.com/uploads/manga_b618c/7/ad8a783c17c24598e8742216ef07e2c3.jpg"
+  ]
 }
