@@ -1,0 +1,780 @@
+{
+  "slug": "level-up-alone",
+  "title": "Level Up Alone",
+  "cover": "https://olympustaff.com/images/manga/8877890011478162842.jpeg",
+  "summary": "مانجا Level Up Alone مترجمةLevel Up Alone هانيول ، الذي كان يعمل حمالاً. اصبح صيادا من خلال الصحوة التي طالما انتظرها،\r\nلكن ما الذي يحدث؟ يرتقي بالمستوي كلما اصطاد الوحوش؟\r\nهل يمكن اكتساب المهارات اي...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "وحوش"
+  ],
+  "page_title": "Level Up Alone",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "LEVEL UP CH 1",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 2,
+      "title": "LEVEL UP CH 2",
+      "is_closed": false,
+      "total_images": 61
+    },
+    {
+      "number": 3,
+      "title": "LEVEL UP CH 3",
+      "is_closed": false,
+      "total_images": 137
+    },
+    {
+      "number": 4,
+      "title": "LEVEL UP CH 4",
+      "is_closed": false,
+      "total_images": 116
+    },
+    {
+      "number": 5,
+      "title": "LEVEL UP CH 5",
+      "is_closed": false,
+      "total_images": 117
+    },
+    {
+      "number": 6,
+      "title": "LEVEL UP CH 6",
+      "is_closed": false,
+      "total_images": 59
+    },
+    {
+      "number": 7,
+      "title": "LEVEL UP CH 7",
+      "is_closed": false,
+      "total_images": 122
+    },
+    {
+      "number": 8,
+      "title": "LEVEL UP CH 8",
+      "is_closed": false,
+      "total_images": 117
+    },
+    {
+      "number": 9,
+      "title": "LEVEL UP CH 9",
+      "is_closed": false,
+      "total_images": 98
+    },
+    {
+      "number": 10,
+      "title": "LEVEL UP CH 10",
+      "is_closed": false,
+      "total_images": 98
+    },
+    {
+      "number": 11,
+      "title": "LEVEL UP CH 11",
+      "is_closed": false,
+      "total_images": 98
+    },
+    {
+      "number": 12,
+      "title": "LEVEL UP CH 12",
+      "is_closed": false,
+      "total_images": 98
+    },
+    {
+      "number": 13,
+      "title": "LEVEL UP CH 13",
+      "is_closed": false,
+      "total_images": 43
+    },
+    {
+      "number": 14,
+      "title": "LEVEL UP CH14",
+      "is_closed": false,
+      "total_images": 81
+    },
+    {
+      "number": 15,
+      "title": "LEVEL UP CH 15",
+      "is_closed": false,
+      "total_images": 81
+    },
+    {
+      "number": 16,
+      "title": "LEVEL UP CH 16",
+      "is_closed": false,
+      "total_images": 81
+    },
+    {
+      "number": 17,
+      "title": "LEVEL UP CH 17",
+      "is_closed": false,
+      "total_images": 81
+    },
+    {
+      "number": 18,
+      "title": "LEVEL UP CH 18",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 19,
+      "title": "LEVEL UP 19",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 20,
+      "title": "LEVEL UP 20",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 21,
+      "title": "LEVEL UP CH21",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 22,
+      "title": "LEVEL UP CH 22",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 23,
+      "title": "LEVEL UP CH 23",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 24,
+      "title": "LEVEL UP CH 24",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 25,
+      "title": "LEVEL UP 25",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 26,
+      "title": "LEVEL UP CH 26",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 27,
+      "title": "LEVEL UP CH 27",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 28,
+      "title": "LEVEL UP CH 28",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 29,
+      "title": "LEVEL UP CH 29",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 30,
+      "title": "LEVEL UP 30",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 31,
+      "title": "LEVEL UP CH 31",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 32,
+      "title": "LEVEL UP 32",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 33,
+      "title": "LEVEL UP 33",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 34,
+      "title": "level up alone 34",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 35,
+      "title": "LEVEL UP 35",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 36,
+      "title": "level up alone 36",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 37,
+      "title": "LEVEL UP ALONE 37",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 38,
+      "title": "Level up alone 38",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 39,
+      "title": "LEVEL UP ALONE 39",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 40,
+      "title": "level up alone 40",
+      "is_closed": false,
+      "total_images": 120
+    },
+    {
+      "number": 41,
+      "title": "Level Up Alone 41",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 42,
+      "title": "Level Up Alone 42",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 43,
+      "title": "Level Up Alone43",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 44,
+      "title": "level up alone 44",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 45,
+      "title": "Level up alone 45",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 46,
+      "title": "LEVEL UP ALONE 46",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 47,
+      "title": "level up alone 47",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 48,
+      "title": "LEVEL UP ALONE 48",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 49,
+      "title": "Level up alone 49",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 50,
+      "title": "LEVEL UP ALONE 50",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 51,
+      "title": "Level Up Alone Ch 51",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 52,
+      "title": "Level Up Alone Ch 52",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 53,
+      "title": "Level Up Alone Ch 53",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 54,
+      "title": "Level Up Alone Ch 54",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 55,
+      "title": "Level Up Alone Ch 55",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 56,
+      "title": "Level Up Alone Ch 56",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 57,
+      "title": "Level Up Alone Ch 57",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 58,
+      "title": "Level Up Alone Ch 58",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 59,
+      "title": "Level Up Alone Ch 59",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 60,
+      "title": "Level Up Alone Ch 60",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 61,
+      "title": "Level Up Alone Ch 61",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 62,
+      "title": "Level Up Alone Ch 62",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 63,
+      "title": "Level Up Alone Ch 63 FREE",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 64,
+      "title": "Level Up Alone Ch 64 FREE",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 65,
+      "title": "Level Up Alone Ch 65 FREE",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 66,
+      "title": "level up alone 66",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 67,
+      "title": "level up alone 67",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 68,
+      "title": "level up alone 68",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 69,
+      "title": "level up alone 69",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 70,
+      "title": "level up alone 70",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 71,
+      "title": "level up alone 71",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 72,
+      "title": "level up alone 72",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 73,
+      "title": "level up alone 73",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 74,
+      "title": "level up alone 74",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 75,
+      "title": "level up alone 75",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 76,
+      "title": "level up alone 76",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 77,
+      "title": "level up alone 77",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 78,
+      "title": "level up alone 78",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 79,
+      "title": "level up alone 79",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 80,
+      "title": "Level Up Alone 80",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 81,
+      "title": "level up alone 81",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 82,
+      "title": "level up alone 82",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 83,
+      "title": "level up alone 83",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 84,
+      "title": "level up alone 84",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 85,
+      "title": "level up alone 85",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 86,
+      "title": "Level Up Alone 86",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 87,
+      "title": "Level Up Alone ch 87",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 88,
+      "title": "Level Up Alone Ch 88",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 89,
+      "title": "Level Up Alone ch 89",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 90,
+      "title": "Level Up Alone ch 90",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 91,
+      "title": "Level Up Alone ch91",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 92,
+      "title": "Level Up Alone ch 92",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 93,
+      "title": "Level Up alone الفصل 93",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 94,
+      "title": "Level Up alone الفصل 94",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 95,
+      "title": "Level Up Alone الفصل 95",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 96,
+      "title": "Level Up alone الفصل 96",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 97,
+      "title": "Level Up alone الفصل 97",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 98,
+      "title": "Level Up Alone Ch 98",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 99,
+      "title": "Level Up Alone Ch 99",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 100,
+      "title": "Level Up Alone Ch 100",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 101,
+      "title": "Level Up Alone Ch 101",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 102,
+      "title": "Level Up Alone Ch 102",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 103,
+      "title": "Level Up Alone Ch 103",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 104,
+      "title": "Level Up Alone Ch 104",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 105,
+      "title": "Level Up Alone Ch 105",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 106,
+      "title": "Level Up Alone Ch 106",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 107,
+      "title": "Level Up Alone Ch 107",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 108,
+      "title": "Level Up Alone Ch 108",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 109,
+      "title": "Level Up Alone Ch 109",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 110,
+      "title": "Level Up Alone Ch 110",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 111,
+      "title": "Level up alone 111 S2",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 112,
+      "title": "Level up alone 112",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 113,
+      "title": "level up alone 113",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 114,
+      "title": "الفصل 114 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 115,
+      "title": "الفصل 115 Level Up Alone",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 116,
+      "title": "الفصل 116 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 117,
+      "title": "الفصل 117 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 118,
+      "title": "الفصل 118 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 119,
+      "title": "الفصل 119 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 120,
+      "title": "الفصل 120 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 121,
+      "title": "الفصل 121 من Level Up Alone",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 122,
+      "title": "Level Up Alone Ch 122",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 123,
+      "title": "Level Up Alone Ch 123",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 124,
+      "title": "Level Up Alone Ch 124",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 125,
+      "title": "Level Up Alone Ch 125",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 126,
+      "title": "Level Up Alone Chapter 126 FREE",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 127,
+      "title": "Level Up Alone Chapter 127 FREE",
+      "is_closed": false,
+      "total_images": 9
+    }
+  ]
+}
