@@ -1,0 +1,28 @@
+{
+  "slug": "big-shining",
+  "title": "Big Shining",
+  "cover": "https://olympustaff.com/images/manga/990106077299232733.jpg",
+  "summary": "مانجا Big Shining مترجمةBig Shining أون دوهيون، ذاكَ النجمُ الصاعدُ الذي استأثرَ باهتمامِ الجميعِ بغتةً؛ إذْ إنَّ تطوّرهُ المتسارعَ مقارنةً بأقرانِهِ، ومهاراتِهِ الفذَّةَ، قد جلبتْ لهُ نظراتٍ م...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "مغامرات",
+    "دراما"
+  ],
+  "page_title": "Big Shining",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الأسطورة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 2,
+      "title": "بأيِّ ثمنٍ",
+      "is_closed": false,
+      "total_images": 10
+    }
+  ]
+}
