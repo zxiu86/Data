@@ -1,0 +1,657 @@
+{
+  "slug": "lu-bus-life-simulator",
+  "title": "Lu Bu's Life Simulator",
+  "cover": "https://olympustaff.com/images/manga/68e07adf290d29f6e92c8dd8c64b6458.png",
+  "summary": "مانجا Lu Bu's Life Simulator مترجمةLu Bu's Life Simulator امتلك أجمل النساء، واركب أسرع جوادٍ حربي، واحمل أقوى سلاح.\r\n\r\nفارسٌ واحد يسدّ طرق غواندونغ الثمانية عشر، ورجلٌ واحد يقف في وجه عشرة آلاف.\r\n\r\nتنحني له الرؤوس...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "دراما",
+    "إثارة",
+    "خيال علمي",
+    "تناسخ"
+  ],
+  "page_title": "Lu Bu's Life Simulator",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "1",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 2,
+      "title": "2",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 3,
+      "title": "3",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 4,
+      "title": "4",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 5,
+      "title": "5",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 6,
+      "title": "6",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 7,
+      "title": "7",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 8,
+      "title": "8",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 9,
+      "title": "9",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 10,
+      "title": "10",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 11,
+      "title": "11",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 12,
+      "title": "12",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 13,
+      "title": "13",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 14,
+      "title": "14",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 15,
+      "title": "15",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 16,
+      "title": "16",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 17,
+      "title": "17",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 18,
+      "title": "18",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 19,
+      "title": "19",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 20,
+      "title": "20",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 21,
+      "title": "21",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 22,
+      "title": "22",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 23,
+      "title": "23",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 24,
+      "title": "24",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 25,
+      "title": "25",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 26,
+      "title": "26",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 27,
+      "title": "27",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 28,
+      "title": "28",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "29",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 30,
+      "title": "30",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 31,
+      "title": "31",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 32,
+      "title": "32",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 33,
+      "title": "33",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 34,
+      "title": "34",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 35,
+      "title": "35",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 36,
+      "title": "36",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 37,
+      "title": "37",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 38,
+      "title": "38",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 39,
+      "title": "39",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 40,
+      "title": "40",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 41,
+      "title": "الفصل رقم 41",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 42,
+      "title": "الفصل رقم 42",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 43,
+      "title": "الفصل رقم 43",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 44,
+      "title": "الفصل رقم 44",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 45,
+      "title": "الفصل رقم 45",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 46,
+      "title": "الفصل رقم 46",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 47,
+      "title": "الفصل رقم 47",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 48,
+      "title": "الفصل رقم 48",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 49,
+      "title": "الفصل رقم 49",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 50,
+      "title": "الفصل رقم 50",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 51,
+      "title": "51",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 52,
+      "title": "52",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 53,
+      "title": "53",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 54,
+      "title": "54",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 55,
+      "title": "55",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 56,
+      "title": "56",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 57,
+      "title": "57",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 58,
+      "title": "58",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 59,
+      "title": "59",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 60,
+      "title": "60",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 61,
+      "title": "61",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 62,
+      "title": "62",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 63,
+      "title": "63",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 64,
+      "title": "64",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 65,
+      "title": "65",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 66,
+      "title": "66",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 67,
+      "title": "67",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 68,
+      "title": "68",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 69,
+      "title": "69",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 70,
+      "title": "موازنة المصالحِ ونصل الخداع",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 71,
+      "title": "حجر الطاحونة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 72,
+      "title": "معضلة السجين",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 73,
+      "title": "المأرب الخفي",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 74,
+      "title": "صدام الجبابرة: لو بو في مواجهة ما تشاو",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 75,
+      "title": "صدام العمالقة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 76,
+      "title": "يقظة القوة المقدسة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 77,
+      "title": "رياح الغدر تعصف بشيانتشين",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 78,
+      "title": "البحث عن مخرج يفوق داكيان",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 79,
+      "title": "ولادةٌ تحت حد السيف",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 80,
+      "title": "عصر الرخاء المزعوم",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 81,
+      "title": "سراب النجاة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 82,
+      "title": "تحالف الضرورة",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 83,
+      "title": "واعد الفوضى",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 84,
+      "title": "صفقة في مقصورة صدى الرياح",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 85,
+      "title": "مكيدة في الظلال... وقتيل الغرفة 36",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 86,
+      "title": "صليل السلاسل واستجلاء الحقيقة",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 87,
+      "title": "مهلة الأيام الثلاثة ولغز القناع",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 88,
+      "title": "حيلة البشرة الداكنة",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 89,
+      "title": "فخ تايبينغ",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 90,
+      "title": "المتنكرين",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 91,
+      "title": "لغز المذكرات",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 92,
+      "title": "لقاء تحت ظلال الآلاتد",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 93,
+      "title": "ثمن التسلية",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 94,
+      "title": "بين قدسية الزعيمة ونقاء العقيدة",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 95,
+      "title": "خيوط الشرك",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 96,
+      "title": "سيد حصن شينجي",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 97,
+      "title": "نقطة التحول",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 98,
+      "title": "عهدُ الثأر",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 99,
+      "title": "خزينة الهبة السماوية",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 100,
+      "title": "نصل الواقع ذو الحدين",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 101,
+      "title": "خطيئةٌ كشفتها السطور",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 102,
+      "title": "نهاية عصر الرخاء",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 103,
+      "title": "إخضاع ما تشاو",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 104,
+      "title": "حريق شينيانغ",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 105,
+      "title": "النهاية المؤقتة",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 106,
+      "title": "Lu Bu's Life Simulator",
+      "is_closed": false,
+      "total_images": 19
+    }
+  ]
+}
