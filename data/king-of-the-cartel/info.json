@@ -19,37 +19,49 @@
       "number": 1,
       "title": "سأحضره لك",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-14 02:49:58",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "العصابة.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 02:49:58",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "إعلان الحرب",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 02:49:58",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "إِلى القِمَّة.",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 02:49:58",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "التطهير",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 02:49:58",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "السيطرة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 02:49:58",
+      "release_date": "اليوم"
     }
   ]
 }

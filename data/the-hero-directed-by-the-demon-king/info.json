@@ -16,31 +16,41 @@
       "number": 1,
       "title": "المخطط المثالي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 02:50:28",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الظهور الأول لريلي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 02:50:28",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مُخَطَّطٌ بلا خطة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 02:50:28",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "توب سينما",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 02:50:28",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "زميل دراسة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 02:50:28",
+      "release_date": "اليوم"
     }
   ]
 }

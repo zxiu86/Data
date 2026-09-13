@@ -18,67 +18,89 @@
       "number": 1,
       "title": "الزعيم 1",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الزعيم 2",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الزعيم 3",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الزعيم 4",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الزعيم 5",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الزعيم 6",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الزعيم 7",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الزعيم 8",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الزعيم 9",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "الزعيم 10",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الجينسنغ الأسود",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 02:49:53",
+      "release_date": "اليوم"
     }
   ]
 }

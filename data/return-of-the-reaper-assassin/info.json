@@ -17,133 +17,177 @@
       "number": 1,
       "title": "نايتشيد",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "تسجيل العودة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "تشوكا",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "غريزة مفترس!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "جوهر القتال!",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "في خضم رقصة الموت",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "حان وقت العرض!",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "خطة نيل الشرعية",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "نزاعٌ على الخلافة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "زهره الامتنان",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "التحام",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "سيناريو مكتوب مسبقًا",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "نهاية السيناريو",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "إرثٌ مَعمودٌ بالدمِ والمسؤوليةِ",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "ردُّ الدَّيْنِ!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "هجومٌ خاطفٌ تحتَ ضوءِ القمرِ!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "رمشةُ عينٍ!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "وَرْطَةٌ صَغيرَةٌ؟!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "مَطَارَدَةٌ عَلَى الطَّرِيقِ السَّرِيعِ",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "فَوْقَ سَقْفِ المَوْتِ",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "كَلِمَاتٌ مَسْمُومَةٌ",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "Return of the Reaper: Assassin",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 02:50:14",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -16,19 +16,25 @@
       "number": 1,
       "title": "جحيم غا-إيك",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 02:50:18",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ليلة القمر الدموي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 02:50:18",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "المطاردة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 02:50:18",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -17,37 +17,49 @@
       "number": 1,
       "title": "ميرو (1)",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 02:50:03",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ميرو (2)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 02:50:03",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "ميرو (3)",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 02:50:03",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "ميرو (4)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 02:50:03",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ميرو (5)",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 02:50:03",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ميرو (6)",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 02:50:03",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -18,55 +18,73 @@
       "number": 1,
       "title": "عجوز محل الزهور",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الوشم الذي عاد للظهور",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "العجوز الذي سبق الزمن",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "عهد تحت ضوء الفجر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "أجنحة التنين",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "العبرة بالنضارة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "لا تستهن بالعحوز",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "علوك منخفض",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "انتهاء الفقرة الهزلية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 02:49:37",
+      "release_date": "اليوم"
     }
   ]
 }
