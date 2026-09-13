@@ -1,0 +1,55 @@
+{
+  "slug": "king-of-the-cartel",
+  "title": "King of the Cartel",
+  "cover": "https://olympustaff.com/images/manga/4438566721404587302.jpg",
+  "summary": "مانجا King of the Cartel مترجمةKing of the Cartel في حيٍّ هو الأكثر بؤسًا وانهيارًا، تُرك الفتى وون دويون وحيدًا.\r\nكان يملك موهبة، لكن العالم كان يجرّه إلى الأسفل. وفي عالمٍ تسيطر عليه منظماتٌ عملاقة، أدرك أ...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "غموض",
+    "إثارة",
+    "فنون قتال"
+  ],
+  "page_title": "King of the Cartel",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "سأحضره لك",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 2,
+      "title": "العصابة.",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 3,
+      "title": "إعلان الحرب",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 4,
+      "title": "إِلى القِمَّة.",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 5,
+      "title": "التطهير",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 6,
+      "title": "السيطرة",
+      "is_closed": false,
+      "total_images": 16
+    }
+  ]
+}
