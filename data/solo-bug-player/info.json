@@ -1,0 +1,922 @@
+{
+  "slug": "solo-bug-player",
+  "title": "Solo Bug Player",
+  "cover": "https://olympustaff.com/images/manga/488751759107889748.jpeg",
+  "summary": "مانجا Solo Bug Player مترجمةSolo Bug Player شين جي بونج، مات بسبب عبء العمل المفرط ولعب الألعاب! أعيد تجسيده في لعبة آر بي جي (عالم افتراضي) كلورد سمين عديم الفائدة والقوة لمقاطعة صغيرة ،فهل يستغل فرصت...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "إثارة",
+    "شونين",
+    "نظام",
+    "سحر",
+    "وحوش"
+  ],
+  "page_title": "Solo Bug Player",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Bug player 1",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 2,
+      "title": "Bug player-2",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 3,
+      "title": "Bug player - Ch 3",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 4,
+      "title": "Bug player 명 - 4",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 5,
+      "title": "Bug player 참깨 - 5",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 6,
+      "title": "Bug player HaMaDa - Ch 6",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 7,
+      "title": "Bug Player bdi-7",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 8,
+      "title": "Bug p.HaMaDA 명- 8",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 9,
+      "title": "Bug player bdi - 9",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 10,
+      "title": "Bug player 명 - 10",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 11,
+      "title": "Bug player Chapter 11",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 12,
+      "title": "Bug player HaMaDa-12",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 13,
+      "title": "Bug player-13",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 14,
+      "title": "Bug player-HaMaDa-14",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 15,
+      "title": "Bug p.r 情-15",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 16,
+      "title": "Bug player 고 HaMaDa.Ch.16",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 17,
+      "title": "Bug player Bdee3 Ch-17",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 18,
+      "title": "Bug Player 18",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 19,
+      "title": "Bug Player Ch:19",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 20,
+      "title": "Bug Player Ch: 20",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 21,
+      "title": "bug player 21",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 22,
+      "title": "Bug Player Ch: 22",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 23,
+      "title": "Bug player 23",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 24,
+      "title": "Bug Player Ch: 24",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 25,
+      "title": "Bug Player Ch: 25",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 26,
+      "title": "Bug Player Ch: 26",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 27,
+      "title": "bug player 27",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 28,
+      "title": "Bug Player Ch: 28",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 29,
+      "title": "Bug Player Ch: 29",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 30,
+      "title": "Bug Player Ch: 30",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 31,
+      "title": "bug player 31",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 32,
+      "title": "Bug Player Ch: 32",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 33,
+      "title": "bug player",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 34,
+      "title": "Bug Player Ch: 34",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 35,
+      "title": "bug player",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 36,
+      "title": "Bug Player Ch: 36",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 37,
+      "title": "bug player",
+      "is_closed": false,
+      "total_images": 274
+    },
+    {
+      "number": 38,
+      "title": "Solo Bug Player Ch-38",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 39,
+      "title": "Solo Bug Player Ch-39",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 40,
+      "title": "Solo Bug Player Ch-40",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 41,
+      "title": "Solo Bug Player S2 CH41",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 42,
+      "title": "solo bug player 42",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 43,
+      "title": "Solo Bug Player 43",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 44,
+      "title": "Solo Bug Player Ch 44",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 45,
+      "title": "solo bug player 45",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 46,
+      "title": "solo bug player 46",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 47,
+      "title": "solo bug player 47",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 48,
+      "title": "solo bug player 48",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 49,
+      "title": "solo bug player 49",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 50,
+      "title": "Solo Bug Player Ch 50",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 51,
+      "title": "solo bug player 51",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 52,
+      "title": "solo bug player 52",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 53,
+      "title": "bug ch53",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 54,
+      "title": "solo bug player 54",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 55,
+      "title": "solo bug player 55",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 56,
+      "title": "solo bug player 56",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 57,
+      "title": "solo bug player 57",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 58,
+      "title": "Solo Bug Player Ch-58",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 59,
+      "title": "solo bug player 59",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 60,
+      "title": "Solo Bug Player Ch-60",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 61,
+      "title": "solo bug player 61",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 62,
+      "title": "Solo Bug Player Ch-62",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 63,
+      "title": "solo bug player 63",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 64,
+      "title": "Solo Bug Player Ch-64",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 65,
+      "title": "Solo Bug Player Ch-65",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 66,
+      "title": "Solo Bug Player Ch-66",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 67,
+      "title": "Solo Bug Player Ch-67 Free",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 68,
+      "title": "Solo Bug Player Ch-68 Free",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 69,
+      "title": "Solo Bug Player Ch-69 Free",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 70,
+      "title": "Solo Bug Player 70",
+      "is_closed": false,
+      "total_images": 99
+    },
+    {
+      "number": 71,
+      "title": "Solo Bug Player Ch-71.Free",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 72,
+      "title": "Solo Bug Player Ch-72.Free",
+      "is_closed": false,
+      "total_images": 197
+    },
+    {
+      "number": 73,
+      "title": "الفصل 73",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 74,
+      "title": "فــائق للتوقعات!",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 75,
+      "title": "إعـــلان للحرب",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 76,
+      "title": "solo bug player مجاني",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 77,
+      "title": "solo bug player 77",
+      "is_closed": false,
+      "total_images": 63
+    },
+    {
+      "number": 78,
+      "title": "Solo Bug Player 78",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 79,
+      "title": "solo bug player 79",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 80,
+      "title": "آخر فصل في الموسم",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 81,
+      "title": "Solo Bug Player 81",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 82,
+      "title": "Solo Bug Player 82",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 83,
+      "title": "Solo Bug Player 83",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 84,
+      "title": "Solo Bug Player 84",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 85,
+      "title": "Solo Bug Player 85",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 86,
+      "title": "Solo Bug Player 86",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 87,
+      "title": "Solo Bug Player 87",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 88,
+      "title": "Solo Bug Player 88",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 89,
+      "title": "Solo Bug Player 89",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 90,
+      "title": "Solo Bug Player 90",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 91,
+      "title": "Solo Bug Player 91",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 92,
+      "title": "Solo Bug Player 92",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 93,
+      "title": "Solo Bug Player 93",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 94,
+      "title": "Solo Bug Player 94",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 95,
+      "title": "Solo Bug Player 95",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 96,
+      "title": "Solo Bug Player 96",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 97,
+      "title": "Solo Bug Player 97",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 98,
+      "title": "Solo Bug Player 98",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 99,
+      "title": "Solo Bug Player 99",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 100,
+      "title": "Solo Bug Player 100",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 101,
+      "title": "Solo Bug Player 101",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 102,
+      "title": "Solo Bug Player 102",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 103,
+      "title": "Solo Bug Player 103",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 104,
+      "title": "Solo Bug Player 104",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 105,
+      "title": "Solo Bug Player 105",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 106,
+      "title": "الفصل 106 من Solo Bug Player",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 107,
+      "title": "الفصل 107 من Solo Bug Player",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 108,
+      "title": "Solo Bug Player الفصل الـ108",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 109,
+      "title": "Solo Bug Player الفصل الـ109",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 110,
+      "title": "Solo Bug Player الفصل الـ110",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 111,
+      "title": "Solo Bug Player الفصل الـ111",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 112,
+      "title": "Solo Bug Player الفصل الـ112",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 113,
+      "title": "Solo Bug Player الفصل الـ113",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 114,
+      "title": "Solo Bug Player الفصل الـ114",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 115,
+      "title": "Solo Bug Player الفصل الـ115",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 116,
+      "title": "Solo Bug Player الفصل الـ116",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 117,
+      "title": "Solo Bug Player الفصل الـ117",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 118,
+      "title": "Solo Bug Player 118",
+      "is_closed": false,
+      "total_images": 49
+    },
+    {
+      "number": 119,
+      "title": "الفصل 119 من Solo Bug Player",
+      "is_closed": false,
+      "total_images": 42
+    },
+    {
+      "number": 120,
+      "title": "Solo Bug Player 120 [S3 END]",
+      "is_closed": false,
+      "total_images": 35
+    },
+    {
+      "number": 121,
+      "title": "Solo Bug Player فصل 121",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 122,
+      "title": "Solo Bug Player فصل 122",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 123,
+      "title": "123FREE",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 124,
+      "title": "124FREE",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 125,
+      "title": "Solo bug player 125",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 126,
+      "title": "Solo bug player 126",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 127,
+      "title": "Solo bug player 127",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 128,
+      "title": "Solo bug player 128",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 129,
+      "title": "129FREE",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 130,
+      "title": "130FREE",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 131,
+      "title": "131FREE",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 132,
+      "title": "132FREE",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 133,
+      "title": "133FREE",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 134,
+      "title": "134FREE",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 135,
+      "title": "Solo bug player 135",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 136,
+      "title": "Solo bug player 136",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 137,
+      "title": "Solo bug player 137",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 138,
+      "title": "Solo bug player 138",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 139,
+      "title": "عمل Solo bug player الفصل 139",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 140,
+      "title": "عمل Solo bug player الفصل 140",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 141,
+      "title": "141",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 142,
+      "title": "142",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 143,
+      "title": "Solo bug player 143",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 144,
+      "title": "Solo bug player ch. 144",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 145,
+      "title": "Solo bug player ch 145",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 146,
+      "title": "Solo bug player ch 146",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 147,
+      "title": "Solo bug player ch 147",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 148,
+      "title": "Solo bug player ch 148",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 149,
+      "title": "Solo bug player ch 149",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 150,
+      "title": "solo bug player  150",
+      "is_closed": false,
+      "total_images": 12
+    }
+  ]
+}
