@@ -1,0 +1,979 @@
+{
+  "slug": "divine-card-creator",
+  "title": "Divine Card Creator",
+  "cover": "https://olympustaff.com/images/manga/9a05833a36ad4cb6d2ac417f1cdd4b37.png",
+  "summary": "مانجا Divine Card Creator مترجمةDivine Card Creator عند انتقال الآخرون عبر الزمن عادةً ما يكونون مجهزين بأنظمة مساعدة، لكن لو مينغ عندما انتقل عبر الزمن، واجه مشكلة ديون كبيرة فقط بسبب 'فستان الفتاة الذكية'. ك...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "دراما",
+    "خارق للطبيعة",
+    "وحوش"
+  ],
+  "page_title": "Divine Card Creator",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "فالتصبح صانع بطاقات",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 2,
+      "title": "الأخت واحترام الذات",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 3,
+      "title": "ورطة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 4,
+      "title": "تشانغ شياو بانغ وبطاقة الوهم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 5,
+      "title": "نينجا البطيخ",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 6,
+      "title": "يتم نسخها",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 7,
+      "title": "توقف عن التظاهر واظهر بطاقاتك",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 8,
+      "title": "هدف صغير",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 9,
+      "title": "تم شراء الشظايا بمبلغ مائتين وخمسين",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 10,
+      "title": "ليست بطاقة صفراء عادية؟",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 11,
+      "title": "دين عشاق القطط",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 12,
+      "title": "اعفوا عن حياتي",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 13,
+      "title": "البطاقة الأصلية مفقودة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 14,
+      "title": "البطاقة الاصلية: أنا مكسورة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 15,
+      "title": "تدريب داخلي \"إنساني\"",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 16,
+      "title": "يبدو الأمر كما لو أن الكهف قد تم تجويفه",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 17,
+      "title": "تنجيم المناطق المحظورة!",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 18,
+      "title": "شياو بانغ وشين إير؟",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 20,
+      "title": "انهيار المنجم",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 21,
+      "title": "الفصل رقم 21",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 22,
+      "title": "الفصل رقم 22",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 23,
+      "title": "الفصل رقم 23",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 24,
+      "title": "الفصل رقم 24",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 25,
+      "title": "الفصل رقم 25",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 26,
+      "title": "الفصل رقم 26",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 27,
+      "title": "الفصل رقم 27",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 28,
+      "title": "الفصل رقم 28",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 29,
+      "title": "الفصل رقم 29",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 30,
+      "title": "الفصل رقم 30",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 31,
+      "title": "الفصل رقم 31",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 32,
+      "title": "حركة آخرى لي",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 33,
+      "title": "الفصل رقم 33",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 34,
+      "title": "الفصل رقم 34",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 35,
+      "title": "الفصل رقم 35",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 36,
+      "title": "إرث بطاقة ظل القمر",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 37,
+      "title": "الفصل رقم 37",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 38,
+      "title": "الفصل رقم 38",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 39,
+      "title": "الفصل رقم 39",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 40,
+      "title": "الفصل رقم 40",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 41,
+      "title": "الفصل رقم 41",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 42,
+      "title": "الفصل رقم 42",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 43,
+      "title": "الفصل رقم 43",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 44,
+      "title": "الفصل رقم 44",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 45,
+      "title": "الفصل رقم 45",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 46,
+      "title": "الفصل رقم 46",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 47,
+      "title": "الفصل رقم 47",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 48,
+      "title": "الفصل رقم 48",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 49,
+      "title": "الفصل رقم 49",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 50,
+      "title": "علم على قبر",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 51,
+      "title": "رقم الفصل (51)",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 52,
+      "title": "الفصل رقم 52",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 53,
+      "title": "الفصل رقم 53",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 54,
+      "title": "الفصل رقم 54",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 55,
+      "title": "الفصل رقم 55",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 56,
+      "title": "الفصل رقم 56",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 57,
+      "title": "الفصل رقم 57",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 58,
+      "title": "الفصل رقم 58",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 59,
+      "title": "الفصل رقم 59",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 60,
+      "title": "الفصل رقم 60",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 61,
+      "title": "الفصل رقم 61",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 62,
+      "title": "الفصل رقم 62",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 63,
+      "title": "الفصل رقم 63",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 64,
+      "title": "الفصل رقم 64",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 65,
+      "title": "الفصل رقم 65",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 66,
+      "title": "الفصل رقم 66",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 67,
+      "title": "الفصل رقم 67",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 68,
+      "title": "الفصل رقم 68",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 69,
+      "title": "الفصل رقم 69",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 70,
+      "title": "الفصل رقم 70",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 71,
+      "title": "عالم الظلام!!",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 72,
+      "title": "72",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 73,
+      "title": "73",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 74,
+      "title": "74",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 75,
+      "title": "75",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 76,
+      "title": "افتح عينيك",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 77,
+      "title": "لدي شيء لأبحث عنه",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 78,
+      "title": "مسابقة صنع البطاقة؟",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 79,
+      "title": "الكثير من الاهتمام",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 80,
+      "title": "لو كنت أعرف في وقت سابق",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 81,
+      "title": "كل هذا لهذا اليوم",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 82,
+      "title": "اللعنة عليه!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 83,
+      "title": "التنازلات والمفاجآت",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 84,
+      "title": "تبدو مألوفة؟",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 85,
+      "title": "مهمة أ ب",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 86,
+      "title": "لو مينغ، تذكر هذا!",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 87,
+      "title": "من أرسلك؟",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 88,
+      "title": "سر المدير",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 89,
+      "title": "البطل يحفظ الجمال",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 90,
+      "title": "تقع في الحب معي؟",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 91,
+      "title": "ماذا حدث لأخي؟ !",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 92,
+      "title": "يستمر الاختبار",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 93,
+      "title": "هيا لنذهب",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 94,
+      "title": "إذن لن أكون مهذبا!",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 95,
+      "title": "شوكولاتة الحليب",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 96,
+      "title": "بويون",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 97,
+      "title": "القائمة السوداء لصنع البطاقة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 98,
+      "title": "الليلة السابقة للميراث",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 99,
+      "title": "القاتل قادم؟ !",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 100,
+      "title": "يبدأ ميراث ظل القمر!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 101,
+      "title": "جزيرة القمر المخفية",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 102,
+      "title": "كل واحد يظهر قواه السحرية!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 103,
+      "title": "لا حاجة؟",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 104,
+      "title": "لا أستطيع التمثيل بعد الآن",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 105,
+      "title": "الأخ الأصغر",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 106,
+      "title": "محاكمة الموت؟!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 107,
+      "title": "مجال روح السيف",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 108,
+      "title": "الكارثة تلوح في الأفق",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 109,
+      "title": "اختراق!",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 110,
+      "title": "دائما بجانبك",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 111,
+      "title": "الفصل 111",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 112,
+      "title": "رسوم إعادة التسجيل!",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 113,
+      "title": "المشاجرة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 114,
+      "title": "قطع النار الكرمية",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 115,
+      "title": "محرك آريس",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 116,
+      "title": "أنت مهم",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 117,
+      "title": "كل هذا هراء",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 118,
+      "title": "قتال الوحش المحاصر",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 119,
+      "title": "جربها!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 120,
+      "title": "كل واحد منهم لديه مزاياه الخاصة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 121,
+      "title": "الفصل رقم 121",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 122,
+      "title": "هذا الضوء",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 123,
+      "title": "123",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 124,
+      "title": "الفصل رقم 124",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 125,
+      "title": "الفصل رقم 125",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 126,
+      "title": "الفصل رقم 126",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 127,
+      "title": "الغرباء",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 128,
+      "title": "ما فُقد يجب استعادته.",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 129,
+      "title": "الطريق الى الجنة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 130,
+      "title": "وحش جبل الثلج",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 131,
+      "title": "استفزازية للغاية",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 132,
+      "title": "رياح جليدية ومطر سيوف",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 133,
+      "title": "أتجرؤ على السخرية مني يا جلالة الملك؟!",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 134,
+      "title": "طاقة السيف مثل الغابة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 135,
+      "title": "المركز الأول وغيرها",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 136,
+      "title": "136",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 137,
+      "title": "يبدو الأمر ممتعاً للغاية؟",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 138,
+      "title": "اشعر بالغضب!",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 139,
+      "title": "تم إقصاؤهم واحداً تلو الآخر",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 140,
+      "title": "تكتيك ذكي حقًّا!",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 141,
+      "title": "قواعدُ الإرثِ المنسيّة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 142,
+      "title": "حارسُ الجبلِ السادس",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 143,
+      "title": "أسيرُ الحُبّ وفضيحةُ تشينغمينغ",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 144,
+      "title": "القمةُ المُطلقة للنجومِ الثلاث",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 145,
+      "title": "المعنىُ الحقيقيُّ للإرثِ المنسيّ",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 146,
+      "title": "عقدُ هاديسَ المحرّم",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 147,
+      "title": "أنا صانعُ بطاقاتٍ فحسب!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 148,
+      "title": "الآن.. أنا صاقلُ السيف!",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 149,
+      "title": "صليلُ نيةِ السيف",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 150,
+      "title": "نقطة تحوّل",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 151,
+      "title": "العودة إلى الديار!",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 152,
+      "title": "التدريب الذاتي",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 153,
+      "title": "التحدي",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 154,
+      "title": "محاولة قتل",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 155,
+      "title": "المنافسة",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 156,
+      "title": "البطل لا يرحم",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 157,
+      "title": "بطولة كأس الأكاديمية",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 158,
+      "title": "صانع البطاقات الحقيقي",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 159,
+      "title": "الورقة الرابحة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 160,
+      "title": "الوحوش الكاسرة",
+      "is_closed": false,
+      "total_images": 8
+    }
+  ]
+}
