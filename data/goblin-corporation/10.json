@@ -1,13 +1,23 @@
 {
   "series": "goblin-corporation",
   "chapter": 10,
-  "title": "Goblin Inc",
+  "title": "حرب الأقاليم",
   "is_closed": false,
-  "total_images": 4,
+  "total_images": 14,
   "images": [
-    "https://olympustaff.com/images/chapter/500ab9e451c7b5d48d611961f5d0ff11.webp",
-    "https://olympustaff.com/images/chapter/85c9d879e312ca6b662f3486456ead1d.png",
-    "https://olympustaff.com/images/chapter/022ed79a1042016a8435411963133157.png",
-    "https://olympustaff.com/images/chapter/4344e433cc2f3744aad97d690c9afb6e.png"
+    "https://olympustaff.com/uploads/manga_d43ab/10/30826d15d4b7e5a73b7169188aa6aa2f.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/a92a7b55c024718ee6c6ac6583629f70.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/689f060bdd97ce62a9168f702a3135bb.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/f779d75b02e6e60a2b3282bb08a7222b.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/308bc6f4e2ca9919cd372486d793eba0.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/65f340ae4fcb08fa1e24ccc521a1307a.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/4533ca4edfc69179365b7d8abb3d68d6.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/d3c40fef0fabbf77c906d861b5a50070.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/1fa646330a33d6efbea2423750c385bc.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/0df2cf71e66bce3369eb2f1ecbfe2ab9.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/a20776f6c3ea38040eec2d093c187f40.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/13e503ba50ff196b57a630d2988d02d0.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/f40f80cb3aa61975dd2660d8bb7a33dd.webp",
+    "https://olympustaff.com/uploads/manga_d43ab/10/6385061a13899c0f3d02d9f46e2d3364.webp"
   ]
 }

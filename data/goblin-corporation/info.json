@@ -16,89 +16,73 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 20,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 20
     },
     {
       "number": 2,
       "title": "بداية العمل الإضافي في عالم الشياطين",
       "is_closed": false,
-      "total_images": 16,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 17
     },
     {
       "number": 3,
       "title": "النصر الأول واستغلال الموارد",
       "is_closed": false,
-      "total_images": 17,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 17
     },
     {
       "number": 4,
       "title": "الاستكشاف ومواجهة وحش الغابة",
       "is_closed": false,
-      "total_images": 17,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 17
     },
     {
       "number": 5,
       "title": "شعلة الأمل وتسمية البطل",
       "is_closed": false,
-      "total_images": 18,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 18
     },
     {
       "number": 6,
       "title": "شعلة الحماية ومواجهة العناكب",
       "is_closed": false,
-      "total_images": 15,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 15
     },
     {
       "number": 7,
       "title": "جرو الذئب والعضو الجديد",
       "is_closed": false,
-      "total_images": 12,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 12
     },
     {
       "number": 8,
       "title": "مشروع جديد",
       "is_closed": false,
-      "total_images": 17,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 17
     },
     {
       "number": 9,
       "title": "اسم رائع",
       "is_closed": false,
-      "total_images": 14,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 15
     },
     {
       "number": 10,
-      "title": "Goblin Inc",
+      "title": "حرب الأقاليم",
       "is_closed": false,
-      "total_images": 4,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 14
     },
     {
       "number": 11,
       "title": "Goblin Inc",
       "is_closed": false,
-      "total_images": 2,
-      "published_at": "2026-09-04 01:20:49",
-      "release_date": "2026-09-04"
+      "total_images": 4
+    },
+    {
+      "number": 12,
+      "title": "Goblin Inc",
+      "is_closed": false,
+      "total_images": 4
     }
   ]
 }
