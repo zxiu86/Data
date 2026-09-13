@@ -1,16 +1,22 @@
 {
   "series": "surviving-in-an-rpg-maker-horror-game",
   "chapter": 6,
-  "title": "Surviving In An RPG Maker Horror Game",
+  "title": "مختبر العلوم",
   "is_closed": false,
-  "total_images": 7,
+  "total_images": 13,
   "images": [
-    "https://olympustaff.com/images/chapter/29bcec009f3ccdc439754b29d2b73678.png",
-    "https://olympustaff.com/images/chapter/2338a20053e24d2adf5802cd3636316d.png",
-    "https://olympustaff.com/images/chapter/1c091f2c7a3fa0b0c6956100d2e0e29a.png",
-    "https://olympustaff.com/images/chapter/32bb7ee52099d668eccaaa5ea06ddb28.png",
-    "https://olympustaff.com/images/chapter/e76f368fbafd7bf95d90edc4f154a56e.png",
-    "https://olympustaff.com/images/chapter/0f5054993ea05c1b608b41767412af8f.png",
-    "https://olympustaff.com/images/chapter/56c6c3656d8629acbd1adb6d74b1a92a.png"
+    "https://olympustaff.com/uploads/manga_54e36/6/ad08e1c82a11bf5a4762cce4f8816053.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/24dea20a6ee4960b15d6e36d94c75f79.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/3f72f13cf0b1f03430bb67c7f5bcc625.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/7c4a463b7aef701bf589477b8dfaddb5.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/e2140d9ec42ee92464ae1e1ebe7f2ffa.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/8edead0c253a92112f6c250f3d370f06.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/e13245b0b78b68580518337cb47d69eb.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/43e5a1a9987e91b67c9feaa39b4d9658.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/65f459880bfe6e73134986810465f6c3.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/0df5ac727edf1b4095ee819d4b22e01c.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/b255a0f6d1cd2d48a07d58fd445c7d82.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/a19f8c8f6cb0e9d9d685522891cc4c0b.webp",
+    "https://olympustaff.com/uploads/manga_54e36/6/78d6e262d2afcc0dbea22d5234fe643f.webp"
   ]
 }
