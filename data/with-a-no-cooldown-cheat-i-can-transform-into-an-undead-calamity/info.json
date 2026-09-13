@@ -23,43 +23,57 @@
       "number": 1,
       "title": "قدرة جديدة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "إنعدام وقت الانتظار",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "غريب الأطوار",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الوضيع",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "المستوى الخامس",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ملك الذئاب",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "with a no cooldown cheat I can transform into an undead calamity",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 01:21:47",
+      "release_date": "اليوم"
     }
   ]
 }

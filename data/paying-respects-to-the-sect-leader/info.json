@@ -17,127 +17,169 @@
       "number": 1,
       "title": "مرة أخرى",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "نعمة مع نقمة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "فخ مزدوج",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "لا قيمة لها",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "زرع الخوف",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "احصد الاحترام",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "صفقة شريرة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "وهكذا وقعوا في فخي",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "وماذا لو خدعتكم؟",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "وعند صدام الخيل يا ابن الأطايب",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "عرض مالي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "حركة ماكرة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "من أجل العشيرة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "صفقة مشبوهة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "دليل الخيانه",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "وهذه هي حجتي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "عملية ابتزاز",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "العين بالعين",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الكل يريده.",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "Paying Respects To The Sect Leader",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "Paying Respects To The Sect Leader",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 01:21:09",
+      "release_date": "اليوم"
     }
   ]
 }

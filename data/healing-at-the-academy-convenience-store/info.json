@@ -21,79 +21,105 @@
       "number": 1,
       "title": "بعد 10الآف ساعة.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "طوق النجاة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "نقطة الانطلاق.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "ثغرة في اللوائح وطوق النجاة.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ملكة المفلسين",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "حديقة الفاصوليا",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "هدنة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "استعدادات المهرجان.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "سر الدونات وشيطان الاكاديمية",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "لقاء مميز.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "نزال إيلا",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "حاصدة الأرواح والتوابل الحارقة.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "Healing At The Academy Convenience Store",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:52",
+      "release_date": "اليوم"
     }
   ]
 }

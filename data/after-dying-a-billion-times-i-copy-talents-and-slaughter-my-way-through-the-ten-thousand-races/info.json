@@ -18,7 +18,9 @@
       "number": 1,
       "title": "رسالة من المستقبل",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     }
   ]
 }

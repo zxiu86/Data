@@ -19,697 +19,929 @@
       "number": 1,
       "title": "1",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "2",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "3",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "4",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "5",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "06",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "07",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الفصل رقم 8",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "9",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "10",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "11",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "12",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "13",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "14",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "15",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "16",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "إنه يستحق لقب الطاغية",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "لقد اخترقت: عالم تشكيل الروح",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "هالة الختم",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "التدريب في الجبل الخلفي",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "ما مدى قوة ابن عمي!!!!",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "مهمة زهور الصقل 1",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "مهمة زهور الصقل 2",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "المد المظلم",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "تقنية خاصية الظلام!",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "لقد حصلنا على الزهرة!",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "زيارة الشيخ وو",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الكوارث الطبيعية، انتظر المعركة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "جو قاتم، وبحر من الزهور يملأ السماء",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "أقوى رائد بسمة النار!",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "النهضة الروحية",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "هل هذه النهاية؟",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "حصار المدينة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "أمل ينبعث من جديد",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "خروج الملك من الشرنقة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "36",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "37",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "38",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "الفصل 39",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "40",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "41",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "42",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "سأستعير عائلتك بأكملها",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "44",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "45",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "الفصل 46",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "الفصل 47",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "48",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "49",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "50",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "51",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "52",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "53",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "54",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "55",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "ختم الفناء وانهيار القبور",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "سري للغاية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 58,
       "title": "اانت على أهبة الاستعداد",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 59,
       "title": "حرب بلا إعلان!!",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 60,
       "title": "محو الشوائب: الظلام أمام اليانغ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 61,
       "title": "شمس الديجور",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 62,
       "title": "اختراق",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 63,
       "title": "نهظة خاتم القبور",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 64,
       "title": "64",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 65,
       "title": "سقوط أقنعة المختارين",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 66,
       "title": "حين ينجلي الزيف",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 67,
       "title": "ما في الظّلام",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 68,
       "title": "الظِلُّ المُشِعّ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 69,
       "title": "حين يختار العرش سيده",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 70,
       "title": "أهلا بالجميع",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 71,
       "title": "حين تنحني العروش",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "72",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "زئيرُ المَلِك: جحيمٌ يَشُقُّ مدينةَ تشوان",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 74,
       "title": "نزول سيّد الرعد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 75,
       "title": "عوالم",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 76,
       "title": "العملاق الأسود",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 77,
       "title": "الطوفان السحيق",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 78,
       "title": "نداء الهاوية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 79,
       "title": "وارثُ العرش المظلم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 80,
       "title": "سيد القتال الأوحد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 81,
       "title": "العرش المعدني.. وحارسه الذي لا يُق___",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 82,
       "title": "مَنْ يَجْرُؤ؟",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 83,
       "title": "عودة السيد الحقيقي لمدينة تاي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "شئ اخر؟",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 85,
       "title": "رقصه الظلام والرعد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 86,
       "title": "ترويض الرعد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 87,
       "title": "خاتمُ القبور صرخةُ القوة السحيقة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 88,
       "title": "سُلطانُ القمر",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 89,
       "title": "مناهض الانسانية؟",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "عصيان العرش",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "عرش حاكم الشمس",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "سيد الإكليل السماوي",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "الارتقاء الأسطوري: اختراق عالم القمر المقدس",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 94,
       "title": "وهم الحصون وعملاق الثرى",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 95,
       "title": "السيد المهزوم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 96,
       "title": "سيدة عرش المعدن... والحدس المريب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 97,
       "title": "عصر السلب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 98,
       "title": "عاصفةُ مدينة \"مو\"",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 99,
       "title": "القوة المطلقة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 100,
       "title": "بزوغ شمس الصباح وظهور غريم الضوء",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 101,
       "title": "مستقطب الكوارث",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 102,
       "title": "وزارة التنشئة الروحية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 103,
       "title": "ظهور مهيب: حقيقة خاتم القبور",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 104,
       "title": "ولادة ختم اليانغ السماوي",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 105,
       "title": "العرش الحادي عشر ونُذُر الكارثة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 106,
       "title": "من أين بدأ الوهم؟",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 107,
       "title": "«انقشاعُ الأوهام وتربُّص الأعداء»",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 108,
       "title": "«سقوط العروش: صولةُ خاتم القبور ورمحُ القدر»",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "الوريثة الجديدة لعرش",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "مأدبة المكائد وسَمُّ الضوء الأقصى",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 111,
       "title": "سيادة العروش",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 112,
       "title": "مباغتة في الصقيع",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 113,
       "title": "نصلٌ يُخمِدُ ضياء القمر",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 114,
       "title": "هيجان في بحر الرعد",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 115,
       "title": "محنة عرش الرعد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     },
     {
       "number": 116,
       "title": "After the School Belle Dumped Me, I Became a Martial Arts God",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 01:20:33",
+      "release_date": "اليوم"
     }
   ]
 }

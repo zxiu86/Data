@@ -18,79 +18,105 @@
       "number": 1,
       "title": "تم طردك",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "رهانٌ على شهر",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "النجمة الجديدة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "انكسار الختم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "قوة الخبير",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "لهيب الهيبة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "براعةُ الإلقاء الرباعي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "فخٌّ مُدبّر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "ترويض القنفذة الشائكة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "السحر الحقيقي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "رهان بعشرة آلاف",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 01:21:26",
+      "release_date": "اليوم"
     }
   ]
 }

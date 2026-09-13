@@ -24,133 +24,177 @@
       "number": 1,
       "title": "السيف الذي أُلقي جانبًا",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "بداية الانتقام في آل إلمنستر",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "بوادر الكارثة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "اختبار القبول في الاكاديمية المركزية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "طالب الصدارة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "تصنيف الاكاديمية",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "التدريب على حافة الموت",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الإجابة الحقيقية للاختبار",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "إختبار العزيمة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "ثغرة في دفاع المُقيِّم",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "اتحاد السيف والسحر",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "مطاردة المستجدين",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "جنون إلمنستر",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "مستنقع الاكاديمية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "استيقاظ دائرة الطاقة القتالية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "رهان على القوة.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "وحوش في هيئة أطفال.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "رعب الارانب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الرقم واحد",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "لستُ كافياً",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "The Sword Saint Reincarnated Into A Noble Mage Family",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "The Sword Saint Reincarnated Into A Noble Mage Family",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 01:21:37",
+      "release_date": "اليوم"
     }
   ]
 }

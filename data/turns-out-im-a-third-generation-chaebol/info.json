@@ -19,103 +19,137 @@
       "number": 1,
       "title": "عدت إلى الماضي",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "اختبار تغير المصير.",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مسار مستقبلي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "اول يوم دراسي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "شراء القلوب.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "معلمة خاصة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "أول صفقة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "اليد اليمنى واليد اليسرى",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "إفلاس",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "اول خطوة نحو الامبراطورية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "كسب الولاء.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "لقاء بيل غيتس",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "استثمار بيل والكنز المدفون",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "اخبار سارة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "اخبار سارة 2",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "Turns Out I'm a Third-Generation Chaebol",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "Turns Out I'm a Third-Generation Chaebol",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 01:21:41",
+      "release_date": "اليوم"
     }
   ]
 }

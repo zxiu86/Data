@@ -20,73 +20,97 @@
       "number": 1,
       "title": "المشروب الأزلي.",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مكونات الكوكا",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الإقليم الشيطاني",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "دخول المتاهة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "تحدي الدخلاء.",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "اكل العقول",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "غرفة المكافأت",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "انتهاء المغامرة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "بداية العملية",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "سم قاتل",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الوصفة النهائية.",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "I'm Quitting Everything and Selling Cola",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:56",
+      "release_date": "اليوم"
     }
   ]
 }

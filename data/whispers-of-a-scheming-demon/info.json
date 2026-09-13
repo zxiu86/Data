@@ -18,37 +18,49 @@
       "number": 1,
       "title": "صفقة مع الشيطان",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 01:21:46",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "كشف الخدعة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:21:46",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "عقد ابدي",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 01:21:46",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "متسيد فوق الجميع",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:21:46",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "Whispers of a Scheming Demon",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:21:46",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "Whispers of a Scheming Demon",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:21:46",
+      "release_date": "اليوم"
     }
   ]
 }

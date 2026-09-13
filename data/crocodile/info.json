@@ -16,49 +16,65 @@
       "number": 1,
       "title": "اسمي المستعار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "حارس شخصي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "غد مجيد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "تمثيلية صغيرة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ثلاثة لكل شخص",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "تحمل المسؤولية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "قاتل خسيس",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "عنف مدرسي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:42",
+      "release_date": "اليوم"
     }
   ]
 }

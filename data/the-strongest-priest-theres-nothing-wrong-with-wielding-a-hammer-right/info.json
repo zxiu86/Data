@@ -19,19 +19,25 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:21:36",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "بداية طريق البطل",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 01:21:36",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "نظرة لا تبشر بالخير",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:36",
+      "release_date": "اليوم"
     }
   ]
 }

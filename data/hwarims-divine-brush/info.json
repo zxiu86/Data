@@ -18,61 +18,81 @@
       "number": 1,
       "title": "هويّتي",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "أسوأ خطأ ارتكبته",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مدمّر السماء اللامتناهي",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "مخيلة فطرية",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "شرهٌ لا يشبع",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "خردة قديمة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الاستقامة",
       "is_closed": false,
-      "total_images": 34
+      "total_images": 34,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "قبو التنين المخفي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "قاتلة حديقة الحبر والماء",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "اقتحام الجناح",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 01:20:53",
+      "release_date": "اليوم"
     }
   ]
 }

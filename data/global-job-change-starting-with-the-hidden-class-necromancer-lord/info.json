@@ -19,61 +19,81 @@
       "number": 1,
       "title": "اسطورة بجانبك",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "عرض لا يمكن رفضه",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "بدأ الأختبـــار",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أنا الملك",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الزعيم الأخير",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "مستوى الكابوس",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "رغبة في الأنتقام",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "خطة مُحكمة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "Global Job Change: Starting With the Hidden Class Necromancer Lord",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "Global Job Change: Starting With the Hidden Class Necromancer Lord",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:20:50",
+      "release_date": "اليوم"
     }
   ]
 }

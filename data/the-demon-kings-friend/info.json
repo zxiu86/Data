@@ -16,43 +16,57 @@
       "number": 1,
       "title": "الختم الأخير ووسام التضحية",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "وعاء ملك الشيطاين",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "حل ثالث!",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الغراب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "المنقذ المجهول",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "The Demon King's Friend",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "The Demon King's Friend",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 01:21:23",
+      "release_date": "اليوم"
     }
   ]
 }
