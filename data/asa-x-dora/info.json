@@ -1,0 +1,72 @@
+{
+  "slug": "asa-x-dora",
+  "title": "Assassin X Dragon",
+  "cover": "https://olympustaff.com/images/manga/1998729402324407454.jpg",
+  "summary": "مانجا Assassin X Dragon مترجمةAssassin X Dragon آسيبي، عجوز بائع الزهور الذي يُفزعُ زبائنه من غير قصد، يعيش أيامه في متجرٍ هادئٍ تتسلل إليه روائح الورد. ذات يوم، تهرع إلى دكانه فتاةٌ يطاردها الجنود. وسرعان...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "فنون قتال",
+    "خارق للطبيعة"
+  ],
+  "page_title": "Assassin X Dragon",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "عجوز محل الزهور",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 2,
+      "title": "الوشم الذي عاد للظهور",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 3,
+      "title": "العجوز الذي سبق الزمن",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 4,
+      "title": "عهد تحت ضوء الفجر",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 5,
+      "title": "أجنحة التنين",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 6,
+      "title": "العبرة بالنضارة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 7,
+      "title": "لا تستهن بالعحوز",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 8,
+      "title": "علوك منخفض",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 9,
+      "title": "انتهاء الفقرة الهزلية",
+      "is_closed": false,
+      "total_images": 10
+    }
+  ]
+}
