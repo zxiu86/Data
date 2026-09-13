@@ -1,11 +1,16 @@
 {
   "series": "mookhyang-dark-lady",
   "chapter": 295,
-  "title": "MookHyang - Dark Lady",
+  "title": "التحالف القاري",
   "is_closed": false,
-  "total_images": 2,
+  "total_images": 7,
   "images": [
-    "https://olympustaff.com/images/manga/b60da63dcd116c773ebd3983ec913da3.jpg",
-    "https://olympustaff.com/images/chapter/fdc361908d83de065f202a70fb1355e1.png"
+    "https://olympustaff.com/uploads/manga_e1194/295/40fd8ee9d56fc8feeaba896183ccc99d.webp",
+    "https://olympustaff.com/uploads/manga_e1194/295/facb852c4185130652b4639031afc2b3.webp",
+    "https://olympustaff.com/uploads/manga_e1194/295/e49ba89ca90fe45469810ab407d29add.webp",
+    "https://olympustaff.com/uploads/manga_e1194/295/321deae4b5cf0149bc7fd238c2c0e3d8.webp",
+    "https://olympustaff.com/uploads/manga_e1194/295/66cecdb32e4247572317e7ae64ea8474.webp",
+    "https://olympustaff.com/uploads/manga_e1194/295/d6df1469f783de9009f0dee547e70d56.webp",
+    "https://olympustaff.com/uploads/manga_e1194/295/0d23e65e6600e2fb9c644e9aecb93ce1.webp"
   ]
 }
