@@ -1,0 +1,53 @@
+{
+  "slug": "miro-in-memory",
+  "title": "Miro in Memory",
+  "cover": "https://olympustaff.com/images/manga/907504813194327605.webp",
+  "summary": "مانجا Miro in Memory مترجمةMiro in Memory يحلم \"هيتشان\" بأن يصبح بطلاً ينقذ كوريا من ويلات \"الكوارث\" الفتاكة، لكن كونه حارساً بلا قوى خارقة، ينظر إليه الجميع كضعيف لا حول له ولا قوة. يتغير كل شيء حين...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "غموض"
+  ],
+  "page_title": "Miro in Memory",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "ميرو (1)",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 2,
+      "title": "ميرو (2)",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 3,
+      "title": "ميرو (3)",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 4,
+      "title": "ميرو (4)",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 5,
+      "title": "ميرو (5)",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 6,
+      "title": "ميرو (6)",
+      "is_closed": false,
+      "total_images": 12
+    }
+  ]
+}
