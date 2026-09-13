@@ -18,49 +18,37 @@
       "number": 1,
       "title": "البطل",
       "is_closed": false,
-      "total_images": 32,
-      "published_at": "2026-09-04 16:42:03",
-      "release_date": "2026-09-04"
+      "total_images": 32
     },
     {
       "number": 2,
       "title": "خيانة شريفة",
       "is_closed": false,
-      "total_images": 24,
-      "published_at": "2026-09-04 16:42:03",
-      "release_date": "2026-09-04"
+      "total_images": 24
     },
     {
       "number": 3,
       "title": "نادي قتال",
       "is_closed": false,
-      "total_images": 28,
-      "published_at": "2026-09-04 16:42:03",
-      "release_date": "2026-09-04"
+      "total_images": 28
     },
     {
       "number": 4,
       "title": "تدريب قاسي",
       "is_closed": false,
-      "total_images": 19,
-      "published_at": "2026-09-04 16:42:03",
-      "release_date": "2026-09-04"
+      "total_images": 19
     },
     {
       "number": 5,
       "title": "لهذا يجب ان نعيش",
       "is_closed": false,
-      "total_images": 22,
-      "published_at": "2026-09-04 16:42:03",
-      "release_date": "2026-09-04"
+      "total_images": 23
     },
     {
       "number": 6,
-      "title": "Judgment",
+      "title": "إلى القمة",
       "is_closed": false,
-      "total_images": 5,
-      "published_at": "2026-09-04 16:42:03",
-      "release_date": "2026-09-04"
+      "total_images": 16
     }
   ]
 }
