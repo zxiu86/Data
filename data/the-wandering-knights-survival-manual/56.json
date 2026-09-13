@@ -1,8 +1,27 @@
 {
   "series": "the-wandering-knights-survival-manual",
   "chapter": 56,
-  "title": "The Wandering Knight’s Survival Manual",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "title": "حصار سانت دارج (1)",
+  "is_closed": false,
+  "total_images": 18,
+  "images": [
+    "https://olympustaff.com/uploads/manga_8edd7/56/f53c23e71acdabaa30fa37d29dc0505c.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/568c060490307eddf528b680ddbfcfa3.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/bb5f7af68b8c7a85240d4a35c570a095.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/a59c7da8bc71d6975dd38ef22ee0590d.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/fd72b47e7da106e5d842e5bea111f2a2.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/8f127d74ba6e3aa31d5790d5d01cdc03.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/8f9699471d83c35961c296499d7002a3.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/19cec0da9b275687c4ed9a4be385c48d.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/cd6ad96cbb1a9999b7948640b72ca434.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/84870c40ef943ae1407984c56452d779.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/73160db26107848dc16bbcc815b536e2.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/c13dff7c0f7aa4ac7a3b4b690d6d4067.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/04eb747c05769c5785c5280e99b3332e.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/94fd0314ebf803affa878d8b37e159ec.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/79a13e56f9b0781348be14dca391d2e2.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/fb55d9dfe30d574e5f778ecad8872eb4.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/6672128eeb55472b4a09b032e64da112.webp",
+    "https://olympustaff.com/uploads/manga_8edd7/56/11e684b3eb8608ee2bbc6933e779e39c.webp"
+  ]
 }
