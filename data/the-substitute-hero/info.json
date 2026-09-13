@@ -20,89 +20,79 @@
       "number": 1,
       "title": "اسم واحد-شخصان مختلفان",
       "is_closed": false,
-      "total_images": 17,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 17
     },
     {
       "number": 2,
       "title": "من أجل المملكة.",
       "is_closed": false,
-      "total_images": 13,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 13
     },
     {
       "number": 3,
       "title": "تضحية الملك.",
       "is_closed": false,
-      "total_images": 14,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 14
     },
     {
       "number": 4,
       "title": "رحلة الابطال.",
       "is_closed": false,
-      "total_images": 20,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 20
     },
     {
       "number": 5,
       "title": "واحدًا تلو الأخر",
       "is_closed": false,
-      "total_images": 16,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 16
     },
     {
       "number": 6,
       "title": "حي ميت.",
       "is_closed": false,
-      "total_images": 38,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 38
     },
     {
       "number": 7,
       "title": "في مواجهه النيزك.",
       "is_closed": false,
-      "total_images": 14,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 14
     },
     {
       "number": 8,
       "title": "وعد لم ينجز.",
       "is_closed": false,
-      "total_images": 15,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 15
     },
     {
       "number": 9,
       "title": "ابطال بالصدفة",
       "is_closed": false,
-      "total_images": 13,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 13
     },
     {
       "number": 10,
       "title": "قوة المعرفة",
       "is_closed": false,
-      "total_images": 14,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 14
     },
     {
       "number": 11,
       "title": "خطأ في الحسابات",
       "is_closed": false,
-      "total_images": 21,
-      "published_at": "2026-09-04 16:42:39",
-      "release_date": "2026-09-04"
+      "total_images": 21
+    },
+    {
+      "number": 12,
+      "title": "The Substitute Hero",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 13,
+      "title": "The Substitute Hero",
+      "is_closed": false,
+      "total_images": 14
     }
   ]
 }
