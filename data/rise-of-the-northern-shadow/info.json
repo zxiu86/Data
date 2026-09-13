@@ -1,0 +1,79 @@
+{
+  "slug": "rise-of-the-northern-shadow",
+  "title": "Rise Of The Northern Shadow",
+  "cover": "https://olympustaff.com/images/manga/d4a056ba6968c5f567c8dfdeb9052964.png",
+  "summary": "مانجا Rise Of The Northern Shadow مترجمةRise Of The Northern Shadow انضم إلى عيون الملك! وحوّل غضبك إلى سلاحٍ يذود عن المملكة! \r\nإثر فقدانه لعائلته في غارةٍ وحشية شنتها قبائل الجورتشين على حدود مملكة جوسون، أقسم الشاب غوي-يون...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "شونين",
+    "فنون قتال",
+    "فنون قتالية"
+  ],
+  "page_title": "Rise Of The Northern Shadow",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "ظل الشبح الحقيقي.",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 2,
+      "title": "وهم الماضي.",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 3,
+      "title": "عين الملك.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 4,
+      "title": "اختبار التجنيد.",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 5,
+      "title": "خير للبشرية جمعاء.",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 6,
+      "title": "الرامي السماوي بي سون-مونغ",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 7,
+      "title": "سهم الخوف.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 8,
+      "title": "الاختبار الثالث",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 9,
+      "title": "إذن بالقتل",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 10,
+      "title": "عليك أن تنجو",
+      "is_closed": false,
+      "total_images": 13
+    }
+  ]
+}
