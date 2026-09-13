@@ -1,0 +1,876 @@
+{
+  "slug": "the-dungeon-master",
+  "title": "The Dungeon Master",
+  "cover": "https://olympustaff.com/images/manga/4127335331149081335.jpg",
+  "summary": "مانجا The Dungeon Master مترجمةThe Dungeon Master أوه جو-يون شاب عادي يسعى للحصول على وظيفة بدوام كامل. لكن في أحد الأيام، يقفز في نهر الهان ويعرّض نفسه لخطر الغرق لينقذ طفلًا سقط في الماء. وعندما كان على وش...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرة",
+    "مغامرات",
+    "رعب",
+    "إثارة",
+    "شونين",
+    "نظام",
+    "سحر",
+    "وحوش",
+    "تناسخ"
+  ],
+  "page_title": "The Dungeon Master",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Dungeon Master-Chapter 1",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 2,
+      "title": "The Dungeon Master-Chapter 2",
+      "is_closed": false,
+      "total_images": 64
+    },
+    {
+      "number": 3,
+      "title": "The Dungeon Master-s3-ch51",
+      "is_closed": false,
+      "total_images": 65
+    },
+    {
+      "number": 4,
+      "title": "The Dungeon Master-Chapter 4",
+      "is_closed": false,
+      "total_images": 47
+    },
+    {
+      "number": 5,
+      "title": "The Dungeon Master-Chapter 5",
+      "is_closed": false,
+      "total_images": 46
+    },
+    {
+      "number": 6,
+      "title": "The Dungeon Master-Chapter 6",
+      "is_closed": false,
+      "total_images": 50
+    },
+    {
+      "number": 7,
+      "title": "The dungeon master 7",
+      "is_closed": false,
+      "total_images": 51
+    },
+    {
+      "number": 8,
+      "title": "The dungeon master 8",
+      "is_closed": false,
+      "total_images": 73
+    },
+    {
+      "number": 9,
+      "title": "The dungeon master 9",
+      "is_closed": false,
+      "total_images": 62
+    },
+    {
+      "number": 10,
+      "title": "The dungeon master 10",
+      "is_closed": false,
+      "total_images": 60
+    },
+    {
+      "number": 11,
+      "title": "The dungeon master 11",
+      "is_closed": false,
+      "total_images": 51
+    },
+    {
+      "number": 12,
+      "title": "The dungeon master 12",
+      "is_closed": false,
+      "total_images": 59
+    },
+    {
+      "number": 13,
+      "title": "The dungeon master 13",
+      "is_closed": false,
+      "total_images": 53
+    },
+    {
+      "number": 14,
+      "title": "The dungeon master 14",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 15,
+      "title": "The dungeon master 15",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 16,
+      "title": "The Dungeon Master-Chapter 16",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 17,
+      "title": "The Dungeon Master-Chapter 17",
+      "is_closed": false,
+      "total_images": 31
+    },
+    {
+      "number": 18,
+      "title": "The Dungeon Master-Chapter 18",
+      "is_closed": false,
+      "total_images": 36
+    },
+    {
+      "number": 19,
+      "title": "The Dungeon Master-Chapter 19",
+      "is_closed": false,
+      "total_images": 34
+    },
+    {
+      "number": 20,
+      "title": "The Dungeon Master-Chapter 20",
+      "is_closed": false,
+      "total_images": 38
+    },
+    {
+      "number": 21,
+      "title": "The Dungeon Master-Chapter 21",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 22,
+      "title": "The Dungeon Master-Chapter 22",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 23,
+      "title": "The Dungeon Master-Chapter 23",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 24,
+      "title": "The Dungeon Master-Chapter 24",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 25,
+      "title": "the Dungeon Master-Chapter 25",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 26,
+      "title": "The Dungeon Master-Chapter 26",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 27,
+      "title": "The Dungeon Master-Chapter 27",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 28,
+      "title": "The Dungeon Master-Chapter 28",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "The Dungeon Master-Chapter 29",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 30,
+      "title": "The Dungeon Master-Chapter 30",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 31,
+      "title": "The Dungeon Master-Chapter 31",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 32,
+      "title": "The Dungeon Master-Chapter 32",
+      "is_closed": false,
+      "total_images": 44
+    },
+    {
+      "number": 33,
+      "title": "The Dungeon Master-Chapter 33",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 34,
+      "title": "The Dungeon Master-Chapter 34",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 35,
+      "title": "The Dungeon Master-Chapter 35",
+      "is_closed": false,
+      "total_images": 40
+    },
+    {
+      "number": 36,
+      "title": "The Dungeon Master-Chapter 36",
+      "is_closed": false,
+      "total_images": 37
+    },
+    {
+      "number": 37,
+      "title": "The Dungeon Master-Chapter 37",
+      "is_closed": false,
+      "total_images": 37
+    },
+    {
+      "number": 38,
+      "title": "The Dungeon Master-Chapter 38",
+      "is_closed": false,
+      "total_images": 38
+    },
+    {
+      "number": 39,
+      "title": "The Dungeon Master-Chapter 39",
+      "is_closed": false,
+      "total_images": 38
+    },
+    {
+      "number": 40,
+      "title": "The Dungeon Master-Chapter 40",
+      "is_closed": false,
+      "total_images": 35
+    },
+    {
+      "number": 41,
+      "title": "The Dungeon Master-Chapter 41",
+      "is_closed": false,
+      "total_images": 38
+    },
+    {
+      "number": 42,
+      "title": "The Dungeon Master-Chapter 42",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 43,
+      "title": "The Dungeon Master-Chapter 43",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 44,
+      "title": "The Dungeon Master-Chapter 44",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 45,
+      "title": "The Dungeon Master-Chapter 45",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 46,
+      "title": "The Dungeon Master-Chapter 46",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 47,
+      "title": "The Dungeon Master-Chapter 47",
+      "is_closed": false,
+      "total_images": 34
+    },
+    {
+      "number": 48,
+      "title": "The Dungeon Master-Chapter 48",
+      "is_closed": false,
+      "total_images": 31
+    },
+    {
+      "number": 49,
+      "title": "The Dungeon Master-Chapter 49",
+      "is_closed": false,
+      "total_images": 34
+    },
+    {
+      "number": 50,
+      "title": "The Dungeon Master-Chapter 50",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 51,
+      "title": "الفصل 51",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 52,
+      "title": "The Dungeon Master-s3-ch52",
+      "is_closed": false,
+      "total_images": 66
+    },
+    {
+      "number": 53,
+      "title": "Dungeon",
+      "is_closed": false,
+      "total_images": 62
+    },
+    {
+      "number": 54,
+      "title": "The dungeon master-54-بوبي",
+      "is_closed": false,
+      "total_images": 66
+    },
+    {
+      "number": 55,
+      "title": "The dungeon master-55- التحول",
+      "is_closed": false,
+      "total_images": 62
+    },
+    {
+      "number": 56,
+      "title": "The dungeon master-56- مجاني هدية",
+      "is_closed": false,
+      "total_images": 63
+    },
+    {
+      "number": 57,
+      "title": "The dungeon master-57- بداية المنافسة",
+      "is_closed": false,
+      "total_images": 70
+    },
+    {
+      "number": 58,
+      "title": "The dungeon master-58- ارك المنافسة",
+      "is_closed": false,
+      "total_images": 70
+    },
+    {
+      "number": 59,
+      "title": "The dungeon master-59-مهارة دموية",
+      "is_closed": false,
+      "total_images": 67
+    },
+    {
+      "number": 60,
+      "title": "The dungeon master-60- صائد الجبن خخخ",
+      "is_closed": false,
+      "total_images": 71
+    },
+    {
+      "number": 61,
+      "title": "The dungeon master-61- اخيرااا",
+      "is_closed": false,
+      "total_images": 71
+    },
+    {
+      "number": 62,
+      "title": "The dungeon master-62-المصير",
+      "is_closed": false,
+      "total_images": 66
+    },
+    {
+      "number": 63,
+      "title": "Dungeon",
+      "is_closed": false,
+      "total_images": 63
+    },
+    {
+      "number": 64,
+      "title": "The dungeon master-64",
+      "is_closed": false,
+      "total_images": 65
+    },
+    {
+      "number": 65,
+      "title": "Dark elf",
+      "is_closed": false,
+      "total_images": 66
+    },
+    {
+      "number": 66,
+      "title": "The dungeon master-S3-ch66-إنشاء الكتيبة العسكرية",
+      "is_closed": false,
+      "total_images": 62
+    },
+    {
+      "number": 67,
+      "title": "Dungeon",
+      "is_closed": false,
+      "total_images": 69
+    },
+    {
+      "number": 68,
+      "title": "Dungeon Majesty-الفصل 68",
+      "is_closed": false,
+      "total_images": 76
+    },
+    {
+      "number": 69,
+      "title": "The Dungeon Master 69",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 70,
+      "title": "The Dungeon Master 70",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 71,
+      "title": "The dungeon master 71",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 72,
+      "title": "The Dungeon Master 72",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 73,
+      "title": "The dungeon master 73",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 74,
+      "title": "The Dungeon Master 74",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 75,
+      "title": "The Dungeon master 75",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 76,
+      "title": "The Dungeon master 76",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 77,
+      "title": "The Dungeon master 77",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 78,
+      "title": "The Dungeon master 78",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 79,
+      "title": "The Dungeon master 79",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 80,
+      "title": "The Dungeon master 80",
+      "is_closed": false,
+      "total_images": 31
+    },
+    {
+      "number": 81,
+      "title": "The Dungeon master 81",
+      "is_closed": false,
+      "total_images": 37
+    },
+    {
+      "number": 82,
+      "title": "The Dungeon Master 82",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 83,
+      "title": "The Dungeon master 83",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 84,
+      "title": "The Dungeon Master 84",
+      "is_closed": false,
+      "total_images": 175
+    },
+    {
+      "number": 85,
+      "title": "master ch85",
+      "is_closed": false,
+      "total_images": 174
+    },
+    {
+      "number": 86,
+      "title": "The dungeon master ch86",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 87,
+      "title": "The Dungeon Master 87",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 88,
+      "title": "The Dungeon Master 88",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 89,
+      "title": "The Dungeon master 89",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 90,
+      "title": "The Dungeon Master 90",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 91,
+      "title": "the dungeon master ch91",
+      "is_closed": false,
+      "total_images": 41
+    },
+    {
+      "number": 92,
+      "title": "the dungeon master ch92",
+      "is_closed": false,
+      "total_images": 37
+    },
+    {
+      "number": 93,
+      "title": "the dungeon master ch93",
+      "is_closed": false,
+      "total_images": 42
+    },
+    {
+      "number": 94,
+      "title": "the dungeon master ch94",
+      "is_closed": false,
+      "total_images": 41
+    },
+    {
+      "number": 95,
+      "title": "the dungeon master ch95",
+      "is_closed": false,
+      "total_images": 45
+    },
+    {
+      "number": 96,
+      "title": "the dungeon master ch96",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 97,
+      "title": "the dungeon master ch97",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 98,
+      "title": "the dungeon master ch98",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 99,
+      "title": "the dungeon master 99",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 100,
+      "title": "the dungeon master 100",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 101,
+      "title": "the dungeon master 101",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 102,
+      "title": "the dungeon master 102",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 103,
+      "title": "the dungeon master 103",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 104,
+      "title": "the dungeon master 104",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 105,
+      "title": "the dungeon master 105",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 106,
+      "title": "the dungeon master 106",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 107,
+      "title": "the dungeon master 107",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 108,
+      "title": "the dungeon master 108",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 109,
+      "title": "the dungeon master 109",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 110,
+      "title": "the dungeon house 110",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 111,
+      "title": "the dungeon master 111",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 112,
+      "title": "the dungeon master 112",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 113,
+      "title": "the dungeon master 113",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 114,
+      "title": "the dungeon master 114",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 115,
+      "title": "the dungeon master 115",
+      "is_closed": false,
+      "total_images": 45
+    },
+    {
+      "number": 116,
+      "title": "the dungeon master 116",
+      "is_closed": false,
+      "total_images": 50
+    },
+    {
+      "number": 117,
+      "title": "the dungeon master 117",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 118,
+      "title": "the dungeon master 118",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 119,
+      "title": "the dungeon mastermaster 119",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 120,
+      "title": "the dungeon master 120",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 121,
+      "title": "the dungeon master 121",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 122,
+      "title": "the dungeon master 122",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 123,
+      "title": "the dungeon master 123",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 124,
+      "title": "the dungeon master 124",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 125,
+      "title": "the dungeon master 125",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 126,
+      "title": "the dungeon master 126",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 127,
+      "title": "the dungeon master 127",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 128,
+      "title": "the dungeon master 128",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 129,
+      "title": "the dungeon master 129",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 130,
+      "title": "الفصـــــل 130 من The dungeon master",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 131,
+      "title": "الفصل 131من the dungeon master",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 132,
+      "title": "The dungeon master الفصل 132",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 133,
+      "title": "The dungeon master الفصل 133",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 134,
+      "title": "The dungeon master الفصل 134",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 135,
+      "title": "The dungeon master الفصل 135",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 136,
+      "title": "The dungeon master الفصل 136",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 137,
+      "title": "الفصل 137من The dungeon master",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 138,
+      "title": "الفصل 138 The Dungeon Master",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 139,
+      "title": "الفصل 139 The Dungeon Master",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 140,
+      "title": "الفصل 140 من the dungeon master",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 141,
+      "title": "The Dungeon Master 141",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 142,
+      "title": "The Dungeon Master 142",
+      "is_closed": false,
+      "total_images": 14
+    }
+  ]
+}
