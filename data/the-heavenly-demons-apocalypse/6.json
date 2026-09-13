@@ -2,7 +2,10 @@
   "series": "the-heavenly-demons-apocalypse",
   "chapter": 6,
   "title": "The Heavenly Demon’s Apocalypse",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 2,
+  "images": [
+    "https://olympustaff.com/images/manga/04b7977c159d13a040cfddee41c70815.png",
+    "https://olympustaff.com/images/chapter/1ff7e0462dbdc26d7bf75e627b2ba7a8.jpg"
+  ]
 }
