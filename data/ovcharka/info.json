@@ -1,0 +1,48 @@
+{
+  "slug": "ovcharka",
+  "title": "Ovcharka",
+  "cover": "https://olympustaff.com/images/manga/1798576139151046408.jpg",
+  "summary": "مانجا Ovcharka مترجمةOvcharka اغتيال الزعيم الأكبر للمافيا الروسية. خيانة مدفوعة بالطمع في السلطة تُسقط التنظيم. وأمام دم صديق عمره، يختار بوريس أوفشاركا طريق الانتقام.",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "غموض",
+    "إثارة",
+    "فنون قتال"
+  ],
+  "page_title": "Ovcharka",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "البداية",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 2,
+      "title": "حينما يجلسُ الذئبُ على المائدة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 3,
+      "title": "خنجر في كف العراب",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 4,
+      "title": "كلاب مسعورة في عرين الذئب",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 5,
+      "title": "خزنة براتفا فولكوف",
+      "is_closed": false,
+      "total_images": 13
+    }
+  ]
+}
