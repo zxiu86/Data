@@ -235,5 +235,68 @@
       "فنون قتال"
     ],
     "page_title": "The Invincible Escort"
+  },
+  "KOT": {
+    "slug": "KOT",
+    "title": "I’m Not That Kind of Talent",
+    "cover": "https://olympustaff.com/images/manga/a4ab1f5b085a1fbb2621bdc7182693b1.png",
+    "summary": "مانجا I’m Not That Kind of Talent مترجمةI’m Not That Kind of Talent لم اكن هذا النوع من الاشخاص.\r\n أنا ديون هارت، أنا شخص مريض يتقيأ دما كلما شعرت بالتوتر.\r\n ومع ذلك، في الوقت نفسه، أنا الكونت هارت، الذي أسيء فهمه بطريقة ما و...",
+    "type": "مانهوا",
+    "author": "غير محدد",
+    "artist": "غير محدد",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "دراما",
+      "غموض",
+      "إثارة",
+      "شونين",
+      "فنون قتال",
+      "إيسيكاي",
+      "سحر",
+      "وحوش"
+    ],
+    "page_title": "I’m Not That Kind of Talent"
+  },
+  "AGS": {
+    "slug": "AGS",
+    "title": "Academy’S Genius Swordsman",
+    "cover": "https://olympustaff.com/images/manga/7c6be8aa9e524137f7526a38e275fd66.png",
+    "summary": "مانجا Academy’S Genius Swordsman مترجمةAcademy’S Genius Swordsman عاش رونان حياة مهدرة مليئة بالندم. تصيبه فرصة ثانية في نهاية حياته غير المجدية.  رجع إلى الزمان الذي كان فيه طفلاً في العاشرة من عمره!  بالنسبة للأشخاص الذين...",
+    "type": "مانهوا",
+    "author": "غير محدد",
+    "artist": "غير محدد",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "غموض",
+      "إثارة",
+      "شونين",
+      "إيسيكاي",
+      "قوة خارقة"
+    ],
+    "page_title": "Academy’S Genius Swordsman"
+  },
+  "a-space-marine-got-a-status-window": {
+    "slug": "a-space-marine-got-a-status-window",
+    "title": "A Space Marine Got a Status Window",
+    "cover": "https://olympustaff.com/images/manga/f0d4fb4be58aa59f87123dab76a1ac47.png",
+    "summary": "مانجا A Space Marine Got a Status Window مترجمةA Space Marine Got a Status Window في عام 2126، طوّرت البشرية «البوابات» التي تتيح لها السفر إلى الفضاء، لتبدأ حقبة جديدة من القتال ضد الوحوش خارج الأرض.\r\n\r\n[تم تفعيل نافذة الحالة.]\r\n\r\nكيم سيو...",
+    "type": "مانهوا",
+    "author": "غير محدد",
+    "artist": "غير محدد",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "غموض",
+      "إثارة",
+      "شونين",
+      "نظام",
+      "وحوش"
+    ],
+    "page_title": "A Space Marine Got a Status Window"
   }
 }
