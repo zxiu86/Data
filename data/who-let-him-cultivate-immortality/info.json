@@ -180,6 +180,42 @@
       "total_images": 8,
       "published_at": "2026-09-06 23:56:59",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 22,
+      "title": "تقليص الأرض الى إنش",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 23,
+      "title": "عصفورين بحجر واحد",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 24,
+      "title": "جولة في الحديقة",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 25,
+      "title": "ملوك الأعشاب",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 26,
+      "title": "Who Let Him Cultivate Immortality",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 27,
+      "title": "Who Let Him Cultivate Immortality",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }
