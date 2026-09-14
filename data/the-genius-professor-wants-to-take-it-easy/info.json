@@ -122,43 +122,57 @@
       "number": 14,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "The Genius Professor Wants to Take It Easy",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 04:54:09",
+      "release_date": "اليوم"
     }
   ]
 }

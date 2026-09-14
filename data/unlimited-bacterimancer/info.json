@@ -47,37 +47,49 @@
       "number": 4,
       "title": "المبتدئ الخارق.",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 04:54:27",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الأفضل",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 04:54:27",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "حارسة شخصية.",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 04:54:27",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "Unlimited Bacterimancer",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 04:54:27",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "Unlimited Bacterimancer",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 04:54:27",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "Unlimited Bacterimancer",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 04:54:27",
+      "release_date": "اليوم"
     }
   ]
 }

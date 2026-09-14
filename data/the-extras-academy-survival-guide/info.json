@@ -994,7 +994,9 @@
       "number": 123,
       "title": "\"المشروب المريب\"",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 04:54:08",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -841,7 +841,9 @@
       "number": 103,
       "title": "السحر الفريد",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 04:54:12",
+      "release_date": "اليوم"
     }
   ]
 }

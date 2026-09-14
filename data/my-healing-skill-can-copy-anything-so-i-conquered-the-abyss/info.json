@@ -57,13 +57,17 @@
       "number": 6,
       "title": "التعذيب",
       "is_closed": false,
-      "total_images": 3
+      "total_images": 3,
+      "published_at": "2026-09-14 04:53:48",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "رفاق قدامى",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 04:53:48",
+      "release_date": "اليوم"
     }
   ]
 }
