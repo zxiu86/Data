@@ -1,0 +1,618 @@
+{
+  "slug": "mguzsh",
+  "title": "Barbarian Quest",
+  "cover": "https://olympustaff.com/images/manga/1884140111.png",
+  "summary": "مانجا Barbarian Quest مترجمةBarbarian Quest أعظم محارب من قبيلة الفأس الصخرية، يوريش. لقد أنجز ما لم يتمكن الآخرون في قبيلته من إنجازه، وتجاوز \"سلسلة جبال السماء\". ما رآه وراء الجبال أناس بملابس مختلفة...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "غموض",
+    "إثارة",
+    "شونين"
+  ],
+  "page_title": "Barbarian Quest",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الفصل رقم 1",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 2,
+      "title": "الفصل رقم 2",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 3,
+      "title": "الفصل رقم 3",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 4,
+      "title": "الفصل رقم 4",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 5,
+      "title": "الفصل رقم 5",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 6,
+      "title": "الفصل رقم 6",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 7,
+      "title": "الفصل رقم 7",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 8,
+      "title": "الفصل رقم 8",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 9,
+      "title": "الفصل رقم 9",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 10,
+      "title": "الفصل رقم 10",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 11,
+      "title": "الفصل رقم 11",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 12,
+      "title": "الفصل رقم 12",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 13,
+      "title": "الفصل رقم 13",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 14,
+      "title": "الفصل رقم 14",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 15,
+      "title": "الفصل رقم 15",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 16,
+      "title": "الفصل رقم 16",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 17,
+      "title": "الفصل رقم 17",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 18,
+      "title": "الفصل رقم 18",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 20,
+      "title": "الفصل رقم 20",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 21,
+      "title": "الفصل رقم 21",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 22,
+      "title": "الفصل رقم 22",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 23,
+      "title": "الفصل رقم 23",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 24,
+      "title": "الفصل رقم 24",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 25,
+      "title": "الفصل رقم 25",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 26,
+      "title": "الفصل رقم 26",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 27,
+      "title": "الفصل رقم 27",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 28,
+      "title": "الفصل رقم 28",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 29,
+      "title": "الفصل رقم 29",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 30,
+      "title": "الفصل رقم 30",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 31,
+      "title": "الفصل رقم 31",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 32,
+      "title": "الفصل رقم 32",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 33,
+      "title": "الفصل رقم 33",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 34,
+      "title": "الفصل رقم 34",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 35,
+      "title": "الفصل رقم 35",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 36,
+      "title": "الفصل رقم 36",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 37,
+      "title": "الفصل رقم 37",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 38,
+      "title": "الفصل رقم 38",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 39,
+      "title": "الفصل رقم 39",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 40,
+      "title": "الفصل رقم 40",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 41,
+      "title": "الفصل رقم 41",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 42,
+      "title": "الفصل رقم 42",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 43,
+      "title": "الفصل رقم 43",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 44,
+      "title": "لا تكن بكاءًا.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 45,
+      "title": "قاتل الضباط.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 46,
+      "title": "عداوات لم تُدفن.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 47,
+      "title": "عدالة الشمس.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 48,
+      "title": "المحاكمة بالمبارزة.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 49,
+      "title": "عدالة محاربي الشمس.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 50,
+      "title": "طريقان لا يلتقيان.",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 51,
+      "title": "رهان الأمير الأخير.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 52,
+      "title": "ما يعنيه كونك فارس.",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 53,
+      "title": "لم علي ان اشبع فضولك؟!",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 54,
+      "title": "حُكمُ الذئب",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 55,
+      "title": "الهدية التي تُبدّل المصير",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 56,
+      "title": "طريقٌ كُتبَ بالنور.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 57,
+      "title": "من أي ديارٍ أنت؟",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 58,
+      "title": "ماذا ستصنع إن صرتُ إمبراطورًا",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 59,
+      "title": "مسقط رأس يوريش.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 60,
+      "title": "هل كانت القلاع تُقام لتهوي أمام فردٍ ...",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 61,
+      "title": "لكنني، سأحمل في قلبي ألام الجميع",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 62,
+      "title": "يا ابن اخي",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 63,
+      "title": "داهية حقيقي.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 64,
+      "title": "خيانة المرتزقة.",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 65,
+      "title": "الفصل رقم 65",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 66,
+      "title": "الفصل رقم 66",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 67,
+      "title": "الفصل رقم 67",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 68,
+      "title": "الفصل رقم 68",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 69,
+      "title": "الفصل رقم 69",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 70,
+      "title": "الفصل رقم 70",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 71,
+      "title": "الفصل رقم 71",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 72,
+      "title": "الفصل رقم 72",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 73,
+      "title": "الفصل رقم 73",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 74,
+      "title": "الفصل رقم 74",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 75,
+      "title": "الفصل رقم 75",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 76,
+      "title": "الفصل رقم 76",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 77,
+      "title": "الفصل 77",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 78,
+      "title": "الفصل 78",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 79,
+      "title": "الفصل 79",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 80,
+      "title": "الدخول إلى القلعة!",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 81,
+      "title": "كل ما أبتغيه الآن...",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 82,
+      "title": "الصراع على العرش",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 83,
+      "title": "الصراعات الفلسفية",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 84,
+      "title": "صراع يوريش النفسي",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 85,
+      "title": "إغتيال الملك",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 86,
+      "title": "مؤامرة الأميرة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 87,
+      "title": "قرار الملك",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 88,
+      "title": "روحٌ واحدة.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 89,
+      "title": "فاعتنِ بنفسكَ، يا باتشيل",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 90,
+      "title": "رحلة الى الشمال.",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 91,
+      "title": "أهذا مآل المحارب في عهد الركود؟",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 92,
+      "title": "سأفتحُ لكَ بواباتِ تل السيوف بحدِّ سيفي...",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 93,
+      "title": "ميراثُ الدماء",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 94,
+      "title": "ثرايا الأرض المقدسة.",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 95,
+      "title": "بغضُ أولجارو.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 96,
+      "title": "حاكم الحرب.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 97,
+      "title": "العملاق يوركان.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 98,
+      "title": "صليلُ القربان الأخير.",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 99,
+      "title": "أطلال التنين",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 100,
+      "title": "النهاية.",
+      "is_closed": false,
+      "total_images": 13
+    }
+  ]
+}
