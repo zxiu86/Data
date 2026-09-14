@@ -255,6 +255,12 @@
       "total_images": 31,
       "published_at": "2026-09-14 01:21:20",
       "release_date": "اليوم"
+    },
+    {
+      "number": 31,
+      "title": "The Barbarian From The Middle Ages",
+      "is_closed": false,
+      "total_images": 32
     }
   ]
 }
