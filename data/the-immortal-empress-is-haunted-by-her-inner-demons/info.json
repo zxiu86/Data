@@ -19,17 +19,13 @@
       "number": 1,
       "title": "بداية جديدة",
       "is_closed": false,
-      "total_images": 2,
-      "published_at": "2026-09-14 01:21:27",
-      "release_date": "اليوم"
+      "total_images": 2
     },
     {
       "number": 2,
       "title": "نقطة التحوّل",
       "is_closed": false,
-      "total_images": 1,
-      "published_at": "2026-09-14 01:21:27",
-      "release_date": "اليوم"
+      "total_images": 1
     }
   ]
 }
