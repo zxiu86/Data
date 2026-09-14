@@ -30943,7 +30943,131 @@
       "فنون قتال",
       "فنون قتالية"
     ],
-    "page_title": "Rise Of The Northern Shadow"
+    "page_title": "Rise Of The Northern Shadow",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "ظل الشبح الحقيقي.",
+        "is_closed": false,
+        "total_images": 27,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 2,
+        "title": "وهم الماضي.",
+        "is_closed": false,
+        "total_images": 21,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 3,
+        "title": "عين الملك.",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 4,
+        "title": "اختبار التجنيد.",
+        "is_closed": false,
+        "total_images": 15,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 5,
+        "title": "خير للبشرية جمعاء.",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 6,
+        "title": "الرامي السماوي بي سون-مونغ",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 7,
+        "title": "سهم الخوف.",
+        "is_closed": false,
+        "total_images": 14,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 8,
+        "title": "الاختبار الثالث",
+        "is_closed": false,
+        "total_images": 14,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 9,
+        "title": "إذن بالقتل",
+        "is_closed": false,
+        "total_images": 15,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 10,
+        "title": "عليك أن تنجو",
+        "is_closed": false,
+        "total_images": 13,
+        "published_at": "2026-09-13 14:49:03",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 11,
+        "title": "هذا هو الإختبار النهائي، أليس كذلك؟",
+        "is_closed": false,
+        "total_images": 12
+      },
+      {
+        "number": 12,
+        "title": "ذاك الذي قتلهم",
+        "is_closed": false,
+        "total_images": 13
+      },
+      {
+        "number": 13,
+        "title": "عدو لدود",
+        "is_closed": false,
+        "total_images": 13
+      },
+      {
+        "number": 14,
+        "title": "Rise Of The Northern Shadow",
+        "is_closed": false,
+        "total_images": 16
+      },
+      {
+        "number": 15,
+        "title": "Rise Of The Northern Shadow",
+        "is_closed": false,
+        "total_images": 14
+      },
+      {
+        "number": 16,
+        "title": "Rise Of The Northern Shadow",
+        "is_closed": false,
+        "total_images": 15
+      },
+      {
+        "number": 17,
+        "title": "Rise Of The Northern Shadow",
+        "is_closed": false,
+        "total_images": 2
+      }
+    ]
   },
   "HDCS": {
     "slug": "HDCS",
