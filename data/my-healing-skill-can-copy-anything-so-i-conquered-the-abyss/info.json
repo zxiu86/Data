@@ -52,6 +52,18 @@
       "total_images": 4,
       "published_at": "2026-09-06 23:55:56",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 6,
+      "title": "التعذيب",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 7,
+      "title": "رفاق قدامى",
+      "is_closed": false,
+      "total_images": 4
     }
   ]
 }
