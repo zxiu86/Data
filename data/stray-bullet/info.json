@@ -1,0 +1,83 @@
+{
+  "slug": "stray-bullet",
+  "title": "Stray Bullet",
+  "cover": "https://olympustaff.com/images/manga/88d77a34c39c67eb3478c0b3f398cc1b.png",
+  "summary": "مانجا Stray Bullet مترجمةStray Bullet \"ما الذي تظن نفسك فاعله بعائلتك أيها الوغد؟\" كيم أون هو، شرطي مبتدئ، يتخفى داخل منظمة \"إيدن\" للقتل المأجور. وبمحض الصدفة، ينجو لأنه يصبح مساعدًا مباشرًا لقات...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال"
+  ],
+  "page_title": "Stray Bullet",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "البداية",
+      "is_closed": false,
+      "total_images": 51
+    },
+    {
+      "number": 2,
+      "title": "مجرمون بأقنعة قديسين",
+      "is_closed": false,
+      "total_images": 40
+    },
+    {
+      "number": 3,
+      "title": "لعبة التخفي",
+      "is_closed": false,
+      "total_images": 43
+    },
+    {
+      "number": 4,
+      "title": "انقسام في نودن",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 5,
+      "title": "الروابط الزائفة",
+      "is_closed": false,
+      "total_images": 47
+    },
+    {
+      "number": 6,
+      "title": "مفهوم الوراثة الفطرية",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 7,
+      "title": "الوريث الجديد",
+      "is_closed": false,
+      "total_images": 47
+    },
+    {
+      "number": 8,
+      "title": "العوائل الثلاثة",
+      "is_closed": false,
+      "total_images": 42
+    },
+    {
+      "number": 9,
+      "title": "الطابق المئة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 10,
+      "title": "استدعاء السلاح",
+      "is_closed": false,
+      "total_images": 38
+    },
+    {
+      "number": 11,
+      "title": "المهمة",
+      "is_closed": false,
+      "total_images": 38
+    }
+  ]
+}
