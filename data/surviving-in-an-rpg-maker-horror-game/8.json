@@ -2,7 +2,17 @@
   "series": "surviving-in-an-rpg-maker-horror-game",
   "chapter": 8,
   "title": "Surviving In An RPG Maker Horror Game",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 9,
+  "images": [
+    "https://olympustaff.com/images/manga/b0fb2c4c163005aa4d7908ad421016d8.jpg",
+    "https://olympustaff.com/images/chapter/74267b1db5f2b626d042120675772f3f.png",
+    "https://olympustaff.com/images/chapter/29bcec009f3ccdc439754b29d2b73678.png",
+    "https://olympustaff.com/images/chapter/2338a20053e24d2adf5802cd3636316d.png",
+    "https://olympustaff.com/images/chapter/1c091f2c7a3fa0b0c6956100d2e0e29a.png",
+    "https://olympustaff.com/images/chapter/32bb7ee52099d668eccaaa5ea06ddb28.png",
+    "https://olympustaff.com/images/chapter/e76f368fbafd7bf95d90edc4f154a56e.png",
+    "https://olympustaff.com/images/chapter/0f5054993ea05c1b608b41767412af8f.png",
+    "https://olympustaff.com/images/chapter/56c6c3656d8629acbd1adb6d74b1a92a.png"
+  ]
 }
