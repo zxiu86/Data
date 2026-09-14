@@ -183,6 +183,60 @@
       "total_images": 7,
       "published_at": "2026-09-06 23:55:43",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 22,
+      "title": "أحجار إخضاع التنين",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 23,
+      "title": "مأزق؟",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 24,
+      "title": "إختراق؟",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 25,
+      "title": "مؤامرات",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 26,
+      "title": "حفلة شاي",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 27,
+      "title": "جسد الماء النقي",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 28,
+      "title": "اكتشاف الحقيقة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 29,
+      "title": "غزو؟",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 30,
+      "title": "حشد الزومبي",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }
