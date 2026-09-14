@@ -1,0 +1,45 @@
+{
+  "slug": "apocalypse-mechanic",
+  "title": "Apocalypse Mechanic",
+  "cover": "https://olympustaff.com/images/manga/1276561440.jpg",
+  "summary": "مانجا Apocalypse Mechanic مترجمةApocalypse Mechanic اندلعت نهاية العالم ، وانتشر فيروس الزومبي على نطاق واسع. تعرض يي باي للاضطهاد من قبل قائدة الفرقة \"العاهرة اللوتس البيضاء\" ، وتعرضت ذراعه للعض من قبل زومبي...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "غموض",
+    "إثارة",
+    "خيال علمي",
+    "قوة خارقة"
+  ],
+  "page_title": "Apocalypse Mechanic",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "ميكانيكي نهاية العالم 1",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 2,
+      "title": "ميكانيكي نهاية العالم 2",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 3,
+      "title": "ميكانيكي نهاية العالم 3",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 4,
+      "title": "ميكانيكي نهاية العالم 4",
+      "is_closed": false,
+      "total_images": 7
+    }
+  ]
+}
