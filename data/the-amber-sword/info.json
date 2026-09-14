@@ -1,0 +1,92 @@
+{
+  "slug": "the-amber-sword",
+  "title": "The Amber Sword",
+  "cover": "https://olympustaff.com/images/manga/a2787cead6dfba004dc081a6326239b5.png",
+  "summary": "مانجا The Amber Sword مترجمةThe Amber Sword تنقّل فاي عبر الزمن ليتجسّد في جسد النبيل الساقط براندو. حاملًا معه ذكريات بعثه كمحاربٍ مخضرمٍ، ليعود إلى ووندر، عالم اللعبة الذي قاتل فيه يومًا ما.\r\nوفي وقت...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "دراما",
+    "إثارة",
+    "فنون قتال",
+    "نظام"
+  ],
+  "page_title": "The Amber Sword",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "خطأ في النظام؟!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 2,
+      "title": "شرارةُ الحرب في قرية البداية!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 3,
+      "title": "تدخل حرس بوتشي!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 4,
+      "title": "فريا حاكمة الحرب المستقبلية!",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 5,
+      "title": "فخ شرير",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 6,
+      "title": "الخطة!",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 7,
+      "title": "قرية غرين",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 8,
+      "title": "السيف الأسطوري",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 9,
+      "title": "ذكريات جيرارد؟...",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 10,
+      "title": "تصفيةُ قرية غرين",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 11,
+      "title": "خطة كسر الحصار",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 12,
+      "title": "المفاجئة الغير متوقعة",
+      "is_closed": false,
+      "total_images": 8
+    }
+  ]
+}
