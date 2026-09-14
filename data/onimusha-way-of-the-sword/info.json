@@ -18,49 +18,43 @@
       "number": 1,
       "title": "طريق موساشي إلى كيوتو.",
       "is_closed": false,
-      "total_images": 9,
-      "published_at": "2026-09-06 23:55:59",
-      "release_date": "2026-09-06"
+      "total_images": 9
     },
     {
       "number": 2,
       "title": "مجزرة يوشيوكا",
       "is_closed": false,
-      "total_images": 7,
-      "published_at": "2026-09-14 04:53:51",
-      "release_date": "اليوم"
+      "total_images": 7
     },
     {
       "number": 3,
       "title": "القمة تتسع لشخص واحد",
       "is_closed": false,
-      "total_images": 13,
-      "published_at": "2026-09-14 04:53:51",
-      "release_date": "اليوم"
+      "total_images": 13
     },
     {
       "number": 4,
       "title": "قفاز الأوني.",
       "is_closed": false,
-      "total_images": 8,
-      "published_at": "2026-09-14 04:53:51",
-      "release_date": "اليوم"
+      "total_images": 8
     },
     {
       "number": 5,
       "title": "مصير واحد.",
       "is_closed": false,
-      "total_images": 7,
-      "published_at": "2026-09-14 04:53:51",
-      "release_date": "اليوم"
+      "total_images": 7
     },
     {
       "number": 6,
       "title": "Onimusha: Way Of The Sword",
       "is_closed": false,
-      "total_images": 7,
-      "published_at": "2026-09-14 04:53:51",
-      "release_date": "اليوم"
+      "total_images": 8
+    },
+    {
+      "number": 7,
+      "title": "Onimusha: Way Of The Sword",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }
