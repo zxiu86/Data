@@ -19,43 +19,57 @@
       "number": 1,
       "title": "طوفان الأنظمة : حين تصبح النعم نقمًا!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "امبراطور المشاعر",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "لاعب يتلاعب باللاعبين",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "مطعم مسكون",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الدار المسكونة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "كيف تلصق مصيبتك بـ \"مختار\" ساذج",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الطُّعم كنزٌ دفين",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:35",
+      "release_date": "اليوم"
     }
   ]
 }

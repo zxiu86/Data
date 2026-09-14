@@ -19,103 +19,137 @@
       "number": 1,
       "title": "سرقة فنية",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "إدراك",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "وساوس",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "شرارة البداية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "المتهم الأول",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "صدمة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "مُختَلّ",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "حلُّ لوعة الفقدان",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "ضحية جديدة.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "لا يمت للفن بصلة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "لقاء.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "تحليل.",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "مفقود.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "مفتقر للموهبة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "غير قابل للتفاوض.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "مجتمع سري",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "نحو الحرية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:22",
+      "release_date": "اليوم"
     }
   ]
 }

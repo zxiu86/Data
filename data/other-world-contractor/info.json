@@ -23,79 +23,105 @@
       "number": 1,
       "title": "01",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "بوابة العالم الآخر...",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "نظام الاستيقاظ؟!",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "غابة الفراشات!!!",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الملكة الملوثة؟!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "عشر دقائق فقط...",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "أرض التصحر.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "تنين الأرض...",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "سيد الظلام!!!",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "جولة خلف الكواليس...",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "جولة خلف الكواليس...",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "وليمة الدببة...",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "جدار الأرض الأسطوري.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     }
   ]
 }

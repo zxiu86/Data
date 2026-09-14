@@ -19,241 +19,321 @@
       "number": 1,
       "title": "الإرتداد الزمني",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "عودة الزمن",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "صفقه",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "اسوء فاشل",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "علاقه سياسيه",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ملاذ النجوم",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "لورد قلعه الخيمياء",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "لكمة البوصة الواحدة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "مجرد تقينة بسيطة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "الانهيار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "شيطان الألف وجه",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "لأنك فاشل",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "هل أنت مرتد؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "صفقة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الطريق الملتوي نحو القمة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "تلميذ كلب الذبح",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "تغيّر المقادير ولقاء غير متوقع",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "غربان الليل",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "النسر الليلي الحقيقي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "جريمة قتل",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "خيانة الجواسيس",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "مفقود",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "أعدهُ",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "لنعد إلى سيشوكان",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "لما بدا العالمُ رماديًّا في عيني",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "26",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "ذراع شيطان السيف",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "خصم لا يستهان به",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "حبة التنين الباكي تسع مرات",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "الاختبار",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "غابة الأرواح",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "فاشل العائلة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "الروح",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "التوجه الى الطابق الثامن",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "نجم العاصفة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "نجم العاصفة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "تضحية غير متوقعة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "الجمرات الأخيرة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "بيدق الأمراء",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "صفقة الحقيقة والموت",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:30",
+      "release_date": "اليوم"
     }
   ]
 }

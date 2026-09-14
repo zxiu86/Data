@@ -17,25 +17,33 @@
       "number": 1,
       "title": "بين مبضع الطبيب ونصل القَدَر استثناءٌ في مشفى الجحيم",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مفتاح مدينة غانغ",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "اختفاء تشين يا",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "لنمت معًا",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     }
   ]
 }

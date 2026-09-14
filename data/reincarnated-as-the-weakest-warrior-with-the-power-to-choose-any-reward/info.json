@@ -21,85 +21,113 @@
       "number": 1,
       "title": "المهنة الأضعف",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مهمة زنزانة المستوى الثالث",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "ثمن الغدر",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "تحدٍ جديد",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "مواجهة الزومبي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الزومبي الملك",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "كشف اللغز",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الزعيم الحقيقي",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "المراقب الخفي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "رهانٌ على الضباب",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "وضع الشروط",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "التعيين .",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "مواجهة الوحوش",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "ظهور زنزانة جديدة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:07",
+      "release_date": "اليوم"
     }
   ]
 }

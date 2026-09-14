@@ -20,73 +20,97 @@
       "number": 1,
       "title": "هذه حياتك",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "زعيم الأرانب",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الإنتقاء الطبيعي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "خيارٌ صعب",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "حياة بسيطة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "صاحب النجمة الواحدة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "مدينة اللاعبين",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "صداقة جديدة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "فعالية الإحياء",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "نقابة تشييوتو",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "مجانين تشييوتو",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "اختبار المراوغة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:38",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -19,241 +19,321 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "سقوط مملكة فانروآ",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "ظل عشيرة الدم",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "كتاب الأقدار",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "كسور الرمال",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الساعة الرملية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "قتال كونت الدم",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "سراب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الأمير الثاني لفانروا",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "ليفيرا بيترو",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "هزيمة كونت الدم",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "تلميذ الدوق الأكبر",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "سجالُ بارد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "سمة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "عنفوان",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "كابوس",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "فشلُ لا يكد",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "حسامُ لا يثنى",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "مثابرة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "العودة من بعد غياب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "تطهير الفساد",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "حكم التطهير",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "متابعة الحكم",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "روزماري",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "إعادة بناء مملكة فانروا.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "القضاء على الوحوش السحرية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "فلنحارب كالرجال",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الفصل رقم 28",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "29",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "لقد بدأت الحرب!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "واخيرا التقينا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "فوز زائف",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "هل هي نهاية الحرب؟",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "هزيمة الملك!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "هل يختبرني الآن؟!",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "تحرك الامبراطورية وتغيير المصير!",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "تفاعل غير متوقع",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "سوء فهم في المختبر!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "خطوة نحو النهاية",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "مدفع المانا: الإطلاق الأخير.",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:49",
+      "release_date": "اليوم"
     }
   ]
 }

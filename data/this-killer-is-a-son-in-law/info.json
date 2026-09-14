@@ -17,79 +17,105 @@
       "number": 1,
       "title": "الوصية المنسية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ثمن العهد القديم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "المنقذ المجهول",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "فخ",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "نوايا السوء",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الفهد الأسود",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الفهد الأسود؟ لا يستحق حتى أن يُذكر!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "السرعة والإثارة",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الغراب غاضب جدًا!",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "لوحة رسام عهد وو",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "عين تكشف الحقيقة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الشبح الأسود",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "انتقام  شرير",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:39:54",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -21,25 +21,33 @@
       "number": 1,
       "title": "ميكانيكي نهاية العالم 1",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:38:04",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ميكانيكي نهاية العالم 2",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:38:04",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "ميكانيكي نهاية العالم 3",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:38:04",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "ميكانيكي نهاية العالم 4",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:38:04",
+      "release_date": "اليوم"
     }
   ]
 }

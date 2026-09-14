@@ -18,43 +18,57 @@
       "number": 1,
       "title": "عرض عمل",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مهمة قذرة",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "خدمة من خبير",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "مجرد تباهي",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "معًا",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "من الماضي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "توتر",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:23",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -19,121 +19,161 @@
       "number": 1,
       "title": "ليست مجرد لعبة؟!",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الأول",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الصيد الصعب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "أول من قتل زعيمًا",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "مهمة مخفية",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "مواجهة خاصة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "فخ العنكبوت",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "يجب أن تنجح",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "أحدنا سيحترق",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "حركة ماكرة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "عتاد ذهبي",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "النقود",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "تطور بسيط",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "رفع المستوى",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "ملك الرمال المتحول",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "Online Game: I Can Evolve Everything",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "هزيمة ملك الرمال",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "نقابة جنة الأرض",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "Online Game: I Can Evolve Everything",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "Online Game: I Can Evolve Everything",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-14 18:39:00",
+      "release_date": "اليوم"
     }
   ]
 }

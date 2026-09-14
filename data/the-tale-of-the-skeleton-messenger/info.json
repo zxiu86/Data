@@ -20,181 +20,241 @@
       "number": 1,
       "title": "الفصل الأول : الزهرة المضيئة في الغسق",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفصل الثاني",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الفصل الثالث",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الفصل الرابع",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "المنتقم الأبيض: ملحمة الثأر الجزء الثالث",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الشروق الثالث",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "فارسة الحرب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "أنشودة المحارب الشمالي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الطفل الذي يحلم هو ...",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "في أحضان الخراب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "شهدتُ حضور الأبطال.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الطفل الذي حَلُم يومًا",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "غنِّ رثاءً للمحارب",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "ثنائية الماضي والحاضر",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الاسيرة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الى عالم النار و الحديد",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "القدرة على اتخاذ القرارات",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الكارثة الطبيعية",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "موجه وحوش",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "تحقيق الاحلام",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "مطرقة الذكريات",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "رعب الموت",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "مشبوه",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "براعة الحرفيين",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "معقل الصفوة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "تمهيد المسرح.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "تنينة الموت",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "البطل ذو العيون الخضراء.",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "زئير الموت.",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "ولادة سيدة الشياطين",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:50",
+      "release_date": "اليوم"
     }
   ]
 }

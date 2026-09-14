@@ -17,43 +17,57 @@
       "number": 1,
       "title": "القاتل المأجور",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الصديق",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "وقت ضيق",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "عذاب",
       "is_closed": false,
-      "total_images": 29
+      "total_images": 29,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الخزي من أجل الحرية",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الجذور الخفية",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "7",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:38:12",
+      "release_date": "اليوم"
     }
   ]
 }

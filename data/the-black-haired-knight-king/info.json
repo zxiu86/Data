@@ -20,85 +20,113 @@
       "number": 1,
       "title": "مهمة الملك",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "فن السيف الشمالي",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "رفيق قديم",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "سنُوِي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ظلال الماضي",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "عزيمة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الهالة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "العفاريت",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "الغزاله المقدسة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "مواجهة العفاريت",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "ملك العفاريت!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الدفاع عن القريه",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "إرث لا يحتاج إلى هالة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "خلفاء تحت الاختبار",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:27",
+      "release_date": "اليوم"
     }
   ]
 }

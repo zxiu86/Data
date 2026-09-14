@@ -20,43 +20,57 @@
       "number": 1,
       "title": "الشيطان السماوي... تشان.",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ولادة جديدة وقبضة تُمسك بالرصاص",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "عودة فنون القتال",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "تحدي فرقة الاغتيال وزئير الشيطان السماوي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "طفلة عجوز",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "من انفذك",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "سأعيد الطائفة لسابق مجدها",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:36",
+      "release_date": "اليوم"
     }
   ]
 }

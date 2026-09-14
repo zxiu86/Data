@@ -16,91 +16,121 @@
       "number": 1,
       "title": "بعث المرتزق",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "مكيدة دنيئة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "عقيدة محارب و فخ مكسور",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الشرير",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "لديك مهمة واحده",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "بدأت المعركة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الاقتحام",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "الرهبة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "انه اخي الاكبر",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "التهديد",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الآفة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "مكيدة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الشبهة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "مكيدة في غرفة التوجيه.",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "اقتحام من النافذة وكشف الأوراق",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     }
   ]
 }

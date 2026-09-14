@@ -18,61 +18,81 @@
       "number": 1,
       "title": "المقطوعة الأخيرة",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "اسمح لي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "لحن غامض",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "النغمة المفقودة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "قبولٌ احتياليّ",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "امتحانٌ بلا سابق إنذار",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "داء يرقى للقبك",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "أخطاء الماضي القريب",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "قدم تفسيرك",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "أوتار مضطربة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:46",
+      "release_date": "اليوم"
     }
   ]
 }

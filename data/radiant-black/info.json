@@ -21,19 +21,25 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:03",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الاحمر يليق بي اكثر",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:03",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "تجاوز حدود البشر",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:03",
+      "release_date": "اليوم"
     }
   ]
 }

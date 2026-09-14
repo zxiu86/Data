@@ -18,115 +18,153 @@
       "number": 1,
       "title": "دمــــارٌ في عالــــــــم الــــموريم",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ظلام الماضي ينير المستقبل",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "إلى الـــغــــابة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "غــــريــبـــة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الذئـــبُ العــتيق",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "عبئ",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "سوء فهم",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "ثلاثة رفاق",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "كهف سيف الدفن",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "ديون عائلة تشو",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "الطفيلي",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "غريزة المفترس",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الإرث الأخير",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "خيوط الغدر",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الجحيم الفوري",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "زئير الأسد",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الآثم المجدّف",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "أسلوب محارب الظل",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "المواجهة",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 18:37:55",
+      "release_date": "اليوم"
     }
   ]
 }

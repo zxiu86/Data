@@ -23,31 +23,41 @@
       "number": 1,
       "title": "عودة البطل الحزين \"",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-14 18:38:37",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "وحدة الكوارث الطبيعية",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-09-14 18:38:37",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الشخص السادس الغير متوقع",
       "is_closed": false,
-      "total_images": 29
+      "total_images": 29,
+      "published_at": "2026-09-14 18:38:37",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "Undead",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-14 18:38:37",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الحصول على مهارة جديدة",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-09-14 18:38:37",
+      "release_date": "اليوم"
     }
   ]
 }

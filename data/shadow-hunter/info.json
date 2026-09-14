@@ -17,19 +17,25 @@
       "number": 1,
       "title": "أريد فقط تفحص بضاعتي",
       "is_closed": false,
-      "total_images": 2
+      "total_images": 2,
+      "published_at": "2026-09-14 18:39:15",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "صفقة",
       "is_closed": false,
-      "total_images": 2
+      "total_images": 2,
+      "published_at": "2026-09-14 18:39:15",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "ألديك طعام؟",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:39:15",
+      "release_date": "اليوم"
     }
   ]
 }

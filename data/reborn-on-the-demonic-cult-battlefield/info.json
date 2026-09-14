@@ -20,301 +20,401 @@
       "number": 1,
       "title": "البداية",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ألا داعي للمحاولة؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "طغيان الوجوه",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "لا تحاول حتى",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الفصل 5: منحرف؟!",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الفصل 6: لا يسمع...",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "سُكرة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "أراقة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "نضال",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "تحدي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "خسة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "مناورة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "أحذر مما تتمنى",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "مغالطة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "الفصل 15",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الفصل 16",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "الفصل 17",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "الفصل 18",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الفصل 19",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الفصل 20",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "الفصل 21",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "الفصل 22",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "الفصل 23",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "الفصل 24",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "الفصل 25",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "الفصل 26",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "الفصل 27",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "الفصل 28",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "الفصل 29",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 30,
       "title": "الفصل 30",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "الفصل 31",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "الفصل 32",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "الفصل 33",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "الفصل 34",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "الفصل 35",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "36",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "هيبةُ الشيطانِ.. وظلُ الجبلِ المائل",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "خديعةُ الأرثوذكس.. ودمُ الشيطانِ المسلوب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "فيلقُ الظلِ الخفي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "خديعةُ الطُّعمِ",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "نجم سيف العدالة السماوية",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "جُثّةٌ منَ القشِّ.. وتقنياتُ الإيحاء",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "طُفيلِيُّ الدّمِ",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "سَلبُ الأرواحِ",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "الهيئةُ الرابعةُ عشرة: ترنيمةُ العنقاء",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "دموعٌ خلفَ قناعِ القيادة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "سيفِ السهمِ الشمسي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "الخطةُ المحكمةُ خلفَ خطوطِ الجبهة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "فخُّ الفرارِ المُدبَّر",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "طُعمٌ من زهورِ الموريم",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:04",
+      "release_date": "اليوم"
     }
   ]
 }

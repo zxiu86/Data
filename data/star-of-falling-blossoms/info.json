@@ -21,85 +21,113 @@
       "number": 1,
       "title": "السائرون نحو النجم الساقط",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "أشباح الماضي",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الجزاء يعود",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الماضي والتناقض",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "من يُقيِّده الماضي لا يستطيع المضي قدمًا",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ما الذي غيّره؟",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "سبب الوجود",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "أقدَرٌ هو أم سوءُ قدر؟",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "من لا شيء لديه ليحميه",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "أملٌ باهت",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "التسمية بحسب الأجزاء",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "شبحٌ يزأر غضبًا",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الهروب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "ثمن الحياة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:18",
+      "release_date": "اليوم"
     }
   ]
 }

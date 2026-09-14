@@ -21,67 +21,89 @@
       "number": 1,
       "title": "انقضاء السكينة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الفوضى",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الاستحواذ",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "ثمن القوة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الهائج",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الجنون",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "رماد",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "عزيمة متوارثة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "المضي قدمًا",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "حتى لو أصبحت وحشًا",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "بداية الرحلة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 18:39:05",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -18,25 +18,33 @@
       "number": 1,
       "title": "الكابوس",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:08",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "خطة الشرير",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:08",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "اجتماع عائلي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 18:39:08",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "مجرد حشرة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 18:39:08",
+      "release_date": "اليوم"
     }
   ]
 }

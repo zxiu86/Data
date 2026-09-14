@@ -17,91 +17,121 @@
       "number": 1,
       "title": "خيانة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ولاية وابل الشمس",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "هزيمة وشيكة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "صندوق الكنز",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "مواجهة تحالف الحصن",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "ريشة الضوء",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "حكيم الجرعات",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "حظ عاثر",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "لين لان",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "خطوةنحو الثراء",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "فاكهة النخاع القرمزي",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "النصل المكسور",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "صديق؟",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "التحضير لغزو كهف التهام الأرواح",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "زنزانه فئة الخبير",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-14 18:38:35",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -16,61 +16,81 @@
       "number": 1,
       "title": "نذر الكارثة",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "طريق محفوف بالرصاص",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "سوق السلاح",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "حاصد الأرواح",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الرهينة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "المساومة الخطرة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "عروس القرصان",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "غضب أمير البحر",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "عصا علاء الدين",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "شاشات وصحافة وأكاذيب",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 18:38:22",
+      "release_date": "اليوم"
     }
   ]
 }

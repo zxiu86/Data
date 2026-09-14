@@ -21,43 +21,57 @@
       "number": 1,
       "title": "اوه شيت- هير وي جو اجاين",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الوسادة الخالية",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "سلف عبيت",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "ايه؟",
       "is_closed": false,
-      "total_images": 2
+      "total_images": 2,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الفصل رقم 5",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "الفصل رقم 6",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "الفصل رقم 7",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 18:38:20",
+      "release_date": "اليوم"
     }
   ]
 }

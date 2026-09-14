@@ -19,121 +19,161 @@
       "number": 1,
       "title": "النجاة بالصدفة",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "ما بعد الموت",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "الدموع الأخيرة",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "القوة مقابل كل شيء",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "السجين رقم 103",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "من يجرؤ على قتلي",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "ظهور الأمن العام",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "نواة الكايجو",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "التقرير المسرب",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "بداية العملية",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "مطاردة إلى الرصيف الأخير",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "الموقع الأسود",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "السجن السري",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "الخيط المفقود",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "عين الصياد",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "الامتحان النهائي",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "جزيرة هيسيكي",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "المركز المحاصر",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "سر الجزيرة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "الفرصة الأخيرة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 18:39:02",
+      "release_date": "اليوم"
     }
   ]
 }
