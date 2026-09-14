@@ -22537,7 +22537,55 @@
       "قوة خارقة",
       "وحوش"
     ],
-    "page_title": "underworld monarch I am the abyss"
+    "page_title": "underworld monarch I am the abyss",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "سيد العالم السفلي",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 2,
+        "title": "حصاد الأرواح",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 3,
+        "title": "فرقة الأرواح",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 4,
+        "title": "صعود غو تشينغ",
+        "is_closed": false,
+        "total_images": 6,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 5,
+        "title": "بلورة الروح",
+        "is_closed": false,
+        "total_images": 6,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 6,
+        "title": "لهب التهام الأرواح",
+        "is_closed": false,
+        "total_images": 6
+      }
+    ]
   },
   "i-contracted-myself": {
     "slug": "i-contracted-myself",
