@@ -1,0 +1,54 @@
+{
+  "slug": "invincible-escort",
+  "title": "The Invincible Escort",
+  "cover": "https://olympustaff.com/images/manga/264eaff464c6eaa85070770150d91868.png",
+  "summary": "مانجا The Invincible Escort مترجمةThe Invincible Escort جانغ تشون وون، ابن محارب من الدرجة الثالثة، يفقد والده ويعيش حياة قاسية ضمن جماعة من قطاع الطرق، حتى ينقذ عجوزًا غامضًا يُدعى مو. ومنذ ذلك الحين، يتعلم فنون...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "إثارة",
+    "فنون قتال"
+  ],
+  "page_title": "The Invincible Escort",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "التدرب في الأحلام",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 2,
+      "title": "الشيخ مو",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 3,
+      "title": "فعلة الفتاة هيانغ؟",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 4,
+      "title": "قلعة السماوات التسع",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 5,
+      "title": "وادي التدريب المكثف",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 6,
+      "title": "نزال بين متدرب ومدربه.",
+      "is_closed": false,
+      "total_images": 14
+    }
+  ]
+}
