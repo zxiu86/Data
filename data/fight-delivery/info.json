@@ -1,0 +1,60 @@
+{
+  "slug": "fight-delivery",
+  "title": "Fight Delivery",
+  "cover": "https://olympustaff.com/images/manga/50022b3a8e08ad6173c1fc733cd503e2.png",
+  "summary": "مانجا Fight Delivery مترجمةFight Delivery ـ خدمة التوصيل قد وصلت!\r\nلي سانغ، طالب في المرحلة الثانوية يركب صهوة التوصيل منذ عامين، بيد أن تخصصه الفريد يكمن في توصيل القتالات وتلبية النزاعات!\r\nوفي أحد...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "شريحة من الحياة",
+    "فنون قتال"
+  ],
+  "page_title": "Fight Delivery",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "عرض عمل",
+      "is_closed": false,
+      "total_images": 35
+    },
+    {
+      "number": 2,
+      "title": "مهمة قذرة",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 3,
+      "title": "خدمة من خبير",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 4,
+      "title": "مجرد تباهي",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 5,
+      "title": "معًا",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 6,
+      "title": "من الماضي",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 7,
+      "title": "توتر",
+      "is_closed": false,
+      "total_images": 16
+    }
+  ]
+}
