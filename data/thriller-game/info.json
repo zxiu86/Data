@@ -1,0 +1,41 @@
+{
+  "slug": "thriller-game",
+  "title": "Thriller Game",
+  "cover": "https://olympustaff.com/images/manga/fa1518a12ec3e77ee4571d896f87c9d6.webp",
+  "summary": "مانجا Thriller Game مترجمةThriller Game بعد أن فُتحت أبواب الجحيم وعادت الظواهر المرعبة إلى الظهور، تحول العالم إلى مكان تغمره الكوارث والكوابيس، بينما ينهار العقل والمنطق تدريجيًا. وبينما يكافح ال...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "مغامرات",
+    "رعب",
+    "غموض"
+  ],
+  "page_title": "Thriller Game",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "بين مبضع الطبيب ونصل القَدَر استثناءٌ في مشفى الجحيم",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 2,
+      "title": "مفتاح مدينة غانغ",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 3,
+      "title": "اختفاء تشين يا",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 4,
+      "title": "لنمت معًا",
+      "is_closed": false,
+      "total_images": 8
+    }
+  ]
+}
