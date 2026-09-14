@@ -2,7 +2,10 @@
   "series": "murims-debt-king",
   "chapter": 17,
   "title": "Murim’s Debt King",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 2,
+  "images": [
+    "https://olympustaff.com/images/manga/a84cac760cbb91ab75a8b6b6d3b1b6c4.jpg",
+    "https://olympustaff.com/images/chapter/9b82b8515abc94e832d0f7d707c0b0fb.png"
+  ]
 }
