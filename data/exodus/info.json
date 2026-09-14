@@ -1,0 +1,76 @@
+{
+  "slug": "exodus",
+  "title": "Exodus",
+  "cover": "https://olympustaff.com/images/manga/da6f1173dfda872d8003dd5c2b6b6666.webp",
+  "summary": "مانجا Exodus مترجمةExodus كثيرًا ما يردد الناس أن كوريا الجنوبية هي \"جوسون الجحيم\"، ويشكون مرارة العيش فيها. لكن ماذا لو غدت هذه الأرض جحيمًا حقيقيًا، ولم يعد الرحيل عنها خيارًا، بل س...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "إثارة"
+  ],
+  "page_title": "Exodus",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "نذر الكارثة",
+      "is_closed": false,
+      "total_images": 33
+    },
+    {
+      "number": 2,
+      "title": "طريق محفوف بالرصاص",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 3,
+      "title": "سوق السلاح",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 4,
+      "title": "حاصد الأرواح",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 5,
+      "title": "الرهينة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 6,
+      "title": "المساومة الخطرة",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 7,
+      "title": "عروس القرصان",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 8,
+      "title": "غضب أمير البحر",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 9,
+      "title": "عصا علاء الدين",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 10,
+      "title": "شاشات وصحافة وأكاذيب",
+      "is_closed": false,
+      "total_images": 23
+    }
+  ]
+}
