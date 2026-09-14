@@ -6691,7 +6691,71 @@
       "إثارة",
       "تناسخ"
     ],
-    "page_title": "Urban Dragon War"
+    "page_title": "Urban Dragon War",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "الصحوة",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 2,
+        "title": "الحسناء الصامته",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 3,
+        "title": "سطو الفندق",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 4,
+        "title": "قلب المحيط",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 5,
+        "title": "كارثة",
+        "is_closed": false,
+        "total_images": 7,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 6,
+        "title": "سطو مسلح",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 7,
+        "title": "في المتحف ليلًا",
+        "is_closed": false,
+        "total_images": 8,
+        "published_at": "2026-09-06 23:56:55",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 8,
+        "title": "روح التين",
+        "is_closed": false,
+        "total_images": 7
+      }
+    ]
   },
   "SYS": {
     "slug": "SYS",
