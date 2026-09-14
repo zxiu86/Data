@@ -222,6 +222,102 @@
       "total_images": 11,
       "published_at": "2026-09-06 23:56:59",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 27,
+      "title": "سيتز أوريليا",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 28,
+      "title": "الشيء الحقيقي ضد التقليد",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 29,
+      "title": "أدول، قائد الفرسان",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 30,
+      "title": "قطار نسيم الاحلام السريع",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 31,
+      "title": "حاجز الأرقام",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 32,
+      "title": "القوة والأغلال",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 33,
+      "title": "شرارة في الظلام وقنبلة النصل الراكد",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 34,
+      "title": "التدفق",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 35,
+      "title": "البقاء",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 36,
+      "title": "نزال ثلاثي الأطراف",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 37,
+      "title": "موطئ قدم",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 38,
+      "title": "نيل شوتر",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 39,
+      "title": "الأوربوروس",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 40,
+      "title": "علاج قاسٍ",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 41,
+      "title": "وصل الحقيقي",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 42,
+      "title": "سلالة بابل",
+      "is_closed": false,
+      "total_images": 14
     }
   ]
 }
