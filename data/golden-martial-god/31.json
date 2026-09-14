@@ -2,7 +2,9 @@
   "series": "golden-martial-god",
   "chapter": 31,
   "title": "Golden Martial God",
-  "is_closed": true,
-  "total_images": 0,
-  "images": []
+  "is_closed": false,
+  "total_images": 1,
+  "images": [
+    "https://olympustaff.com/images/manga/b404a57cf30cf8f0e1e6c39be2fea470.png"
+  ]
 }
