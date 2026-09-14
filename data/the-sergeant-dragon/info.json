@@ -1,0 +1,70 @@
+{
+  "slug": "the-sergeant-dragon",
+  "title": "The Sergeant Dragon",
+  "cover": "https://olympustaff.com/images/manga/09baaabd588881db2dfd63c73233901b.jpg",
+  "summary": "مانجا The Sergeant Dragon مترجمةThe Sergeant Dragon مرحبًا بك في عالمنا.\r\nتدور حاليًا حربٌ طاحنة بين تحالفين عملاقين، وهما التنانين الخضراء وأتباعهم من الأورك، في مواجهة التنانين الذهبية وأتباعهم من الإلف.\r\nوف...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "وحوش"
+  ],
+  "page_title": "The Sergeant Dragon",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "لدى أمر لك.",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 2,
+      "title": "غريب",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 3,
+      "title": "النجاة",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 4,
+      "title": "أسياد وأتباع",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 5,
+      "title": "معركة ضارية",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 6,
+      "title": "الجسد والعقل",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 7,
+      "title": "استعداد للمعركة",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 8,
+      "title": "طلب النجدة",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 9,
+      "title": "الخير بالخير",
+      "is_closed": false,
+      "total_images": 17
+    }
+  ]
+}
