@@ -1,0 +1,51 @@
+{
+  "slug": "return-of-the-top-player",
+  "title": "Return of the Top Player",
+  "cover": "https://olympustaff.com/images/manga/2c6a961177471deac202741c3f37981c.png",
+  "summary": "مانجا Return of the Top Player مترجمةReturn of the Top Player تحول العالم إلى لعبة، وأجبر البشر على خوض غمار لعبة تخص الأسياد فقد ظهر على كوكب الأرض كيان يدعى \"هاوية الفراغ\". \r\nثم احتكرت النقابات القوية مواد الترقية، وت...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "إثارة",
+    "إيسيكاي",
+    "نظام",
+    "سحر",
+    "وحوش"
+  ],
+  "page_title": "Return of the Top Player",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الإستيقاظ بعد 100 سنة.",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 2,
+      "title": "صائغ الادلة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 3,
+      "title": "المتسبب الحقيقي لتحويل العالم",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 4,
+      "title": "الموت",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 5,
+      "title": "فرصة",
+      "is_closed": false,
+      "total_images": 7
+    }
+  ]
+}
