@@ -5678,7 +5678,69 @@
       "خارق للطبيعة",
       "وحوش"
     ],
-    "page_title": "Unlimited Bacterimancer"
+    "page_title": "Unlimited Bacterimancer",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "ضربة حظ.",
+        "is_closed": false,
+        "total_images": 11,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 2,
+        "title": "حاكم العالم المجهري",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 3,
+        "title": "الصياد زيفيروس.",
+        "is_closed": false,
+        "total_images": 10,
+        "published_at": "2026-09-06 23:56:54",
+        "release_date": "2026-09-06"
+      },
+      {
+        "number": 4,
+        "title": "المبتدئ الخارق.",
+        "is_closed": false,
+        "total_images": 9
+      },
+      {
+        "number": 5,
+        "title": "الأفضل",
+        "is_closed": false,
+        "total_images": 9
+      },
+      {
+        "number": 6,
+        "title": "حارسة شخصية.",
+        "is_closed": false,
+        "total_images": 9
+      },
+      {
+        "number": 7,
+        "title": "Unlimited Bacterimancer",
+        "is_closed": false,
+        "total_images": 8
+      },
+      {
+        "number": 8,
+        "title": "Unlimited Bacterimancer",
+        "is_closed": false,
+        "total_images": 6
+      },
+      {
+        "number": 9,
+        "title": "Unlimited Bacterimancer",
+        "is_closed": false,
+        "total_images": 4
+      }
+    ]
   },
   "onimusha-way-of-the-sword": {
     "slug": "onimusha-way-of-the-sword",
