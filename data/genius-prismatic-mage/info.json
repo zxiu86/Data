@@ -1,0 +1,501 @@
+{
+  "slug": "genius-prismatic-mage",
+  "title": "Genius Prismatic Mage",
+  "cover": "https://olympustaff.com/images/manga/482696d76868bb7cf883fbd8fa619f23.png",
+  "summary": "مانجا Genius Prismatic Mage مترجمةGenius Prismatic Mage في الأحياء الفقيرة، عاش صبي صغير يدعى راي، خاليًا من أية مشاعر. ولكن فجأةً، اكتسب قدرةً عجيبة على رؤية \"ألوان\" لا يراها سواه، بل والتحكم بها.\r\nذات يوم، فقد ر...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "خيال",
+    "إثارة",
+    "شونين",
+    "سحر",
+    "قوة خارقة"
+  ],
+  "page_title": "Genius Prismatic Mage",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "الفصل رقم 1",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 2,
+      "title": "2",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 3,
+      "title": "الفصل رقم 3",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 4,
+      "title": "04",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 5,
+      "title": "5",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 6,
+      "title": "6",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 7,
+      "title": "7",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 8,
+      "title": "8",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 9,
+      "title": "الفصل رقم 9",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 10,
+      "title": "10",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 11,
+      "title": "11",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 12,
+      "title": "12",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 13,
+      "title": "الفصل 13",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 14,
+      "title": "14",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 15,
+      "title": "15",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 16,
+      "title": "16",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 17,
+      "title": "17",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 18,
+      "title": "18",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 19,
+      "title": "الفصل رقم 19",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 20,
+      "title": "الفصل رقم 20",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 21,
+      "title": "21",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 22,
+      "title": "22",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 23,
+      "title": "23",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 24,
+      "title": "24",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 25,
+      "title": "25",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 26,
+      "title": "26",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 27,
+      "title": "27",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 28,
+      "title": "28",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "29",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 30,
+      "title": "30",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 31,
+      "title": "31",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 32,
+      "title": "32",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 33,
+      "title": "33",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 34,
+      "title": "الفصل رقم 34",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 35,
+      "title": "الفصل رقم 35",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 36,
+      "title": "الفصل رقم 36",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 37,
+      "title": "الفصل رقم 37",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 38,
+      "title": "الفصل رقم 38",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 39,
+      "title": "الفصل رقم 39",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 40,
+      "title": "الفصل رقم 40",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 41,
+      "title": "الفصل رقم 41",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 42,
+      "title": "الفصل رقم 42",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 43,
+      "title": "الفصل رقم 43",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 44,
+      "title": "الفصل رقم 44",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 45,
+      "title": "الفصل رقم 45",
+      "is_closed": false,
+      "total_images": 31
+    },
+    {
+      "number": 46,
+      "title": "الفصل رقم 46",
+      "is_closed": false,
+      "total_images": 37
+    },
+    {
+      "number": 47,
+      "title": "الفصل رقم 47",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 48,
+      "title": "الفصل رقم 48",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 49,
+      "title": "الفصل رقم 49",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 50,
+      "title": "الفصل رقم 50",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 51,
+      "title": "حقن المشاعر",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 52,
+      "title": "سحر السيطرة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 53,
+      "title": "الفصل 53",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 54,
+      "title": "الغزال الأزرق",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 55,
+      "title": "بين الجشع و الولاء",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 56,
+      "title": "الموهبة السماوية",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 57,
+      "title": "القناعة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 58,
+      "title": "لعبة الصراحة",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 59,
+      "title": "بعض الجرأة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 60,
+      "title": "نهاية الموسم الأول",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 61,
+      "title": "بداية الموسم الثاني",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 62,
+      "title": "الضوء الأحمر",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 63,
+      "title": "القط نيرو",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 64,
+      "title": "مقابلة مالكة القصر",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 65,
+      "title": "الأم المزيفة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 66,
+      "title": "مشاعر فيليب",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 67,
+      "title": "مواجهة الحزن",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 68,
+      "title": "القلادة المحطمة",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 69,
+      "title": "إلى القطاع 46",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 70,
+      "title": "منظمة اللوتس",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 71,
+      "title": "ندم الماضي",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 72,
+      "title": "أنتِ شمسي",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 73,
+      "title": "لعبة التنفيذي الخفي",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 74,
+      "title": "تحرر المشاعر",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 75,
+      "title": "كيف يراقبنا؟",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 76,
+      "title": "الجوهرة الصفراء",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 77,
+      "title": "التحضيرات",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 78,
+      "title": "إحكام المصيدة",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 79,
+      "title": "بداية المواجهة",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 80,
+      "title": "اعتراف",
+      "is_closed": false,
+      "total_images": 14
+    }
+  ]
+}
