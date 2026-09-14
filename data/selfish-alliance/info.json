@@ -1,0 +1,34 @@
+{
+  "slug": "selfish-alliance",
+  "title": "SELFISH ALLIANCE",
+  "cover": "https://olympustaff.com/images/manga/778ed52bfe4c4eedc5e7e57329d67320.png",
+  "summary": "مانجا SELFISH ALLIANCE مترجمةSELFISH ALLIANCE العالم الأوسط، عالم مميز متصل بعوالم أخرى لا حصر لها. يعيش فيه الملاك ديز، الذي أُرسل إليه من العالم السماوي لعدم امتلاكه القوة السماوية الكافية، حياة مهنية...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "شريحة من الحياة",
+    "خارق للطبيعة"
+  ],
+  "page_title": "SELFISH ALLIANCE",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "أنا بائس حقًا",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 2,
+      "title": "ملاك وشيطانة",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 3,
+      "title": "تحالف؟",
+      "is_closed": false,
+      "total_images": 14
+    }
+  ]
+}
