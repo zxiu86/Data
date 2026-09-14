@@ -1,0 +1,39 @@
+{
+  "slug": "radiant-black",
+  "title": "Radiant Black",
+  "cover": "https://olympustaff.com/images/manga/825602456619617037.jpg",
+  "summary": "مانجا Radiant Black مترجمةRadiant Black لمحبي باور رينجرز \"إنفينسيبل\" و\"مايتي مورفن\"، تأتي سلسلة جديدة ومتواصلة من الكاتب الشهير كايل هيغينز (ألترامان، كاول) والفنان مارسيلو كوستا، تعيد ابتكار الأب...",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "خيال",
+    "دراما",
+    "إثارة",
+    "خيال علمي",
+    "قوة خارقة",
+    "خارق للطبيعة"
+  ],
+  "page_title": "Radiant Black",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "البداية",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 2,
+      "title": "الاحمر يليق بي اكثر",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 3,
+      "title": "تجاوز حدود البشر",
+      "is_closed": false,
+      "total_images": 12
+    }
+  ]
+}
