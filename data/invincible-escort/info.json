@@ -18,37 +18,49 @@
       "number": 1,
       "title": "التدرب في الأحلام",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 17:17:21",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "الشيخ مو",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-14 17:17:21",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "فعلة الفتاة هيانغ؟",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 17:17:21",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "قلعة السماوات التسع",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 17:17:21",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "وادي التدريب المكثف",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 17:17:21",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "نزال بين متدرب ومدربه.",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-09-14 17:17:21",
+      "release_date": "اليوم"
     }
   ]
 }

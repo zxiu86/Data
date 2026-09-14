@@ -19,55 +19,73 @@
       "number": 1,
       "title": "قليل من الصمت",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "المذاق الحقيقي",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "مذاق الحياة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "رد الجميل",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "وليمة الأرواح",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "المحصول الاستثنائي",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "أريدها بشدة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "لقاء صديق قديم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "National-Level Big Shots Flock to My Farm",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-14 17:17:34",
+      "release_date": "اليوم"
     }
   ]
 }

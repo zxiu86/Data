@@ -16,19 +16,25 @@
       "number": 1,
       "title": "نجمة لوسيدوريا المضيئة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 17:17:27",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "كاسيوس!",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 17:17:27",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "هذه هي حقيقتك",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 17:17:27",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -16,43 +16,57 @@
       "number": 1,
       "title": "سأقتل زوجتي",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "شيطان الانتقام",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "عودة المنتقم",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "سقوط القناع",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "الانتقام",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "لعبة المطاردة والانتقام.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "قناع البطل الزائف",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-14 17:18:03",
+      "release_date": "اليوم"
     }
   ]
 }
