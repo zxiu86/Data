@@ -1,0 +1,105 @@
+{
+  "slug": "star-of-falling-blossoms",
+  "title": "Star of Falling Blossoms",
+  "cover": "https://olympustaff.com/images/manga/918445891790605922.jpeg",
+  "summary": "مانجا Star of Falling Blossoms مترجمةStar of Falling Blossoms قصةُ رحلة عاشقين يقطعان طرق الحياة، يطاردان 'نجم' البشرية المتساقط.",
+  "type": "مانهوا",
+  "author": "غير محدد",
+  "artist": "غير محدد",
+  "genres": [
+    "أكشن",
+    "مغامرات",
+    "دراما",
+    "فنون قتال",
+    "فنون قتالية",
+    "سحر",
+    "خارق للطبيعة"
+  ],
+  "page_title": "Star of Falling Blossoms",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "السائرون نحو النجم الساقط",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 2,
+      "title": "أشباح الماضي",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 3,
+      "title": "الجزاء يعود",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 4,
+      "title": "الماضي والتناقض",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 5,
+      "title": "من يُقيِّده الماضي لا يستطيع المضي قدمًا",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 6,
+      "title": "ما الذي غيّره؟",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 7,
+      "title": "سبب الوجود",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 8,
+      "title": "أقدَرٌ هو أم سوءُ قدر؟",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 9,
+      "title": "من لا شيء لديه ليحميه",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 10,
+      "title": "أملٌ باهت",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 11,
+      "title": "التسمية بحسب الأجزاء",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 12,
+      "title": "شبحٌ يزأر غضبًا",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 13,
+      "title": "الهروب",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 14,
+      "title": "ثمن الحياة",
+      "is_closed": false,
+      "total_images": 9
+    }
+  ]
+}
