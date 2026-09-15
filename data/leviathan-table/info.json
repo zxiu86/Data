@@ -109,6 +109,18 @@
       "total_images": 13,
       "published_at": "2026-09-14 01:21:01",
       "release_date": "اليوم"
+    },
+    {
+      "number": 13,
+      "title": "الفصل 13",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 14,
+      "title": "Leviathan Table",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }
