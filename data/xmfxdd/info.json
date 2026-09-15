@@ -827,6 +827,120 @@
       "total_images": 21,
       "published_at": "2026-09-04 01:21:12",
       "release_date": "2026-09-04"
+    },
+    {
+      "number": 102,
+      "title": "كاهن بعل",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 103,
+      "title": "البحث عن السيف المسروق",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 104,
+      "title": "في وجه الخيانة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 105,
+      "title": "التنين الأزرق",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 106,
+      "title": "التنين الأزرق",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 107,
+      "title": "عبقرية مع بعض الجنون",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 108,
+      "title": "من خارج قبره",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 109,
+      "title": "حساب قديم",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 110,
+      "title": "غثيان الذكريات",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 111,
+      "title": "مطاردة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 112,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 113,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 114,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 115,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 116,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 117,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 118,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 119,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 120,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 4
     }
   ]
 }
