@@ -61,6 +61,48 @@
       "total_images": 14,
       "published_at": "2026-09-14 17:17:21",
       "release_date": "اليوم"
+    },
+    {
+      "number": 7,
+      "title": "من الحب ما قتل",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 8,
+      "title": "آخر اختبار",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 9,
+      "title": "ما الهوية الحقيقية للشيخ مو؟",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 10,
+      "title": "نهاية تدريب المرحلة الأولى",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 11,
+      "title": "مكتبة فنون القتال",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 12,
+      "title": "من الحب ما قتل (2)",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 13,
+      "title": "السجن الأبدي!",
+      "is_closed": false,
+      "total_images": 9
     }
   ]
 }
