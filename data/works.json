@@ -17207,6 +17207,45 @@
     "genres": [
       "أكشن",
       "دراما"
+    ],
+    "page_title": "Supercritical Hell",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "جحيم غا-إيك",
+        "is_closed": false,
+        "total_images": 23,
+        "published_at": "2026-09-14 17:17:47",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 2,
+        "title": "ليلة القمر الدموي",
+        "is_closed": false,
+        "total_images": 17,
+        "published_at": "2026-09-14 17:17:47",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 3,
+        "title": "المطاردة",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-14 17:17:47",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 4,
+        "title": "جحيم الذكريات",
+        "is_closed": false,
+        "total_images": 16
+      },
+      {
+        "number": 5,
+        "title": "ملك الجحيم المزعوم",
+        "is_closed": false,
+        "total_images": 30
+      }
     ]
   },
   "supreme-zerg-lord": {
