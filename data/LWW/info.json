@@ -990,6 +990,114 @@
       "total_images": 12,
       "published_at": "2026-09-14 17:16:42",
       "release_date": "اليوم"
+    },
+    {
+      "number": 123,
+      "title": "أونوس!",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 124,
+      "title": "التقنية الأخيرة",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 125,
+      "title": "سأقتلك حتما!",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 126,
+      "title": "الجلادون الجدد",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 127,
+      "title": "مبتدئ؟",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 128,
+      "title": "عملاق اشعث",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 129,
+      "title": "قسم الستيكس",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 130,
+      "title": "إرياس استيقظ",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 131,
+      "title": "سموك!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 132,
+      "title": "غوري",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 133,
+      "title": "البطولة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 134,
+      "title": "جلادًا من الدرجة الأولى",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 135,
+      "title": "بركة؟",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 136,
+      "title": "طلب شوجا",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 137,
+      "title": "رجل غريب",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 138,
+      "title": "نهر ستيكس",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 139,
+      "title": "إرياس",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 140,
+      "title": "تحالف الخواتم الصفر",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }
