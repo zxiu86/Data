@@ -9621,6 +9621,63 @@
       "إثارة",
       "نظام",
       "قوة خارقة"
+    ],
+    "page_title": "Judgment",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "البطل",
+        "is_closed": false,
+        "total_images": 32,
+        "published_at": "2026-09-14 02:49:57",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 2,
+        "title": "خيانة شريفة",
+        "is_closed": false,
+        "total_images": 24,
+        "published_at": "2026-09-14 02:49:57",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 3,
+        "title": "نادي قتال",
+        "is_closed": false,
+        "total_images": 28,
+        "published_at": "2026-09-14 02:49:57",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 4,
+        "title": "تدريب قاسي",
+        "is_closed": false,
+        "total_images": 19,
+        "published_at": "2026-09-14 02:49:57",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 5,
+        "title": "لهذا يجب ان نعيش",
+        "is_closed": false,
+        "total_images": 23,
+        "published_at": "2026-09-14 02:49:57",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 6,
+        "title": "إلى القمة",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-14 02:49:57",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 7,
+        "title": "Judgment",
+        "is_closed": true,
+        "total_images": 0
+      }
     ]
   },
   "jungle-juice": {
