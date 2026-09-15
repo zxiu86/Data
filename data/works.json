@@ -17482,6 +17482,63 @@
       "أكشن",
       "إثارة",
       "فنون قتال"
+    ],
+    "page_title": "the blood demon chronicles",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "مفتاح النصر",
+        "is_closed": false,
+        "total_images": 24,
+        "published_at": "2026-09-14 01:21:21",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 2,
+        "title": "حليفٌ غير متوقع",
+        "is_closed": false,
+        "total_images": 16,
+        "published_at": "2026-09-14 01:21:21",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 3,
+        "title": "نبتة الصوف البشري",
+        "is_closed": false,
+        "total_images": 12,
+        "published_at": "2026-09-14 01:21:21",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 4,
+        "title": "مدى اتساع السماء",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-14 01:21:21",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 5,
+        "title": "سم الغو",
+        "is_closed": false,
+        "total_images": 9,
+        "published_at": "2026-09-14 01:21:21",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 6,
+        "title": "the blood demon chronicles",
+        "is_closed": false,
+        "total_images": 1,
+        "published_at": "2026-09-14 01:21:21",
+        "release_date": "اليوم"
+      },
+      {
+        "number": 7,
+        "title": "the blood demon chronicles",
+        "is_closed": true,
+        "total_images": 0
+      }
     ]
   },
   "the-calamity-prince-tames-the-craziest-real-world-hero": {
