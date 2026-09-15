@@ -606,6 +606,12 @@
       "total_images": 4,
       "published_at": "2026-09-04 01:20:45",
       "release_date": "2026-09-04"
+    },
+    {
+      "number": 75,
+      "title": "Children Of The Rune",
+      "is_closed": false,
+      "total_images": 33
     }
   ]
 }
