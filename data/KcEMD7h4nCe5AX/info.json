@@ -1122,6 +1122,24 @@
       "total_images": 9,
       "published_at": "2026-09-14 02:49:25",
       "release_date": "اليوم"
+    },
+    {
+      "number": 140,
+      "title": "الإنتقام",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 141,
+      "title": "الشهرة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 142,
+      "title": "أراضي سيول",
+      "is_closed": false,
+      "total_images": 9
     }
   ]
 }
