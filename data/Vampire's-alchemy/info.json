@@ -184,6 +184,36 @@
       "total_images": 10,
       "published_at": "2026-09-14 01:20:30",
       "release_date": "أمس"
+    },
+    {
+      "number": 22,
+      "title": "الفراغ الأحمر (8)",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 23,
+      "title": "الفراغ الأحمر (9)",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 24,
+      "title": "الفراغ الأحمر (10)",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 25,
+      "title": "الفراغ الأحمر (11)",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 26,
+      "title": "Vampire's alchemy",
+      "is_closed": false,
+      "total_images": 23
     }
   ]
 }
