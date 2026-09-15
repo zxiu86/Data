@@ -107,6 +107,12 @@
       "total_images": 4,
       "published_at": "2026-09-14 01:20:50",
       "release_date": "اليوم"
+    },
+    {
+      "number": 13,
+      "title": "Goblin Inc",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
