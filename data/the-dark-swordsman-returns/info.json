@@ -529,6 +529,12 @@
       "total_images": 41,
       "published_at": "2026-09-14 01:21:23",
       "release_date": "اليوم"
+    },
+    {
+      "number": 65,
+      "title": "The Dark Swordsman Returns",
+      "is_closed": false,
+      "total_images": 1
     }
   ]
 }
