@@ -262,6 +262,12 @@
       "total_images": 13,
       "published_at": "2026-09-14 17:17:13",
       "release_date": "اليوم"
+    },
+    {
+      "number": 32,
+      "title": "سوء فهم",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }
