@@ -1139,31 +1139,41 @@
       "number": 141,
       "title": "إن كنت أنت",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-15 18:42:07",
+      "release_date": "اليوم"
     },
     {
       "number": 142,
       "title": "الجلاد رقم 28",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-15 18:42:07",
+      "release_date": "اليوم"
     },
     {
       "number": 143,
       "title": "قائد الحرس",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-15 18:42:07",
+      "release_date": "اليوم"
     },
     {
       "number": 144,
       "title": "لوحة الإعلانات",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-15 18:42:07",
+      "release_date": "اليوم"
     },
     {
       "number": 145,
       "title": "الموت المحتوم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-15 18:42:07",
+      "release_date": "اليوم"
     }
   ]
 }

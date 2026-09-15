@@ -1151,7 +1151,9 @@
       "number": 143,
       "title": "التحدي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-15 18:42:06",
+      "release_date": "اليوم"
     }
   ]
 }
