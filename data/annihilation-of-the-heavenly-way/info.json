@@ -148,13 +148,17 @@
       "number": 17,
       "title": "Annihilation Of The Heavenly Way",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-15 17:57:08",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "Annihilation Of The Heavenly Way",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-15 17:57:08",
+      "release_date": "اليوم"
     }
   ]
 }

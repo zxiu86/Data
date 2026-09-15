@@ -164,13 +164,17 @@
       "number": 19,
       "title": "The Seventh Prince Wants to Bail",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-15 17:58:45",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "The Seventh Prince Wants to Bail",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-15 17:58:45",
+      "release_date": "اليوم"
     }
   ]
 }

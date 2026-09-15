@@ -18,7 +18,7 @@
       "is_closed": false,
       "total_images": 23,
       "published_at": "2026-09-14 17:17:47",
-      "release_date": "اليوم"
+      "release_date": "أمس"
     },
     {
       "number": 2,
@@ -26,7 +26,7 @@
       "is_closed": false,
       "total_images": 17,
       "published_at": "2026-09-14 17:17:47",
-      "release_date": "اليوم"
+      "release_date": "أمس"
     },
     {
       "number": 3,
@@ -34,19 +34,23 @@
       "is_closed": false,
       "total_images": 16,
       "published_at": "2026-09-14 17:17:47",
-      "release_date": "اليوم"
+      "release_date": "أمس"
     },
     {
       "number": 4,
       "title": "جحيم الذكريات",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-15 17:58:19",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ملك الجحيم المزعوم",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-09-15 17:58:19",
+      "release_date": "اليوم"
     }
   ]
 }
