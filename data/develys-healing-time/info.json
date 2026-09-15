@@ -227,6 +227,12 @@
       "total_images": 2,
       "published_at": "2026-09-06 05:20:18",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 28,
+      "title": "Devely’s Healing Time",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
