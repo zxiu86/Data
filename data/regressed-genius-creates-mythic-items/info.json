@@ -777,6 +777,12 @@
       "total_images": 35,
       "published_at": "2026-09-06 05:20:38",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 96,
+      "title": "Regressed Genius Creates Mythic Items",
+      "is_closed": false,
+      "total_images": 36
     }
   ]
 }
