@@ -2865,13 +2865,15 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-15 18:44:25",
-      "release_date": "اليوم"
+      "release_date": "أمس"
     },
     {
       "number": 357,
       "title": "معركة الملوك الخالدين!!!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-17 07:07:41",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -1211,7 +1211,7 @@
       "is_closed": false,
       "total_images": 3,
       "published_at": "2026-09-14 04:52:58",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 151,
@@ -1219,13 +1219,15 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-14 04:52:58",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 152,
       "title": "The Constellations Are My Disciples",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-17 07:05:23",
+      "release_date": "اليوم"
     }
   ]
 }

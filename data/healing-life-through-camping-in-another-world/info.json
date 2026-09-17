@@ -707,13 +707,15 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-15 17:57:31",
-      "release_date": "اليوم"
+      "release_date": "أمس"
     },
     {
       "number": 88,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-17 07:06:12",
+      "release_date": "اليوم"
     }
   ]
 }

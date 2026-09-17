@@ -25,7 +25,7 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 2,
@@ -33,7 +33,7 @@
       "is_closed": false,
       "total_images": 11,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 3,
@@ -41,7 +41,7 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 4,
@@ -49,7 +49,7 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 5,
@@ -57,7 +57,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 6,
@@ -65,7 +65,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 7,
@@ -73,7 +73,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 8,
@@ -81,13 +81,15 @@
       "is_closed": false,
       "total_images": 2,
       "published_at": "2026-09-14 01:21:16",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-14"
     },
     {
       "number": 9,
       "title": "Shadow Slave",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-09-17 07:06:59",
+      "release_date": "اليوم"
     }
   ]
 }

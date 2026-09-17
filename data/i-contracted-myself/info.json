@@ -260,19 +260,25 @@
       "number": 31,
       "title": "حفلة الشاي 2",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-17 07:06:18",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "كبريتيد الهيدروجين",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-17 07:06:18",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "مستوي القمة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-17 07:06:18",
+      "release_date": "اليوم"
     }
   ]
 }
