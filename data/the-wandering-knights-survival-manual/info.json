@@ -475,6 +475,12 @@
       "total_images": 2,
       "published_at": "2026-09-14 01:21:40",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 59,
+      "title": "The Wandering Knight’s Survival Manual",
+      "is_closed": false,
+      "total_images": 1
     }
   ]
 }

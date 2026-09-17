@@ -1154,6 +1154,24 @@
       "total_images": 9,
       "published_at": "2026-09-15 18:42:06",
       "release_date": "اليوم"
+    },
+    {
+      "number": 144,
+      "title": "تعطش الدماء",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 145,
+      "title": "قتال محتدم",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 146,
+      "title": "سميث",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

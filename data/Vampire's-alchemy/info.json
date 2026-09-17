@@ -224,6 +224,12 @@
       "total_images": 23,
       "published_at": "2026-09-15 18:42:16",
       "release_date": "اليوم"
+    },
+    {
+      "number": 27,
+      "title": "Vampire's alchemy",
+      "is_closed": false,
+      "total_images": 2
     }
   ]
 }

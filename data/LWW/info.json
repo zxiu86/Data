@@ -1174,6 +1174,78 @@
       "total_images": 10,
       "published_at": "2026-09-15 18:42:07",
       "release_date": "اليوم"
+    },
+    {
+      "number": 146,
+      "title": "طلب الأشقر...",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 147,
+      "title": "تجسيد بلوتو",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 148,
+      "title": "إيصال اللفافة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 149,
+      "title": "الشراب",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 150,
+      "title": "داخل الكوخ",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 151,
+      "title": "كيف نكشف السم؟",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 152,
+      "title": "أشعر بالنعاس",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 153,
+      "title": "البطولة!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 154,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 41
+    },
+    {
+      "number": 155,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 156,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 157,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 22
     }
   ]
 }

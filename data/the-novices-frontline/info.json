@@ -195,6 +195,12 @@
       "total_images": 7,
       "published_at": "2026-09-14 01:21:31",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 24,
+      "title": "The Novice's Frontline",
+      "is_closed": false,
+      "total_images": 3
     }
   ]
 }

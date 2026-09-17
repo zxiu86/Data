@@ -82,6 +82,12 @@
       "total_images": 2,
       "published_at": "2026-09-14 01:21:16",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 9,
+      "title": "Shadow Slave",
+      "is_closed": false,
+      "total_images": 1
     }
   ]
 }

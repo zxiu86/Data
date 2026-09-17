@@ -492,6 +492,12 @@
       "total_images": 29,
       "published_at": "2026-09-14 01:21:38",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 61,
+      "title": "The Tang Clan Chronicles",
+      "is_closed": false,
+      "total_images": 5
     }
   ]
 }

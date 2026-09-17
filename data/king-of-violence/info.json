@@ -231,6 +231,24 @@
       "total_images": 12,
       "published_at": "2026-09-14 01:21:00",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 28,
+      "title": "شرارة الغضب لم تنطفئ",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 29,
+      "title": "عقبة غير محسوبة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 30,
+      "title": "قناع اللطافة",
+      "is_closed": false,
+      "total_images": 14
     }
   ]
 }
