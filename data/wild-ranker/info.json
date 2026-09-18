@@ -350,6 +350,84 @@
       "total_images": 14,
       "published_at": "2026-09-14 04:54:30",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 43,
+      "title": "البرانيكس",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 44,
+      "title": "البروفيسور العظيم",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 45,
+      "title": "فيرسا غير مكتملة",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 46,
+      "title": "ضيوف غير مدعوين",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 47,
+      "title": "لوفيا من أورُوبُورُوس",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 48,
+      "title": "الهوية الحقيقة القاتل",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 49,
+      "title": "إسقاط الحكام",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 50,
+      "title": "دمية جزيرة الحكام",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 51,
+      "title": "Wild Ranker",
+      "is_closed": false,
+      "total_images": 36
+    },
+    {
+      "number": 52,
+      "title": "Wild Ranker",
+      "is_closed": false,
+      "total_images": 36
+    },
+    {
+      "number": 53,
+      "title": "Wild Ranker",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 54,
+      "title": "Wild Ranker",
+      "is_closed": false,
+      "total_images": 27
+    },
+    {
+      "number": 55,
+      "title": "Wild Ranker",
+      "is_closed": false,
+      "total_images": 27
     }
   ]
 }

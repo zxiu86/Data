@@ -672,6 +672,24 @@
       "total_images": 13,
       "published_at": "2026-09-17 07:06:09",
       "release_date": "اليوم"
+    },
+    {
+      "number": 83,
+      "title": "جوهرة؟",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 84,
+      "title": "كيوريوسا؟",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 85,
+      "title": "عنصر التدمير",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

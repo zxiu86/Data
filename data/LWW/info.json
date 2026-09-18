@@ -1270,6 +1270,24 @@
       "total_images": 22,
       "published_at": "2026-09-17 07:05:30",
       "release_date": "اليوم"
+    },
+    {
+      "number": 158,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 159,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 35
+    },
+    {
+      "number": 160,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 30
     }
   ]
 }

@@ -2031,6 +2031,12 @@
       "total_images": 12,
       "published_at": "2026-09-14 01:20:16",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 253,
+      "title": "خيانة الخطة",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

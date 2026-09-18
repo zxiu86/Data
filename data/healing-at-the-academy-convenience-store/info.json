@@ -120,6 +120,12 @@
       "total_images": 14,
       "published_at": "2026-09-14 01:20:52",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 14,
+      "title": "Healing At The Academy Convenience Store",
+      "is_closed": false,
+      "total_images": 12
     }
   ]
 }
