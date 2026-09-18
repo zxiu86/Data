@@ -739,7 +739,7 @@
       "is_closed": false,
       "total_images": 2,
       "published_at": "2026-09-15 17:57:39",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     },
     {
       "number": 92,
@@ -747,7 +747,7 @@
       "is_closed": false,
       "total_images": 3,
       "published_at": "2026-09-15 17:57:39",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     },
     {
       "number": 93,
@@ -755,7 +755,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-15 18:43:00",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     }
   ]
 }

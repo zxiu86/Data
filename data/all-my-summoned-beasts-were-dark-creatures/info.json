@@ -102,13 +102,17 @@
       "number": 11,
       "title": "all my summoned beasts were dark creatures",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-18 06:07:46",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "all my summoned beasts were dark creatures",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-18 06:07:46",
+      "release_date": "اليوم"
     }
   ]
 }

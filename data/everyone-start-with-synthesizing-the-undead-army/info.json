@@ -85,7 +85,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-15 17:57:22",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     },
     {
       "number": 10,
@@ -93,19 +93,23 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-15 17:57:22",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     },
     {
       "number": 11,
       "title": "Everyone Start with Synthesizing the Undead Army",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-18 06:08:02",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "Everyone Start with Synthesizing the Undead Army",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-18 06:08:02",
+      "release_date": "اليوم"
     }
   ]
 }

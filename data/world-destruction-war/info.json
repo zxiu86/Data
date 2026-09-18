@@ -23,43 +23,57 @@
       "number": 1,
       "title": "صراع أعتى العوالم",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     },
     {
       "number": 2,
       "title": "صفقة مع حاكم الشر",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     },
     {
       "number": 3,
       "title": "صـــراع الفرق",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     },
     {
       "number": 4,
       "title": "الصد المطلق",
       "is_closed": false,
-      "total_images": 51
+      "total_images": 51,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     },
     {
       "number": 5,
       "title": "ميثاق التكـــافؤ",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     },
     {
       "number": 6,
       "title": "World Destruction War",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "World Destruction War",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-18 06:09:34",
+      "release_date": "اليوم"
     }
   ]
 }
