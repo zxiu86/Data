@@ -93,6 +93,18 @@
       "total_images": 11,
       "published_at": "2026-09-14 01:21:07",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 11,
+      "title": "Nightmare Realm Summoner",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 12,
+      "title": "Nightmare Realm Summoner",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }

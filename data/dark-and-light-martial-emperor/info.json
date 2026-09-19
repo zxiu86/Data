@@ -552,6 +552,12 @@
       "total_images": 13,
       "published_at": "2026-09-14 01:20:44",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 68,
+      "title": "حدث غامض",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

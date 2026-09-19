@@ -872,6 +872,24 @@
       "total_images": 12,
       "published_at": "2026-09-14 01:20:49",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 108,
+      "title": "ظهور الفالكيري",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 109,
+      "title": "الفصل 109",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 110,
+      "title": "ولادة الأسطورة",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

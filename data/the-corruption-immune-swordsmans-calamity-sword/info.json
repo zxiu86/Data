@@ -92,6 +92,18 @@
       "total_images": 4,
       "published_at": "2026-09-04 16:42:24",
       "release_date": "2026-09-04"
+    },
+    {
+      "number": 11,
+      "title": "The Corruption-Immune Swordsman’s Calamity Sword",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 12,
+      "title": "The Corruption-Immune Swordsman’s Calamity Sword",
+      "is_closed": false,
+      "total_images": 4
     }
   ]
 }

@@ -751,6 +751,18 @@
       "total_images": 28,
       "published_at": "2026-09-14 01:20:56",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 93,
+      "title": "I’m Going to Destroy this Country",
+      "is_closed": false,
+      "total_images": 29
+    },
+    {
+      "number": 94,
+      "title": "I’m Going to Destroy this Country",
+      "is_closed": false,
+      "total_images": 29
     }
   ]
 }
