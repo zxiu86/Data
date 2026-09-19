@@ -622,7 +622,9 @@
       "number": 76,
       "title": "المنطقة المحرمة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-19 11:48:43",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -877,19 +877,25 @@
       "number": 108,
       "title": "ظهور الفالكيري",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-19 11:47:34",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "الفصل 109",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-19 11:47:34",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "ولادة الأسطورة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-19 11:47:34",
+      "release_date": "اليوم"
     }
   ]
 }

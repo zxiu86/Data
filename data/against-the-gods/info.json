@@ -6391,25 +6391,33 @@
       "number": 797,
       "title": "إبادة عائلة يون تشي",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-19 11:47:12",
+      "release_date": "اليوم"
     },
     {
       "number": 798,
       "title": "الطلاق",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-19 11:47:12",
+      "release_date": "اليوم"
     },
     {
       "number": 799,
       "title": "التضحية",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-19 11:47:12",
+      "release_date": "اليوم"
     },
     {
       "number": 800,
       "title": "فقدان كل شيء",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-19 11:47:12",
+      "release_date": "اليوم"
     }
   ]
 }

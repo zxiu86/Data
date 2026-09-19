@@ -946,13 +946,15 @@
       "is_closed": false,
       "total_images": 18,
       "published_at": "2026-09-18 06:08:09",
-      "release_date": "اليوم"
+      "release_date": "أمس"
     },
     {
       "number": 118,
       "title": "Holy Emperor’s Grandson is a Necromancer",
       "is_closed": false,
-      "total_images": 38
+      "total_images": 38,
+      "published_at": "2026-09-19 11:47:38",
+      "release_date": "اليوم"
     }
   ]
 }

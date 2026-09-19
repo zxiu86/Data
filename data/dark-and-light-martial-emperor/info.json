@@ -557,7 +557,9 @@
       "number": 68,
       "title": "حدث غامض",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-19 11:47:24",
+      "release_date": "اليوم"
     }
   ]
 }

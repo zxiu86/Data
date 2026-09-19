@@ -756,13 +756,17 @@
       "number": 93,
       "title": "I’m Going to Destroy this Country",
       "is_closed": false,
-      "total_images": 29
+      "total_images": 29,
+      "published_at": "2026-09-19 11:47:46",
+      "release_date": "اليوم"
     },
     {
       "number": 94,
       "title": "I’m Going to Destroy this Country",
       "is_closed": false,
-      "total_images": 29
+      "total_images": 29,
+      "published_at": "2026-09-19 11:47:46",
+      "release_date": "اليوم"
     }
   ]
 }

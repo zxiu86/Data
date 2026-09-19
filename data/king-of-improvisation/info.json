@@ -292,7 +292,9 @@
       "number": 35,
       "title": "King of Acting",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-19 11:47:51",
+      "release_date": "اليوم"
     }
   ]
 }
