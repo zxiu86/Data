@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789925322246
+    "updatedAt": 1789925351956
   },
   "users": {
     "zxiuzaid": {
@@ -24,6 +24,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "absolute-dominion",
+            "mangaTitle": "Absolute Dominion",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/95800a0bc7eae0031b78ff9206ef5249.jpg",
+            "chapterNumber": 66,
+            "chapterTitle": "مرتبة سيف الروح",
+            "pageNumber": 19,
+            "totalPages": 19,
+            "timestamp": 1789925328174
+          },
           {
             "mangaId": "i-was-immediately-mistaken-for-a-monster-genius-actor",
             "mangaTitle": "I Was Immediately Mistaken for a Monster Genius Actor",
@@ -73,16 +83,6 @@
             "pageNumber": 7,
             "totalPages": 8,
             "timestamp": 1789904654695
-          },
-          {
-            "mangaId": "absolute-dominion",
-            "mangaTitle": "Absolute Dominion",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/95800a0bc7eae0031b78ff9206ef5249.jpg",
-            "chapterNumber": 65,
-            "chapterTitle": "حبة الإحياء العظيمة.",
-            "pageNumber": 1,
-            "totalPages": 17,
-            "timestamp": 1789901086001
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -174,7 +174,8 @@
           ],
           "ode-of-the-brave": [
             1,
-            2
+            2,
+            3
           ],
           "LWW": [
             186
@@ -183,7 +184,7 @@
             116
           ]
         },
-        "lastSynced": 1789925322246
+        "lastSynced": 1789925351956
       }
     }
   }
