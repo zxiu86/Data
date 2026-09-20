@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789904428979
+    "updatedAt": 1789904565500
   },
   "users": {
     "zxiuzaid": {
@@ -100,7 +100,8 @@
           ],
           "unlimited-bacterimancer": [
             11,
-            2
+            2,
+            4
           ],
           "demonic-emperor": [
             1,
@@ -138,7 +139,7 @@
             529
           ]
         },
-        "lastSynced": 1789904428979
+        "lastSynced": 1789904565500
       }
     }
   }
