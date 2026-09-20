@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789877160192
+    "updatedAt": 1789889730265
   },
   "users": {
     "zxiuzaid": {
@@ -24,6 +24,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "evolution-begins-with-a-big-tree",
+            "mangaTitle": "Evolution Begins With A Big Tree",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
+            "chapterNumber": 534,
+            "chapterTitle": "534",
+            "pageNumber": 4,
+            "totalPages": 4,
+            "timestamp": 1789879162073
+          },
           {
             "mangaId": "villain-is-here",
             "mangaTitle": "Villain Is Here",
@@ -45,16 +55,6 @@
             "timestamp": 1789875931620
           },
           {
-            "mangaId": "evolution-begins-with-a-big-tree",
-            "mangaTitle": "Evolution Begins With A Big Tree",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
-            "chapterNumber": 510,
-            "chapterTitle": "510",
-            "pageNumber": 1,
-            "totalPages": 4,
-            "timestamp": 1789875776216
-          },
-          {
             "mangaId": "mharaty-alkamn-la-tkhr",
             "mangaTitle": "My Passive Skills Are Invincible",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/9681151271480138089.jpg",
@@ -71,36 +71,47 @@
             2,
             3
           ],
+          "villain-is-here": [
+            357
+          ],
           "demonic-emperor": [
             1,
             2,
             3,
+            912,
             904,
-            906,
-            912
+            906
           ],
           "evolution-begins-with-a-big-tree": [
-            520,
+            530,
+            531,
             510,
-            521,
+            532,
             511,
-            522,
+            533,
             512,
-            523,
+            534,
             513,
             514,
             515,
             516,
             517,
             518,
-            519
-          ],
-          "villain-is-here": [
-            357
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529
           ],
           "against-the-gods": []
         },
-        "lastSynced": 1789877160192
+        "lastSynced": 1789889730265
       }
     }
   }
