@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789877114249
+    "updatedAt": 1789877160192
   },
   "users": {
     "zxiuzaid": {
@@ -19,8 +19,8 @@
       "data": {
         "favorites": [
           "demonic-emperor",
-          "evolution-begins-with-a-big-tree",
-          "villain-is-here"
+          "against-the-gods",
+          "evolution-begins-with-a-big-tree"
         ],
         "readLater": [],
         "history": [
@@ -100,7 +100,7 @@
           ],
           "against-the-gods": []
         },
-        "lastSynced": 1789877114248
+        "lastSynced": 1789877160192
       }
     }
   }
