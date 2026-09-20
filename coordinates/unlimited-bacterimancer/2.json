@@ -1,0 +1,47 @@
+{
+  "series_slug": "unlimited-bacterimancer",
+  "chapter_number": 2,
+  "total_pages": 12,
+  "version": 1,
+  "updated_at": 1789902958561,
+  "pages": [
+    {
+      "page_number": 2,
+      "original_text": "olympustaff.com",
+      "replacement_text": "تطبيق Nexus",
+      "boxes": [
+        {
+          "x": 0.0864,
+          "y": 0.7109,
+          "width": 0.734,
+          "height": 0.0491
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "original_text": "olympustaff.com",
+      "replacement_text": "تطبيق Nexus",
+      "boxes": [
+        {
+          "x": 0.1611,
+          "y": 0.3447,
+          "width": 0.6778,
+          "height": 0.049
+        },
+        {
+          "x": 0.0361,
+          "y": 0.6152,
+          "width": 0.6623,
+          "height": 0.0539
+        },
+        {
+          "x": 0.3637,
+          "y": 0.9419,
+          "width": 0.6363,
+          "height": 0.0514
+        }
+      ]
+    }
+  ]
+}
