@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789902947883
+    "updatedAt": 1789904428979
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "unlimited-bacterimancer",
+            "mangaTitle": "Unlimited Bacterimancer",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
+            "chapterNumber": 2,
+            "chapterTitle": "حاكم العالم المجهري",
+            "pageNumber": 12,
+            "totalPages": 12,
+            "timestamp": 1789902965810
+          },
+          {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
@@ -43,16 +53,6 @@
             "pageNumber": 1,
             "totalPages": 17,
             "timestamp": 1789901086001
-          },
-          {
-            "mangaId": "unlimited-bacterimancer",
-            "mangaTitle": "Unlimited Bacterimancer",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
-            "chapterNumber": 11,
-            "chapterTitle": "Unlimited Bacterimancer",
-            "pageNumber": 7,
-            "totalPages": 8,
-            "timestamp": 1789889761581
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -138,7 +138,7 @@
             529
           ]
         },
-        "lastSynced": 1789902947883
+        "lastSynced": 1789904428979
       }
     }
   }
