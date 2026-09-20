@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789889730265
+    "updatedAt": 1789891035331
   },
   "users": {
     "zxiuzaid": {
@@ -24,6 +24,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "unlimited-bacterimancer",
+            "mangaTitle": "Unlimited Bacterimancer",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
+            "chapterNumber": 11,
+            "chapterTitle": "Unlimited Bacterimancer",
+            "pageNumber": 7,
+            "totalPages": 8,
+            "timestamp": 1789889761581
+          },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
             "mangaTitle": "Evolution Begins With A Big Tree",
@@ -71,8 +81,12 @@
             2,
             3
           ],
+          "against-the-gods": [],
           "villain-is-here": [
             357
+          ],
+          "unlimited-bacterimancer": [
+            11
           ],
           "demonic-emperor": [
             1,
@@ -108,10 +122,9 @@
             527,
             528,
             529
-          ],
-          "against-the-gods": []
+          ]
         },
-        "lastSynced": 1789889730265
+        "lastSynced": 1789891035331
       }
     }
   }
