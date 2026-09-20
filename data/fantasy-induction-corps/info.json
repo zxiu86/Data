@@ -305,6 +305,18 @@
       "total_images": 37,
       "published_at": "2026-09-15 17:57:24",
       "release_date": "2026-09-15"
+    },
+    {
+      "number": 37,
+      "title": "Fantasy Induction Corps",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 38,
+      "title": "Fantasy Induction Corps",
+      "is_closed": false,
+      "total_images": 19
     }
   ]
 }

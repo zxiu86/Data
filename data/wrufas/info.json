@@ -1360,6 +1360,18 @@
       "total_images": 40,
       "published_at": "2026-09-14 02:50:48",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 169,
+      "title": "The Hero Returns",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 170,
+      "title": "The Hero Returns",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }

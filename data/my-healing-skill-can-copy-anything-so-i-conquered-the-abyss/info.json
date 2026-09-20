@@ -76,6 +76,12 @@
       "total_images": 3,
       "published_at": "2026-09-17 07:06:43",
       "release_date": "قبل يومين"
+    },
+    {
+      "number": 9,
+      "title": "معالج لا يقهر",
+      "is_closed": false,
+      "total_images": 2
     }
   ]
 }

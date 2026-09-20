@@ -242,6 +242,12 @@
       "total_images": 29,
       "published_at": "2026-09-14 17:17:43",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 29,
+      "title": "Sandmancer of the Scorched Desert",
+      "is_closed": false,
+      "total_images": 12
     }
   ]
 }

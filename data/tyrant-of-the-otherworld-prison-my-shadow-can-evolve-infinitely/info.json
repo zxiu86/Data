@@ -708,6 +708,72 @@
       "total_images": 8,
       "published_at": "2026-09-04 16:42:44",
       "release_date": "2026-09-04"
+    },
+    {
+      "number": 88,
+      "title": "محنة الصحوة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 89,
+      "title": "تصفية الحسابات",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 90,
+      "title": "فضح المؤامرة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 91,
+      "title": "تدخل الجنرال هونغ",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 92,
+      "title": "طمس الحقيقة",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 93,
+      "title": "الخطوة الأولى",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 94,
+      "title": "سقوط الأقنعة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 95,
+      "title": "الحصار",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 96,
+      "title": "سقوط الحاكم",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 97,
+      "title": "ثمن الغطرسة",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 98,
+      "title": "انبعاث النيرفانا",
+      "is_closed": false,
+      "total_images": 5
     }
   ]
 }
