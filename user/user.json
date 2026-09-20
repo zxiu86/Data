@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789876158288
+    "updatedAt": 1789876185324
   },
   "users": {
     "zxiuzaid": {
@@ -18,7 +18,8 @@
       "createdAt": 1789816876604,
       "data": {
         "favorites": [
-          "demonic-emperor"
+          "demonic-emperor",
+          "evolution-begins-with-a-big-tree"
         ],
         "readLater": [],
         "history": [
@@ -84,7 +85,7 @@
             519
           ]
         },
-        "lastSynced": 1789876158288
+        "lastSynced": 1789876185324
       }
     }
   }
