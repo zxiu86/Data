@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789875773666
+    "updatedAt": 1789876158288
   },
   "users": {
     "zxiuzaid": {
@@ -17,28 +17,30 @@
       "isAdmin": true,
       "createdAt": 1789816876604,
       "data": {
-        "favorites": [],
+        "favorites": [
+          "demonic-emperor"
+        ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 912,
+            "chapterTitle": "لن أنقذك!!",
+            "pageNumber": 4,
+            "totalPages": 4,
+            "timestamp": 1789875931620
+          },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
             "mangaTitle": "Evolution Begins With A Big Tree",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
-            "chapterNumber": 523,
-            "chapterTitle": "523",
-            "pageNumber": 4,
+            "chapterNumber": 510,
+            "chapterTitle": "510",
+            "pageNumber": 1,
             "totalPages": 4,
-            "timestamp": 1789821067055
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "demonic-emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 906,
-            "chapterTitle": "ملامح الخيبة والانكسار!!",
-            "pageNumber": 2,
-            "totalPages": 4,
-            "timestamp": 1788665948431
+            "timestamp": 1789875776216
           },
           {
             "mangaId": "mharaty-alkamn-la-tkhr",
@@ -62,7 +64,8 @@
             2,
             3,
             904,
-            906
+            906,
+            912
           ],
           "evolution-begins-with-a-big-tree": [
             520,
@@ -81,7 +84,7 @@
             519
           ]
         },
-        "lastSynced": 1789875773666
+        "lastSynced": 1789876158288
       }
     }
   }
