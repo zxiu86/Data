@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789924734826
+    "updatedAt": 1789925322246
   },
   "users": {
     "zxiuzaid": {
@@ -25,14 +25,24 @@
         "readLater": [],
         "history": [
           {
-            "mangaId": "unlimited-bacterimancer",
-            "mangaTitle": "Unlimited Bacterimancer",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
-            "chapterNumber": 7,
-            "chapterTitle": "Unlimited Bacterimancer",
-            "pageNumber": 7,
-            "totalPages": 8,
-            "timestamp": 1789904654695
+            "mangaId": "i-was-immediately-mistaken-for-a-monster-genius-actor",
+            "mangaTitle": "I Was Immediately Mistaken for a Monster Genius Actor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/d2fc0317251f6b56dc57ad242fb34dc7.png",
+            "chapterNumber": 116,
+            "chapterTitle": "I Was Immediately Mistaken for a Monster Genius Actor",
+            "pageNumber": 41,
+            "totalPages": 41,
+            "timestamp": 1789925309589
+          },
+          {
+            "mangaId": "LWW",
+            "mangaTitle": "The Long Way Of The Warrior",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/590668750816984846.webp",
+            "chapterNumber": 186,
+            "chapterTitle": "The Long Way Of The Warrior",
+            "pageNumber": 19,
+            "totalPages": 20,
+            "timestamp": 1789925294457
           },
           {
             "mangaId": "demonic-emperor",
@@ -42,7 +52,27 @@
             "chapterTitle": "لن أنقذك!!",
             "pageNumber": 4,
             "totalPages": 4,
-            "timestamp": 1789901104641
+            "timestamp": 1789925269382
+          },
+          {
+            "mangaId": "ode-of-the-brave",
+            "mangaTitle": "ode-of-the-brave",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/3f94eb53c1b070a81491c79103842a81.png",
+            "chapterNumber": 2,
+            "chapterTitle": "ارفع السيــف",
+            "pageNumber": 11,
+            "totalPages": 11,
+            "timestamp": 1789925231859
+          },
+          {
+            "mangaId": "unlimited-bacterimancer",
+            "mangaTitle": "Unlimited Bacterimancer",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
+            "chapterNumber": 7,
+            "chapterTitle": "Unlimited Bacterimancer",
+            "pageNumber": 7,
+            "totalPages": 8,
+            "timestamp": 1789904654695
           },
           {
             "mangaId": "absolute-dominion",
@@ -87,7 +117,8 @@
         ],
         "readChapters": {
           "absolute-dominion": [
-            65
+            65,
+            66
           ],
           "mharaty-alkamn-la-tkhr": [
             1,
@@ -142,10 +173,17 @@
             529
           ],
           "ode-of-the-brave": [
-            1
+            1,
+            2
+          ],
+          "LWW": [
+            186
+          ],
+          "i-was-immediately-mistaken-for-a-monster-genius-actor": [
+            116
           ]
         },
-        "lastSynced": 1789924734826
+        "lastSynced": 1789925322246
       }
     }
   }
