@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789925351956
+    "updatedAt": 1789925832690
   },
   "users": {
     "zxiuzaid": {
@@ -18,12 +18,22 @@
       "createdAt": 1789816876604,
       "data": {
         "favorites": [
+          "demonic-emperor",
           "against-the-gods",
-          "evolution-begins-with-a-big-tree",
-          "demonic-emperor"
+          "evolution-begins-with-a-big-tree"
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "ode-of-the-brave",
+            "mangaTitle": "ode-of-the-brave",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/3f94eb53c1b070a81491c79103842a81.png",
+            "chapterNumber": 3,
+            "chapterTitle": "خريطة العالم!",
+            "pageNumber": 14,
+            "totalPages": 14,
+            "timestamp": 1789925356148
+          },
           {
             "mangaId": "absolute-dominion",
             "mangaTitle": "Absolute Dominion",
@@ -63,16 +73,6 @@
             "pageNumber": 4,
             "totalPages": 4,
             "timestamp": 1789925269382
-          },
-          {
-            "mangaId": "ode-of-the-brave",
-            "mangaTitle": "ode-of-the-brave",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/3f94eb53c1b070a81491c79103842a81.png",
-            "chapterNumber": 2,
-            "chapterTitle": "ارفع السيــف",
-            "pageNumber": 11,
-            "totalPages": 11,
-            "timestamp": 1789925231859
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -117,13 +117,16 @@
         ],
         "readChapters": {
           "absolute-dominion": [
-            65,
-            66
+            66,
+            65
           ],
           "mharaty-alkamn-la-tkhr": [
             1,
             2,
             3
+          ],
+          "i-was-immediately-mistaken-for-a-monster-genius-actor": [
+            116
           ],
           "against-the-gods": [],
           "villain-is-here": [
@@ -179,12 +182,9 @@
           ],
           "LWW": [
             186
-          ],
-          "i-was-immediately-mistaken-for-a-monster-genius-actor": [
-            116
           ]
         },
-        "lastSynced": 1789925351956
+        "lastSynced": 1789925832690
       }
     }
   }
