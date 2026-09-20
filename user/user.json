@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789901069421
+    "updatedAt": 1789901415643
   },
   "users": {
     "zxiuzaid": {
@@ -24,6 +24,26 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 912,
+            "chapterTitle": "لن أنقذك!!",
+            "pageNumber": 4,
+            "totalPages": 4,
+            "timestamp": 1789901104641
+          },
+          {
+            "mangaId": "absolute-dominion",
+            "mangaTitle": "Absolute Dominion",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/95800a0bc7eae0031b78ff9206ef5249.jpg",
+            "chapterNumber": 65,
+            "chapterTitle": "حبة الإحياء العظيمة.",
+            "pageNumber": 1,
+            "totalPages": 17,
+            "timestamp": 1789901086001
+          },
           {
             "mangaId": "unlimited-bacterimancer",
             "mangaTitle": "Unlimited Bacterimancer",
@@ -55,16 +75,6 @@
             "timestamp": 1789876246777
           },
           {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "Demonic Emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 912,
-            "chapterTitle": "لن أنقذك!!",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1789875931620
-          },
-          {
             "mangaId": "mharaty-alkamn-la-tkhr",
             "mangaTitle": "My Passive Skills Are Invincible",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/9681151271480138089.jpg",
@@ -76,6 +86,9 @@
           }
         ],
         "readChapters": {
+          "absolute-dominion": [
+            65
+          ],
           "mharaty-alkamn-la-tkhr": [
             1,
             2,
@@ -122,12 +135,9 @@
             527,
             528,
             529
-          ],
-          "absolute-dominion": [
-            65
           ]
         },
-        "lastSynced": 1789901069421
+        "lastSynced": 1789901415643
       }
     }
   }
