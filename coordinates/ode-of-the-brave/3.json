@@ -1,0 +1,41 @@
+{
+  "series_slug": "ode-of-the-brave",
+  "chapter_number": 3,
+  "total_pages": 14,
+  "version": 1,
+  "updated_at": 1789925381639,
+  "pages": [
+    {
+      "page_number": 1,
+      "original_text": "olympustaff.com",
+      "replacement_text": "تطبيق Nexus",
+      "boxes": [
+        {
+          "x": 0.0863,
+          "y": 0.6924,
+          "width": 0.7341,
+          "height": 0.0467
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "original_text": "olympustaff.com",
+      "replacement_text": "تطبيق Nexus",
+      "boxes": [
+        {
+          "x": 0.163,
+          "y": 0.3261,
+          "width": 0.658,
+          "height": 0.0665
+        },
+        {
+          "x": 0.3639,
+          "y": 0.932,
+          "width": 0.6361,
+          "height": 0.0603
+        }
+      ]
+    }
+  ]
+}
