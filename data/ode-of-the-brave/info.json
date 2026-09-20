@@ -46,7 +46,7 @@
     {
       "number": 6,
       "title": "Ode of the Brave",
-      "is_closed": false,
+      "is_closed": true,
       "total_images": 8
     }
   ]
