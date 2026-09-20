@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789898008001
+    "updatedAt": 1789898249719
   },
   "users": {
     "zxiuzaid": {
@@ -124,7 +124,7 @@
             529
           ]
         },
-        "lastSynced": 1789898008001
+        "lastSynced": 1789898249719
       }
     }
   }
