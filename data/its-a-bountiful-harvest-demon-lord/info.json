@@ -696,7 +696,9 @@
       "number": 85,
       "title": "جشع التجار",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-20 06:41:55",
+      "release_date": "اليوم"
     }
   ]
 }

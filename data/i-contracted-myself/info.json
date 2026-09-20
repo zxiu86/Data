@@ -286,7 +286,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-18 06:08:14",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     },
     {
       "number": 35,
@@ -300,7 +300,9 @@
       "number": 36,
       "title": "هزيمة الاخ الاصغر",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-20 06:41:49",
+      "release_date": "اليوم"
     }
   ]
 }

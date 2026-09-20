@@ -7292,7 +7292,7 @@
       "is_closed": false,
       "total_images": 4,
       "published_at": "2026-09-18 06:07:58",
-      "release_date": "أمس"
+      "release_date": "قبل يومين"
     },
     {
       "number": 911,
@@ -7306,7 +7306,9 @@
       "number": 912,
       "title": "لن أنقذك!!",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-20 06:41:35",
+      "release_date": "اليوم"
     }
   ]
 }

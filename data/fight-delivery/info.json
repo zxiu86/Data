@@ -74,55 +74,73 @@
       "number": 8,
       "title": "مساعدة خارجية",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "موارد بشرية",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "حي الشر",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 11,
       "title": "فهي الحرب",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "استجواب من نوع خاص",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "الرقم 2",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "ماضيك",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "ضيف",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     },
     {
       "number": 16,
       "title": "تحالف مؤقت",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     }
   ]
 }

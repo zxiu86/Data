@@ -81,7 +81,9 @@
       "number": 9,
       "title": "حفل التكريم",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-20 06:43:00",
+      "release_date": "اليوم"
     }
   ]
 }

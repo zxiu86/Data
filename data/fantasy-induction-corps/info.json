@@ -310,13 +310,17 @@
       "number": 37,
       "title": "Fantasy Induction Corps",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-20 06:41:40",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "Fantasy Induction Corps",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-20 06:41:40",
+      "release_date": "اليوم"
     }
   ]
 }

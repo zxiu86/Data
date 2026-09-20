@@ -440,7 +440,9 @@
       "number": 54,
       "title": "Fog land",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-09-20 06:41:41",
+      "release_date": "اليوم"
     }
   ]
 }
