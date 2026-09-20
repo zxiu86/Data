@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789924596325
+    "updatedAt": 1789924734826
   },
   "users": {
     "zxiuzaid": {
@@ -140,9 +140,12 @@
             527,
             528,
             529
+          ],
+          "ode-of-the-brave": [
+            1
           ]
         },
-        "lastSynced": 1789924596325
+        "lastSynced": 1789924734826
       }
     }
   }
