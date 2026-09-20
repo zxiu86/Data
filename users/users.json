@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789904565500
+    "updatedAt": 1789904934653
   },
   "users": {
     "zxiuzaid": {
@@ -18,7 +18,6 @@
       "createdAt": 1789816876604,
       "data": {
         "favorites": [
-          "demonic-emperor",
           "against-the-gods",
           "evolution-begins-with-a-big-tree"
         ],
@@ -28,11 +27,11 @@
             "mangaId": "unlimited-bacterimancer",
             "mangaTitle": "Unlimited Bacterimancer",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
-            "chapterNumber": 2,
-            "chapterTitle": "حاكم العالم المجهري",
-            "pageNumber": 12,
-            "totalPages": 12,
-            "timestamp": 1789902965810
+            "chapterNumber": 7,
+            "chapterTitle": "Unlimited Bacterimancer",
+            "pageNumber": 7,
+            "totalPages": 8,
+            "timestamp": 1789904654695
           },
           {
             "mangaId": "demonic-emperor",
@@ -101,7 +100,10 @@
           "unlimited-bacterimancer": [
             11,
             2,
-            4
+            4,
+            5,
+            6,
+            7
           ],
           "demonic-emperor": [
             1,
@@ -139,7 +141,7 @@
             529
           ]
         },
-        "lastSynced": 1789904565500
+        "lastSynced": 1789904934653
       }
     }
   }
