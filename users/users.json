@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789876226914
+    "updatedAt": 1789876381293
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "villain-is-here",
+            "mangaTitle": "Villain Is Here",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+            "chapterNumber": 357,
+            "chapterTitle": "معركة الملوك الخالدين!!!",
+            "pageNumber": 6,
+            "totalPages": 6,
+            "timestamp": 1789876246777
+          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
@@ -88,9 +98,10 @@
           ],
           "villain-is-here": [
             357
-          ]
+          ],
+          "against-the-gods": []
         },
-        "lastSynced": 1789876226914
+        "lastSynced": 1789876381293
       }
     }
   }
