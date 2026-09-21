@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789925832690
+    "updatedAt": 1789960446460
   },
   "users": {
     "zxiuzaid": {
@@ -32,7 +32,7 @@
             "chapterTitle": "خريطة العالم!",
             "pageNumber": 14,
             "totalPages": 14,
-            "timestamp": 1789925356148
+            "timestamp": 1789926449244
           },
           {
             "mangaId": "absolute-dominion",
@@ -178,13 +178,15 @@
           "ode-of-the-brave": [
             1,
             2,
-            3
+            3,
+            4,
+            5
           ],
           "LWW": [
             186
           ]
         },
-        "lastSynced": 1789925832690
+        "lastSynced": 1789960446460
       }
     }
   }
