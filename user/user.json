@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1789960446460
+    "updatedAt": 1789993517219
   },
   "users": {
     "zxiuzaid": {
@@ -28,11 +28,11 @@
             "mangaId": "ode-of-the-brave",
             "mangaTitle": "ode-of-the-brave",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/3f94eb53c1b070a81491c79103842a81.png",
-            "chapterNumber": 3,
-            "chapterTitle": "خريطة العالم!",
-            "pageNumber": 14,
-            "totalPages": 14,
-            "timestamp": 1789926449244
+            "chapterNumber": 6,
+            "chapterTitle": "Ode of the Brave",
+            "pageNumber": 8,
+            "totalPages": 8,
+            "timestamp": 1789961367473
           },
           {
             "mangaId": "absolute-dominion",
@@ -180,13 +180,14 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "LWW": [
             186
           ]
         },
-        "lastSynced": 1789960446460
+        "lastSynced": 1789993517219
       }
     }
   }
