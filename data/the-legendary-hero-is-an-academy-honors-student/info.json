@@ -844,6 +844,12 @@
       "total_images": 16,
       "published_at": "2026-09-14 17:18:00",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 104,
+      "title": "سباق الرئاسة المفاجئ",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

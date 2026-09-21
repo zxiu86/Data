@@ -1129,6 +1129,12 @@
       "total_images": 13,
       "published_at": "2026-09-14 17:17:40",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 140,
+      "title": "140",
+      "is_closed": false,
+      "total_images": 12
     }
   ]
 }

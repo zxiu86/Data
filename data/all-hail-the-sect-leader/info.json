@@ -4422,6 +4422,18 @@
       "total_images": 6,
       "published_at": "2026-09-17 07:05:47",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 552,
+      "title": "شعلة الين الباردة المتطرفة",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 553,
+      "title": "محاولة اغتيال عبثية",
+      "is_closed": false,
+      "total_images": 6
     }
   ]
 }

@@ -4541,6 +4541,18 @@
       "total_images": 5,
       "published_at": "2026-09-14 17:17:55",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 567,
+      "title": "مرارة الندم.",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 568,
+      "title": "The Eternal Supreme",
+      "is_closed": false,
+      "total_images": 34
     }
   ]
 }

@@ -303,6 +303,36 @@
       "total_images": 7,
       "published_at": "2026-09-20 06:41:49",
       "release_date": "اليوم"
+    },
+    {
+      "number": 37,
+      "title": "انقاذ الأصغر",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 38,
+      "title": "ملتهم النيران الحقيقي",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 39,
+      "title": "استيقظ؟",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 40,
+      "title": "صراع",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 41,
+      "title": "لؤلؤة الشمس والقمر",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }
