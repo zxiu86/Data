@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1790007295362
+    "updatedAt": 1790051107817
   },
   "users": {
     "zxiuzaid": {
@@ -28,11 +28,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 8,
-            "chapterTitle": "العناية 8",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1789997460233
+            "chapterNumber": 12,
+            "chapterTitle": "العناية 12",
+            "pageNumber": 5,
+            "totalPages": 5,
+            "timestamp": 1790008866278
           },
           {
             "mangaId": "ode-of-the-brave",
@@ -138,6 +138,7 @@
           "i-was-immediately-mistaken-for-a-monster-genius-actor": [
             116
           ],
+          "RCD": [],
           "against-the-gods": [],
           "villain-is-here": [
             357
@@ -194,21 +195,24 @@
             6
           ],
           "top-tier-providence-secretly-cultivate-for-a-thousand-years": [
+            11,
             1,
+            12,
             2,
             3,
             4,
             5,
             6,
             7,
-            8
+            8,
+            9,
+            10
           ],
           "LWW": [
             186
-          ],
-          "RCD": []
+          ]
         },
-        "lastSynced": 1790007295362
+        "lastSynced": 1790051107817
       }
     }
   }
