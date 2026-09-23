@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1790162548114
+    "updatedAt": 1790163221188
   },
   "users": {
     "zxiuzaid": {
@@ -248,7 +248,7 @@
           ],
           "the-eternal-supreme": []
         },
-        "lastSynced": 1790162548114
+        "lastSynced": 1790163221188
       }
     }
   }
