@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1790154522814
+    "updatedAt": 1790162548114
   },
   "users": {
     "zxiuzaid": {
@@ -32,7 +32,7 @@
             "chapterTitle": "هل تود أن تصبح رفيقي في الداو؟",
             "pageNumber": 2,
             "totalPages": 5,
-            "timestamp": 1790153743077
+            "timestamp": 1790154535019
           },
           {
             "mangaId": "ode-of-the-brave",
@@ -202,6 +202,7 @@
             24,
             46,
             25,
+            47,
             26,
             27,
             28,
@@ -240,15 +241,14 @@
             20,
             42,
             21,
-            43,
-            47
+            43
           ],
           "LWW": [
             186
           ],
           "the-eternal-supreme": []
         },
-        "lastSynced": 1790154522814
+        "lastSynced": 1790162548114
       }
     }
   }
