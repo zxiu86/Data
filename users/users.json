@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1790146496124
+    "updatedAt": 1790151921474
   },
   "users": {
     "zxiuzaid": {
@@ -28,11 +28,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 34,
-            "chapterTitle": "الشيطان في عالم دمج الفراغ",
-            "pageNumber": 3,
-            "totalPages": 6,
-            "timestamp": 1790140165748
+            "chapterNumber": 45,
+            "chapterTitle": "لقاء شوان تشينغ يون لأول مرة",
+            "pageNumber": 5,
+            "totalPages": 5,
+            "timestamp": 1790151654975
           },
           {
             "mangaId": "ode-of-the-brave",
@@ -196,7 +196,9 @@
           ],
           "top-tier-providence-secretly-cultivate-for-a-thousand-years": [
             22,
+            44,
             23,
+            45,
             24,
             25,
             26,
@@ -212,10 +214,15 @@
             12,
             34,
             13,
+            35,
             14,
+            36,
             15,
+            37,
             16,
+            38,
             17,
+            39,
             18,
             19,
             1,
@@ -227,14 +234,18 @@
             7,
             8,
             9,
+            40,
+            41,
             20,
-            21
+            42,
+            21,
+            43
           ],
           "LWW": [
             186
           ]
         },
-        "lastSynced": 1790146496124
+        "lastSynced": 1790151921474
       }
     }
   }
