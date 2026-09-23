@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1790103856107
+    "updatedAt": 1790137353707
   },
   "users": {
     "zxiuzaid": {
@@ -28,11 +28,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 17,
-            "chapterTitle": "العناية 17",
-            "pageNumber": 2,
-            "totalPages": 4,
-            "timestamp": 1790080700533
+            "chapterNumber": 22,
+            "chapterTitle": "الفصل رقم 22",
+            "pageNumber": 4,
+            "totalPages": 7,
+            "timestamp": 1790105277124
           },
           {
             "mangaId": "ode-of-the-brave",
@@ -196,12 +196,15 @@
           ],
           "top-tier-providence-secretly-cultivate-for-a-thousand-years": [
             11,
+            22,
             12,
             13,
             14,
             15,
             16,
             17,
+            18,
+            19,
             1,
             2,
             3,
@@ -211,13 +214,15 @@
             7,
             8,
             9,
-            10
+            20,
+            10,
+            21
           ],
           "LWW": [
             186
           ]
         },
-        "lastSynced": 1790103856107
+        "lastSynced": 1790137353707
       }
     }
   }
