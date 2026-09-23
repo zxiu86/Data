@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1789816876603,
-    "updatedAt": 1790153722147
+    "updatedAt": 1790154233821
   },
   "users": {
     "zxiuzaid": {
@@ -28,11 +28,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 45,
-            "chapterTitle": "لقاء شوان تشينغ يون لأول مرة",
-            "pageNumber": 5,
+            "chapterNumber": 46,
+            "chapterTitle": "هل تود أن تصبح رفيقي في الداو؟",
+            "pageNumber": 2,
             "totalPages": 5,
-            "timestamp": 1790151654975
+            "timestamp": 1790153743077
           },
           {
             "mangaId": "ode-of-the-brave",
@@ -200,6 +200,7 @@
             23,
             45,
             24,
+            46,
             25,
             26,
             27,
@@ -245,7 +246,7 @@
             186
           ]
         },
-        "lastSynced": 1790153722147
+        "lastSynced": 1790154233821
       }
     }
   }
