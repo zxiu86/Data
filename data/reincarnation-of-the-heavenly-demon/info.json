@@ -1134,7 +1134,9 @@
       "number": 140,
       "title": "140",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-24 11:30:10",
+      "release_date": "اليوم"
     }
   ]
 }

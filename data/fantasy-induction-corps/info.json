@@ -312,7 +312,7 @@
       "is_closed": false,
       "total_images": 23,
       "published_at": "2026-09-20 06:41:40",
-      "release_date": "اليوم"
+      "release_date": "2026-09-20"
     },
     {
       "number": 38,
@@ -320,19 +320,23 @@
       "is_closed": false,
       "total_images": 19,
       "published_at": "2026-09-20 06:41:40",
-      "release_date": "اليوم"
+      "release_date": "2026-09-20"
     },
     {
       "number": 39,
       "title": "Fantasy Induction Corps",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-24 11:29:28",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "Fantasy Induction Corps",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-24 11:29:28",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -1471,13 +1471,17 @@
       "number": 182,
       "title": "الخوف",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-24 11:28:59",
+      "release_date": "اليوم"
     },
     {
       "number": 183,
       "title": "الخطأ",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-24 11:28:59",
+      "release_date": "اليوم"
     }
   ]
 }

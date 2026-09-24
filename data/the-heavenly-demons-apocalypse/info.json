@@ -76,19 +76,25 @@
       "number": 8,
       "title": "The Heavenly Demon’s Apocalypse",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-24 11:30:32",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "The Heavenly Demon’s Apocalypse",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:32",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "The Heavenly Demon’s Apocalypse",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:32",
+      "release_date": "اليوم"
     }
   ]
 }

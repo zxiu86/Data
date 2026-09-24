@@ -146,19 +146,23 @@
       "is_closed": false,
       "total_images": 17,
       "published_at": "2026-09-19 11:49:01",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 17,
       "title": "Transcendence Due To A System Error",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-24 11:30:51",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "Transcendence Due To A System Error",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-09-24 11:30:51",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -99,7 +99,7 @@
       "is_closed": false,
       "total_images": 5,
       "published_at": "2026-09-19 11:48:33",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 12,
@@ -107,13 +107,15 @@
       "is_closed": false,
       "total_images": 4,
       "published_at": "2026-09-19 11:48:33",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 13,
       "title": "The Corruption-Immune Swordsman’s Calamity Sword",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:26",
+      "release_date": "اليوم"
     }
   ]
 }

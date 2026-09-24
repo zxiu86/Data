@@ -139,31 +139,41 @@
       "number": 16,
       "title": "انهيار النظام",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-24 11:30:30",
+      "release_date": "اليوم"
     },
     {
       "number": 17,
       "title": "العملية السرّية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-24 11:30:30",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "خطة مباغتة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-24 11:30:30",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "سقوط أوه جونغ يون",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-24 11:30:30",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "The Genius Monster of a Chaebol Family",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:30",
+      "release_date": "اليوم"
     }
   ]
 }

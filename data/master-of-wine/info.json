@@ -129,7 +129,9 @@
       "number": 15,
       "title": "Master of Wine",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:29:52",
+      "release_date": "اليوم"
     }
   ]
 }

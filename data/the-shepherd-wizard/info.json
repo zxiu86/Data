@@ -309,7 +309,9 @@
       "number": 37,
       "title": "البحث عن ذاتي",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-09-24 11:30:44",
+      "release_date": "اليوم"
     }
   ]
 }

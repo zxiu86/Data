@@ -1002,7 +1002,7 @@
       "is_closed": false,
       "total_images": 23,
       "published_at": "2026-09-19 11:49:11",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 124,
@@ -1010,7 +1010,7 @@
       "is_closed": false,
       "total_images": 24,
       "published_at": "2026-09-19 11:49:11",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 125,
@@ -1018,25 +1018,31 @@
       "is_closed": false,
       "total_images": 4,
       "published_at": "2026-09-20 06:43:06",
-      "release_date": "اليوم"
+      "release_date": "2026-09-20"
     },
     {
       "number": 126,
       "title": "Martial Wild West",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:31:00",
+      "release_date": "اليوم"
     },
     {
       "number": 127,
       "title": "Martial Wild West",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:31:00",
+      "release_date": "اليوم"
     },
     {
       "number": 128,
       "title": "Martial Wild West",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:31:00",
+      "release_date": "اليوم"
     }
   ]
 }

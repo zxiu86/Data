@@ -4546,13 +4546,17 @@
       "number": 567,
       "title": "مرارة الندم.",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-24 11:30:28",
+      "release_date": "اليوم"
     },
     {
       "number": 568,
       "title": "The Eternal Supreme",
       "is_closed": false,
-      "total_images": 34
+      "total_images": 34,
+      "published_at": "2026-09-24 11:30:28",
+      "release_date": "اليوم"
     }
   ]
 }

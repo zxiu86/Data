@@ -286,7 +286,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-18 06:08:14",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 35,
@@ -294,7 +294,7 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-19 11:47:42",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 36,
@@ -302,55 +302,71 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-20 06:41:49",
-      "release_date": "اليوم"
+      "release_date": "2026-09-20"
     },
     {
       "number": 37,
       "title": "انقاذ الأصغر",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "ملتهم النيران الحقيقي",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "استيقظ؟",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "صراع",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "لؤلؤة الشمس والقمر",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "ظهور مفاجئ",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "عكس المبادئ",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "تهيئة الزمكان",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-24 11:29:38",
+      "release_date": "اليوم"
     }
   ]
 }

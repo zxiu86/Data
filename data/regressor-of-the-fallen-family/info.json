@@ -1232,7 +1232,9 @@
       "number": 152,
       "title": "طبول الحرب",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-24 11:30:09",
+      "release_date": "اليوم"
     }
   ]
 }

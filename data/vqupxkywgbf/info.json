@@ -3802,31 +3802,39 @@
       "is_closed": false,
       "total_images": 9,
       "published_at": "2026-09-19 11:49:06",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 474,
       "title": "زيارة نويا وحقيقة حرب الأجناس.",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-24 11:30:55",
+      "release_date": "اليوم"
     },
     {
       "number": 475,
       "title": "ظهور هواي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-24 11:30:55",
+      "release_date": "اليوم"
     },
     {
       "number": 476,
       "title": "شجرة العالم والعبقرية القتالية",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-24 11:30:55",
+      "release_date": "اليوم"
     },
     {
       "number": 477,
       "title": "السعي نحو القمة وتجاوز الحدود",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-24 11:30:55",
+      "release_date": "اليوم"
     }
   ]
 }

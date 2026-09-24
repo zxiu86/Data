@@ -25,7 +25,7 @@
       "is_closed": false,
       "total_images": 20,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 2,
@@ -33,7 +33,7 @@
       "is_closed": false,
       "total_images": 23,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 3,
@@ -41,7 +41,7 @@
       "is_closed": false,
       "total_images": 15,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 4,
@@ -49,7 +49,7 @@
       "is_closed": false,
       "total_images": 51,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 5,
@@ -57,7 +57,7 @@
       "is_closed": false,
       "total_images": 20,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 6,
@@ -65,7 +65,7 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     },
     {
       "number": 7,
@@ -73,7 +73,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-18 06:09:34",
-      "release_date": "قبل يومين"
+      "release_date": "2026-09-18"
     }
   ]
 }

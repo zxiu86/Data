@@ -437,7 +437,9 @@
       "number": 53,
       "title": "القديس الخفي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-24 11:30:06",
+      "release_date": "اليوم"
     }
   ]
 }

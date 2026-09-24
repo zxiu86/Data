@@ -1401,7 +1401,9 @@
       "number": 173,
       "title": "من سيبلغ نهاية البرج",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-24 11:30:00",
+      "release_date": "اليوم"
     }
   ]
 }

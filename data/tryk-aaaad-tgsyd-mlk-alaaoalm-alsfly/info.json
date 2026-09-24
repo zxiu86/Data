@@ -336,97 +336,127 @@
       "is_closed": false,
       "total_images": 16,
       "published_at": "2026-09-19 11:49:02",
-      "release_date": "أمس"
+      "release_date": "2026-09-19"
     },
     {
       "number": 41,
       "title": "من أجل الخلود",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "البحث عن دونغبانغساك",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "حاكم السيف",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 44,
       "title": "امتصاص القوة وقسوة الحكيم",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "أطياف مدينة الملاهي",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "صراع الأبيض والأسود",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "تحدي سامشين ورهان الوجود",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "أعباء الماضي وحجر الدم",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "تضحية البشر وقوة سوترا المريخ",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "سيف التجسد وحقيقة المعركة",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "Reincarnation Path Of The Underworld King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "Reincarnation Path Of The Underworld King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 53,
       "title": "Reincarnation Path Of The Underworld King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 54,
       "title": "Reincarnation Path Of The Underworld King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     },
     {
       "number": 55,
       "title": "Reincarnation Path Of The Underworld King",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:30:52",
+      "release_date": "اليوم"
     }
   ]
 }

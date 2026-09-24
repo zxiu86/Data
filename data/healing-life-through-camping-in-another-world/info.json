@@ -721,31 +721,41 @@
       "number": 89,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-24 11:29:33",
+      "release_date": "اليوم"
     },
     {
       "number": 90,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-09-24 11:29:33",
+      "release_date": "اليوم"
     },
     {
       "number": 91,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:29:33",
+      "release_date": "اليوم"
     },
     {
       "number": 92,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:29:33",
+      "release_date": "اليوم"
     },
     {
       "number": 93,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-24 11:29:33",
+      "release_date": "اليوم"
     }
   ]
 }

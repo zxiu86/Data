@@ -200,13 +200,17 @@
       "number": 23,
       "title": "The Sword Saint Reincarnated Into A Noble Mage Family",
       "is_closed": false,
-      "total_images": 23
+      "total_images": 23,
+      "published_at": "2026-09-24 11:30:46",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "The Sword Saint Reincarnated Into A Noble Mage Family",
       "is_closed": false,
-      "total_images": 25
+      "total_images": 25,
+      "published_at": "2026-09-24 11:30:46",
+      "release_date": "اليوم"
     }
   ]
 }

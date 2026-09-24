@@ -83,13 +83,15 @@
       "is_closed": false,
       "total_images": 2,
       "published_at": "2026-09-20 06:42:09",
-      "release_date": "اليوم"
+      "release_date": "2026-09-20"
     },
     {
       "number": 10,
       "title": "سرقة الغنائم",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-09-24 11:29:58",
+      "release_date": "اليوم"
     }
   ]
 }
