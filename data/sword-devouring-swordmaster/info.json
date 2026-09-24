@@ -383,6 +383,12 @@
       "total_images": 12,
       "published_at": "2026-09-19 11:48:27",
       "release_date": "أمس"
+    },
+    {
+      "number": 47,
+      "title": "الطبيعة البرية",
+      "is_closed": false,
+      "total_images": 12
     }
   ]
 }

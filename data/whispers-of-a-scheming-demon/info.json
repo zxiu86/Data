@@ -61,6 +61,12 @@
       "total_images": 2,
       "published_at": "2026-09-14 17:18:20",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 7,
+      "title": "Whispers of a Scheming Demon",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

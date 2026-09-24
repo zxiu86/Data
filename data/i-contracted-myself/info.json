@@ -333,6 +333,24 @@
       "title": "لؤلؤة الشمس والقمر",
       "is_closed": false,
       "total_images": 8
+    },
+    {
+      "number": 42,
+      "title": "ظهور مفاجئ",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 43,
+      "title": "عكس المبادئ",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 44,
+      "title": "تهيئة الزمكان",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }

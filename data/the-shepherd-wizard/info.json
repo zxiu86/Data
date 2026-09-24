@@ -304,6 +304,12 @@
       "total_images": 17,
       "published_at": "2026-09-17 07:07:30",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 37,
+      "title": "البحث عن ذاتي",
+      "is_closed": false,
+      "total_images": 20
     }
   ]
 }

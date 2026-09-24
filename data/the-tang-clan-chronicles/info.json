@@ -500,6 +500,12 @@
       "total_images": 5,
       "published_at": "2026-09-17 07:07:33",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 62,
+      "title": "The Tang Clan Chronicles",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

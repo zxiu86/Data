@@ -1107,6 +1107,12 @@
       "total_images": 1,
       "published_at": "2026-09-04 16:42:03",
       "release_date": "2026-09-04"
+    },
+    {
+      "number": 137,
+      "title": "I Killed an Academy Player",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

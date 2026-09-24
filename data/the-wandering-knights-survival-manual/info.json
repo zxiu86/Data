@@ -483,6 +483,12 @@
       "total_images": 1,
       "published_at": "2026-09-17 07:07:36",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 60,
+      "title": "The Wandering Knight’s Survival Manual",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

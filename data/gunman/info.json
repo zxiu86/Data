@@ -332,6 +332,24 @@
       "title": "Gunman",
       "is_closed": false,
       "total_images": 9
+    },
+    {
+      "number": 41,
+      "title": "Gunman",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 42,
+      "title": "Gunman",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 43,
+      "title": "Gunman",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

@@ -938,6 +938,18 @@
       "total_images": 10,
       "published_at": "2026-09-15 17:57:58",
       "release_date": "2026-09-15"
+    },
+    {
+      "number": 116,
+      "title": "جو تاي تشونغ (1)",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 117,
+      "title": "جو تاي تشونغ (2)",
+      "is_closed": false,
+      "total_images": 9
     }
   ]
 }

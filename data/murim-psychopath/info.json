@@ -358,6 +358,12 @@
       "total_images": 7,
       "published_at": "2026-09-17 07:06:41",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 44,
+      "title": "Murim Psychopath",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

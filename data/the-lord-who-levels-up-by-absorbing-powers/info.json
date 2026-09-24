@@ -190,6 +190,12 @@
       "total_images": 0,
       "published_at": "2026-09-15 17:58:36",
       "release_date": "2026-09-15"
+    },
+    {
+      "number": 23,
+      "title": "Limitless Predation",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
