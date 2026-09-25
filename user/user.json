@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790348916377
+    "updatedAt": 1790351313805
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 120,
-            "chapterTitle": "فصل التدريس الصغير لـ هان جو",
-            "pageNumber": 5,
-            "totalPages": 6,
-            "timestamp": 1790344289201
+            "chapterNumber": 115,
+            "chapterTitle": "زيارة اللورد الشيطاني",
+            "pageNumber": 7,
+            "totalPages": 7,
+            "timestamp": 1790348920094
           },
           {
             "mangaId": "demonic-emperor",
@@ -154,7 +154,7 @@
             87
           ]
         },
-        "lastSynced": 1790348916377
+        "lastSynced": 1790351313804
       }
     }
   }
