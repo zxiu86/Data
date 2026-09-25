@@ -295,6 +295,18 @@
       "total_images": 26,
       "published_at": "2026-09-19 11:47:51",
       "release_date": "2026-09-19"
+    },
+    {
+      "number": 36,
+      "title": "King of Acting",
+      "is_closed": false,
+      "total_images": 28
+    },
+    {
+      "number": 37,
+      "title": "King of Acting",
+      "is_closed": false,
+      "total_images": 29
     }
   ]
 }

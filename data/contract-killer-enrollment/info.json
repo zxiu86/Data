@@ -68,6 +68,84 @@
       "total_images": 22,
       "published_at": "2026-09-14 18:38:12",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 8,
+      "title": "مباراة البعث",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 9,
+      "title": "احتضان الموت",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 10,
+      "title": "الكُبَّة الثالثه",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 11,
+      "title": "القاتل الغامض",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 12,
+      "title": "خلف الكواليس",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 13,
+      "title": "الممثل والمتعاقد",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 14,
+      "title": "ثمن التجربة",
+      "is_closed": false,
+      "total_images": 20
+    },
+    {
+      "number": 15,
+      "title": "المجموعة 404",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 16,
+      "title": "الاختبار",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 17,
+      "title": "سفينة البضائع البشرية",
+      "is_closed": false,
+      "total_images": 22
+    },
+    {
+      "number": 18,
+      "title": "الفريق غاما",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 19,
+      "title": "Contract Killer Enrollment",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 20,
+      "title": "Contract Killer Enrollment",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

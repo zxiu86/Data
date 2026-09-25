@@ -1043,6 +1043,12 @@
       "total_images": 0,
       "published_at": "2026-09-24 11:31:00",
       "release_date": "اليوم"
+    },
+    {
+      "number": 129,
+      "title": "Martial Wild West",
+      "is_closed": false,
+      "total_images": 17
     }
   ]
 }
