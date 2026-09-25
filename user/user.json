@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790322319710
+    "updatedAt": 1790327571209
   },
   "users": {
     "zxiuzaid": {
@@ -29,21 +29,21 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 104,
-            "chapterTitle": "يبدو أن أحدهم في خطر",
-            "pageNumber": 2,
+            "chapterNumber": 114,
+            "chapterTitle": "مخطط السيد وتلميذه!",
+            "pageNumber": 4,
             "totalPages": 6,
-            "timestamp": 1790266902836
+            "timestamp": 1790326237768
           },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 906,
-            "chapterTitle": "ملامح الخيبة والانكسار!!",
-            "pageNumber": 2,
+            "chapterNumber": 913,
+            "chapterTitle": "الوقوع في الفخ!!!",
+            "pageNumber": 4,
             "totalPages": 4,
-            "timestamp": 1790238457298
+            "timestamp": 1790322599911
           },
           {
             "mangaId": "mookhyang-dark-lady",
@@ -80,6 +80,7 @@
             1,
             2,
             3,
+            913,
             904,
             906
           ],
@@ -87,6 +88,10 @@
             88,
             89,
             110,
+            111,
+            112,
+            113,
+            114,
             90,
             91,
             92,
@@ -143,7 +148,7 @@
             87
           ]
         },
-        "lastSynced": 1790322319710
+        "lastSynced": 1790327571209
       }
     }
   }
