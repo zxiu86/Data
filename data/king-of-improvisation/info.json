@@ -300,13 +300,17 @@
       "number": 36,
       "title": "King of Acting",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-25 10:46:17",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "King of Acting",
       "is_closed": false,
-      "total_images": 29
+      "total_images": 29,
+      "published_at": "2026-09-25 10:46:17",
+      "release_date": "اليوم"
     }
   ]
 }

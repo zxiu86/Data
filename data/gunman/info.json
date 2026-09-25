@@ -363,13 +363,17 @@
       "number": 44,
       "title": "Gunman",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-25 10:46:02",
+      "release_date": "اليوم"
     },
     {
       "number": 45,
       "title": "Gunman",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-25 10:46:02",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -51,7 +51,9 @@
       "number": 5,
       "title": "الغابة السوداء",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-25 10:47:16",
+      "release_date": "اليوم"
     }
   ]
 }
