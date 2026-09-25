@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790327649688
+    "updatedAt": 1790338175170
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 104,
-            "chapterTitle": "يبدو أن أحدهم في خطر",
-            "pageNumber": 6,
-            "totalPages": 6,
-            "timestamp": 1790327593324
+            "chapterNumber": 119,
+            "chapterTitle": "أطلال الأسلاف",
+            "pageNumber": 8,
+            "totalPages": 8,
+            "timestamp": 1790329690236
           },
           {
             "mangaId": "demonic-emperor",
@@ -92,9 +92,14 @@
             112,
             113,
             114,
+            115,
+            116,
             90,
+            117,
             91,
+            118,
             92,
+            119,
             93,
             94,
             95,
@@ -145,11 +150,10 @@
             84,
             85,
             86,
-            87,
-            115
+            87
           ]
         },
-        "lastSynced": 1790327649688
+        "lastSynced": 1790338175170
       }
     }
   }
