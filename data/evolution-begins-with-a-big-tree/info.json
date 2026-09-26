@@ -4292,6 +4292,12 @@
       "total_images": 4,
       "published_at": "2026-09-17 07:06:06",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 535,
+      "title": "535",
+      "is_closed": false,
+      "total_images": 4
     }
   ]
 }

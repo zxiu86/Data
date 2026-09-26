@@ -367,6 +367,24 @@
       "total_images": 7,
       "published_at": "2026-09-24 11:29:38",
       "release_date": "اليوم"
+    },
+    {
+      "number": 45,
+      "title": "سلاح مستوى الملك",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 46,
+      "title": "التحدث كأصدقاء",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 47,
+      "title": "التسلل الى المدينه",
+      "is_closed": false,
+      "total_images": 6
     }
   ]
 }

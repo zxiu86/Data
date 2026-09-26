@@ -6418,6 +6418,18 @@
       "total_images": 4,
       "published_at": "2026-09-19 11:47:12",
       "release_date": "2026-09-19"
+    },
+    {
+      "number": 801,
+      "title": "العار.",
+      "is_closed": false,
+      "total_images": 4
+    },
+    {
+      "number": 802,
+      "title": "يون تشي الوضع المظلم.",
+      "is_closed": false,
+      "total_images": 4
     }
   ]
 }

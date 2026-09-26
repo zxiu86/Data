@@ -93,6 +93,12 @@
       "total_images": 10,
       "published_at": "2026-09-14 18:39:46",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 11,
+      "title": "The Return of the Musical Genius",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }

@@ -68,6 +68,12 @@
       "total_images": 9,
       "published_at": "2026-09-19 11:48:57",
       "release_date": "2026-09-19"
+    },
+    {
+      "number": 8,
+      "title": "جوهره لم تُصقل قط",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }

@@ -2246,6 +2246,12 @@
       "total_images": 7,
       "published_at": "2026-09-24 11:30:51",
       "release_date": "اليوم"
+    },
+    {
+      "number": 280,
+      "title": "زيارة أصدقاء قدامى",
+      "is_closed": false,
+      "total_images": 6
     }
   ]
 }

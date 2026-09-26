@@ -74,6 +74,18 @@
       "total_images": 6,
       "published_at": "2026-09-24 11:30:53",
       "release_date": "اليوم"
+    },
+    {
+      "number": 8,
+      "title": "اختبار الموهبة",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 9,
+      "title": "underworld monarch I am the abyss",
+      "is_closed": false,
+      "total_images": 6
     }
   ]
 }
