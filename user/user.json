@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790457340932
+    "updatedAt": 1790457377462
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "الامبراطور الشيطاني جي نايهي",
             "pageNumber": 6,
             "totalPages": 7,
-            "timestamp": 1790444731491
+            "timestamp": 1790457345388
           },
           {
             "mangaId": "demonic-emperor",
@@ -153,9 +153,12 @@
             85,
             86,
             87
+          ],
+          "villain-is-here": [
+            358
           ]
         },
-        "lastSynced": 1790457340932
+        "lastSynced": 1790457377462
       }
     }
   }
