@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790458501436
+    "updatedAt": 1790459297895
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "villain-is-here",
             "mangaTitle": "Villain Is Here",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 358,
-            "chapterTitle": "وليمة كبرى.!!",
-            "pageNumber": 5,
+            "chapterNumber": 359,
+            "chapterTitle": "التشتت و الدمار.!!",
+            "pageNumber": 6,
             "totalPages": 6,
-            "timestamp": 1790457704936
+            "timestamp": 1790459078647
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -87,7 +87,8 @@
           ],
           "10000YL": [],
           "villain-is-here": [
-            358
+            358,
+            359
           ],
           "demonic-emperor": [
             1,
@@ -95,7 +96,8 @@
             3,
             913,
             904,
-            906
+            906,
+            914
           ],
           "top-tier-providence-secretly-cultivate-for-a-thousand-years": [
             88,
@@ -168,7 +170,7 @@
             87
           ]
         },
-        "lastSynced": 1790458501436
+        "lastSynced": 1790459297895
       }
     }
   }
