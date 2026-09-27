@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790508300202
+    "updatedAt": 1790509421081
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "الأسياد الخمسة للمسار الشيطاني",
             "pageNumber": 6,
             "totalPages": 7,
-            "timestamp": 1790506785070
+            "timestamp": 1790508321035
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -199,7 +199,7 @@
             87
           ]
         },
-        "lastSynced": 1790508300202
+        "lastSynced": 1790509421081
       }
     }
   }
