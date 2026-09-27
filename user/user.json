@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790460817468
+    "updatedAt": 1790505335070
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "against-the-gods",
             "mangaTitle": "Against The Gods",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/aba9a61d37bbb82c4d2ee4ece9b8d731.png",
-            "chapterNumber": 802,
-            "chapterTitle": "يون تشي الوضع المظلم.",
-            "pageNumber": 3,
+            "chapterNumber": 801,
+            "chapterTitle": "العار.",
+            "pageNumber": 4,
             "totalPages": 4,
-            "timestamp": 1790459834564
+            "timestamp": 1790460820109
           },
           {
             "mangaId": "demonic-emperor",
@@ -184,7 +184,7 @@
             87
           ]
         },
-        "lastSynced": 1790460817468
+        "lastSynced": 1790505335070
       }
     }
   }
