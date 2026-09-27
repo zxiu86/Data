@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790505335070
+    "updatedAt": 1790505798216
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "evolution-begins-with-a-big-tree",
+            "mangaTitle": "Evolution Begins With A Big Tree",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
+            "chapterNumber": 535,
+            "chapterTitle": "535",
+            "pageNumber": 4,
+            "totalPages": 4,
+            "timestamp": 1790505726370
+          },
           {
             "mangaId": "against-the-gods",
             "mangaTitle": "Against The Gods",
@@ -182,9 +192,12 @@
             85,
             86,
             87
+          ],
+          "evolution-begins-with-a-big-tree": [
+            535
           ]
         },
-        "lastSynced": 1790505335070
+        "lastSynced": 1790505798216
       }
     }
   }
