@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790518088298
+    "updatedAt": 1790527587716
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 131,
-            "chapterTitle": "هجوم المسار الشيطاني",
-            "pageNumber": 2,
+            "chapterNumber": 135,
+            "chapterTitle": "وداع مو تشو",
+            "pageNumber": 4,
             "totalPages": 6,
-            "timestamp": 1790514551319
+            "timestamp": 1790521872399
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -177,6 +177,10 @@
             69,
             130,
             131,
+            132,
+            133,
+            134,
+            135,
             70,
             71,
             72,
@@ -207,7 +211,7 @@
             87
           ]
         },
-        "lastSynced": 1790518088298
+        "lastSynced": 1790527587715
       }
     }
   }
