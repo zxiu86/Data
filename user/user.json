@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790589215558
+    "updatedAt": 1790589284430
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 153,
-            "chapterTitle": "ماذا؟!",
+            "chapterNumber": 143,
+            "chapterTitle": "ورطة عميقة!",
             "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1790587892213
+            "timestamp": 1790589217833
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -229,9 +229,12 @@
             85,
             86,
             87
+          ],
+          "i-kidnapped-the-youngest-daughter-of-the-sichuan-tang-clan": [
+            20
           ]
         },
-        "lastSynced": 1790589215558
+        "lastSynced": 1790589284430
       }
     }
   }
