@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790601622700
+    "updatedAt": 1790623020408
   },
   "users": {
     "zxiuzaid": {
@@ -26,14 +26,24 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "unlimited-bacterimancer",
+            "mangaTitle": "Unlimited Bacterimancer",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
+            "chapterNumber": 13,
+            "chapterTitle": "Unlimited Bacterimancer",
+            "pageNumber": 2,
+            "totalPages": 9,
+            "timestamp": 1790601989266
+          },
+          {
             "mangaId": "IBS",
             "mangaTitle": "Revenge of the Iron-Blooded Sword Hound",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/1337115942426141728.jpg",
             "chapterNumber": 182,
             "chapterTitle": "طريق نحو السطح....!!",
-            "pageNumber": 4,
+            "pageNumber": 9,
             "totalPages": 9,
-            "timestamp": 1790596603185
+            "timestamp": 1790601869037
           },
           {
             "mangaId": "demonic-emperor",
@@ -126,6 +136,9 @@
           "villain-is-here": [
             358,
             359
+          ],
+          "unlimited-bacterimancer": [
+            13
           ],
           "demonic-emperor": [
             1,
@@ -252,7 +265,7 @@
             87
           ]
         },
-        "lastSynced": 1790601622700
+        "lastSynced": 1790623020408
       }
     }
   }
