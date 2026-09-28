@@ -248,13 +248,17 @@
       "number": 30,
       "title": "You’re the Only One I See",
       "is_closed": false,
-      "total_images": 28
+      "total_images": 28,
+      "published_at": "2026-09-28 14:52:06",
+      "release_date": "اليوم"
     },
     {
       "number": 31,
       "title": "You’re the Only One I See",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-09-28 14:52:06",
+      "release_date": "اليوم"
     }
   ]
 }

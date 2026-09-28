@@ -340,19 +340,25 @@
       "number": 41,
       "title": "Kariel the Hero",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:28",
+      "release_date": "اليوم"
     },
     {
       "number": 42,
       "title": "Kariel the Hero",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:28",
+      "release_date": "اليوم"
     },
     {
       "number": 43,
       "title": "Kariel the Hero",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:28",
+      "release_date": "اليوم"
     }
   ]
 }

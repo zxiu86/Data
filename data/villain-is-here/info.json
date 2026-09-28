@@ -2879,13 +2879,17 @@
       "number": 358,
       "title": "وليمة كبرى.!!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:51:56",
+      "release_date": "اليوم"
     },
     {
       "number": 359,
       "title": "التشتت و الدمار.!!",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:51:56",
+      "release_date": "اليوم"
     }
   ]
 }

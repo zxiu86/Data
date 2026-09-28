@@ -310,7 +310,7 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 38,
@@ -318,7 +318,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 39,
@@ -326,7 +326,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 40,
@@ -334,7 +334,7 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 41,
@@ -342,7 +342,7 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 42,
@@ -350,7 +350,7 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 43,
@@ -358,7 +358,7 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 44,
@@ -366,43 +366,55 @@
       "is_closed": false,
       "total_images": 7,
       "published_at": "2026-09-24 11:29:38",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 45,
       "title": "سلاح مستوى الملك",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-28 14:50:17",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "التحدث كأصدقاء",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:50:17",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "التسلل الى المدينه",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:50:17",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "لقاء مصيري",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:50:17",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "الأميرة يوي",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-28 14:50:17",
+      "release_date": "اليوم"
     },
     {
       "number": 50,
       "title": "المواجهة",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-28 14:50:17",
+      "release_date": "اليوم"
     }
   ]
 }

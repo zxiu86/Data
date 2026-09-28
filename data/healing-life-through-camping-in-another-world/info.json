@@ -723,7 +723,7 @@
       "is_closed": false,
       "total_images": 11,
       "published_at": "2026-09-24 11:29:33",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 90,
@@ -731,7 +731,7 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-09-24 11:29:33",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 91,
@@ -739,7 +739,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:33",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 92,
@@ -747,7 +747,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:33",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 93,
@@ -755,7 +755,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:33",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 94,
@@ -763,13 +763,15 @@
       "is_closed": false,
       "total_images": 15,
       "published_at": "2026-09-25 10:46:04",
-      "release_date": "اليوم"
+      "release_date": "2026-09-25"
     },
     {
       "number": 95,
       "title": "Healing Life Through Camping In Another World",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-28 14:50:11",
+      "release_date": "اليوم"
     }
   ]
 }

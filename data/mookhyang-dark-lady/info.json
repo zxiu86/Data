@@ -2410,13 +2410,15 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:55",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 300,
       "title": "MookHyang - Dark Lady",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:41",
+      "release_date": "اليوم"
     }
   ]
 }

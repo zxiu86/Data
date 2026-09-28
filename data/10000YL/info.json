@@ -1298,13 +1298,15 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-24 11:28:46",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 161,
       "title": "قوة الجذور",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-28 14:49:04",
+      "release_date": "اليوم"
     }
   ]
 }

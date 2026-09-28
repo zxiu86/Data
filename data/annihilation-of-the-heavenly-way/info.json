@@ -166,13 +166,15 @@
       "is_closed": false,
       "total_images": 19,
       "published_at": "2026-09-24 11:29:12",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 20,
       "title": "Annihilation Of The Heavenly Way",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-09-28 14:49:40",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -858,13 +858,17 @@
       "number": 106,
       "title": "Light Of The Dawn (Remake)",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:34",
+      "release_date": "اليوم"
     },
     {
       "number": 107,
       "title": "Light Of The Dawn (Remake)",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:34",
+      "release_date": "اليوم"
     }
   ]
 }

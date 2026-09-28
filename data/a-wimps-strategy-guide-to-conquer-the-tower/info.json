@@ -396,13 +396,15 @@
       "is_closed": false,
       "total_images": 18,
       "published_at": "2026-09-24 11:29:06",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 48,
       "title": "السيف المقدس الحي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-09-28 14:49:31",
+      "release_date": "اليوم"
     }
   ]
 }

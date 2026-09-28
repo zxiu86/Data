@@ -1256,13 +1256,15 @@
       "is_closed": false,
       "total_images": 11,
       "published_at": "2026-09-24 11:28:46",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 156,
       "title": "ظل مصاصي الدماء...!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-09-28 14:49:05",
+      "release_date": "اليوم"
     }
   ]
 }

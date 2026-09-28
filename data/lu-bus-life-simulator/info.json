@@ -871,7 +871,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:52",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 108,
@@ -879,7 +879,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:52",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 109,
@@ -887,7 +887,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:52",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 110,
@@ -895,19 +895,23 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:29:52",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 111,
       "title": "Lu Bu's Life Simulator",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:37",
+      "release_date": "اليوم"
     },
     {
       "number": 112,
       "title": "Lu Bu's Life Simulator",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:37",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -851,19 +851,23 @@
       "is_closed": false,
       "total_images": 13,
       "published_at": "2026-09-24 11:30:34",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 105,
       "title": "خصم ليو",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-09-28 14:51:33",
+      "release_date": "اليوم"
     },
     {
       "number": 106,
       "title": "صراع اللهب",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-28 14:51:33",
+      "release_date": "اليوم"
     }
   ]
 }

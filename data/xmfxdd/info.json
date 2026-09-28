@@ -1026,7 +1026,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:31:00",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 127,
@@ -1034,7 +1034,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:31:00",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 128,
@@ -1042,7 +1042,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-24 11:31:00",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 129,
@@ -1050,7 +1050,7 @@
       "is_closed": false,
       "total_images": 17,
       "published_at": "2026-09-25 10:47:33",
-      "release_date": "اليوم"
+      "release_date": "2026-09-25"
     }
   ]
 }

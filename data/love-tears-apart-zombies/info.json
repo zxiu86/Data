@@ -65,13 +65,17 @@
       "number": 7,
       "title": "Love Tears Apart Zombies",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:36",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "Love Tears Apart Zombies",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-09-28 14:50:36",
+      "release_date": "اليوم"
     }
   ]
 }

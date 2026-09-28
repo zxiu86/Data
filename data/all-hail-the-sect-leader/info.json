@@ -4429,7 +4429,7 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-24 11:29:10",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 553,
@@ -4437,19 +4437,23 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-24 11:29:10",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 554,
       "title": "قوة الإخضاع: الطوق الذهبي!",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-28 14:49:38",
+      "release_date": "اليوم"
     },
     {
       "number": 555,
       "title": "نبوءة الأداة السماوية",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:49:38",
+      "release_date": "اليوم"
     }
   ]
 }

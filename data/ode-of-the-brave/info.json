@@ -19,7 +19,7 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-09-24 11:30:02",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 2,
@@ -27,7 +27,7 @@
       "is_closed": false,
       "total_images": 11,
       "published_at": "2026-09-24 11:30:02",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 3,
@@ -35,7 +35,7 @@
       "is_closed": false,
       "total_images": 14,
       "published_at": "2026-09-24 11:30:02",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 4,
@@ -43,7 +43,7 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-09-24 11:30:02",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 5,
@@ -51,7 +51,7 @@
       "is_closed": false,
       "total_images": 9,
       "published_at": "2026-09-24 11:30:02",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 6,
@@ -59,19 +59,23 @@
       "is_closed": true,
       "total_images": 8,
       "published_at": "2026-09-24 11:30:02",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 7,
       "title": "Ode of the Brave",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-28 14:50:51",
+      "release_date": "اليوم"
     },
     {
       "number": 8,
       "title": "Ode of the Brave",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-28 14:50:51",
+      "release_date": "اليوم"
     }
   ]
 }

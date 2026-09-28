@@ -73,25 +73,31 @@
       "is_closed": false,
       "total_images": 6,
       "published_at": "2026-09-24 11:30:53",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 8,
       "title": "اختبار الموهبة",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-09-28 14:51:55",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "underworld monarch I am the abyss",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-09-28 14:51:55",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "underworld monarch I am the abyss",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-28 14:51:55",
+      "release_date": "اليوم"
     }
   ]
 }

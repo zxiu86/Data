@@ -4548,7 +4548,7 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-09-24 11:30:28",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 568,
@@ -4556,19 +4556,23 @@
       "is_closed": false,
       "total_images": 34,
       "published_at": "2026-09-24 11:30:28",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 569,
       "title": "انكشاف الهواية",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-09-28 14:51:26",
+      "release_date": "اليوم"
     },
     {
       "number": 570,
       "title": "أطول فصل في التاريخ.",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-09-28 14:51:26",
+      "release_date": "اليوم"
     }
   ]
 }

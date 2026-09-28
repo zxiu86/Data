@@ -181,13 +181,15 @@
       "is_closed": false,
       "total_images": 16,
       "published_at": "2026-09-24 11:30:13",
-      "release_date": "اليوم"
+      "release_date": "2026-09-24"
     },
     {
       "number": 22,
       "title": "Rise Of The Northern Shadow",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-09-28 14:51:07",
+      "release_date": "اليوم"
     }
   ]
 }

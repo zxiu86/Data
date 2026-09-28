@@ -1717,13 +1717,17 @@
       "number": 213,
       "title": "إرث أسلاف رونكانديل",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-09-28 14:49:25",
+      "release_date": "اليوم"
     },
     {
       "number": 214,
       "title": "إرادة السيد تيمار",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-09-28 14:49:25",
+      "release_date": "اليوم"
     }
   ]
 }

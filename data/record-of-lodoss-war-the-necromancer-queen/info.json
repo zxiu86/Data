@@ -109,13 +109,17 @@
       "number": 12,
       "title": "12",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-28 14:50:59",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "13",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-09-28 14:50:59",
+      "release_date": "اليوم"
     }
   ]
 }
