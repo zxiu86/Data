@@ -174,6 +174,60 @@
       "total_images": 7,
       "published_at": "2026-09-14 02:49:44",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 21,
+      "title": "الفصل رقم 21",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 22,
+      "title": "الفصل رقم 22",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 23,
+      "title": "الفصل رقم 23",
+      "is_closed": false,
+      "total_images": 32
+    },
+    {
+      "number": 24,
+      "title": "الفصل رقم 24",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 25,
+      "title": "الفصل رقم 25",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 26,
+      "title": "الفصل رقم 26",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 27,
+      "title": "الفصل رقم 27",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 28,
+      "title": "الفصل رقم 28",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 29,
+      "title": "الفصل رقم 29",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }

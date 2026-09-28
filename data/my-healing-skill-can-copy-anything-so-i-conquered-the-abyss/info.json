@@ -92,6 +92,18 @@
       "total_images": 4,
       "published_at": "2026-09-24 11:29:58",
       "release_date": "اليوم"
+    },
+    {
+      "number": 11,
+      "title": "مستوى الهاوية",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 12,
+      "title": "عتاد اخضر",
+      "is_closed": false,
+      "total_images": 3
     }
   ]
 }

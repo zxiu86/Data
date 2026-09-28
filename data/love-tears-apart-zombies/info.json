@@ -60,6 +60,18 @@
       "total_images": 6,
       "published_at": "2026-09-06 23:55:51",
       "release_date": "2026-09-06"
+    },
+    {
+      "number": 7,
+      "title": "Love Tears Apart Zombies",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 8,
+      "title": "Love Tears Apart Zombies",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

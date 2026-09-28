@@ -1527,6 +1527,12 @@
       "total_images": 19,
       "published_at": "2026-09-20 06:41:34",
       "release_date": "2026-09-20"
+    },
+    {
+      "number": 190,
+      "title": "الأسرار",
+      "is_closed": false,
+      "total_images": 17
     }
   ]
 }

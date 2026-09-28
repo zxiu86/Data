@@ -74,6 +74,12 @@
       "total_images": 0,
       "published_at": "2026-09-18 06:09:34",
       "release_date": "2026-09-18"
+    },
+    {
+      "number": 8,
+      "title": "World Destruction War",
+      "is_closed": false,
+      "total_images": 5
     }
   ]
 }
