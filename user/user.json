@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790596155961
+    "updatedAt": 1790601622700
   },
   "users": {
     "zxiuzaid": {
@@ -26,14 +26,34 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "IBS",
+            "mangaTitle": "Revenge of the Iron-Blooded Sword Hound",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/1337115942426141728.jpg",
+            "chapterNumber": 182,
+            "chapterTitle": "طريق نحو السطح....!!",
+            "pageNumber": 4,
+            "totalPages": 9,
+            "timestamp": 1790596603185
+          },
+          {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 915,
+            "chapterTitle": "الجبن يولد الخيانة!!",
+            "pageNumber": 4,
+            "totalPages": 4,
+            "timestamp": 1790596376918
+          },
+          {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 159,
-            "chapterTitle": "ظهور سليل التنين الحقيقي",
-            "pageNumber": 3,
+            "chapterNumber": 155,
+            "chapterTitle": "قوى العالم الخالد",
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1790590961080
+            "timestamp": 1790596159011
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -54,16 +74,6 @@
             "pageNumber": 4,
             "totalPages": 4,
             "timestamp": 1790460820109
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "Demonic Emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 914,
-            "chapterTitle": "مراحل التلاعب الثلاث!!",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1790459440072
           },
           {
             "mangaId": "villain-is-here",
@@ -100,6 +110,9 @@
           "mookhyang-dark-lady": [
             299
           ],
+          "IBS": [
+            182
+          ],
           "mharaty-alkamn-la-tkhr": [
             1,
             2,
@@ -121,6 +134,7 @@
             913,
             914,
             904,
+            915,
             906
           ],
           "evolution-begins-with-a-big-tree": [
@@ -238,7 +252,7 @@
             87
           ]
         },
-        "lastSynced": 1790596155961
+        "lastSynced": 1790601622700
       }
     }
   }
