@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790671463510
+    "updatedAt": 1790671825180
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 181,
-            "chapterTitle": "لعنة؟ ابلع",
+            "chapterNumber": 182,
+            "chapterTitle": "هجوم عدو قوي",
             "pageNumber": 1,
-            "totalPages": 6,
-            "timestamp": 1790671463503
+            "totalPages": 4,
+            "timestamp": 1790671825172
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -284,10 +284,11 @@
             86,
             87,
             180,
-            181
+            181,
+            182
           ]
         },
-        "lastSynced": 1790671463510
+        "lastSynced": 1790671825180
       }
     }
   }
