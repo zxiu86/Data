@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790666855922
+    "updatedAt": 1790670149528
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 176,
-            "chapterTitle": "الهدف: الخالد الذهبي لذروة السماء",
+            "chapterNumber": 177,
+            "chapterTitle": "مجرد نمل",
             "pageNumber": 1,
-            "totalPages": 6,
-            "timestamp": 1790666855912
+            "totalPages": 4,
+            "timestamp": 1790670149518
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -279,10 +279,11 @@
             85,
             86,
             87,
-            176
+            176,
+            177
           ]
         },
-        "lastSynced": 1790666855922
+        "lastSynced": 1790670149528
       }
     }
   }
