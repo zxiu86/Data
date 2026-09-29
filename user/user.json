@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790670149528
+    "updatedAt": 1790670571928
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 177,
-            "chapterTitle": "مجرد نمل",
+            "chapterNumber": 178,
+            "chapterTitle": "تحدي الأقوى في العالم",
             "pageNumber": 1,
-            "totalPages": 4,
-            "timestamp": 1790670149518
+            "totalPages": 5,
+            "timestamp": 1790670571918
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -280,10 +280,11 @@
             86,
             87,
             176,
-            177
+            177,
+            178
           ]
         },
-        "lastSynced": 1790670149528
+        "lastSynced": 1790670571928
       }
     }
   }
