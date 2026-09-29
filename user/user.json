@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790673186042
+    "updatedAt": 1790673451392
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 186,
-            "chapterTitle": "يوان هوانغلونغ، تشي يون شيان",
+            "chapterNumber": 187,
+            "chapterTitle": "أقتل جميع الجنود والجنرالات السماويين؟ أنا؟",
             "pageNumber": 1,
             "totalPages": 6,
-            "timestamp": 1790673186030
+            "timestamp": 1790673451382
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -289,10 +289,11 @@
             183,
             184,
             185,
-            186
+            186,
+            187
           ]
         },
-        "lastSynced": 1790673186042
+        "lastSynced": 1790673451392
       }
     }
   }
