@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790672149113
+    "updatedAt": 1790672441895
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 183,
-            "chapterTitle": "مقاتلة خالد طليق",
+            "chapterNumber": 184,
+            "chapterTitle": "ضغينة حتى الموت",
             "pageNumber": 1,
-            "totalPages": 7,
-            "timestamp": 1790672149106
+            "totalPages": 5,
+            "timestamp": 1790672441867
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -286,10 +286,11 @@
             180,
             181,
             182,
-            183
+            183,
+            184
           ]
         },
-        "lastSynced": 1790672149113
+        "lastSynced": 1790672441895
       }
     }
   }
