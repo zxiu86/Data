@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790670782202
+    "updatedAt": 1790670869933
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "التسلق للقمة!",
             "pageNumber": 1,
             "totalPages": 5,
-            "timestamp": 1790670764377
+            "timestamp": 1790670869924
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -285,7 +285,7 @@
             87
           ]
         },
-        "lastSynced": 1790670782202
+        "lastSynced": 1790670869933
       }
     }
   }
