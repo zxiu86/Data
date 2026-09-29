@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790666581887
+    "updatedAt": 1790666855922
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 175,
-            "chapterTitle": "طلب مينغ بو",
-            "pageNumber": 4,
-            "totalPages": 5,
-            "timestamp": 1790666581873
+            "chapterNumber": 176,
+            "chapterTitle": "الهدف: الخالد الذهبي لذروة السماء",
+            "pageNumber": 1,
+            "totalPages": 6,
+            "timestamp": 1790666855912
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -278,10 +278,11 @@
             84,
             85,
             86,
-            87
+            87,
+            176
           ]
         },
-        "lastSynced": 1790666581887
+        "lastSynced": 1790666855922
       }
     }
   }
