@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790672814450
+    "updatedAt": 1790673186042
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 185,
-            "chapterTitle": "تمتلئ الغرفة بالضحك عند التجمع معًا",
+            "chapterNumber": 186,
+            "chapterTitle": "يوان هوانغلونغ، تشي يون شيان",
             "pageNumber": 1,
             "totalPages": 6,
-            "timestamp": 1790672814437
+            "timestamp": 1790673186030
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -288,10 +288,11 @@
             182,
             183,
             184,
-            185
+            185,
+            186
           ]
         },
-        "lastSynced": 1790672814450
+        "lastSynced": 1790673186042
       }
     }
   }
