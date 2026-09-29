@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1790665810600
+    "updatedAt": 1790666581887
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "طلب مينغ بو",
             "pageNumber": 4,
             "totalPages": 5,
-            "timestamp": 1790633889553
+            "timestamp": 1790666581873
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -281,7 +281,7 @@
             87
           ]
         },
-        "lastSynced": 1790665810600
+        "lastSynced": 1790666581887
       }
     }
   }
