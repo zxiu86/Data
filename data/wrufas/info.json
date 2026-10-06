@@ -1391,13 +1391,15 @@
       "is_closed": false,
       "total_images": 31,
       "published_at": "2026-09-28 14:52:04",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 173,
       "title": "The Hero Returns",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-10-06 10:26:03",
+      "release_date": "اليوم"
     }
   ]
 }

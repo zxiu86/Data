@@ -587,7 +587,9 @@
       "number": 72,
       "title": "حكاية من خيال",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-06 10:24:13",
+      "release_date": "اليوم"
     }
   ]
 }

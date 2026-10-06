@@ -1472,13 +1472,15 @@
       "is_closed": false,
       "total_images": 9,
       "published_at": "2026-09-28 14:49:15",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 183,
       "title": "دليل حي!!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-06 10:23:50",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -1549,7 +1549,7 @@
       "is_closed": false,
       "total_images": 41,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 193,
@@ -1557,7 +1557,7 @@
       "is_closed": false,
       "total_images": 32,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 194,
@@ -1565,7 +1565,7 @@
       "is_closed": false,
       "total_images": 28,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 195,
@@ -1573,7 +1573,7 @@
       "is_closed": false,
       "total_images": 22,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 196,
@@ -1581,7 +1581,7 @@
       "is_closed": false,
       "total_images": 41,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 197,
@@ -1589,7 +1589,7 @@
       "is_closed": false,
       "total_images": 33,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 198,
@@ -1597,7 +1597,7 @@
       "is_closed": false,
       "total_images": 38,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 199,
@@ -1605,79 +1605,103 @@
       "is_closed": false,
       "total_images": 38,
       "published_at": "2026-09-28 14:49:17",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 200,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 201,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 202,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 203,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 204,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 205,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 31
+      "total_images": 31,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 206,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 207,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 208,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 209,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 37
+      "total_images": 37,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 210,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     },
     {
       "number": 211,
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-10-06 10:23:52",
+      "release_date": "اليوم"
     }
   ]
 }

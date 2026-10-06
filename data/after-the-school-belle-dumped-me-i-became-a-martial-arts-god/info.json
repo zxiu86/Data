@@ -947,37 +947,49 @@
       "number": 117,
       "title": "فناء عرش الدماء",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-06 10:24:07",
+      "release_date": "اليوم"
     },
     {
       "number": 118,
       "title": "خضوع الطامعين",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-06 10:24:07",
+      "release_date": "اليوم"
     },
     {
       "number": 119,
       "title": "After the School Belle Dumped Me, I Became a Martial Arts God",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-10-06 10:24:07",
+      "release_date": "اليوم"
     },
     {
       "number": 120,
       "title": "After the School Belle Dumped Me, I Became a Martial Arts God",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-06 10:24:07",
+      "release_date": "اليوم"
     },
     {
       "number": 121,
       "title": "After the School Belle Dumped Me, I Became a Martial Arts God",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-10-06 10:24:07",
+      "release_date": "اليوم"
     },
     {
       "number": 122,
       "title": "After the School Belle Dumped Me, I Became a Martial Arts God",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-06 10:24:07",
+      "release_date": "اليوم"
     }
   ]
 }

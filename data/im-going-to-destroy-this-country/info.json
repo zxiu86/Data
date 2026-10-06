@@ -774,13 +774,15 @@
       "is_closed": false,
       "total_images": 29,
       "published_at": "2026-09-28 14:50:21",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 96,
       "title": "I’m Going to Destroy this Country",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-10-06 10:24:39",
+      "release_date": "اليوم"
     }
   ]
 }

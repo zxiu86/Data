@@ -81,19 +81,23 @@
       "is_closed": false,
       "total_images": 5,
       "published_at": "2026-09-28 14:52:01",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 9,
       "title": "World Destruction War",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-06 10:26:02",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "World Destruction War",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-06 10:26:02",
+      "release_date": "اليوم"
     }
   ]
 }

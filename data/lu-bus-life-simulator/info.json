@@ -903,7 +903,7 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-28 14:50:37",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 112,
@@ -911,25 +911,31 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-09-28 14:50:37",
-      "release_date": "اليوم"
+      "release_date": "2026-09-28"
     },
     {
       "number": 113,
       "title": "Lu Bu's Life Simulator",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-10-06 10:24:50",
+      "release_date": "اليوم"
     },
     {
       "number": 114,
       "title": "ثأر",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-10-06 10:24:50",
+      "release_date": "اليوم"
     },
     {
       "number": 115,
       "title": "Lu Bu's Life Simulator",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-06 10:24:50",
+      "release_date": "اليوم"
     }
   ]
 }

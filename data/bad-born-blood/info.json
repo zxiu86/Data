@@ -824,13 +824,17 @@
       "number": 101,
       "title": "فيديو محاكاة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-06 10:24:12",
+      "release_date": "اليوم"
     },
     {
       "number": 102,
       "title": "فيديو محاكاة 2",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-06 10:24:12",
+      "release_date": "اليوم"
     }
   ]
 }

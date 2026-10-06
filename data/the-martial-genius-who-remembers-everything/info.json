@@ -230,19 +230,25 @@
       "number": 27,
       "title": "The Martial Genius Who Remembers Everything",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-10-06 10:25:37",
+      "release_date": "اليوم"
     },
     {
       "number": 28,
       "title": "The Martial Genius Who Remembers Everything",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-10-06 10:25:37",
+      "release_date": "اليوم"
     },
     {
       "number": 29,
       "title": "The Martial Genius Who Remembers Everything",
       "is_closed": false,
-      "total_images": 22
+      "total_images": 22,
+      "published_at": "2026-10-06 10:25:37",
+      "release_date": "اليوم"
     }
   ]
 }
