@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791295030494
+    "updatedAt": 1791295326810
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "البحث عن وريث!!!",
             "pageNumber": 6,
             "totalPages": 6,
-            "timestamp": 1791277134069
+            "timestamp": 1791295326800
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -41,9 +41,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
             "chapterNumber": 264,
             "chapterTitle": "معركة شرسة",
-            "pageNumber": 4,
+            "pageNumber": 1,
             "totalPages": 6,
-            "timestamp": 1791267827700
+            "timestamp": 1791295304470
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -371,7 +371,7 @@
             109
           ]
         },
-        "lastSynced": 1791295030494
+        "lastSynced": 1791295326810
       }
     }
   }
