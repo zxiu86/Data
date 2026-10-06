@@ -457,6 +457,30 @@
       "total_images": 16,
       "published_at": "2026-09-04 16:42:15",
       "release_date": "2026-09-04"
+    },
+    {
+      "number": 56,
+      "title": "عودة الموسم الثاني",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 57,
+      "title": "صد الهجوم",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 58,
+      "title": "ماي يونغ يونغ",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 59,
+      "title": "المواجهة",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

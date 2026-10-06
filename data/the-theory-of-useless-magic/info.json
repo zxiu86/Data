@@ -76,6 +76,12 @@
       "total_images": 7,
       "published_at": "2026-09-28 14:51:48",
       "release_date": "اليوم"
+    },
+    {
+      "number": 9,
+      "title": "السحر الاصلي",
+      "is_closed": false,
+      "total_images": 9
     }
   ]
 }

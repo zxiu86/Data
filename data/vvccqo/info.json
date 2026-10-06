@@ -277,6 +277,18 @@
       "total_images": 6,
       "published_at": "2026-09-24 11:30:56",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 33,
+      "title": "Drug Devourer",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 34,
+      "title": "Drug Devourer",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

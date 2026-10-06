@@ -954,6 +954,18 @@
       "total_images": 9,
       "published_at": "2026-09-24 11:29:59",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 118,
+      "title": "غو تاي تشونغ (3)",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 119,
+      "title": "ذو الأعين الثلاثة",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

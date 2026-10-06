@@ -356,6 +356,18 @@
       "total_images": 8,
       "published_at": "2026-09-28 14:50:26",
       "release_date": "اليوم"
+    },
+    {
+      "number": 44,
+      "title": "لن تكون وحدك بعد الآن",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 45,
+      "title": "أقوى معًا",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }

@@ -568,6 +568,12 @@
       "total_images": 12,
       "published_at": "2026-09-25 10:45:50",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 70,
+      "title": "طريق زعيم تحالف الموريم",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

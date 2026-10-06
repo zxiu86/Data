@@ -819,6 +819,18 @@
       "total_images": 13,
       "published_at": "2026-09-24 11:29:14",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 101,
+      "title": "فيديو محاكاة",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 102,
+      "title": "فيديو محاكاة 2",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

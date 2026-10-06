@@ -582,6 +582,12 @@
       "total_images": 11,
       "published_at": "2026-09-25 10:45:44",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 72,
+      "title": "حكاية من خيال",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

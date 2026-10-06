@@ -332,6 +332,12 @@
       "total_images": 11,
       "published_at": "2026-09-20 06:42:48",
       "release_date": "2026-09-20"
+    },
+    {
+      "number": 40,
+      "title": "الاستعداد الأخير",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

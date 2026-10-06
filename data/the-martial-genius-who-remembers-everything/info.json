@@ -225,6 +225,24 @@
       "total_images": 0,
       "published_at": "2026-09-24 11:30:35",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 27,
+      "title": "The Martial Genius Who Remembers Everything",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 28,
+      "title": "The Martial Genius Who Remembers Everything",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 29,
+      "title": "The Martial Genius Who Remembers Everything",
+      "is_closed": false,
+      "total_images": 22
     }
   ]
 }

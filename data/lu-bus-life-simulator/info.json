@@ -912,6 +912,24 @@
       "total_images": 0,
       "published_at": "2026-09-28 14:50:37",
       "release_date": "اليوم"
+    },
+    {
+      "number": 113,
+      "title": "Lu Bu's Life Simulator",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 114,
+      "title": "ثأر",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 115,
+      "title": "Lu Bu's Life Simulator",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

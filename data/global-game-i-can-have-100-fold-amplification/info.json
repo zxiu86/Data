@@ -68,6 +68,24 @@
       "total_images": 7,
       "published_at": "2026-09-28 14:50:06",
       "release_date": "اليوم"
+    },
+    {
+      "number": 8,
+      "title": "دير الساقطين",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 9,
+      "title": "Global Game I Can Have 100 Fold Amplification",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 10,
+      "title": "Global Game I Can Have 100 Fold Amplification",
+      "is_closed": false,
+      "total_images": 7
     }
   ]
 }

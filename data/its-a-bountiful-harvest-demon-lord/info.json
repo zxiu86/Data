@@ -699,6 +699,18 @@
       "total_images": 25,
       "published_at": "2026-09-20 06:41:55",
       "release_date": "2026-09-20"
+    },
+    {
+      "number": 86,
+      "title": "ديول فرونتيرا",
+      "is_closed": false,
+      "total_images": 45
+    },
+    {
+      "number": 87,
+      "title": "السلاح السري",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

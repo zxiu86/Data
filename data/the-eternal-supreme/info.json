@@ -4573,6 +4573,18 @@
       "total_images": 15,
       "published_at": "2026-09-28 14:51:26",
       "release_date": "اليوم"
+    },
+    {
+      "number": 571,
+      "title": "تابوت استجماع الحياة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 572,
+      "title": "The Eternal Supreme",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
