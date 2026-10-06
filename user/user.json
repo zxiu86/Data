@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791277056053
+    "updatedAt": 1791277105490
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "villain-is-here",
+            "mangaTitle": "Villain Is Here",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+            "chapterNumber": 360,
+            "chapterTitle": "البحث عن وريث!!!",
+            "pageNumber": 1,
+            "totalPages": 6,
+            "timestamp": 1791277105480
+          },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
@@ -86,16 +96,6 @@
             "timestamp": 1790460820109
           },
           {
-            "mangaId": "villain-is-here",
-            "mangaTitle": "Villain Is Here",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 359,
-            "chapterTitle": "التشتت و الدمار.!!",
-            "pageNumber": 6,
-            "totalPages": 6,
-            "timestamp": 1790459078647
-          },
-          {
             "mangaId": "mookhyang-dark-lady",
             "mangaTitle": "MookHyang - Dark Lady",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/b60da63dcd116c773ebd3983ec913da3.jpg",
@@ -135,7 +135,8 @@
           ],
           "villain-is-here": [
             358,
-            359
+            359,
+            360
           ],
           "unlimited-bacterimancer": [
             13
@@ -370,7 +371,7 @@
             109
           ]
         },
-        "lastSynced": 1791277056053
+        "lastSynced": 1791277105490
       }
     }
   }
