@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791277105490
+    "updatedAt": 1791277143668
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
             "chapterNumber": 360,
             "chapterTitle": "البحث عن وريث!!!",
-            "pageNumber": 1,
+            "pageNumber": 6,
             "totalPages": 6,
-            "timestamp": 1791277105480
+            "timestamp": 1791277134069
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -371,7 +371,7 @@
             109
           ]
         },
-        "lastSynced": 1791277105490
+        "lastSynced": 1791277143668
       }
     }
   }
