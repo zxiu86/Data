@@ -1515,6 +1515,18 @@
       "total_images": 13,
       "published_at": "2026-09-24 11:28:54",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 188,
+      "title": "188",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 189,
+      "title": "يمير",
+      "is_closed": false,
+      "total_images": 17
     }
   ]
 }

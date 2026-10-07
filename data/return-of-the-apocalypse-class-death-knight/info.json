@@ -729,6 +729,18 @@
       "total_images": 10,
       "published_at": "2026-09-24 11:30:11",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 90,
+      "title": "حقيقة دورغو",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 91,
+      "title": "داخل إيريبوس",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

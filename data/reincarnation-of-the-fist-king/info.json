@@ -572,6 +572,18 @@
       "total_images": 0,
       "published_at": "2026-09-24 11:30:10",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 71,
+      "title": "Reincarnation of the Fist King",
+      "is_closed": false,
+      "total_images": 35
+    },
+    {
+      "number": 72,
+      "title": "Reincarnation of the Fist King",
+      "is_closed": false,
+      "total_images": 36
     }
   ]
 }

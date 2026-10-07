@@ -415,6 +415,18 @@
       "total_images": 7,
       "published_at": "2026-09-28 14:50:17",
       "release_date": "2026-09-28"
+    },
+    {
+      "number": 51,
+      "title": "I Contracted Myself",
+      "is_closed": false,
+      "total_images": 41
+    },
+    {
+      "number": 52,
+      "title": "I Contracted Myself",
+      "is_closed": false,
+      "total_images": 41
     }
   ]
 }

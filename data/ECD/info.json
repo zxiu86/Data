@@ -3367,6 +3367,18 @@
       "total_images": 12,
       "published_at": "2026-09-24 11:28:51",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 420,
+      "title": "كيف لي أن أستسلم؟",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 421,
+      "title": "متلهف للمعركة",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

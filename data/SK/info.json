@@ -2432,6 +2432,12 @@
       "total_images": 12,
       "published_at": "2026-09-14 01:20:26",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 303,
+      "title": "الرمز صفر",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }

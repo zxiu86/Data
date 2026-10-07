@@ -451,6 +451,18 @@
       "total_images": 12,
       "published_at": "2026-09-24 11:29:36",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 55,
+      "title": "فرصة ثانية للتعويض",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 56,
+      "title": "ورقة ضغط جديدة",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }

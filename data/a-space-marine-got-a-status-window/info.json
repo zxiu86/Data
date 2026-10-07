@@ -73,6 +73,18 @@
       "total_images": 3,
       "published_at": "2026-09-15 17:57:00",
       "release_date": "2026-09-15"
+    },
+    {
+      "number": 8,
+      "title": "A Space Marine Got a Status Window",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 9,
+      "title": "A Space Marine Got a Status Window",
+      "is_closed": false,
+      "total_images": 6
     }
   ]
 }
