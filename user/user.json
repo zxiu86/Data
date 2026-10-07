@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791406955279
+    "updatedAt": 1791407393142
   },
   "users": {
     "zxiuzaid": {
@@ -26,14 +26,24 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "evolution-begins-with-a-big-tree",
+            "mangaTitle": "Evolution Begins With A Big Tree",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
+            "chapterNumber": 536,
+            "chapterTitle": "536",
+            "pageNumber": 1,
+            "totalPages": 5,
+            "timestamp": 1791407393131
+          },
+          {
             "mangaId": "villain-is-here",
             "mangaTitle": "Villain Is Here",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
             "chapterNumber": 361,
             "chapterTitle": "المستقبل المشؤوم!!",
-            "pageNumber": 1,
+            "pageNumber": 6,
             "totalPages": 6,
-            "timestamp": 1791406955267
+            "timestamp": 1791407227655
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -74,16 +84,6 @@
             "pageNumber": 4,
             "totalPages": 4,
             "timestamp": 1790596376918
-          },
-          {
-            "mangaId": "evolution-begins-with-a-big-tree",
-            "mangaTitle": "Evolution Begins With A Big Tree",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
-            "chapterNumber": 535,
-            "chapterTitle": "535",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1790505726370
           },
           {
             "mangaId": "against-the-gods",
@@ -153,7 +153,8 @@
             906
           ],
           "evolution-begins-with-a-big-tree": [
-            535
+            535,
+            536
           ],
           "i-kidnapped-the-youngest-daughter-of-the-sichuan-tang-clan": [
             20
@@ -374,7 +375,7 @@
             109
           ]
         },
-        "lastSynced": 1791406955279
+        "lastSynced": 1791407393142
       }
     }
   }
