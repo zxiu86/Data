@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791406890849
+    "updatedAt": 1791406955279
   },
   "users": {
     "zxiuzaid": {
@@ -26,24 +26,24 @@
         "readLater": [],
         "history": [
           {
-            "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
-            "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 266,
-            "chapterTitle": "وضع المحكمة السماوية",
-            "pageNumber": 5,
-            "totalPages": 5,
-            "timestamp": 1791353246416
-          },
-          {
             "mangaId": "villain-is-here",
             "mangaTitle": "Villain Is Here",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 360,
-            "chapterTitle": "البحث عن وريث!!!",
+            "chapterNumber": 361,
+            "chapterTitle": "المستقبل المشؤوم!!",
+            "pageNumber": 1,
+            "totalPages": 6,
+            "timestamp": 1791406955267
+          },
+          {
+            "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
+            "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
+            "chapterNumber": 264,
+            "chapterTitle": "معركة شرسة",
             "pageNumber": 6,
             "totalPages": 6,
-            "timestamp": 1791352249705
+            "timestamp": 1791406898148
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -136,7 +136,8 @@
           "villain-is-here": [
             358,
             359,
-            360
+            360,
+            361
           ],
           "unlimited-bacterimancer": [
             13
@@ -373,7 +374,7 @@
             109
           ]
         },
-        "lastSynced": 1791406890849
+        "lastSynced": 1791406955279
       }
     }
   }
