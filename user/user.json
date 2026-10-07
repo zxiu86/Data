@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791352874282
+    "updatedAt": 1791406890849
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
             "chapterNumber": 266,
             "chapterTitle": "وضع المحكمة السماوية",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1791352874273
+            "timestamp": 1791353246416
           },
           {
             "mangaId": "villain-is-here",
@@ -228,7 +228,9 @@
             143,
             264,
             144,
+            265,
             145,
+            266,
             146,
             147,
             148,
@@ -368,12 +370,10 @@
             228,
             108,
             229,
-            109,
-            265,
-            266
+            109
           ]
         },
-        "lastSynced": 1791352874282
+        "lastSynced": 1791406890849
       }
     }
   }
