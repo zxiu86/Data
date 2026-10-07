@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791298892614
+    "updatedAt": 1791352242382
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "البحث عن وريث!!!",
             "pageNumber": 6,
             "totalPages": 6,
-            "timestamp": 1791298377424
+            "timestamp": 1791299061774
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -371,7 +371,7 @@
             109
           ]
         },
-        "lastSynced": 1791298892614
+        "lastSynced": 1791352242382
       }
     }
   }
