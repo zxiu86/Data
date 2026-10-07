@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791352242382
+    "updatedAt": 1791352353942
   },
   "users": {
     "zxiuzaid": {
@@ -26,16 +26,6 @@
         "readLater": [],
         "history": [
           {
-            "mangaId": "villain-is-here",
-            "mangaTitle": "Villain Is Here",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 360,
-            "chapterTitle": "البحث عن وريث!!!",
-            "pageNumber": 6,
-            "totalPages": 6,
-            "timestamp": 1791299061774
-          },
-          {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
@@ -43,7 +33,17 @@
             "chapterTitle": "معركة شرسة",
             "pageNumber": 1,
             "totalPages": 6,
-            "timestamp": 1791295304470
+            "timestamp": 1791352353932
+          },
+          {
+            "mangaId": "villain-is-here",
+            "mangaTitle": "Villain Is Here",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+            "chapterNumber": 360,
+            "chapterTitle": "البحث عن وريث!!!",
+            "pageNumber": 6,
+            "totalPages": 6,
+            "timestamp": 1791352249705
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -371,7 +371,7 @@
             109
           ]
         },
-        "lastSynced": 1791352242382
+        "lastSynced": 1791352353942
       }
     }
   }
