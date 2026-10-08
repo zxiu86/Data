@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791437998372
+    "updatedAt": 1791438508703
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
-            "chapterNumber": 270,
-            "chapterTitle": "فخر الغراب الذهبي",
+            "chapterNumber": 271,
+            "chapterTitle": "الغربان الذهبية",
             "pageNumber": 1,
             "totalPages": 6,
-            "timestamp": 1791437998364
+            "timestamp": 1791438508695
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -376,10 +376,11 @@
             267,
             268,
             269,
-            270
+            270,
+            271
           ]
         },
-        "lastSynced": 1791437998372
+        "lastSynced": 1791438508703
       }
     }
   }
