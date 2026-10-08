@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791407393142
+    "updatedAt": 1791436552304
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
             "chapterNumber": 536,
             "chapterTitle": "536",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1791407393131
+            "timestamp": 1791407440696
           },
           {
             "mangaId": "villain-is-here",
@@ -375,7 +375,7 @@
             109
           ]
         },
-        "lastSynced": 1791407393142
+        "lastSynced": 1791436552304
       }
     }
   }
