@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791538636541
+    "updatedAt": 1791539044182
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 918,
-            "chapterTitle": "المتلاعب ضد سلفه!!",
+            "chapterNumber": 919,
+            "chapterTitle": "شيطان على هيئة حمل!!",
             "pageNumber": 1,
             "totalPages": 4,
-            "timestamp": 1791538636529
+            "timestamp": 1791539044171
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -152,7 +152,8 @@
             915,
             906,
             917,
-            918
+            918,
+            919
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -386,7 +387,7 @@
             275
           ]
         },
-        "lastSynced": 1791538636541
+        "lastSynced": 1791539044182
       }
     }
   }
