@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791538300940
+    "updatedAt": 1791538636541
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 918,
+            "chapterTitle": "المتلاعب ضد سلفه!!",
+            "pageNumber": 1,
+            "totalPages": 4,
+            "timestamp": 1791538636529
+          },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
@@ -74,16 +84,6 @@
             "pageNumber": 9,
             "totalPages": 9,
             "timestamp": 1790601869037
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "Demonic Emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 915,
-            "chapterTitle": "الجبن يولد الخيانة!!",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1790596376918
           },
           {
             "mangaId": "against-the-gods",
@@ -151,7 +151,8 @@
             904,
             915,
             906,
-            917
+            917,
+            918
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -385,7 +386,7 @@
             275
           ]
         },
-        "lastSynced": 1791538300940
+        "lastSynced": 1791538636541
       }
     }
   }
