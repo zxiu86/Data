@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791539854017
+    "updatedAt": 1791549289886
   },
   "users": {
     "zxiuzaid": {
@@ -26,14 +26,24 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "villain-is-here",
+            "mangaTitle": "Villain Is Here",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+            "chapterNumber": 361,
+            "chapterTitle": "المستقبل المشؤوم!!",
+            "pageNumber": 6,
+            "totalPages": 6,
+            "timestamp": 1791539903920
+          },
+          {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 919,
-            "chapterTitle": "شيطان على هيئة حمل!!",
-            "pageNumber": 2,
+            "chapterNumber": 917,
+            "chapterTitle": "لعب دور المبتدئ!!",
+            "pageNumber": 4,
             "totalPages": 4,
-            "timestamp": 1791539044227
+            "timestamp": 1791539861866
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -54,16 +64,6 @@
             "pageNumber": 4,
             "totalPages": 4,
             "timestamp": 1791436574167
-          },
-          {
-            "mangaId": "villain-is-here",
-            "mangaTitle": "Villain Is Here",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 361,
-            "chapterTitle": "المستقبل المشؤوم!!",
-            "pageNumber": 6,
-            "totalPages": 6,
-            "timestamp": 1791407227655
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -387,7 +387,7 @@
             109
           ]
         },
-        "lastSynced": 1791539854017
+        "lastSynced": 1791549289886
       }
     }
   }
