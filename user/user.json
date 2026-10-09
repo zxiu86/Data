@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791538132370
+    "updatedAt": 1791538300940
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
             "chapterNumber": 275,
             "chapterTitle": "ارتقاء مورونغ تشي",
-            "pageNumber": 1,
+            "pageNumber": 4,
             "totalPages": 6,
-            "timestamp": 1791538132362
+            "timestamp": 1791538265980
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -150,7 +150,8 @@
             914,
             904,
             915,
-            906
+            906,
+            917
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -384,7 +385,7 @@
             275
           ]
         },
-        "lastSynced": 1791538132370
+        "lastSynced": 1791538300940
       }
     }
   }
