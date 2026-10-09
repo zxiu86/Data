@@ -54,6 +54,12 @@
       "total_images": 12,
       "published_at": "2026-09-25 10:47:16",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 6,
+      "title": "قطاع الطرق",
+      "is_closed": false,
+      "total_images": 6
     }
   ]
 }

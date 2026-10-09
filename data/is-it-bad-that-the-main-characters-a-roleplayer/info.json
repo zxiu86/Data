@@ -272,6 +272,18 @@
       "total_images": 0,
       "published_at": "2026-09-25 10:46:14",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 33,
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 34,
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "is_closed": false,
+      "total_images": 26
     }
   ]
 }

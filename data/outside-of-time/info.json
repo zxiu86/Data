@@ -262,6 +262,36 @@
       "total_images": 6,
       "published_at": "2026-09-14 18:39:01",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 32,
+      "title": "معادٍ لطائفــــــة الماس",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 33,
+      "title": "نحو طائفة عيــــــــون الدم السبعة",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 34,
+      "title": "وحوش الغـــــــــــــرب",
+      "is_closed": false,
+      "total_images": 6
+    },
+    {
+      "number": 35,
+      "title": "طـــــــاقــــةٌ شــــاذة",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 36,
+      "title": "ذكرى فــــــــي الرفات",
+      "is_closed": false,
+      "total_images": 9
     }
   ]
 }

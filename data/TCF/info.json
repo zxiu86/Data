@@ -1501,6 +1501,30 @@
       "total_images": 9,
       "published_at": "2026-09-14 02:49:30",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 187,
+      "title": "قبيلة الأسود",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 188,
+      "title": "الغريم الأبدي للنار",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 189,
+      "title": "Trash Of The Count’S Family",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 190,
+      "title": "Trash Of The Count’S Family",
+      "is_closed": false,
+      "total_images": 16
     }
   ]
 }

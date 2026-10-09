@@ -366,6 +366,18 @@
       "total_images": 0,
       "published_at": "2026-09-24 11:29:56",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 45,
+      "title": "نجم القتل الملعون للين المتطرف",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 46,
+      "title": "Murim Psychopath",
+      "is_closed": false,
+      "total_images": 32
     }
   ]
 }

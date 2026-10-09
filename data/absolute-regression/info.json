@@ -978,6 +978,18 @@
       "total_images": 12,
       "published_at": "2026-09-24 11:29:07",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 121,
+      "title": "الرأس المدبر",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 122,
+      "title": "فخ الظلام",
+      "is_closed": false,
+      "total_images": 13
     }
   ]
 }

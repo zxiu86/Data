@@ -478,6 +478,48 @@
       "total_images": 17,
       "published_at": "2026-09-14 18:38:47",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 59,
+      "title": "سأعود لإنقاذكِ مجددًا",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 60,
+      "title": "فرسان الفأس",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 61,
+      "title": "حدودنا القصوى",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 62,
+      "title": "ذاتي المستقبلية",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 63,
+      "title": "دوق السيف",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 64,
+      "title": "Love Letter From the Future",
+      "is_closed": false,
+      "total_images": 30
+    },
+    {
+      "number": 65,
+      "title": "Love Letter From the Future",
+      "is_closed": false,
+      "total_images": 25
     }
   ]
 }

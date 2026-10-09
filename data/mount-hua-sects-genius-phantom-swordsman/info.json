@@ -669,6 +669,18 @@
       "total_images": 0,
       "published_at": "2026-09-24 11:29:56",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 83,
+      "title": "شعورٌ غامض",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 84,
+      "title": "Mount Hua Sect's Genius Phantom Swordsman",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

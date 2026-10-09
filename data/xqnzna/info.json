@@ -1633,6 +1633,18 @@
       "total_images": 12,
       "published_at": "2026-09-24 11:31:01",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 203,
+      "title": "الأسطورة المخفية!!",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 204,
+      "title": "سجلات المؤرخ العظيم!!!",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }

@@ -2055,6 +2055,12 @@
       "total_images": 14,
       "published_at": "2026-10-06 10:23:44",
       "release_date": "اليوم"
+    },
+    {
+      "number": 256,
+      "title": "خطة محبوكة",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

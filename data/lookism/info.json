@@ -5030,6 +5030,12 @@
       "total_images": 17,
       "published_at": "2026-10-06 10:24:49",
       "release_date": "اليوم"
+    },
+    {
+      "number": 628,
+      "title": "تاريخٌ محذوف",
+      "is_closed": false,
+      "total_images": 22
     }
   ]
 }

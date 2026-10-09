@@ -358,6 +358,18 @@
       "total_images": 10,
       "published_at": "2026-09-25 10:46:32",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 44,
+      "title": "خطيئة فاليريان",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 45,
+      "title": "خديعة كوهيلا",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }
