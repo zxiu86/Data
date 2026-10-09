@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791439549477
+    "updatedAt": 1791537758692
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2142023765442784537.jpg",
             "chapterNumber": 274,
             "chapterTitle": "تصاعد العناية الصاروخي",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 6,
-            "timestamp": 1791439549470
+            "timestamp": 1791439688346
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -234,13 +234,21 @@
             145,
             266,
             146,
+            267,
             147,
+            268,
             148,
+            269,
             149,
+            270,
             150,
+            271,
             151,
+            272,
             152,
+            273,
             153,
+            274,
             154,
             155,
             156,
@@ -372,18 +380,10 @@
             228,
             108,
             229,
-            109,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274
+            109
           ]
         },
-        "lastSynced": 1791439549477
+        "lastSynced": 1791537758692
       }
     }
   }
