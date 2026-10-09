@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791539044182
+    "updatedAt": 1791539854017
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
             "chapterNumber": 919,
             "chapterTitle": "شيطان على هيئة حمل!!",
-            "pageNumber": 1,
+            "pageNumber": 2,
             "totalPages": 4,
-            "timestamp": 1791539044171
+            "timestamp": 1791539044227
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -143,7 +143,9 @@
             13
           ],
           "demonic-emperor": [
+            918,
             1,
+            919,
             2,
             3,
             913,
@@ -151,9 +153,7 @@
             904,
             915,
             906,
-            917,
-            918,
-            919
+            917
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -253,6 +253,7 @@
             153,
             274,
             154,
+            275,
             155,
             156,
             157,
@@ -383,11 +384,10 @@
             228,
             108,
             229,
-            109,
-            275
+            109
           ]
         },
-        "lastSynced": 1791539044182
+        "lastSynced": 1791539854017
       }
     }
   }
