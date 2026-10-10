@@ -391,6 +391,18 @@
       "total_images": 12,
       "published_at": "2026-09-24 11:30:21",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 48,
+      "title": "فخ الفريسة",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 49,
+      "title": "أنا هو خصمك!",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

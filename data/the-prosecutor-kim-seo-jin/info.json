@@ -373,6 +373,24 @@
       "total_images": 11,
       "published_at": "2026-09-14 18:39:42",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 46,
+      "title": "الطعم",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 47,
+      "title": "ظل القاتل",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 48,
+      "title": "The Prosecutor: Kim Seo-jin",
+      "is_closed": false,
+      "total_images": 41
     }
   ]
 }

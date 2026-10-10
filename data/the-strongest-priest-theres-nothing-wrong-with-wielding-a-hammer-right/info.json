@@ -60,6 +60,12 @@
       "title": "قطاع الطرق",
       "is_closed": false,
       "total_images": 6
+    },
+    {
+      "number": 7,
+      "title": "زعيم قطاع الطرق",
+      "is_closed": false,
+      "total_images": 9
     }
   ]
 }
