@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791725785366
+    "updatedAt": 1791725849198
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "my-dad-is-the-strongest-under-heaven",
             "mangaTitle": "My Dad Is the Strongest Under Heaven",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/d32cda06ce9ca096ac3ed26b9e91f67f.webp",
-            "chapterNumber": 20,
-            "chapterTitle": "قائد يستحق أن يتبع",
+            "chapterNumber": 23,
+            "chapterTitle": "سمعتنا",
             "pageNumber": 1,
-            "totalPages": 13,
-            "timestamp": 1791725785359
+            "totalPages": 12,
+            "timestamp": 1791725849190
           },
           {
             "mangaId": "against-the-gods",
@@ -401,10 +401,12 @@
           ],
           "my-dad-is-the-strongest-under-heaven": [
             16,
-            20
+            20,
+            19,
+            23
           ]
         },
-        "lastSynced": 1791725785366
+        "lastSynced": 1791725849198
       }
     }
   }
