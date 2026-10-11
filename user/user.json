@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791718243137
+    "updatedAt": 1791718267788
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 919,
-            "chapterTitle": "شيطان على هيئة حمل!!",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1791549474727
+            "chapterNumber": 920,
+            "chapterTitle": "العجوز الشيطاني يضرب من جديد!!",
+            "pageNumber": 1,
+            "totalPages": 5,
+            "timestamp": 1791718267777
           },
           {
             "mangaId": "villain-is-here",
@@ -153,7 +153,8 @@
             904,
             915,
             906,
-            917
+            917,
+            920
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -387,7 +388,7 @@
             109
           ]
         },
-        "lastSynced": 1791718243137
+        "lastSynced": 1791718267788
       }
     }
   }
