@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791719007073
+    "updatedAt": 1791725729259
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/aba9a61d37bbb82c4d2ee4ece9b8d731.png",
             "chapterNumber": 804,
             "chapterTitle": "الصقل المزدوج.",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1791719007066
+            "timestamp": 1791719058571
           },
           {
             "mangaId": "demonic-emperor",
@@ -150,13 +150,13 @@
             919,
             2,
             3,
+            920,
             913,
             914,
             904,
             915,
             906,
-            917,
-            920
+            917
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -390,7 +390,7 @@
             109
           ]
         },
-        "lastSynced": 1791719007073
+        "lastSynced": 1791725729259
       }
     }
   }
