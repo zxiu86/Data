@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791718713053
+    "updatedAt": 1791719007073
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "against-the-gods",
+            "mangaTitle": "Against The Gods",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/aba9a61d37bbb82c4d2ee4ece9b8d731.png",
+            "chapterNumber": 804,
+            "chapterTitle": "الصقل المزدوج.",
+            "pageNumber": 1,
+            "totalPages": 5,
+            "timestamp": 1791719007066
+          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
@@ -86,16 +96,6 @@
             "timestamp": 1790601869037
           },
           {
-            "mangaId": "against-the-gods",
-            "mangaTitle": "Against The Gods",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/aba9a61d37bbb82c4d2ee4ece9b8d731.png",
-            "chapterNumber": 801,
-            "chapterTitle": "العار.",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1790460820109
-          },
-          {
             "mangaId": "mookhyang-dark-lady",
             "mangaTitle": "MookHyang - Dark Lady",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/b60da63dcd116c773ebd3983ec913da3.jpg",
@@ -132,7 +132,8 @@
           "against-the-gods": [
             801,
             802,
-            803
+            803,
+            804
           ],
           "villain-is-here": [
             358,
@@ -389,7 +390,7 @@
             109
           ]
         },
-        "lastSynced": 1791718713053
+        "lastSynced": 1791719007073
       }
     }
   }
