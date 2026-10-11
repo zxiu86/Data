@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791718267788
+    "updatedAt": 1791718713053
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
             "chapterNumber": 920,
             "chapterTitle": "العجوز الشيطاني يضرب من جديد!!",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1791718267777
+            "timestamp": 1791718503901
           },
           {
             "mangaId": "villain-is-here",
@@ -131,7 +131,8 @@
           "10000YL": [],
           "against-the-gods": [
             801,
-            802
+            802,
+            803
           ],
           "villain-is-here": [
             358,
@@ -388,7 +389,7 @@
             109
           ]
         },
-        "lastSynced": 1791718267788
+        "lastSynced": 1791718713053
       }
     }
   }
