@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791989225572
+    "updatedAt": 1791989624953
   },
   "users": {
     "zxiuzaid": {
@@ -26,14 +26,24 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "villain-is-here",
+            "mangaTitle": "Villain Is Here",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+            "chapterNumber": 362,
+            "chapterTitle": "التطور...!!",
+            "pageNumber": 1,
+            "totalPages": 6,
+            "timestamp": 1791989624944
+          },
+          {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
             "chapterNumber": 921,
             "chapterTitle": "ملك السيف يطرق الباب!!",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1791989225558
+            "timestamp": 1791989450575
           },
           {
             "mangaId": "my-dad-is-the-strongest-under-heaven",
@@ -54,16 +64,6 @@
             "pageNumber": 5,
             "totalPages": 5,
             "timestamp": 1791719058571
-          },
-          {
-            "mangaId": "villain-is-here",
-            "mangaTitle": "Villain Is Here",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 361,
-            "chapterTitle": "المستقبل المشؤوم!!",
-            "pageNumber": 6,
-            "totalPages": 6,
-            "timestamp": 1791539903920
           },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -149,7 +149,8 @@
             358,
             359,
             360,
-            361
+            361,
+            362
           ],
           "unlimited-bacterimancer": [
             13
@@ -416,7 +417,7 @@
             32
           ]
         },
-        "lastSynced": 1791989225572
+        "lastSynced": 1791989624953
       }
     }
   }
