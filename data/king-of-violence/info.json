@@ -255,6 +255,48 @@
       "total_images": 14,
       "published_at": "2026-09-17 07:06:30",
       "release_date": "2026-09-17"
+    },
+    {
+      "number": 31,
+      "title": "تنانين بايكسان",
+      "is_closed": false,
+      "total_images": 21
+    },
+    {
+      "number": 32,
+      "title": "لا تدخل المزرعة",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 33,
+      "title": "جو-آن",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 34,
+      "title": "سيونغ-وو",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 35,
+      "title": "قوة القبضة",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 36,
+      "title": "الكولوسيوم",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 37,
+      "title": "حقيقة النادي",
+      "is_closed": false,
+      "total_images": 17
     }
   ]
 }

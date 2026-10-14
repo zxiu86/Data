@@ -82,6 +82,12 @@
       "title": "Love Tears Apart Zombies",
       "is_closed": false,
       "total_images": 9
+    },
+    {
+      "number": 10,
+      "title": "الفصل 10",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

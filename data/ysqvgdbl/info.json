@@ -2344,6 +2344,12 @@
       "title": "The Tutorial Is Too Hard",
       "is_closed": false,
       "total_images": 40
+    },
+    {
+      "number": 292,
+      "title": "The Tutorial Is Too Hard",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

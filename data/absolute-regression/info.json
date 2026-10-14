@@ -990,6 +990,12 @@
       "title": "فخ الظلام",
       "is_closed": false,
       "total_images": 13
+    },
+    {
+      "number": 123,
+      "title": "ثمن الحقيقة",
+      "is_closed": false,
+      "total_images": 12
     }
   ]
 }

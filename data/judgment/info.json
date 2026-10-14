@@ -83,6 +83,18 @@
       "title": "سبب مجيئي إلى البرج",
       "is_closed": false,
       "total_images": 15
+    },
+    {
+      "number": 10,
+      "title": "صحوة",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 11,
+      "title": "نقطة الضعف",
+      "is_closed": false,
+      "total_images": 16
     }
   ]
 }

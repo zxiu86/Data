@@ -312,6 +312,24 @@
       "total_images": 20,
       "published_at": "2026-09-24 11:30:44",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 38,
+      "title": "إبادة القراصنة",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 39,
+      "title": "البحث عن كوبينوس",
+      "is_closed": false,
+      "total_images": 19
+    },
+    {
+      "number": 40,
+      "title": "رفيق العشرين عامًا",
+      "is_closed": false,
+      "total_images": 18
     }
   ]
 }

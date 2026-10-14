@@ -391,6 +391,12 @@
       "title": "The Prosecutor: Kim Seo-jin",
       "is_closed": false,
       "total_images": 41
+    },
+    {
+      "number": 49,
+      "title": "The Prosecutor: Kim Seo-jin",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

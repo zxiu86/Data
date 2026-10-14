@@ -557,6 +557,12 @@
       "title": "The Dark Swordsman Returns",
       "is_closed": false,
       "total_images": 34
+    },
+    {
+      "number": 69,
+      "title": "الفصل 69",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
