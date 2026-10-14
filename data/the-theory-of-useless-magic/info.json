@@ -83,13 +83,15 @@
       "is_closed": false,
       "total_images": 9,
       "published_at": "2026-10-06 10:25:50",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 10,
       "title": "جدار الوهم",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-14 18:36:01",
+      "release_date": "اليوم"
     }
   ]
 }

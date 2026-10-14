@@ -256,13 +256,17 @@
       "number": 31,
       "title": "Devely’s Healing Time",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-10-14 18:34:25",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "Devely’s Healing Time",
       "is_closed": false,
-      "total_images": 33
+      "total_images": 33,
+      "published_at": "2026-10-14 18:34:25",
+      "release_date": "اليوم"
     }
   ]
 }

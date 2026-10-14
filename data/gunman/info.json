@@ -397,7 +397,7 @@
       "is_closed": false,
       "total_images": 15,
       "published_at": "2026-10-06 10:24:30",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 49,
@@ -405,25 +405,31 @@
       "is_closed": false,
       "total_images": 15,
       "published_at": "2026-10-06 10:24:30",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 50,
       "title": "Gunman",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-10-14 18:34:36",
+      "release_date": "اليوم"
     },
     {
       "number": 51,
       "title": "Gunman",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-10-14 18:34:36",
+      "release_date": "اليوم"
     },
     {
       "number": 52,
       "title": "Gunman",
       "is_closed": false,
-      "total_images": 27
+      "total_images": 27,
+      "published_at": "2026-10-14 18:34:36",
+      "release_date": "اليوم"
     }
   ]
 }

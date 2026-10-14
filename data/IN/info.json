@@ -1520,19 +1520,25 @@
       "number": 188,
       "title": "188",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-10-14 18:33:51",
+      "release_date": "اليوم"
     },
     {
       "number": 189,
       "title": "يمير",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:33:51",
+      "release_date": "اليوم"
     },
     {
       "number": 190,
       "title": "جنون إيكايل",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-10-14 18:33:51",
+      "release_date": "اليوم"
     }
   ]
 }

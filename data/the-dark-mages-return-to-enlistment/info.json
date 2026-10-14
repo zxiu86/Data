@@ -869,13 +869,17 @@
       "number": 107,
       "title": "The Dark Mage’s Return to Enlistment",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-10-14 18:35:36",
+      "release_date": "اليوم"
     },
     {
       "number": 108,
       "title": "The Dark Mage’s Return to Enlistment",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-10-14 18:35:36",
+      "release_date": "اليوم"
     }
   ]
 }

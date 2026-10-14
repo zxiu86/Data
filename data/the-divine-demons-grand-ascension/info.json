@@ -561,13 +561,15 @@
       "is_closed": false,
       "total_images": 12,
       "published_at": "2026-10-06 10:25:28",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 69,
       "title": "الأسلوب الدفاعي المثالي",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:35:37",
+      "release_date": "اليوم"
     }
   ]
 }

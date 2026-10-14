@@ -195,19 +195,25 @@
       "number": 23,
       "title": "Rise Of The Northern Shadow",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-10-14 18:35:20",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "Rise Of The Northern Shadow",
       "is_closed": false,
-      "total_images": 24
+      "total_images": 24,
+      "published_at": "2026-10-14 18:35:20",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "Rise Of The Northern Shadow",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-10-14 18:35:20",
+      "release_date": "اليوم"
     }
   ]
 }

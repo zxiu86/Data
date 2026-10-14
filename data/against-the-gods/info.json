@@ -6439,13 +6439,17 @@
       "number": 803,
       "title": "معاداة اثنين من الطوائف التسع.",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-10-14 18:34:07",
+      "release_date": "اليوم"
     },
     {
       "number": 804,
       "title": "الصقل المزدوج.",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-10-14 18:34:07",
+      "release_date": "اليوم"
     }
   ]
 }

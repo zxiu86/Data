@@ -284,13 +284,15 @@
       "is_closed": true,
       "total_images": 0,
       "published_at": "2026-10-06 10:24:29",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 35,
       "title": "Golden Martial God",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:34:36",
+      "release_date": "اليوم"
     }
   ]
 }

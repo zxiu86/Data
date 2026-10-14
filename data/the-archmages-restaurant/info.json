@@ -1199,13 +1199,17 @@
       "number": 148,
       "title": "ظل الساحر الأعظم",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-10-14 18:35:33",
+      "release_date": "اليوم"
     },
     {
       "number": 149,
       "title": "الاسم المزيف",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:35:33",
+      "release_date": "اليوم"
     }
   ]
 }

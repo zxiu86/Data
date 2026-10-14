@@ -146,67 +146,89 @@
       "number": 17,
       "title": "غيرة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 18,
       "title": "شيطانة التعذيب",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 19,
       "title": "الرقم 2",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 20,
       "title": "مقابلة عمل",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 21,
       "title": "سر الشركة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 22,
       "title": "عقار الجنون",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 23,
       "title": "عقار جديد",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 24,
       "title": "مواجهة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 25,
       "title": "Fight Delivery",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "Fight Delivery",
       "is_closed": false,
-      "total_images": 26
+      "total_images": 26,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "Fight Delivery",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-10-14 18:34:31",
+      "release_date": "اليوم"
     }
   ]
 }

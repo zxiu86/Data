@@ -456,19 +456,25 @@
       "number": 55,
       "title": "فرصة ثانية للتعويض",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:34:42",
+      "release_date": "اليوم"
     },
     {
       "number": 56,
       "title": "ورقة ضغط جديدة",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:34:42",
+      "release_date": "اليوم"
     },
     {
       "number": 57,
       "title": "لقاء بعد أربعمائة عام",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-10-14 18:34:42",
+      "release_date": "اليوم"
     }
   ]
 }

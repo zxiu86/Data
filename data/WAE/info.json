@@ -2048,13 +2048,17 @@
       "number": 254,
       "title": "موطن جاي هوان",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:34:02",
+      "release_date": "اليوم"
     },
     {
       "number": 255,
       "title": "لقاءٌ آخر",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:34:02",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -59,13 +59,17 @@
       "number": 6,
       "title": "قطاع الطرق",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-10-14 18:35:58",
+      "release_date": "اليوم"
     },
     {
       "number": 7,
       "title": "زعيم قطاع الطرق",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-14 18:35:58",
+      "release_date": "اليوم"
     }
   ]
 }

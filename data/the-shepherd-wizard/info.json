@@ -317,19 +317,25 @@
       "number": 38,
       "title": "إبادة القراصنة",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:35:57",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "البحث عن كوبينوس",
       "is_closed": false,
-      "total_images": 19
+      "total_images": 19,
+      "published_at": "2026-10-14 18:35:57",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "رفيق العشرين عامًا",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:35:57",
+      "release_date": "اليوم"
     }
   ]
 }

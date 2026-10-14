@@ -81,13 +81,17 @@
       "number": 9,
       "title": "Love Tears Apart Zombies",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-14 18:34:57",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "الفصل 10",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:34:57",
+      "release_date": "اليوم"
     }
   ]
 }

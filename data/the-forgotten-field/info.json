@@ -299,19 +299,25 @@
       "number": 36,
       "title": "The Forgotten Field",
       "is_closed": false,
-      "total_images": 30
+      "total_images": 30,
+      "published_at": "2026-10-14 18:35:39",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "The Forgotten Field",
       "is_closed": false,
-      "total_images": 34
+      "total_images": 34,
+      "published_at": "2026-10-14 18:35:39",
+      "release_date": "اليوم"
     },
     {
       "number": 38,
       "title": "The Forgotten Field",
       "is_closed": false,
-      "total_images": 39
+      "total_images": 39,
+      "published_at": "2026-10-14 18:35:39",
+      "release_date": "اليوم"
     }
   ]
 }

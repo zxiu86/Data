@@ -378,25 +378,33 @@
       "number": 46,
       "title": "الطعم",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:35:51",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "ظل القاتل",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:35:51",
+      "release_date": "اليوم"
     },
     {
       "number": 48,
       "title": "The Prosecutor: Kim Seo-jin",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-14 18:35:51",
+      "release_date": "اليوم"
     },
     {
       "number": 49,
       "title": "The Prosecutor: Kim Seo-jin",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:51",
+      "release_date": "اليوم"
     }
   ]
 }

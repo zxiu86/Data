@@ -983,19 +983,25 @@
       "number": 121,
       "title": "الرأس المدبر",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:34:06",
+      "release_date": "اليوم"
     },
     {
       "number": 122,
       "title": "فخ الظلام",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:34:06",
+      "release_date": "اليوم"
     },
     {
       "number": 123,
       "title": "ثمن الحقيقة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-10-14 18:34:06",
+      "release_date": "اليوم"
     }
   ]
 }

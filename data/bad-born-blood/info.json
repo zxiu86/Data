@@ -826,7 +826,7 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-10-06 10:24:12",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 102,
@@ -834,13 +834,15 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-10-06 10:24:12",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 103,
       "title": "فيديو محاكاة 3",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:34:13",
+      "release_date": "اليوم"
     }
   ]
 }

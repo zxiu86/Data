@@ -1638,19 +1638,25 @@
       "number": 203,
       "title": "الأسطورة المخفية!!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:36:17",
+      "release_date": "اليوم"
     },
     {
       "number": 204,
       "title": "سجلات المؤرخ العظيم!!!",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:36:17",
+      "release_date": "اليوم"
     },
     {
       "number": 205,
       "title": "إنجازات خالد السيف الشاب!!",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:36:17",
+      "release_date": "اليوم"
     }
   ]
 }

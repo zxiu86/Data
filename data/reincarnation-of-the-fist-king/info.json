@@ -577,19 +577,25 @@
       "number": 71,
       "title": "Reincarnation of the Fist King",
       "is_closed": false,
-      "total_images": 35
+      "total_images": 35,
+      "published_at": "2026-10-14 18:35:17",
+      "release_date": "اليوم"
     },
     {
       "number": 72,
       "title": "Reincarnation of the Fist King",
       "is_closed": false,
-      "total_images": 36
+      "total_images": 36,
+      "published_at": "2026-10-14 18:35:17",
+      "release_date": "اليوم"
     },
     {
       "number": 73,
       "title": "Reincarnation of the Fist King",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-14 18:35:17",
+      "release_date": "اليوم"
     }
   ]
 }

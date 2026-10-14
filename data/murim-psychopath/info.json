@@ -371,19 +371,25 @@
       "number": 45,
       "title": "نجم القتل الملعون للين المتطرف",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:35:03",
+      "release_date": "اليوم"
     },
     {
       "number": 46,
       "title": "Murim Psychopath",
       "is_closed": false,
-      "total_images": 32
+      "total_images": 32,
+      "published_at": "2026-10-14 18:35:03",
+      "release_date": "اليوم"
     },
     {
       "number": 47,
       "title": "Murim Psychopath",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-14 18:35:03",
+      "release_date": "اليوم"
     }
   ]
 }

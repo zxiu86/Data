@@ -315,25 +315,33 @@
       "number": 38,
       "title": "أداب المائدة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:35:54",
+      "release_date": "اليوم"
     },
     {
       "number": 39,
       "title": "The Return Of Senior Disciple Lee Hoo",
       "is_closed": false,
-      "total_images": 34
+      "total_images": 34,
+      "published_at": "2026-10-14 18:35:54",
+      "release_date": "اليوم"
     },
     {
       "number": 40,
       "title": "The Return Of Senior Disciple Lee Hoo",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-14 18:35:54",
+      "release_date": "اليوم"
     },
     {
       "number": 41,
       "title": "The Return Of Senior Disciple Lee Hoo",
       "is_closed": false,
-      "total_images": 41
+      "total_images": 41,
+      "published_at": "2026-10-14 18:35:54",
+      "release_date": "اليوم"
     }
   ]
 }

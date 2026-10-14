@@ -961,7 +961,7 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-10-06 10:24:58",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 119,
@@ -969,13 +969,15 @@
       "is_closed": false,
       "total_images": 10,
       "published_at": "2026-10-06 10:24:58",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 120,
       "title": "التداعيات",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:35:05",
+      "release_date": "اليوم"
     }
   ]
 }

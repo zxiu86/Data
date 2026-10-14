@@ -97,31 +97,41 @@
       "number": 11,
       "title": "مدرب الجحيم",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-10-14 18:36:08",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "مراقب",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-10-14 18:36:08",
+      "release_date": "اليوم"
     },
     {
       "number": 13,
       "title": "نزال ودي",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-10-14 18:36:08",
+      "release_date": "اليوم"
     },
     {
       "number": 14,
       "title": "Urban Dragon War",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:36:08",
+      "release_date": "اليوم"
     },
     {
       "number": 15,
       "title": "Urban Dragon War",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-14 18:36:08",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -880,19 +880,25 @@
       "number": 108,
       "title": "حَيَاةٌ اخْتَرْتُهَا",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-10-14 18:35:53",
+      "release_date": "اليوم"
     },
     {
       "number": 109,
       "title": "نَصْلُ السَّيِّدَةِ أَنِيت",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:35:53",
+      "release_date": "اليوم"
     },
     {
       "number": 110,
       "title": "صَفْقَةُ الحَيَاةِ الأَبَدِيَّة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:35:53",
+      "release_date": "اليوم"
     }
   ]
 }

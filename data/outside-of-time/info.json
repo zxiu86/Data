@@ -267,31 +267,41 @@
       "number": 32,
       "title": "معادٍ لطائفــــــة الماس",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:35:11",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "نحو طائفة عيــــــــون الدم السبعة",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-10-14 18:35:11",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "وحوش الغـــــــــــــرب",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-10-14 18:35:11",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "طـــــــاقــــةٌ شــــاذة",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-14 18:35:11",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "ذكرى فــــــــي الرفات",
       "is_closed": false,
-      "total_images": 9
+      "total_images": 9,
+      "published_at": "2026-10-14 18:35:11",
+      "release_date": "اليوم"
     }
   ]
 }

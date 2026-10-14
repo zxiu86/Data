@@ -7340,7 +7340,7 @@
       "is_closed": false,
       "total_images": 4,
       "published_at": "2026-10-06 10:24:20",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 917,
@@ -7348,7 +7348,7 @@
       "is_closed": false,
       "total_images": 4,
       "published_at": "2026-10-06 10:24:20",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 918,
@@ -7356,25 +7356,31 @@
       "is_closed": false,
       "total_images": 4,
       "published_at": "2026-10-06 10:24:20",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 919,
       "title": "شيطان على هيئة حمل!!",
       "is_closed": false,
-      "total_images": 4
+      "total_images": 4,
+      "published_at": "2026-10-14 18:34:24",
+      "release_date": "اليوم"
     },
     {
       "number": 920,
       "title": "العجوز الشيطاني يضرب من جديد!!",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-10-14 18:34:24",
+      "release_date": "اليوم"
     },
     {
       "number": 921,
       "title": "ملك السيف يطرق الباب!!",
       "is_closed": false,
-      "total_images": 5
+      "total_images": 5,
+      "published_at": "2026-10-14 18:34:24",
+      "release_date": "اليوم"
     }
   ]
 }

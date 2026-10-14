@@ -210,19 +210,25 @@
       "number": 25,
       "title": "The Calamity Prince Tames the Craziest Real-World Hero",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:35",
+      "release_date": "اليوم"
     },
     {
       "number": 26,
       "title": "الفصل 26",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:35",
+      "release_date": "اليوم"
     },
     {
       "number": 27,
       "title": "الفصل 27",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:35",
+      "release_date": "اليوم"
     }
   ]
 }

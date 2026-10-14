@@ -2862,19 +2862,25 @@
       "number": 356,
       "title": "حاكم القمر",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:35:23",
+      "release_date": "اليوم"
     },
     {
       "number": 357,
       "title": "تقارير كارين",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-10-14 18:35:23",
+      "release_date": "اليوم"
     },
     {
       "number": 358,
       "title": "تحدث إلي",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-10-14 18:35:23",
+      "release_date": "اليوم"
     }
   ]
 }

@@ -3372,19 +3372,25 @@
       "number": 420,
       "title": "كيف لي أن أستسلم؟",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:33:48",
+      "release_date": "اليوم"
     },
     {
       "number": 421,
       "title": "متلهف للمعركة",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:33:48",
+      "release_date": "اليوم"
     },
     {
       "number": 422,
       "title": "رائحة المعركة",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-10-14 18:33:48",
+      "release_date": "اليوم"
     }
   ]
 }

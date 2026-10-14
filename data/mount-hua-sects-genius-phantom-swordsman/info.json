@@ -674,13 +674,17 @@
       "number": 83,
       "title": "شعورٌ غامض",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:35:02",
+      "release_date": "اليوم"
     },
     {
       "number": 84,
       "title": "Mount Hua Sect's Genius Phantom Swordsman",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:02",
+      "release_date": "اليوم"
     }
   ]
 }

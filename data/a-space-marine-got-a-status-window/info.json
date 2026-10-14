@@ -78,19 +78,25 @@
       "number": 8,
       "title": "A Space Marine Got a Status Window",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:34:04",
+      "release_date": "اليوم"
     },
     {
       "number": 9,
       "title": "A Space Marine Got a Status Window",
       "is_closed": false,
-      "total_images": 6
+      "total_images": 6,
+      "published_at": "2026-10-14 18:34:04",
+      "release_date": "اليوم"
     },
     {
       "number": 10,
       "title": "A Space Marine Got a Status Window",
       "is_closed": false,
-      "total_images": 8
+      "total_images": 8,
+      "published_at": "2026-10-14 18:34:04",
+      "release_date": "اليوم"
     }
   ]
 }

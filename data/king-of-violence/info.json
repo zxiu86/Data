@@ -260,43 +260,57 @@
       "number": 31,
       "title": "تنانين بايكسان",
       "is_closed": false,
-      "total_images": 21
+      "total_images": 21,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     },
     {
       "number": 32,
       "title": "لا تدخل المزرعة",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     },
     {
       "number": 33,
       "title": "جو-آن",
       "is_closed": false,
-      "total_images": 18
+      "total_images": 18,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     },
     {
       "number": 34,
       "title": "سيونغ-وو",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     },
     {
       "number": 35,
       "title": "قوة القبضة",
       "is_closed": false,
-      "total_images": 15
+      "total_images": 15,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     },
     {
       "number": 36,
       "title": "الكولوسيوم",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     },
     {
       "number": 37,
       "title": "حقيقة النادي",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:34:53",
+      "release_date": "اليوم"
     }
   ]
 }

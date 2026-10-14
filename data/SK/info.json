@@ -2437,13 +2437,17 @@
       "number": 303,
       "title": "الرمز صفر",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:33:58",
+      "release_date": "اليوم"
     },
     {
       "number": 304,
       "title": "خط المواجهة",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:33:58",
+      "release_date": "اليوم"
     }
   ]
 }

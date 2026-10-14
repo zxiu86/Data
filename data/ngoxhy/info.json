@@ -1409,13 +1409,17 @@
       "number": 174,
       "title": "بداية أرك برج الرغبات",
       "is_closed": false,
-      "total_images": 14
+      "total_images": 14,
+      "published_at": "2026-10-14 18:35:07",
+      "release_date": "اليوم"
     },
     {
       "number": 175,
       "title": "بداية أرك برج الرغبات",
       "is_closed": false,
-      "total_images": 13
+      "total_images": 13,
+      "published_at": "2026-10-14 18:35:07",
+      "release_date": "اليوم"
     }
   ]
 }

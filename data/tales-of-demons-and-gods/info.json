@@ -4273,13 +4273,17 @@
       "number": 532,
       "title": "الحارس الحامي (1)",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-10-14 18:35:31",
+      "release_date": "اليوم"
     },
     {
       "number": 533,
       "title": "يد الإمبراطور المقدس (1)",
       "is_closed": false,
-      "total_images": 1
+      "total_images": 1,
+      "published_at": "2026-10-14 18:35:31",
+      "release_date": "اليوم"
     }
   ]
 }

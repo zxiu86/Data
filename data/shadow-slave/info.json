@@ -103,13 +103,17 @@
       "number": 11,
       "title": "Shadow Slave",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:23",
+      "release_date": "اليوم"
     },
     {
       "number": 12,
       "title": "Shadow Slave",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:23",
+      "release_date": "اليوم"
     }
   ]
 }

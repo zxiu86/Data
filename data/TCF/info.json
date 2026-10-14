@@ -1506,31 +1506,41 @@
       "number": 187,
       "title": "قبيلة الأسود",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:34:01",
+      "release_date": "اليوم"
     },
     {
       "number": 188,
       "title": "الغريم الأبدي للنار",
       "is_closed": false,
-      "total_images": 10
+      "total_images": 10,
+      "published_at": "2026-10-14 18:34:01",
+      "release_date": "اليوم"
     },
     {
       "number": 189,
       "title": "Trash Of The Count’S Family",
       "is_closed": false,
-      "total_images": 17
+      "total_images": 17,
+      "published_at": "2026-10-14 18:34:01",
+      "release_date": "اليوم"
     },
     {
       "number": 190,
       "title": "Trash Of The Count’S Family",
       "is_closed": false,
-      "total_images": 16
+      "total_images": 16,
+      "published_at": "2026-10-14 18:34:01",
+      "release_date": "اليوم"
     },
     {
       "number": 191,
       "title": "Trash Of The Count’S Family",
       "is_closed": false,
-      "total_images": 20
+      "total_images": 20,
+      "published_at": "2026-10-14 18:34:01",
+      "release_date": "اليوم"
     }
   ]
 }

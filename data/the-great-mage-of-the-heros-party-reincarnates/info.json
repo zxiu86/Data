@@ -1265,19 +1265,25 @@
       "number": 156,
       "title": "The Great Mage of the Hero’s Party Reincarnates",
       "is_closed": false,
-      "total_images": 38
+      "total_images": 38,
+      "published_at": "2026-10-14 18:35:42",
+      "release_date": "اليوم"
     },
     {
       "number": 157,
       "title": "The Great Mage of the Hero’s Party Reincarnates",
       "is_closed": false,
-      "total_images": 40
+      "total_images": 40,
+      "published_at": "2026-10-14 18:35:42",
+      "release_date": "اليوم"
     },
     {
       "number": 158,
       "title": "الفصل 158",
       "is_closed": true,
-      "total_images": 0
+      "total_images": 0,
+      "published_at": "2026-10-14 18:35:42",
+      "release_date": "اليوم"
     }
   ]
 }

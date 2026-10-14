@@ -1314,13 +1314,15 @@
       "is_closed": false,
       "total_images": 8,
       "published_at": "2026-10-06 10:23:43",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 163,
       "title": "الوغد المنتحل",
       "is_closed": false,
-      "total_images": 7
+      "total_images": 7,
+      "published_at": "2026-10-14 18:33:42",
+      "release_date": "اليوم"
     }
   ]
 }

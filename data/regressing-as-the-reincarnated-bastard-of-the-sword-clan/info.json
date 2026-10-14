@@ -926,19 +926,25 @@
       "number": 114,
       "title": "استفزاز",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:35:15",
+      "release_date": "اليوم"
     },
     {
       "number": 115,
       "title": "كشف الخداع",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:35:15",
+      "release_date": "اليوم"
     },
     {
       "number": 116,
       "title": "الخديعة والثمن",
       "is_closed": false,
-      "total_images": 12
+      "total_images": 12,
+      "published_at": "2026-10-14 18:35:15",
+      "release_date": "اليوم"
     }
   ]
 }

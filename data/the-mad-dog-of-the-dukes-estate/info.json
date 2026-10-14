@@ -640,13 +640,15 @@
       "is_closed": false,
       "total_images": 27,
       "published_at": "2026-10-06 10:25:37",
-      "release_date": "اليوم"
+      "release_date": "2026-10-06"
     },
     {
       "number": 79,
       "title": "العنوان الفارس الهارب",
       "is_closed": false,
-      "total_images": 11
+      "total_images": 11,
+      "published_at": "2026-10-14 18:35:46",
+      "release_date": "اليوم"
     }
   ]
 }
