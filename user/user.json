@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1791989184161
+    "updatedAt": 1791989225572
   },
   "users": {
     "zxiuzaid": {
@@ -26,6 +26,16 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 921,
+            "chapterTitle": "ملك السيف يطرق الباب!!",
+            "pageNumber": 1,
+            "totalPages": 5,
+            "timestamp": 1791989225558
+          },
+          {
             "mangaId": "my-dad-is-the-strongest-under-heaven",
             "mangaTitle": "My Dad Is the Strongest Under Heaven",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/d32cda06ce9ca096ac3ed26b9e91f67f.webp",
@@ -44,16 +54,6 @@
             "pageNumber": 5,
             "totalPages": 5,
             "timestamp": 1791719058571
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "Demonic Emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 920,
-            "chapterTitle": "العجوز الشيطاني يضرب من جديد!!",
-            "pageNumber": 5,
-            "totalPages": 5,
-            "timestamp": 1791718503901
           },
           {
             "mangaId": "villain-is-here",
@@ -166,7 +166,8 @@
             904,
             915,
             906,
-            917
+            917,
+            921
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -415,7 +416,7 @@
             32
           ]
         },
-        "lastSynced": 1791989184161
+        "lastSynced": 1791989225572
       }
     }
   }
