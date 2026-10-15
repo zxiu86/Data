@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792040664390
+    "updatedAt": 1792040841067
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
             "chapterNumber": 538,
             "chapterTitle": "538",
-            "pageNumber": 1,
+            "pageNumber": 4,
             "totalPages": 4,
-            "timestamp": 1792040664378
+            "timestamp": 1792040723215
           },
           {
             "mangaId": "villain-is-here",
@@ -401,7 +401,8 @@
             228,
             108,
             229,
-            109
+            109,
+            276
           ],
           "my-dad-is-the-strongest-under-heaven": [
             23,
@@ -419,7 +420,7 @@
             32
           ]
         },
-        "lastSynced": 1792040664390
+        "lastSynced": 1792040841067
       }
     }
   }
