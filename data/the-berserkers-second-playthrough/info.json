@@ -332,6 +332,24 @@
       "total_images": 0,
       "published_at": "2026-09-24 11:30:24",
       "release_date": "2026-09-24"
+    },
+    {
+      "number": 40,
+      "title": "The Berserker's Second Playthrough",
+      "is_closed": false,
+      "total_images": 26
+    },
+    {
+      "number": 41,
+      "title": "The Berserker's Second Playthrough",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 42,
+      "title": "The Berserker's Second Playthrough",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

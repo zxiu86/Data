@@ -367,6 +367,12 @@
       "total_images": 19,
       "published_at": "2026-09-19 11:47:07",
       "release_date": "2026-09-19"
+    },
+    {
+      "number": 45,
+      "title": "A Mountain of Corpses, A Sea of Blood",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
