@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792040578868
+    "updatedAt": 1792040664390
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "evolution-begins-with-a-big-tree",
+            "mangaTitle": "Evolution Begins With A Big Tree",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
+            "chapterNumber": 538,
+            "chapterTitle": "538",
+            "pageNumber": 1,
+            "totalPages": 4,
+            "timestamp": 1792040664378
+          },
           {
             "mangaId": "villain-is-here",
             "mangaTitle": "Villain Is Here",
@@ -74,16 +84,6 @@
             "pageNumber": 4,
             "totalPages": 6,
             "timestamp": 1791538265980
-          },
-          {
-            "mangaId": "evolution-begins-with-a-big-tree",
-            "mangaTitle": "Evolution Begins With A Big Tree",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
-            "chapterNumber": 535,
-            "chapterTitle": "535",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1791436574167
           },
           {
             "mangaId": "unlimited-bacterimancer",
@@ -173,7 +173,8 @@
           "evolution-begins-with-a-big-tree": [
             535,
             536,
-            537
+            537,
+            538
           ],
           "i-kidnapped-the-youngest-daughter-of-the-sichuan-tang-clan": [
             20
@@ -418,7 +419,7 @@
             32
           ]
         },
-        "lastSynced": 1792040578868
+        "lastSynced": 1792040664390
       }
     }
   }
