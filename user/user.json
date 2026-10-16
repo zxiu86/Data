@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792162041696
+    "updatedAt": 1792162048513
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "shadow-slave",
+            "mangaTitle": "Shadow Slave",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2eef94798d7df361f7265496bb4177ec.png",
+            "chapterNumber": 1,
+            "chapterTitle": "أنا المُصاب",
+            "pageNumber": 1,
+            "totalPages": 8,
+            "timestamp": 1792162048505
+          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
@@ -424,7 +434,7 @@
             1
           ]
         },
-        "lastSynced": 1792162041696
+        "lastSynced": 1792162048513
       }
     }
   }
