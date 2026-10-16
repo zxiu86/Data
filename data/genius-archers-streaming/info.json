@@ -904,6 +904,18 @@
       "total_images": 12,
       "published_at": "2026-09-25 10:46:00",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 112,
+      "title": "Genius Archer's Streaming",
+      "is_closed": false,
+      "total_images": 25
+    },
+    {
+      "number": 113,
+      "title": "جلسة التصوير",
+      "is_closed": false,
+      "total_images": 12
     }
   ]
 }

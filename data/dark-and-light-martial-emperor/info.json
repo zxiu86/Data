@@ -584,6 +584,12 @@
       "total_images": 10,
       "published_at": "2026-10-14 18:34:21",
       "release_date": "اليوم"
+    },
+    {
+      "number": 72,
+      "title": "مواجهة مباشرة",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }

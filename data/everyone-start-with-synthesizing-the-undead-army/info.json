@@ -196,6 +196,12 @@
       "title": "Everyone Start with Synthesizing the Undead Army",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 24,
+      "title": "Everyone Start with Synthesizing the Undead Army",
+      "is_closed": false,
+      "total_images": 24
     }
   ]
 }

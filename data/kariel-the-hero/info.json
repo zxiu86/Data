@@ -359,6 +359,54 @@
       "total_images": 0,
       "published_at": "2026-09-28 14:50:28",
       "release_date": "2026-09-28"
+    },
+    {
+      "number": 44,
+      "title": "قتال السيف المقدس 2",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 45,
+      "title": "السيف المقدس 3",
+      "is_closed": false,
+      "total_images": 5
+    },
+    {
+      "number": 46,
+      "title": "السيف المقدس 4",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 47,
+      "title": "السيف المقدس 5",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 48,
+      "title": "السيف المقدس 6",
+      "is_closed": false,
+      "total_images": 7
+    },
+    {
+      "number": 49,
+      "title": "السيف المقدس كلاديس",
+      "is_closed": false,
+      "total_images": 9
+    },
+    {
+      "number": 50,
+      "title": "Kariel the Hero",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 51,
+      "title": "Kariel the Hero",
+      "is_closed": false,
+      "total_images": 24
     }
   ]
 }

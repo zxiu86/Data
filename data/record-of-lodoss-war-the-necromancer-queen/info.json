@@ -168,6 +168,30 @@
       "total_images": 0,
       "published_at": "2026-10-14 18:35:14",
       "release_date": "اليوم"
+    },
+    {
+      "number": 20,
+      "title": "Record of Lodoss War: The Necromancer Queen",
+      "is_closed": false,
+      "total_images": 24
+    },
+    {
+      "number": 21,
+      "title": "Record of Lodoss War: The Necromancer Queen",
+      "is_closed": false,
+      "total_images": 18
+    },
+    {
+      "number": 22,
+      "title": "Record of Lodoss War: The Necromancer Queen",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 23,
+      "title": "Record of Lodoss War: The Necromancer Queen",
+      "is_closed": false,
+      "total_images": 16
     }
   ]
 }
