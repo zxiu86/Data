@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792160841778
+    "updatedAt": 1792161813195
   },
   "users": {
     "zxiuzaid": {
@@ -25,6 +25,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 921,
+            "chapterTitle": "ملك السيف يطرق الباب!!",
+            "pageNumber": 5,
+            "totalPages": 5,
+            "timestamp": 1792161813182
+          },
           {
             "mangaId": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
             "mangaTitle": "Top Tier Providence-Secretly Cultivate for a Thousand Years",
@@ -54,16 +64,6 @@
             "pageNumber": 1,
             "totalPages": 6,
             "timestamp": 1791989624944
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "Demonic Emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 921,
-            "chapterTitle": "ملك السيف يطرق الباب!!",
-            "pageNumber": 5,
-            "totalPages": 5,
-            "timestamp": 1791989450575
           },
           {
             "mangaId": "my-dad-is-the-strongest-under-heaven",
@@ -168,7 +168,8 @@
             904,
             915,
             906,
-            917
+            917,
+            922
           ],
           "evolution-begins-with-a-big-tree": [
             535,
@@ -420,7 +421,7 @@
             32
           ]
         },
-        "lastSynced": 1792160841778
+        "lastSynced": 1792161813195
       }
     }
   }
