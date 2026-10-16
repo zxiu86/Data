@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792166830052
+    "updatedAt": 1792166921396
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "أين أنا؟",
             "pageNumber": 5,
             "totalPages": 11,
-            "timestamp": 1792162803052
+            "timestamp": 1792166921384
           },
           {
             "mangaId": "demonic-emperor",
@@ -435,7 +435,7 @@
             32
           ]
         },
-        "lastSynced": 1792166830052
+        "lastSynced": 1792166921396
       }
     }
   }
