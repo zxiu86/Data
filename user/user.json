@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792167227522
+    "updatedAt": 1792167436795
   },
   "users": {
     "zxiuzaid": {
@@ -29,11 +29,11 @@
             "mangaId": "shadow-slave",
             "mangaTitle": "Shadow Slave",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2eef94798d7df361f7265496bb4177ec.png",
-            "chapterNumber": 3,
-            "chapterTitle": "خيوط القدر",
+            "chapterNumber": 4,
+            "chapterTitle": "اليرقات",
             "pageNumber": 1,
             "totalPages": 6,
-            "timestamp": 1792167227510
+            "timestamp": 1792167436783
           },
           {
             "mangaId": "demonic-emperor",
@@ -418,7 +418,8 @@
           "shadow-slave": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "my-dad-is-the-strongest-under-heaven": [
             23,
@@ -436,7 +437,7 @@
             32
           ]
         },
-        "lastSynced": 1792167227522
+        "lastSynced": 1792167436795
       }
     }
   }
