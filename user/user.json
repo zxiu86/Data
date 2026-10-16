@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792167823575
+    "updatedAt": 1792174535168
   },
   "users": {
     "zxiuzaid": {
@@ -31,9 +31,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/2eef94798d7df361f7265496bb4177ec.png",
             "chapterNumber": 6,
             "chapterTitle": "خطة النجاة",
-            "pageNumber": 1,
+            "pageNumber": 7,
             "totalPages": 7,
-            "timestamp": 1792167823563
+            "timestamp": 1792167919071
           },
           {
             "mangaId": "demonic-emperor",
@@ -439,7 +439,7 @@
             32
           ]
         },
-        "lastSynced": 1792167823575
+        "lastSynced": 1792174535168
       }
     }
   }
