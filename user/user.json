@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1790179631951,
-    "updatedAt": 1792048846869
+    "updatedAt": 1792160691523
   },
   "users": {
     "zxiuzaid": {
@@ -33,7 +33,7 @@
             "chapterTitle": "هجوم القديسان الشيطانيان",
             "pageNumber": 3,
             "totalPages": 7,
-            "timestamp": 1792040906893
+            "timestamp": 1792048848863
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -420,7 +420,7 @@
             32
           ]
         },
-        "lastSynced": 1792048846869
+        "lastSynced": 1792160691523
       }
     }
   }
