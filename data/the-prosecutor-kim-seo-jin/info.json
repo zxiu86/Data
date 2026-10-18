@@ -405,6 +405,12 @@
       "total_images": 0,
       "published_at": "2026-10-14 18:35:51",
       "release_date": "اليوم"
+    },
+    {
+      "number": 50,
+      "title": "The Prosecutor: Kim Seo-jin",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

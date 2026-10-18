@@ -1870,6 +1870,30 @@
       "title": "The Long Way Of The Warrior",
       "is_closed": false,
       "total_images": 37
+    },
+    {
+      "number": 234,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 235,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 236,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": false,
+      "total_images": 23
+    },
+    {
+      "number": 237,
+      "title": "The Long Way Of The Warrior",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

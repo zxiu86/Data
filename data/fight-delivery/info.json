@@ -229,6 +229,12 @@
       "total_images": 19,
       "published_at": "2026-10-14 18:34:31",
       "release_date": "اليوم"
+    },
+    {
+      "number": 28,
+      "title": "Fight Delivery",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

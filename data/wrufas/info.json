@@ -1408,6 +1408,12 @@
       "total_images": 0,
       "published_at": "2026-10-14 18:36:15",
       "release_date": "اليوم"
+    },
+    {
+      "number": 175,
+      "title": "The Hero Returns",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

@@ -972,6 +972,12 @@
       "title": "Lu Bu's Life Simulator",
       "is_closed": false,
       "total_images": 34
+    },
+    {
+      "number": 121,
+      "title": "Lu Bu's Life Simulator",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

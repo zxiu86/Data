@@ -712,6 +712,66 @@
       "total_images": 11,
       "published_at": "2026-09-25 10:46:00",
       "release_date": "2026-09-25"
+    },
+    {
+      "number": 88,
+      "title": "زيارتك الثانية",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 89,
+      "title": "كلمات فيرونيكا",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 90,
+      "title": "حلقاتي",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 91,
+      "title": "لنتواعد",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 92,
+      "title": "طلب ب طلب",
+      "is_closed": false,
+      "total_images": 14
+    },
+    {
+      "number": 93,
+      "title": "هذا قدركم",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 94,
+      "title": "منشور",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 95,
+      "title": "مجرة؟",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 96,
+      "title": "Genius Prismatic Mage",
+      "is_closed": true,
+      "total_images": 0
+    },
+    {
+      "number": 97,
+      "title": "Genius Prismatic Mage",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

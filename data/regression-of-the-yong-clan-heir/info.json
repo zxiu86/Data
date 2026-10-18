@@ -505,6 +505,18 @@
       "total_images": 13,
       "published_at": "2026-10-14 18:35:15",
       "release_date": "اليوم"
+    },
+    {
+      "number": 62,
+      "title": "القتال",
+      "is_closed": false,
+      "total_images": 17
+    },
+    {
+      "number": 63,
+      "title": "الهروب",
+      "is_closed": false,
+      "total_images": 16
     }
   ]
 }

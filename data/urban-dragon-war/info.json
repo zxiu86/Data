@@ -132,6 +132,12 @@
       "total_images": 9,
       "published_at": "2026-10-14 18:36:08",
       "release_date": "اليوم"
+    },
+    {
+      "number": 16,
+      "title": "Urban Dragon War",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }

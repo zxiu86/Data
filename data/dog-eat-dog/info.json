@@ -59,6 +59,12 @@
       "total_images": 6,
       "published_at": "2026-10-14 18:34:27",
       "release_date": "اليوم"
+    },
+    {
+      "number": 7,
+      "title": "Dog Eat Dog",
+      "is_closed": true,
+      "total_images": 0
     }
   ]
 }
