@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792337198716,
-    "updatedAt": 1792354569308
+    "updatedAt": 1792355720446
   },
   "users": {
     "zxiuzaid": {
@@ -20,6 +20,16 @@
         "favorites": [],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "villain-is-here",
+            "mangaTitle": "Villain Is Here",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
+            "chapterNumber": 362,
+            "chapterTitle": "التطور...!!",
+            "pageNumber": 1,
+            "totalPages": 6,
+            "timestamp": 1792354575822
+          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
@@ -57,23 +67,23 @@
             2,
             3
           ],
+          "villain-is-here": [
+            362
+          ],
           "demonic-emperor": [
             1,
             2,
             3,
-            904,
-            906,
             923,
-            924
+            924,
+            904,
+            906
           ],
           "evolution-begins-with-a-big-tree": [
             538
-          ],
-          "villain-is-here": [
-            362
           ]
         },
-        "lastSynced": 1792354569308
+        "lastSynced": 1792355720446
       }
     }
   }
