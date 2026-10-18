@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792337198716,
-    "updatedAt": 1792353837911
+    "updatedAt": 1792354240115
   },
   "users": {
     "zxiuzaid": {
@@ -24,11 +24,11 @@
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 923,
-            "chapterTitle": "السيف المقدس!!!",
+            "chapterNumber": 924,
+            "chapterTitle": "قوة الأسلحة الأسطورية الخمس!!",
             "pageNumber": 1,
-            "totalPages": 6,
-            "timestamp": 1792353837900
+            "totalPages": 5,
+            "timestamp": 1792354240103
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -63,13 +63,14 @@
             3,
             904,
             906,
-            923
+            923,
+            924
           ],
           "evolution-begins-with-a-big-tree": [
             538
           ]
         },
-        "lastSynced": 1792353837911
+        "lastSynced": 1792354240115
       }
     }
   }
