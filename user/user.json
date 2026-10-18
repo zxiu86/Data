@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792337198716,
-    "updatedAt": 1792354240115
+    "updatedAt": 1792354569308
   },
   "users": {
     "zxiuzaid": {
@@ -26,9 +26,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
             "chapterNumber": 924,
             "chapterTitle": "قوة الأسلحة الأسطورية الخمس!!",
-            "pageNumber": 1,
+            "pageNumber": 5,
             "totalPages": 5,
-            "timestamp": 1792354240103
+            "timestamp": 1792354405117
           },
           {
             "mangaId": "evolution-begins-with-a-big-tree",
@@ -68,9 +68,12 @@
           ],
           "evolution-begins-with-a-big-tree": [
             538
+          ],
+          "villain-is-here": [
+            362
           ]
         },
-        "lastSynced": 1792354240115
+        "lastSynced": 1792354569308
       }
     }
   }
