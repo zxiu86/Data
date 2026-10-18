@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792337198716,
-    "updatedAt": 1792353736388
+    "updatedAt": 1792353837911
   },
   "users": {
     "zxiuzaid": {
@@ -21,6 +21,16 @@
         "readLater": [],
         "history": [
           {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 923,
+            "chapterTitle": "السيف المقدس!!!",
+            "pageNumber": 1,
+            "totalPages": 6,
+            "timestamp": 1792353837900
+          },
+          {
             "mangaId": "evolution-begins-with-a-big-tree",
             "mangaTitle": "Evolution Begins With A Big Tree",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
@@ -29,16 +39,6 @@
             "pageNumber": 4,
             "totalPages": 4,
             "timestamp": 1792341062651
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "demonic-emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 906,
-            "chapterTitle": "ملامح الخيبة والانكسار!!",
-            "pageNumber": 2,
-            "totalPages": 4,
-            "timestamp": 1788665948431
           },
           {
             "mangaId": "mharaty-alkamn-la-tkhr",
@@ -62,13 +62,14 @@
             2,
             3,
             904,
-            906
+            906,
+            923
           ],
           "evolution-begins-with-a-big-tree": [
             538
           ]
         },
-        "lastSynced": 1792353736388
+        "lastSynced": 1792353837911
       }
     }
   }
