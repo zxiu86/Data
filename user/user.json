@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792337198716,
-    "updatedAt": 1792341040531
+    "updatedAt": 1792353659968
   },
   "users": {
     "zxiuzaid": {
@@ -20,6 +20,16 @@
         "favorites": [],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "evolution-begins-with-a-big-tree",
+            "mangaTitle": "Evolution Begins With A Big Tree",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
+            "chapterNumber": 538,
+            "chapterTitle": "538",
+            "pageNumber": 4,
+            "totalPages": 4,
+            "timestamp": 1792341062651
+          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "demonic-emperor",
@@ -58,7 +68,7 @@
             538
           ]
         },
-        "lastSynced": 1792341040531
+        "lastSynced": 1792353659967
       }
     }
   }
