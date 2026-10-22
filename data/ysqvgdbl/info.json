@@ -2354,6 +2354,12 @@
       "total_images": 0,
       "published_at": "2026-10-14 18:36:18",
       "release_date": "اليوم"
+    },
+    {
+      "number": 293,
+      "title": "The Tutorial Is Too Hard",
+      "is_closed": false,
+      "total_images": 29
     }
   ]
 }

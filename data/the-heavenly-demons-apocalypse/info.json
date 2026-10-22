@@ -123,6 +123,12 @@
       "title": "The Heavenly Demon’s Apocalypse",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 15,
+      "title": "The Heavenly Demon’s Apocalypse",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

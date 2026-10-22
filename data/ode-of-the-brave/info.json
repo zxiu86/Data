@@ -100,6 +100,12 @@
       "total_images": 0,
       "published_at": "2026-10-14 18:35:09",
       "release_date": "اليوم"
+    },
+    {
+      "number": 12,
+      "title": "Ode of the Brave",
+      "is_closed": false,
+      "total_images": 10
     }
   ]
 }

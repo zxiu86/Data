@@ -213,6 +213,12 @@
       "title": "The Seventh Prince Wants to Bail",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 26,
+      "title": "The Seventh Prince Wants to Bail",
+      "is_closed": false,
+      "total_images": 24
     }
   ]
 }

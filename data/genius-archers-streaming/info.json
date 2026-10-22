@@ -916,6 +916,12 @@
       "title": "جلسة التصوير",
       "is_closed": false,
       "total_images": 12
+    },
+    {
+      "number": 114,
+      "title": "كواليس الشهرة",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

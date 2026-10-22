@@ -100,6 +100,12 @@
       "total_images": 12,
       "published_at": "2026-10-14 18:35:34",
       "release_date": "اليوم"
+    },
+    {
+      "number": 12,
+      "title": "the blood demon chronicles",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }

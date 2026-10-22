@@ -4605,6 +4605,18 @@
       "total_images": 0,
       "published_at": "2026-10-14 18:35:38",
       "release_date": "اليوم"
+    },
+    {
+      "number": 575,
+      "title": "العودة لمدينة القمر الأحمر.",
+      "is_closed": false,
+      "total_images": 8
+    },
+    {
+      "number": 576,
+      "title": "The Eternal Supreme",
+      "is_closed": false,
+      "total_images": 40
     }
   ]
 }

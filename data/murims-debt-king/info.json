@@ -187,6 +187,12 @@
       "title": "Murim’s Debt King",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 23,
+      "title": "Murim’s Debt King",
+      "is_closed": false,
+      "total_images": 20
     }
   ]
 }

@@ -120,6 +120,12 @@
       "title": "Shadow Slave",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 14,
+      "title": "Shadow Slave",
+      "is_closed": false,
+      "total_images": 8
     }
   ]
 }

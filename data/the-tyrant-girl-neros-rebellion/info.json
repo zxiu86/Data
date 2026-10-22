@@ -102,6 +102,24 @@
       "total_images": 7,
       "published_at": "2026-09-28 14:51:48",
       "release_date": "2026-09-28"
+    },
+    {
+      "number": 12,
+      "title": "الكولوسيوم الحديث",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 13,
+      "title": "تسونامي الارض",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 14,
+      "title": "The Tyrant Girl Nero's Rebellion",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

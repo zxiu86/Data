@@ -1248,6 +1248,12 @@
       "title": "The Constellations Are My Disciples",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 156,
+      "title": "The Constellations Are My Disciples",
+      "is_closed": false,
+      "total_images": 35
     }
   ]
 }

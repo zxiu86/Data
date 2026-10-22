@@ -772,6 +772,12 @@
       "title": "Genius Prismatic Mage",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 98,
+      "title": "Genius Prismatic Mage",
+      "is_closed": false,
+      "total_images": 40
     }
   ]
 }

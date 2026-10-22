@@ -342,6 +342,36 @@
       "total_images": 9,
       "published_at": "2026-09-14 01:20:48",
       "release_date": "2026-09-14"
+    },
+    {
+      "number": 42,
+      "title": "42",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 43,
+      "title": "43",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 44,
+      "title": "44",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 45,
+      "title": "45",
+      "is_closed": false,
+      "total_images": 3
+    },
+    {
+      "number": 46,
+      "title": "46",
+      "is_closed": false,
+      "total_images": 2
     }
   ]
 }
