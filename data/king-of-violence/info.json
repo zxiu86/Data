@@ -371,6 +371,24 @@
       "title": "صفارة الوعد",
       "is_closed": false,
       "total_images": 15
+    },
+    {
+      "number": 48,
+      "title": "مصير يونغ-هو",
+      "is_closed": false,
+      "total_images": 15
+    },
+    {
+      "number": 49,
+      "title": "كولوسيوم الأخوية",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 50,
+      "title": "King of Violence",
+      "is_closed": false,
+      "total_images": 29
     }
   ]
 }

@@ -426,6 +426,18 @@
       "title": "الخطة المثالية",
       "is_closed": false,
       "total_images": 16
+    },
+    {
+      "number": 52,
+      "title": "نهاية الخطة",
+      "is_closed": false,
+      "total_images": 16
+    },
+    {
+      "number": 53,
+      "title": "إنجاز سيُخلّده التاريخ",
+      "is_closed": false,
+      "total_images": 15
     }
   ]
 }

@@ -276,6 +276,12 @@
       "title": "My Dad Is the Strongest Under Heaven",
       "is_closed": true,
       "total_images": 0
+    },
+    {
+      "number": 34,
+      "title": "My Dad Is the Strongest Under Heaven",
+      "is_closed": false,
+      "total_images": 26
     }
   ]
 }

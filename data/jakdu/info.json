@@ -378,6 +378,36 @@
       "title": "مجموعة من شخص أو ثلاثة",
       "is_closed": false,
       "total_images": 10
+    },
+    {
+      "number": 47,
+      "title": "ماء يطفو فوق الزيت",
+      "is_closed": false,
+      "total_images": 11
+    },
+    {
+      "number": 48,
+      "title": "عزيمة صلبة",
+      "is_closed": false,
+      "total_images": 12
+    },
+    {
+      "number": 49,
+      "title": "تقدم وتراجع",
+      "is_closed": false,
+      "total_images": 10
+    },
+    {
+      "number": 50,
+      "title": "50- أوه، شين وسول",
+      "is_closed": false,
+      "total_images": 13
+    },
+    {
+      "number": 51,
+      "title": "جبل التنين الأبيض",
+      "is_closed": false,
+      "total_images": 11
     }
   ]
 }
