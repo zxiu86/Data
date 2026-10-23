@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792413098264,
-    "updatedAt": 1792786072390
+    "updatedAt": 1792786418075
   },
   "users": {
     "zxiuzaid": {
@@ -22,6 +22,26 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "ECD",
+            "mangaTitle": "Eleceed",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/17666987771409026756.jpg",
+            "chapterNumber": 423,
+            "chapterTitle": "الحلقة الأضعف",
+            "pageNumber": 12,
+            "totalPages": 12,
+            "timestamp": 1792786266866
+          },
+          {
+            "mangaId": "unlimited-bacterimancer",
+            "mangaTitle": "Unlimited Bacterimancer",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/08eeafc781e46f2223140eaa72f197a6.jpg",
+            "chapterNumber": 17,
+            "chapterTitle": "Unlimited Bacterimancer",
+            "pageNumber": 3,
+            "totalPages": 14,
+            "timestamp": 1792786117630
+          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
@@ -44,10 +64,16 @@
           }
         ],
         "readChapters": {
+          "ECD": [
+            423
+          ],
           "mharaty-alkamn-la-tkhr": [
             1,
             2,
             3
+          ],
+          "unlimited-bacterimancer": [
+            17
           ],
           "demonic-emperor": [
             1,
@@ -58,7 +84,7 @@
             906
           ]
         },
-        "lastSynced": 1792786072390
+        "lastSynced": 1792786418075
       }
     }
   }
