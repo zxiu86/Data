@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792413098264,
-    "updatedAt": 1792786510016
+    "updatedAt": 1792786516651
   },
   "users": {
     "zxiuzaid": {
@@ -22,6 +22,16 @@
         ],
         "readLater": [],
         "history": [
+          {
+            "mangaId": "demonic-emperor",
+            "mangaTitle": "Demonic Emperor",
+            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
+            "chapterNumber": 925,
+            "chapterTitle": "التحرك نحو العاصمة...!!",
+            "pageNumber": 1,
+            "totalPages": 5,
+            "timestamp": 1792786516647
+          },
           {
             "mangaId": "ECD",
             "mangaTitle": "Eleceed",
@@ -41,16 +51,6 @@
             "pageNumber": 3,
             "totalPages": 14,
             "timestamp": 1792786117630
-          },
-          {
-            "mangaId": "demonic-emperor",
-            "mangaTitle": "Demonic Emperor",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
-            "chapterNumber": 924,
-            "chapterTitle": "قوة الأسلحة الأسطورية الخمس!!",
-            "pageNumber": 2,
-            "totalPages": 5,
-            "timestamp": 1792694547868
           },
           {
             "mangaId": "mharaty-alkamn-la-tkhr",
@@ -85,7 +85,7 @@
             925
           ]
         },
-        "lastSynced": 1792786510016
+        "lastSynced": 1792786516651
       }
     }
   }
