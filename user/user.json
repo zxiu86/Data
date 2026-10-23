@@ -3,8 +3,8 @@
     "app": "Nexus Manga",
     "version": "2.0.1",
     "format": "nexus_user_database",
-    "createdAt": 1792337198716,
-    "updatedAt": 1792355720446
+    "createdAt": 1792413098264,
+    "updatedAt": 1792786072390
   },
   "users": {
     "zxiuzaid": {
@@ -15,40 +15,22 @@
       "salt": "nexus_admin_salt_2026",
       "passHash": "dabe80201f52cc57ddd29a1be9bef2bfdd47c1bceb32361b5ba04f55a21ed71a",
       "isAdmin": true,
-      "createdAt": 1792337198718,
+      "createdAt": 1792413098265,
       "data": {
-        "favorites": [],
+        "favorites": [
+          "top-tier-providence-secretly-cultivate-for-a-thousand-years"
+        ],
         "readLater": [],
         "history": [
-          {
-            "mangaId": "villain-is-here",
-            "mangaTitle": "Villain Is Here",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/e2f00d25b7f992ab0a0b7b2dde3f5ac3.jpg",
-            "chapterNumber": 362,
-            "chapterTitle": "التطور...!!",
-            "pageNumber": 1,
-            "totalPages": 6,
-            "timestamp": 1792354575822
-          },
           {
             "mangaId": "demonic-emperor",
             "mangaTitle": "Demonic Emperor",
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
             "chapterNumber": 924,
             "chapterTitle": "قوة الأسلحة الأسطورية الخمس!!",
-            "pageNumber": 5,
+            "pageNumber": 2,
             "totalPages": 5,
-            "timestamp": 1792354405117
-          },
-          {
-            "mangaId": "evolution-begins-with-a-big-tree",
-            "mangaTitle": "Evolution Begins With A Big Tree",
-            "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/4950266841188729110.jpeg",
-            "chapterNumber": 538,
-            "chapterTitle": "538",
-            "pageNumber": 4,
-            "totalPages": 4,
-            "timestamp": 1792341062651
+            "timestamp": 1792694547868
           },
           {
             "mangaId": "mharaty-alkamn-la-tkhr",
@@ -67,23 +49,16 @@
             2,
             3
           ],
-          "villain-is-here": [
-            362
-          ],
           "demonic-emperor": [
             1,
             2,
             3,
-            923,
             924,
             904,
             906
-          ],
-          "evolution-begins-with-a-big-tree": [
-            538
           ]
         },
-        "lastSynced": 1792355720446
+        "lastSynced": 1792786072390
       }
     }
   }
