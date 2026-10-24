@@ -4,7 +4,7 @@
     "version": "2.0.1",
     "format": "nexus_user_database",
     "createdAt": 1792413098264,
-    "updatedAt": 1792786516651
+    "updatedAt": 1792830838182
   },
   "users": {
     "zxiuzaid": {
@@ -28,9 +28,9 @@
             "mangaCover": "https:\/\/olympustaff.com\/images\/manga\/11809d13c563e62b8f74fea18dbe2417.jpg",
             "chapterNumber": 925,
             "chapterTitle": "التحرك نحو العاصمة...!!",
-            "pageNumber": 1,
+            "pageNumber": 3,
             "totalPages": 5,
-            "timestamp": 1792786516647
+            "timestamp": 1792786618232
           },
           {
             "mangaId": "ECD",
@@ -80,12 +80,12 @@
             2,
             3,
             924,
+            925,
             904,
-            906,
-            925
+            906
           ]
         },
-        "lastSynced": 1792786516651
+        "lastSynced": 1792830838182
       }
     }
   }
